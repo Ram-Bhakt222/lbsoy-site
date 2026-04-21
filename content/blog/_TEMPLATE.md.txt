@@ -1,0 +1,49 @@
+---
+title: "Long Beach Wellness This Week: [Month Day, Year]"
+description: "[One-sentence hook: what's happening in Long Beach wellness this week and why readers should care. Include primary keyword.]"
+date: "YYYY-MM-DD"
+tag: "Long Beach Events"
+author: "Long Beach School of Yoga"
+keywords:
+  - "long beach wellness events"
+  - "long beach yoga events"
+  - "[event name] long beach"
+  - "[neighborhood] wellness"
+city: "Long Beach"
+coverImage: "/blog/covers/YYYY-MM-DD-slug.jpg"
+---
+
+## This Week in Long Beach Wellness
+
+Short intro paragraph grounding readers in the season and what's happening across Long Beach wellness spaces (yoga, running, surfing, farmers markets, community events, etc.).
+
+## Featured Events
+
+### [Event Name]
+
+**When:** [Date, Time]
+**Where:** [Venue, Neighborhood (e.g. Belmont Shore, Signal Hill)]
+**Cost:** [Free / $X]
+
+Description in 2–3 sentences. What is it, who is it for, why does it matter for wellness-minded Long Beach locals.
+
+[More events repeated in the same pattern. Aim for 4–6 events.]
+
+## Corporate Wellness Tie-In
+
+One paragraph connecting the week's events to Long Beach employers. Example: "If your Long Beach team liked the [event], here's how to bring a similar experience in-house — partner with [My Yoga Network](https://myyoganetwork.com/corporate-wellness-programs) for onsite or virtual programming designed for HR and benefits teams."
+
+## About Long Beach School of Yoga
+
+LBSOY is Long Beach's hub for yoga therapy and corporate wellness, powered by the My Yoga Network marketplace of IAYT-credentialed yoga therapists. Looking for a corporate wellness program for your Long Beach office? [Start with a free consultation](/free-consultation).
+
+---
+
+> **Author instructions for the weekly agent**
+>
+> - Keep total length 800–1,200 words.
+> - Always include at least one link to `https://myyoganetwork.com/corporate-wellness-programs` and one internal link to `/yoga-therapy` or `/corporate-wellness`.
+> - Weave "Long Beach" + one neighborhood name (Belmont Shore, Signal Hill, Bixby Knolls, Naples Island, Downtown Long Beach, East Village) into H2/H3 subheads.
+> - Use real events from the next 7–10 days. If no confirmed events, use evergreen wellness angles (seasonal health, local practitioner profile, community recap).
+> - Do not mix "yoga teacher" vocabulary with "yoga therapist" in the same sentence — see the myn.com CLAUDE.md vocabulary rule.
+> - End with this "About LBSOY" section verbatim.

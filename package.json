@@ -1,0 +1,30 @@
+{
+  "name": "lbsoy-site",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Long Beach School of Yoga — local wellness SEO engine that funnels traffic to myyoganetwork.com",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@vercel/speed-insights": "^1.2.0",
+    "gray-matter": "^4.0.3",
+    "next": "^16.1.6",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "remark": "^15.0.1",
+    "remark-gfm": "^4.0.1",
+    "remark-html": "^16.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.0",
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "eslint": "^9.28.0",
+    "eslint-config-next": "^16.1.6",
+    "typescript": "^5.4.5"
+  }
+}
