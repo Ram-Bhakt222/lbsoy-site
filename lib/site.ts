@@ -42,9 +42,9 @@ export const siteConfig = {
   nav: [
     { label: "About", href: "/about" },
     { label: "Yoga Therapy", href: "/yoga-therapy" },
+    { label: "Courses", href: "/courses" },
     { label: "Corporate Wellness", href: "/corporate-wellness" },
     { label: "For Hotels", href: "/hotel-wellness" },
-    { label: "Community", href: "/community" },
     { label: "Blog", href: "/blog" },
   ],
 
@@ -61,6 +61,7 @@ export const siteConfig = {
     company: [
       { label: "About", href: "/about" },
       { label: "Services", href: "/services" },
+      { label: "Courses", href: "/courses" },
       { label: "Online Courses", href: "/online-courses" },
       { label: "Blog", href: "/blog" },
       { label: "Contact", href: "/contact" },
