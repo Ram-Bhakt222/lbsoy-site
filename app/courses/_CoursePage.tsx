@@ -263,7 +263,7 @@ export function CoursePage({ data }: { data: CoursePageData }) {
                   <span>E-RYT 500</span>
                   <span>Registered Yoga Therapist</span>
                   <span>Yoga Alliance Certified</span>
-                  <span>10+ Years in Long Beach</span>
+                  <span>14+ Years in Long Beach</span>
                 </div>
               </div>
             </div>

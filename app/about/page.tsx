@@ -191,12 +191,12 @@ const PAGE_HTML = String.raw`<!-- Navigation -->
         <div class="about-content">
           <span class="section-label">Our Story</span>
           <h2>From Teaching to Healing</h2>
-          <p>Long Beach School of Yoga started in 2014 as a vision to create an immersive yoga teacher training program grounded in both classical yoga philosophy and modern clinical science. What began as a teacher training school has evolved into something much bigger: Long Beach's most trusted wellness hub.</p>
+          <p>Long Beach School of Yoga started in 2012 as a vision to create an immersive yoga teacher training program grounded in both classical yoga philosophy and modern clinical science. What began as a teacher training school has evolved into something much bigger: Long Beach's most trusted wellness hub.</p>
           <p>Today, we serve three interconnected communities. Our 99+ certified graduates practice across the country, bringing yoga therapy to hospitals, schools, hotels, and corporate offices. Our individual clients experience personalized healing through one-on-one yoga therapy. And our corporate partners integrate wellness into their workplace culture.</p>
           <p>We're not just a yoga school. We're the connective tissue of Long Beach's wellness ecosystem&mdash;linking people with practitioners, training the next generation of healers, and directly serving those ready to experience yoga's transformative power.</p>
           <p style="margin-top: 28px;"><strong>The My Yoga Network Connection:</strong> We're proud partners in My Yoga Network, amplifying our reach and helping local yoga practitioners build sustainable practices while serving their communities.</p>
           <div class="credential-list" style="margin-top: 32px;">
-            <span class="credential">Founded 2014</span>
+            <span class="credential">Founded 2012</span>
             <span class="credential">E-RYT 500 Certified</span>
             <span class="credential">Yoga Alliance Certified</span>
             <span class="credential">My Yoga Network Partner</span>
@@ -231,7 +231,7 @@ const PAGE_HTML = String.raw`<!-- Navigation -->
                 <span>Clinical & therapeutic practice</span>
               </div>
               <div class="credential-badge">
-                <strong>10+ Years Experience</strong>
+                <strong>14+ Years Experience</strong>
                 <span>Teaching and practice</span>
               </div>
               <div class="credential-badge">
@@ -298,7 +298,7 @@ const PAGE_HTML = String.raw`<!-- Navigation -->
         <div class="timeline-items">
           <div class="timeline-item">
             <div class="timeline-dot"></div>
-            <div class="timeline-year">2014</div>
+            <div class="timeline-year">2012</div>
             <div class="timeline-title">LBSOY Founded</div>
             <div class="timeline-description">Ram Bhakt launches Long Beach School of Yoga with a mission to blend classical yoga philosophy with clinical science.</div>
           </div>
@@ -384,14 +384,14 @@ const PAGE_SCHEMA = {
       "name": "Long Beach School of Yoga",
       "url": "https://longbeachschoolofyoga.com"
     },
-    "email": "info@lbsoy.com",
+    "email": "longbeachschoolofyoga@gmail.com",
     "address": {
       "@type": "PostalAddress",
       "addressLocality": "Long Beach",
       "addressRegion": "CA",
       "addressCountry": "US"
     },
-    "description": "E-RYT 500 Yoga Alliance certified instructor and yoga therapist with 10+ years of experience. Founder of Long Beach School of Yoga, leading provider of yoga therapy and corporate wellness programs in Long Beach.",
+    "description": "E-RYT 500 Yoga Alliance certified instructor and yoga therapist with 14+ years of experience. Founder of Long Beach School of Yoga, leading provider of yoga therapy and corporate wellness programs in Long Beach.",
     "knowsAbout": ["Yoga Therapy", "Corporate Wellness", "Yoga Teacher Training", "Yoga Alliance", "Clinical Yoga"],
     "hasCredential": [
       {

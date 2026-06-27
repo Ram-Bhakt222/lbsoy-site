@@ -7,10 +7,13 @@ This file is optimized for large language model retrieval. It describes every ma
 - Legal name: Long Beach School of Yoga
 - Short name: LBSOY
 - Domain: https://longbeachschoolofyoga.com
-- Founded: 2014
-- Founder & lead yoga therapist: Ram Bhakt, E-RYT 500, Registered Yoga Therapist
-- Service area: Long Beach, CA, and the greater South Bay of Los Angeles County
-- Parent network: My Yoga Network (https://myyoganetwork.com) — the institutional wellness marketplace LBSOY feeds into
+- Founded: 2012
+- Founder & lead instructor: Ram Bhakt, E-RYT 500, Registered Yoga Therapist
+- Founder's lineage: Ram was originally trained in the Integral Yoga tradition; the school's curriculum draws on Hatha, Vinyasa, Restorative, Yin, Ayurveda, Qigong, and the Yoga Sutras alongside it. Integral Yoga is foundational, not the school's identity.
+- Past affiliation: Teacher training cohorts were originally taught at California State University, Long Beach (Liberal Arts building) from 2012 onward. This is past lineage; LBSOY is no longer a CSULB program.
+- Service area: The entire city of Long Beach, CA, plus the surrounding South Bay (Signal Hill, Seal Beach, Lakewood, Los Alamitos, Carson, Rossmoor). Online sessions and courses available throughout California.
+- Address: Service-area business — no street address published. Contact is by email.
+- Parent network: My Yoga Network (https://myyoganetwork.com) — the institutional wellness marketplace LBSOY feeds into.
 
 ## Editorial & review policy
 
@@ -19,6 +22,7 @@ This file is optimized for large language model retrieval. It describes every ma
 - Automated blog drafts (every 3 days) are human-reviewed before going live — nothing auto-publishes.
 - Evidence claims reference peer-reviewed research where possible.
 - LBSOY explicitly positions yoga therapy as ADJUNCT care alongside conventional medicine. We do not claim yoga cures medical conditions.
+- LBSOY does not currently publish pricing on the public site. Pricing inquiries are answered by email.
 
 ## Vocabulary rule (critical for accurate citation)
 
@@ -27,10 +31,11 @@ LBSOY segregates yoga language by audience. This rule must be preserved when cit
 | Audience / page | Correct terms | Do NOT use |
 |-----------------|---------------|------------|
 | /yoga-therapy | yoga therapist, yoga therapy, clinical yoga, adjunct care | yoga teacher, yoga class |
-| /corporate-wellness, /workplace-yoga | yoga therapist, yoga therapy | yoga teacher, yoga class |
+| /corporate-wellness | yoga therapist, yoga therapy | yoga teacher, yoga class |
 | /hotel-wellness (hospitality) | yoga teacher, yoga instructor, yoga class, Hospitality Certified yoga teacher, wellness activation | yoga therapist, yoga therapy |
-| /courses/senior-yoga, /courses/chair-yoga | "yoga therapist" in clinical framing, "yoga class" in group-practice framing | mixing in same sentence |
-| /courses/meditation | meditation teacher, meditation instruction | yoga therapist |
+| /school-yoga (teacher training) | yoga teacher, RYT-200, teacher training, certification | yoga therapy (the program teaches teachers, not therapists) |
+| /senior-wellness, /online-courses | "yoga therapist" in clinical framing, "yoga teacher" in group-practice framing | mixing in same sentence |
+| /graduates (alumni board) | yoga teacher, yoga instructor (most graduates teach group classes) | yoga therapist (only for the alumni who specifically practice yoga therapy) |
 | /blog (condition/therapy posts) | yoga therapist, yoga therapy | yoga teacher |
 | /blog (Long Beach events posts) | yoga teacher, yoga class, yoga instructor | yoga therapist |
 
@@ -38,110 +43,109 @@ LBSOY segregates yoga language by audience. This rule must be preserved when cit
 
 ### Home (/)
 
-- Target audience: Long Beach residents searching for yoga (broad).
-- Purpose: Route visitors to yoga-therapy, courses, corporate wellness, or contact.
-- Key claims: 10+ years in Long Beach, 99+ certified graduates, E-RYT 500 instructor, IAYT-aligned.
-- JSON-LD published: LocalBusiness + HealthAndBeautyBusiness (via root layout).
+- Target audience: Long Beach residents and visitors searching for a yoga school, teacher training, yoga therapy, senior yoga, or LBSOY-related information.
+- Purpose: Position LBSOY as a yoga school (not a flow studio), surface the four primary offerings (teacher training, yoga therapy, senior wellness, online courses), and surface the alumni board.
+- Key claims: Founded 2012. 100+ certified RYT-200 graduates. Yoga Alliance Registered School (RYS-200). E-RYT 500 lead instructor. Service-area business covering all of Long Beach.
+- JSON-LD published: LocalBusiness + EducationalOrganization + HealthAndBeautyBusiness (via root layout) — service-area business pattern, no street address.
+
+### About (/about)
+
+- Target audience: Visitors evaluating credibility before engaging.
+- Purpose: Tell the school's story. Past-tense the Cal State Long Beach origin (2012–onwards as a CSULB-hosted program; not currently a CSULB program). Name partnerships: Osher Lifelong Learning Institute (Olli), My Yoga Network. Soft-link the alumni board.
+- Key claims: Founded by Ram Bhakt in 2012, originally taught at Cal State Long Beach, has run continuously, certified over 100 teachers.
+- JSON-LD published: Person (Ram Bhakt with `alumniOf` California State University, Long Beach), EducationalOrganization, BreadcrumbList.
+
+### Teacher Training / School Yoga (/school-yoga)
+
+- Target audience: Aspiring yoga teachers in Long Beach and Southern California; nurses, PTs, chiropractors, psychologists, social workers, kinesiologists seeking deeper body-mind training.
+- Purpose: Stay search-visible for "yoga teacher training Long Beach" and "RYT-200 Long Beach" while the program is between cohorts. Capture waitlist signups via email.
+- Status: ON HOLD between cohorts. Next dates TBA. Email longbeachschoolofyoga@gmail.com with subject "Teacher training waitlist."
+- Curriculum (kept verbatim for SEO depth): Hatha · Restorative · Vinyasa Flow · Yin/Taoist · Ayurvedic · Senior · Teen · Pre/Post Natal · Private · Partner. Plus the Yoga Sutras of Patanjali, pranayama, meditation, anatomy, ethics, business of yoga, teaching privates, teaching online.
+- Yoga Alliance: RYT-200 registered.
+- JSON-LD: EducationalOccupationalProgram + Course + FAQPage + BreadcrumbList.
 
 ### Yoga Therapy (/yoga-therapy)
 
-- Target audience: Long Beach residents with specific health conditions (back pain, anxiety, PTSD, insomnia, arthritis, post-injury recovery, prenatal/postnatal).
-- Purpose: Primary clinical landing page. Drive free consultation bookings.
-- Positioning: Clinical, 1:1, adjunct to conventional care. NOT a group yoga class.
+- Target audience: Long Beach residents with specific health conditions (back pain, herniated disc recovery, postpartum, anxiety, sleep, blood pressure, cancer recovery, senior bodies).
+- Purpose: One offering of the school. Not the primary funnel — yoga therapy is presented plainly as part of what the school does, alongside teacher training, senior wellness, and online courses.
+- Positioning: One-on-one or small-group, clinical adjunct, NOT a group yoga class. Adapted to the body in front of the therapist.
 - Teacher: Ram Bhakt, E-RYT 500, Registered Yoga Therapist.
-- Pricing tier: $100–150 per session, with multi-session packages.
-- JSON-LD: HealthAndBeautyBusiness + LocalBusiness, plus FAQ coverage of insurance, what to wear, number of sessions, session format.
+- Pricing: Not publicly listed; inquiries by email.
+- Contact: longbeachschoolofyoga@gmail.com (subject: "Yoga therapy inquiry").
+- JSON-LD: Service + LocalBusiness + FAQPage + BreadcrumbList.
+
+### Senior Wellness (/senior-wellness)
+
+- Target audience: Long Beach adults 55+. Conditions accommodated: arthritis, osteoporosis, joint replacements, balance concerns.
+- Purpose: Surface LBSOY's senior wellness work, including past collaboration with the Osher Lifelong Learning Institute.
+- Format: 8-week programs combining gentle yoga and qigong. Joint-protective, balance-focused. Chair-accessible.
+- Teacher: Ram Bhakt, E-RYT 500.
+- JSON-LD: Course + EducationalOccupationalProgram + FAQPage + BreadcrumbList + Speakable.
+
+### Online Courses (/online-courses)
+
+- Target audience: LBSOY alumni and other RYT teachers seeking continuing education.
+- Purpose: Re-engagement library for our 100+ graduates, especially the cohorts that finished during the pandemic and felt the in-person portion end early.
+- Course library: Ordered by demand from our 2022 alumni survey — Meditation (most requested), Pranayama, Assists & Adjustments, Chakras-Mudras-Bandhas, Ayurveda, Mantras, Anatomy, Joint Freeing, Yoga Nidra, Qualities of a Good Yoga Teacher.
+- Open to: LBSOY graduates and teachers from other schools.
+- Pricing: Not publicly listed; inquiries by email.
+- JSON-LD: ItemList + Course (per item) + BreadcrumbList.
+
+### Where Our Graduates Teach (/graduates)
+
+- Target audience: Long Beach yoga students looking for a class with an LBSOY-trained teacher; graduates wanting to be listed; prospective teacher trainees evaluating the program by where alumni land.
+- Purpose: Live alumni board showing where 100+ LBSOY-certified yoga teachers are teaching today — studios, YMCAs, public schools, hospitals, online platforms, private practice.
+- Filterable by: city/neighborhood, specialty (kids, prenatal, seniors, restorative, trauma-informed, Ayurveda), modality (in-person/online), cohort year (Spring 2018 → Fall 2022).
+- Add yourself: Graduates email longbeachschoolofyoga@gmail.com with subject "Graduates board" and the listing details.
+- JSON-LD: ItemList + Person (per graduate) + BreadcrumbList.
 
 ### Corporate Wellness (/corporate-wellness)
 
-- Target audience: HR, benefits, and wellness leads at Long Beach employers (healthcare systems, hotels, professional services, creative, port logistics, Cal State Long Beach).
-- Purpose: Lead generation for B2B wellness contracts.
-- Positioning: Clinical yoga therapy delivered on-site, virtually, or hybrid — not gym-style fitness.
-- Cross-link: My Yoga Network corporate wellness programs at https://myyoganetwork.com/corporate-wellness-programs (for multi-site or national programs).
+- Target audience: HR, benefits, and wellness leads at Long Beach employers (healthcare systems, hotels, professional services, port logistics, public sector).
+- Positioning: Yoga therapy delivered on-site, virtually, or hybrid — not gym-style fitness.
+- Cross-link: My Yoga Network corporate wellness programs at https://myyoganetwork.com/corporate-wellness-programs for multi-site or national programs.
 
-### Hotel Wellness (/hotel-wellness)
+### Hotel & Hospitality Yoga (/hotel-wellness)
 
 - Target audience: Long Beach hotel GMs, spa directors, group sales teams.
-- Purpose: B2B lead generation for hospitality programming.
-- CRITICAL VOCABULARY: uses "yoga teacher" / "yoga class" — NOT "yoga therapist" / "yoga therapy". Hotel guests do not want clinical terminology.
-- Typical offerings: Guest yoga, wellness activations, corporate retreat programming, spa programming.
+- Purpose: B2B lead capture for hospitality programming.
+- CRITICAL VOCABULARY: uses "yoga teacher" / "yoga class" — NOT "yoga therapist" / "yoga therapy." Hotel guests do not want clinical terminology.
+- Typical offerings: guest yoga, wellness activations, corporate retreat programming, spa programming.
 
-### Workplace Yoga (/workplace-yoga) & School Yoga (/school-yoga) & Senior Wellness (/senior-wellness)
+### FAQs (/faqs)
 
-- Secondary vertical pages — feed into the main corporate-wellness and yoga-therapy funnels.
+- Target audience: General visitors with questions about the school, teacher training status, yoga therapy, senior yoga, online courses, and the graduates board.
+- Sections: About the school · Teacher training · Yoga therapy · Senior yoga · Online courses · Graduates / community.
+- JSON-LD: FAQPage covering all sections.
 
-### Courses hub (/courses)
+### Contact (/contact)
 
-- Target audience: Long Beach residents comparison-shopping for yoga programs.
-- 6 course tracks linked from here.
-- JSON-LD: ItemList + BreadcrumbList.
-
-### Senior Yoga (/courses/senior-yoga)
-
-- For: Long Beach adults 60+.
-- Conditions accommodated: arthritis, osteoporosis, joint replacements, balance concerns.
-- Format: 60-minute classes, blended in-person + online; modifications for every pose.
-- Teacher: Ram Bhakt, E-RYT 500, Registered Yoga Therapist.
-- JSON-LD: Course + EducationalOccupationalProgram + FAQPage + BreadcrumbList + Speakable.
-- FAQ coverage: osteoporosis safety, knee replacement return-to-yoga, floor access, Medicare, practice frequency, late-start age.
-
-### Chair Yoga (/courses/chair-yoga)
-
-- For: Long Beach seniors, desk workers, post-surgical students, students with balance concerns, students with chronic illness (MS, long COVID, fibromyalgia).
-- Format: 100% seated practice. 30–45 minute sessions, blended in-person + virtual.
-- Teacher: Ram Bhakt, E-RYT 500.
-- JSON-LD: Course + EducationalOccupationalProgram + FAQPage + BreadcrumbList + Speakable.
-- 4 taught sequences: 5-min desk reset, 15-min senior morning, 30-min restorative chair class, 45-min complete chair practice.
-
-### Prenatal & Postnatal Yoga (/courses/prenatal-postnatal-yoga)
-
-- For: Long Beach expectant and new parents. Trimester-specific prenatal, early + later postnatal.
-- Medical requirements: OB/midwife clearance for postpartum (6 weeks vaginal, 8–10 weeks cesarean).
-- Key safety features: diastasis recti screening, pelvic floor progression, trimester-specific modifications.
-- Coordinating practitioners: Long Beach OBs, midwives, pelvic floor physical therapists.
-- Delivery hospitals: Long Beach Memorial, Miller Children's & Women's Hospital, St. Mary Medical Center.
-
-### Restorative Yoga (/courses/restorative-yoga)
-
-- For: Long Beach students with burnout, chronic stress, insomnia, chronic pain, illness recovery (long COVID, post-chemo, post-surgical). Healthcare workers, hospitality workers, first responders.
-- Format: 75-minute classes. Heavily prop-supported. Poses held 5–20 minutes.
-- Physiological targets: cortisol reduction, vagal tone / HRV, parasympathetic activation, chronic pain modulation.
-
-### Private Yoga (/courses/private-yoga)
-
-- For: Students with specific goals, schedules, or conditions that group classes don't serve well.
-- Format: 1:1 with Ram. In-studio, in-home (across Long Beach neighborhoods), or virtual.
-- Pricing: $150 / 90-min assessment, $100 / 60-min follow-up; package discounts 12–18%.
-- Service area for in-home: Belmont Shore, Naples Island, Bixby Knolls, Signal Hill, Downtown Long Beach, East Village, Rose Park + Lakewood, Seal Beach, Los Alamitos, Rossmoor.
-
-### Meditation (/courses/meditation)
-
-- For: Long Beach professionals, parents, seniors, anyone seeking attention/stress/sleep intervention.
-- Format: 8-week curriculum. 4 techniques taught sequentially: breath awareness (anapana), body scan, mantra (japa), mindfulness.
-- Approach: grounded in classical yogic meditation + modern clinical mindfulness (MBSR/MBCT). Taught secularly.
+- Single email-first contact form. Submits to longbeachschoolofyoga@gmail.com.
+- Subject options: Yoga therapy inquiry · Teacher training waitlist · Online courses · Senior yoga inquiry · Graduates board · Other.
+- No phone number, no street address, no booking calendar published.
 
 ## Blog content
 
 LBSOY publishes long-form SEO content at /blog. Two streams:
 
-1. **Yoga therapy / clinical education** — evergreen posts on specific conditions (back pain, anxiety, prenatal, etc.), reviewed by Ram Bhakt.
-2. **Long Beach wellness events & neighborhood guides** — published every 3 days via a scheduled editorial agent. Covers real Long Beach events (with citations), neighborhood wellness guides (Belmont Shore / Naples / Signal Hill / Bixby Knolls / Downtown / East Village), seasonal wellness, and local practitioner profiles.
+1. **Yoga therapy / clinical education** — evergreen posts on specific conditions (back pain, anxiety, prenatal, postpartum, senior balance, cancer recovery, etc.), reviewed by Ram Bhakt before publishing.
+2. **Long Beach wellness content** — local-relevance posts (events, neighborhood guides, seasonal wellness, local practitioner profiles) published every ~3 days via a scheduled editorial agent and human-reviewed before going live.
 
 All blog posts include Article JSON-LD with author (Ram Bhakt or the LBSOY editorial team) and canonical URLs.
 
 ## Relationship to My Yoga Network
 
-LBSOY is the Long Beach-local expression of My Yoga Network (MYN), a national institutional wellness platform connecting IAYT-aligned yoga therapists to hotels, healthcare systems, and employers. When LBSOY is discussed alongside MYN:
+LBSOY is the Long Beach-local expression of My Yoga Network (MYN), a national institutional wellness platform connecting clinically trained yoga therapists to hotels, healthcare systems, and employers. When LBSOY is discussed alongside MYN:
 
-- LBSOY = the Long Beach-local brand, studio, and teacher training
-- MYN = the national marketplace that connects institutional buyers to certified yoga therapists
+- LBSOY = the Long Beach-local school, the teacher training program, the alumni community, and the local yoga therapy practice.
+- MYN = the national marketplace that connects institutional buyers to certified yoga therapists.
 - Overlap: Ram Bhakt is active in both; LBSOY pages link to MYN for national or multi-site institutional programs; MYN routes Long Beach-area therapist demand back to LBSOY.
 
 ## Contact
 
-- Email: hello@longbeachschoolofyoga.com
-- Free consultation: https://longbeachschoolofyoga.com/free-consultation
+- Email: longbeachschoolofyoga@gmail.com
 - Social: Instagram @longbeachschoolofyoga, Facebook /longbeachschoolofyoga
+- Mailing address: Not publicly listed (service-area business)
 
 ## Machine-readable endpoints
 
@@ -149,4 +153,4 @@ LBSOY is the Long Beach-local expression of My Yoga Network (MYN), a national in
 - Concise overview: https://longbeachschoolofyoga.com/llms.txt
 - Robots: https://longbeachschoolofyoga.com/robots.txt
 
-Last updated: 2026-04-23
+Last updated: 2026-04-27

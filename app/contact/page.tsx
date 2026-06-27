@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { buildMetadata } from "@/lib/seo";
 import JsonLd from "@/components/JsonLd";
+import LeadForm from "@/components/LeadForm";
 
 /* =====================================================================
    PAGE: contact
@@ -128,7 +129,7 @@ const PAGE_CSS = String.raw`:root {
       .hero h1 { font-size: 40px; }
     }`;
 
-const PAGE_HTML = String.raw`<!-- Navigation -->
+const PAGE_HTML_TOP = String.raw`<!-- Navigation -->
   <!-- Hero -->
   <section class="hero">
     <div class="hero-inner">
@@ -156,7 +157,7 @@ const PAGE_HTML = String.raw`<!-- Navigation -->
           </div>
           <h3>Email Us</h3>
           <p>Send us an email and we'll get back to you within 24 hours, typically much sooner.</p>
-          <a href="mailto:info@lbsoy.com">info@lbsoy.com</a>
+          <a href="mailto:longbeachschoolofyoga@gmail.com">longbeachschoolofyoga@gmail.com</a>
         </div>
         <div class="contact-card">
           <div class="contact-icon">
@@ -170,51 +171,9 @@ const PAGE_HTML = String.raw`<!-- Navigation -->
     </div>
   </section>
 
-  <!-- Contact Form -->
-  <section class="section section-alt">
-    <div class="section-inner">
-      <div class="section-header">
-        <span class="section-label">Let's Connect</span>
-        <h2>Send Us a Message</h2>
-      </div>
-      <form class="form-section">
-        <div class="form-row">
-          <div class="form-group">
-            <label class="form-label">Full Name</label>
-            <input type="text" class="form-input" placeholder="Your name" required>
-          </div>
-          <div class="form-group">
-            <label class="form-label">Email Address</label>
-            <input type="email" class="form-input" placeholder="your@email.com" required>
-          </div>
-        </div>
-        <div class="form-row">
-          <div class="form-group">
-            <label class="form-label">Phone Number</label>
-            <input type="tel" class="form-input" placeholder="(555) 000-0000">
-          </div>
-          <div class="form-group">
-            <label class="form-label">What Is This About?</label>
-            <select class="form-select" required>
-              <option value="">Select a subject</option>
-              <option value="yoga-therapy">Yoga Therapy</option>
-              <option value="corporate-wellness">Corporate Wellness</option>
-              <option value="online-courses">Online Courses</option>
-              <option value="general">General Question</option>
-              <option value="other">Other</option>
-            </select>
-          </div>
-        </div>
-        <div class="form-group">
-          <label class="form-label">Your Message</label>
-          <textarea class="form-textarea" placeholder="Tell us more about what brings you here..." required></textarea>
-        </div>
-        <button type="submit" class="btn-primary">Send Message</button>
-      </form>
-    </div>
-  </section>
+`;
 
-  <!-- Map -->
+const PAGE_HTML_BOTTOM = String.raw`  <!-- Map -->
   <section class="section">
     <div class="section-inner">
       <div class="map-placeholder">Google Maps embed goes here</div>
@@ -231,7 +190,7 @@ const PAGE_HTML = String.raw`<!-- Navigation -->
       <div class="faq-section">
         <div class="faq-item">
           <h3 class="faq-question">How do I book a yoga therapy session?</h3>
-          <p class="faq-answer">You can book a session by calling us at (562) 555-0123, emailing info@lbsoy.com, or filling out the contact form above. We recommend starting with a free consultation so we can understand your needs and recommend the best service for you. Most first sessions can be scheduled within 3-5 business days.</p>
+          <p class="faq-answer">The simplest way to reach us is by email at longbeachschoolofyoga@gmail.com or through the contact form above. Use a clear subject line — "Yoga therapy inquiry," "Teacher training waitlist," "Senior yoga inquiry," "Online courses," or "Graduates board" — and we'll route your message to the right person. We typically reply within a few days.</p>
         </div>
         <div class="faq-item">
           <h3 class="faq-question">What is your cancellation policy?</h3>
@@ -263,33 +222,29 @@ const PAGE_HTML = String.raw`<!-- Navigation -->
 
 const PAGE_SCHEMA = {
     "@context": "https://schema.org",
-    "@type": "LocalBusiness",
+    "@type": ["LocalBusiness", "EducationalOrganization"],
     "name": "Long Beach School of Yoga",
-    "description": "Yoga therapy, corporate wellness, and yoga education in Long Beach, California",
+    "description": "A yoga school for the city of Long Beach. Yoga teacher training (RYT-200), yoga therapy, senior wellness, and online continuing education.",
     "url": "https://longbeachschoolofyoga.com",
-    "telephone": "",
-    "email": "info@lbsoy.com",
+    "email": "longbeachschoolofyoga@gmail.com",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Long Beach",
       "addressLocality": "Long Beach",
       "addressRegion": "CA",
-      "postalCode": "90802",
       "addressCountry": "US"
     },
-    "geo": {
-      "@type": "GeoCoordinates",
-      "latitude": 33.7701,
-      "longitude": -118.1937
-    },
+    "areaServed": [
+      { "@type": "City", "name": "Long Beach" },
+      { "@type": "City", "name": "Signal Hill" },
+      { "@type": "City", "name": "Seal Beach" },
+      { "@type": "City", "name": "Lakewood" },
+      { "@type": "City", "name": "Los Alamitos" }
+    ],
     "image": "https://longbeachschoolofyoga.com/images/lbsoy-hero.jpg",
-    "priceRange": "$$",
-    "openingHours": "Mo-Sa 07:00-20:00",
     "contactPoint": {
       "@type": "ContactPoint",
-      "telephone": "",
       "contactType": "Customer Service",
-      "email": "info@lbsoy.com"
+      "email": "longbeachschoolofyoga@gmail.com"
     },
     "sameAs": [
       "https://www.facebook.com/longbeachschoolofyoga/",
@@ -309,7 +264,19 @@ export default function Page() {
   return (
     <>
       <style dangerouslySetInnerHTML={{ __html: PAGE_CSS }} />
-      <div dangerouslySetInnerHTML={{ __html: PAGE_HTML }} />
+      <div dangerouslySetInnerHTML={{ __html: PAGE_HTML_TOP }} />
+
+      <section className="section section-alt">
+        <div className="section-inner">
+          <div className="section-header">
+            <span className="section-label">Let&apos;s Connect</span>
+            <h2>Send Us a Message</h2>
+          </div>
+          <LeadForm source="contact" submitLabel="Send Message" messageRequired />
+        </div>
+      </section>
+
+      <div dangerouslySetInnerHTML={{ __html: PAGE_HTML_BOTTOM }} />
       <JsonLd data={PAGE_SCHEMA} />
     </>
   );

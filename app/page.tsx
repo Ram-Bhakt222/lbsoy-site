@@ -2,6 +2,7 @@ import Link from "next/link";
 import type { Metadata } from "next";
 import { buildMetadata } from "@/lib/seo";
 import { siteConfig } from "@/lib/site";
+import MailingListSignup from "@/components/MailingListSignup";
 
 export const metadata: Metadata = buildMetadata({
   title: "Yoga Therapy & Corporate Wellness in Long Beach",
@@ -50,7 +51,7 @@ export default function HomePage() {
           <div className="hero-image">
             <div className="hero-image-placeholder">Photo: Yoga therapy session in progress</div>
             <div className="hero-float-card">
-              <div className="hero-float-number">10+</div>
+              <div className="hero-float-number">14+</div>
               <div className="hero-float-label">
                 <strong>Years Serving</strong>Long Beach Community
               </div>
@@ -89,7 +90,7 @@ export default function HomePage() {
               <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z" />
               <circle cx="12" cy="10" r="3" />
             </svg>
-            Serving Long Beach Since 2014
+            Serving Long Beach Since 2012
           </div>
         </div>
       </div>
@@ -192,7 +193,7 @@ export default function HomePage() {
                 <span className="credential">E-RYT 500</span>
                 <span className="credential">Yoga Alliance Certified</span>
                 <span className="credential">Yoga Therapist</span>
-                <span className="credential">10+ Years Experience</span>
+                <span className="credential">14+ Years Experience</span>
               </div>
               <Link href="/about" className="btn-primary">
                 Our Story
@@ -394,6 +395,18 @@ export default function HomePage() {
           <div style={{ textAlign: "center", marginTop: 48 }}>
             <Link href="/blog" className="btn-secondary">View All Articles</Link>
           </div>
+        </div>
+      </section>
+
+      {/* === NEWSLETTER === */}
+      <section className="section section-alt">
+        <div className="ml-signup-section">
+          <MailingListSignup
+            variant="light"
+            source="homepage"
+            heading="Healthy Long Beach, in your inbox"
+            blurb="Local wellness events, new healthy spots, and yoga therapy tips for Long Beach — every couple of weeks. No spam."
+          />
         </div>
       </section>
 

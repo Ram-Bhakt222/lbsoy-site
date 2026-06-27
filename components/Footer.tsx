@@ -1,10 +1,14 @@
 import Link from "next/link";
 import { siteConfig } from "@/lib/site";
+import MailingListSignup from "@/components/MailingListSignup";
 
 export default function Footer() {
   return (
     <footer className="footer">
       <div className="footer-inner">
+        <div className="footer-newsletter-bar">
+          <MailingListSignup />
+        </div>
         <div className="footer-grid">
           <div>
             <div className="footer-brand">
@@ -24,7 +28,24 @@ export default function Footer() {
                 <a href={siteConfig.social.instagram} aria-label="Instagram" target="_blank" rel="noopener noreferrer">IG</a>
               )}
               {siteConfig.social.facebook && (
-                <a href={siteConfig.social.facebook} aria-label="Facebook" target="_blank" rel="noopener noreferrer">FB</a>
+                <a href={siteConfig.social.facebook} aria-label="Facebook page" target="_blank" rel="noopener noreferrer">FB</a>
+              )}
+              {siteConfig.social.facebookGroup && (
+                <a
+                  href={siteConfig.social.facebookGroup}
+                  aria-label="Join our private Facebook community"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  title="Join our community"
+                >
+                  Group
+                </a>
+              )}
+              {siteConfig.social.youtube && (
+                <a href={siteConfig.social.youtube} aria-label="YouTube" target="_blank" rel="noopener noreferrer">YT</a>
+              )}
+              {siteConfig.social.linkedin && (
+                <a href={siteConfig.social.linkedin} aria-label="LinkedIn" target="_blank" rel="noopener noreferrer">LI</a>
               )}
             </div>
           </div>

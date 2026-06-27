@@ -8,13 +8,13 @@ import { siteConfig } from "./site";
 export const authors = {
   ram: {
     name: "Ram Bhakt",
-    role: "Founder & Lead Yoga Therapist, Long Beach School of Yoga",
+    role: "Founder & Lead Instructor, Long Beach School of Yoga",
     credentials:
-      "E-RYT 500 · Registered Yoga Therapist (IAYT track) · Yoga Alliance Certified",
+      "E-RYT 500 · Registered Yoga Therapist · Yoga Alliance Certified",
     shortBio:
-      "Ram Bhakt is the founder of Long Beach School of Yoga and a certified yoga therapist with 10+ years of clinical experience serving Long Beach. He specializes in therapeutic yoga for chronic pain, trauma-informed practice, and prenatal/postnatal care, and has trained 99+ graduates through LBSOY's 200-Hour Teacher Training.",
+      "Ram Bhakt founded Long Beach School of Yoga in 2012. An E-RYT 500 instructor and Registered Yoga Therapist, Ram has certified over 100 RYT-200 graduates and works with Long Beach students through yoga therapy, senior wellness, and continuing education.",
     longBio:
-      "Ram Bhakt founded Long Beach School of Yoga in 2014 after more than a decade of study in traditional hatha, vinyasa, and restorative yoga. As an E-RYT 500 instructor and registered yoga therapist, he blends biomechanics and trauma-informed care with classical yogic practice. His clinical focus includes chronic back pain, anxiety, PTSD, post-injury recovery, and prenatal/postnatal wellness. Ram has taught hundreds of Long Beach residents, clinicians, hospitality teams, and corporate wellness cohorts, and serves as the lead teacher for LBSOY's 200-Hour Yoga Teacher Training.",
+      "Ram Bhakt founded Long Beach School of Yoga in 2012 and ran the early teacher trainings at California State University, Long Beach. Originally trained in the Integral Yoga tradition, Ram draws on Hatha, Vinyasa, Restorative, Yin, Ayurveda, Qigong, and the Yoga Sutras in his teaching. As an E-RYT 500 instructor and Registered Yoga Therapist, he focuses on therapeutic yoga for chronic pain, post-injury recovery, postpartum, and senior wellness, and has certified more than 100 RYT-200 yoga teachers now teaching across Long Beach and beyond.",
     url: `${siteConfig.url}/about`,
     sameAs: [
       siteConfig.social.instagram,

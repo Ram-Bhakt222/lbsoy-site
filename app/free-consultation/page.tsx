@@ -1,5 +1,7 @@
 import type { Metadata } from "next";
 import { buildMetadata } from "@/lib/seo";
+import { siteConfig } from "@/lib/site";
+import LeadForm from "@/components/LeadForm";
 
 
 /* =====================================================================
@@ -47,45 +49,14 @@ const PAGE_CSS = String.raw`:root{--sage:#7A8B6F;--sage-light:#9AAD8E;--sage-dar
     .footer{background:var(--charcoal);color:rgba(255,255,255,0.7);padding:80px 24px 40px}.footer-inner{max-width:1200px;margin:0 auto}.footer-grid{display:grid;grid-template-columns:1.5fr 1fr 1fr 1fr;gap:48px;margin-bottom:48px}.footer-brand{font-family:var(--font-heading);font-size:22px;font-weight:600;color:var(--white);margin-bottom:16px}.footer-brand span{color:var(--sage-light)}.footer-desc{font-size:14px;line-height:1.7;margin-bottom:20px}.footer-col h4{font-family:var(--font-heading);font-size:18px;font-weight:600;color:var(--white);margin-bottom:20px}.footer-col a{display:block;font-size:14px;color:rgba(255,255,255,0.6);text-decoration:none;padding:6px 0;transition:color 0.2s}.footer-col a:hover{color:var(--sage-light)}.footer-bottom{border-top:1px solid rgba(255,255,255,0.08);padding-top:32px;display:flex;justify-content:space-between;align-items:center;font-size:13px}
     @media(max-width:768px){.booking-inner{grid-template-columns:1fr}.type-grid{grid-template-columns:1fr}.nav-links{display:none}.footer-grid{grid-template-columns:1fr 1fr}}`;
 
-const PAGE_HTML = String.raw`<section class="page-hero">
+const PAGE_HTML_TOP = String.raw`<section class="page-hero">
     <h1>Book Your Free Consultation</h1>
     <p>Whether you're exploring yoga therapy for yourself or wellness programs for your organization, let's start with a conversation. No pressure, no commitment &mdash; just clarity.</p>
   </section>
 
-  <section class="booking-section">
-    <div class="booking-inner">
-      <div class="booking-info">
-        <h2>What to Expect</h2>
-        <p>Your free 20-minute consultation is a chance to share what you're looking for and learn how LBSOY can help. Here's what we'll cover:</p>
-        <ul class="what-to-expect">
-          <li>
-            <div class="expect-icon">1</div>
-            <div class="expect-text"><strong>Your Goals</strong>Tell us what brought you here &mdash; chronic pain, stress, team wellness, or just curiosity.</div>
-          </li>
-          <li>
-            <div class="expect-icon">2</div>
-            <div class="expect-text"><strong>Your Options</strong>We'll explain which of our services best fits your situation and budget.</div>
-          </li>
-          <li>
-            <div class="expect-icon">3</div>
-            <div class="expect-text"><strong>Your Questions</strong>Ask anything &mdash; about yoga therapy, corporate programs, online courses, or our approach.</div>
-          </li>
-          <li>
-            <div class="expect-icon">4</div>
-            <div class="expect-text"><strong>Next Steps</strong>If it's a fit, we'll outline a clear path forward. If not, no hard feelings.</div>
-          </li>
-        </ul>
-      </div>
-      <div class="calendar-embed">
-        <div class="calendar-placeholder">
-          GHL Calendar Embed
-          <small>Replace this placeholder with your GHL "LBSOY Free Consultation" calendar embed code</small>
-        </div>
-      </div>
-    </div>
-  </section>
+`;
 
-  <section class="consult-types">
+const PAGE_HTML_BOTTOM = String.raw`  <section class="consult-types">
     <div class="consult-types-inner">
       <h2>Consultations Available For</h2>
       <div class="type-grid">
@@ -124,8 +95,67 @@ export default function Page() {
   return (
     <>
       <style dangerouslySetInnerHTML={{ __html: PAGE_CSS }} />
-      <div dangerouslySetInnerHTML={{ __html: PAGE_HTML }} />
-      
+      <div dangerouslySetInnerHTML={{ __html: PAGE_HTML_TOP }} />
+
+      <section className="booking-section">
+        <div className="booking-inner">
+          <div className="booking-info">
+            <h2>What to Expect</h2>
+            <p>
+              Your free 20-minute consultation is a chance to share what you&apos;re looking for
+              and learn how LBSOY can help. Here&apos;s what we&apos;ll cover:
+            </p>
+            <ul className="what-to-expect">
+              <li>
+                <div className="expect-icon">1</div>
+                <div className="expect-text">
+                  <strong>Your Goals</strong>Tell us what brought you here — chronic pain, stress,
+                  team wellness, or just curiosity.
+                </div>
+              </li>
+              <li>
+                <div className="expect-icon">2</div>
+                <div className="expect-text">
+                  <strong>Your Options</strong>We&apos;ll explain which of our services best fits
+                  your situation and budget.
+                </div>
+              </li>
+              <li>
+                <div className="expect-icon">3</div>
+                <div className="expect-text">
+                  <strong>Your Questions</strong>Ask anything — about yoga therapy, corporate
+                  programs, online courses, or our approach.
+                </div>
+              </li>
+              <li>
+                <div className="expect-icon">4</div>
+                <div className="expect-text">
+                  <strong>Next Steps</strong>If it&apos;s a fit, we&apos;ll outline a clear path
+                  forward. If not, no hard feelings.
+                </div>
+              </li>
+            </ul>
+          </div>
+          <div className="calendar-embed">
+            {siteConfig.ghlCalendarUrl ? (
+              <iframe
+                src={siteConfig.ghlCalendarUrl}
+                title="Book your free consultation"
+                style={{ width: "100%", minHeight: 640, border: "none", borderRadius: 12 }}
+                loading="lazy"
+              />
+            ) : (
+              <LeadForm
+                source="free-consultation"
+                submitLabel="Request My Free Consultation"
+                messageRequired={false}
+              />
+            )}
+          </div>
+        </div>
+      </section>
+
+      <div dangerouslySetInnerHTML={{ __html: PAGE_HTML_BOTTOM }} />
     </>
   );
 }

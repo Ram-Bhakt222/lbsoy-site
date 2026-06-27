@@ -5,6 +5,7 @@ import { buildMetadata, breadcrumbSchema } from "@/lib/seo";
 import { getAllPostSlugs, getPostBySlug } from "@/lib/posts";
 import { siteConfig } from "@/lib/site";
 import JsonLd from "@/components/JsonLd";
+import MailingListSignup from "@/components/MailingListSignup";
 
 export async function generateStaticParams() {
   return getAllPostSlugs().map((slug) => ({ slug }));
@@ -74,6 +75,17 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
 
       <section className="section">
         <div className="prose" dangerouslySetInnerHTML={{ __html: post.html }} />
+      </section>
+
+      <section className="section section-alt">
+        <div className="ml-signup-section">
+          <MailingListSignup
+            variant="light"
+            source={`blog:${slug}`}
+            heading="Get the Long Beach healthy-living guide"
+            blurb="New spots, local events, and wellness tips for Long Beach — straight to your inbox every couple of weeks. No spam."
+          />
+        </div>
       </section>
 
       <section className="cta-banner">

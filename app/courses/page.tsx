@@ -66,7 +66,7 @@ export default function CoursesIndex() {
               Yoga <em>Courses</em> at Long Beach School of Yoga
             </h1>
             <p className="course-hero-sub">
-              Six evidence-based yoga and meditation programs built for Long Beach residents — seniors, desk workers, expecting parents, people recovering from stress or illness, and anyone who wants one-on-one instruction. Taught by a registered yoga therapist with 10+ years of clinical experience.
+              Six evidence-based yoga and meditation programs built for Long Beach residents — seniors, desk workers, expecting parents, people recovering from stress or illness, and anyone who wants one-on-one instruction. Taught by a registered yoga therapist with 14+ years of clinical experience.
             </p>
             <div className="course-hero-actions">
               <Link href="/free-consultation" className="course-btn-primary">

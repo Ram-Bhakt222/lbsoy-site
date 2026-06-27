@@ -19,7 +19,7 @@ export const courseRegistry: Record<string, CoursePageData> = {
         "Safe, evidence-based yoga classes for Long Beach seniors — designed to protect joints, improve balance, and keep you independent at home. Taught in Long Beach by an IAYT-aligned yoga therapist with a decade of clinical experience.",
     },
     tldr:
-      "Senior Yoga at Long Beach School of Yoga is a gentle, strength-and-balance-focused program for adults 60+. Classes are taught by a registered yoga therapist with 10+ years in Long Beach. We work around arthritis, osteoporosis, joint replacements, and balance concerns — with modifications for every pose, so you never have to skip a class again.",
+      "Senior Yoga at Long Beach School of Yoga is a gentle, strength-and-balance-focused program for adults 60+. Classes are taught by a registered yoga therapist with 14+ years in Long Beach. We work around arthritis, osteoporosis, joint replacements, and balance concerns — with modifications for every pose, so you never have to skip a class again.",
     sections: {
       whatItIs: {
         heading: "A yoga program built for aging well in Long Beach",
@@ -109,7 +109,7 @@ export const courseRegistry: Record<string, CoursePageData> = {
       local: {
         heading: "Senior yoga across Long Beach neighborhoods",
         body: [
-          "We teach senior yoga to residents across <strong>Belmont Shore, Naples Island, Bixby Knolls, Signal Hill, and Downtown Long Beach</strong>. Many of our regulars come from the 55+ communities near Leisure World, Rossmoor, and Lakewood, and we coordinate with a handful of Long Beach independent- and assisted-living communities for on-site programs.",
+          "We teach senior yoga to residents across <strong>the entire city of Long Beach</strong> — Bixby Knolls, Belmont Shore, California Heights, Downtown, East Village, Naples, Signal Hill, Wrigley, and the bluffs — not anchored to any one neighborhood. Many of our regulars come from the 55+ communities near Leisure World, Rossmoor, and Lakewood, and we coordinate with a handful of Long Beach independent- and assisted-living communities for on-site programs.",
           "If you're looking for senior yoga near <strong>Long Beach Memorial, St. Mary Medical Center, or Los Alamitos Medical Center</strong>, we can usually schedule a private session at home or online when in-person isn't the right fit. <a href=\"/senior-wellness\">See our full senior wellness page</a> or <a href=\"/free-consultation\">book a free consultation</a> to talk about what would work for your situation.",
           "For adult children researching on behalf of a parent: we are comfortable working alongside your parent's physical therapist, primary-care doctor, or in-home caregiver, and can send a summary of what we worked on in class if that would help their care team.",
         ],
@@ -272,7 +272,7 @@ export const courseRegistry: Record<string, CoursePageData> = {
       local: {
         heading: "Chair yoga across Long Beach",
         body: [
-          "We run chair yoga programs in Long Beach for <strong>senior living communities, corporate offices, and healthcare settings</strong>. Students come from Belmont Shore, Naples Island, Bixby Knolls, Downtown Long Beach, and Signal Hill — and if it's easier, we can also do home visits for a small number of in-area students.",
+          "We run chair yoga programs in Long Beach for <strong>senior living communities, corporate offices, and healthcare settings</strong>. Students come from across the entire city — Bixby Knolls, Belmont Shore, California Heights, Downtown, East Village, Naples, Signal Hill, and Wrigley — and we travel anywhere in Long Beach for in-area home visits when that's the easier path.",
           "For Long Beach employers: chair yoga works well as a <strong>lunchtime wellness program</strong> that takes zero setup and zero floor space. No mats, no changing clothes, no shower needed. <a href=\"/corporate-wellness\">Our corporate wellness page</a> has the full offering, and <a href=\"https://myyoganetwork.com/corporate-wellness-programs\" rel=\"noopener\">My Yoga Network's corporate wellness directory</a> can match you with an instructor faster than anything else in Long Beach.",
           "For hotels: we do not teach chair yoga therapy to hotel guests. For hospitality activations, please see our <a href=\"/hotel-wellness\">hotel wellness page</a> — that program uses dedicated Hospitality Certified yoga teachers, not the clinical chair yoga described here.",
         ],
@@ -439,7 +439,7 @@ export const courseRegistry: Record<string, CoursePageData> = {
       local: {
         heading: "Prenatal & postnatal yoga for Long Beach families",
         body: [
-          "We serve Long Beach families across <strong>Belmont Shore, Naples Island, Bixby Knolls, Signal Hill, Downtown Long Beach, and East Village</strong>, with students coming from as far as Los Alamitos, Seal Beach, and Rossmoor. If you're delivering at <strong>Long Beach Memorial, Miller Children's & Women's Hospital, or St. Mary Medical Center</strong>, ask our team for their Long Beach maternity-care contacts — we work alongside several local OBs, midwives, and pelvic floor physical therapists.",
+          "We serve Long Beach families across <strong>the entire city</strong> — Bixby Knolls, Belmont Shore, California Heights, Downtown, East Village, Naples, Signal Hill, Wrigley, and the bluffs — with students coming from as far as Los Alamitos, Seal Beach, and Rossmoor. If you're delivering at <strong>Long Beach Memorial, Miller Children's & Women's Hospital, or St. Mary Medical Center</strong>, ask our team for their Long Beach maternity-care contacts — we work alongside several local OBs, midwives, and pelvic floor physical therapists.",
           "If you're looking for private prenatal yoga sessions at home or postpartum in-home sessions after a cesarean, we can do that — see our <a href=\"/courses/private-yoga\">Private Yoga page</a> for in-home options. For questions about how to choose between group and private sessions, <a href=\"/free-consultation\">book a free consultation</a>.",
           "For clinicians: if you have a patient who would benefit from yoga therapy during or after pregnancy, we welcome direct referrals. We'll coordinate with your office and document our scope of practice clearly.",
         ],
@@ -517,7 +517,7 @@ export const courseRegistry: Record<string, CoursePageData> = {
         "A prop-supported yoga practice designed to down-regulate the nervous system. For burnout, chronic stress, insomnia, and anyone whose life has been in overdrive for too long.",
     },
     tldr:
-      "Restorative Yoga at Long Beach School of Yoga is a prop-heavy, slow-paced practice where each pose is held for 5–20 minutes with full support from bolsters, blankets, and blocks. The aim is not flexibility — it's nervous-system regulation. Useful for Long Beach students living with chronic stress, insomnia, burnout, long COVID, or recovery from illness. Taught by a registered yoga therapist with 10+ years of clinical experience.",
+      "Restorative Yoga at Long Beach School of Yoga is a prop-heavy, slow-paced practice where each pose is held for 5–20 minutes with full support from bolsters, blankets, and blocks. The aim is not flexibility — it's nervous-system regulation. Useful for Long Beach students living with chronic stress, insomnia, burnout, long COVID, or recovery from illness. Taught by a registered yoga therapist with 14+ years of clinical experience.",
     sections: {
       whatItIs: {
         heading: "Restorative yoga, defined",
@@ -607,7 +607,7 @@ export const courseRegistry: Record<string, CoursePageData> = {
       local: {
         heading: "Restorative yoga across Long Beach",
         body: [
-          "Restorative classes at Long Beach School of Yoga draw students from across the city — <strong>Belmont Shore, Naples Island, Bixby Knolls, Signal Hill, Downtown Long Beach, and East Village</strong> — and from the 55+ communities in Lakewood, Rossmoor, and Seal Beach. Our restorative cohort skews toward healthcare workers, hospitality workers from the Long Beach Convention Center and hotel corridor, and Cal State Long Beach students during finals.",
+          "Restorative classes at Long Beach School of Yoga draw students from across the entire city — <strong>Bixby Knolls, Belmont Shore, California Heights, Downtown, East Village, Naples, Signal Hill, Wrigley, and the bluffs</strong> — and from the 55+ communities in Lakewood, Rossmoor, and Seal Beach. Our restorative cohort skews toward healthcare workers, hospitality workers from the Long Beach Convention Center and hotel corridor, and Cal State Long Beach students during finals.",
           "For Long Beach healthcare systems: restorative yoga is one of the most evidence-backed interventions we offer for staff burnout. If you're responsible for clinician well-being at <strong>Long Beach Memorial, St. Mary Medical Center, or MemorialCare</strong>, we run restorative sessions on-site for 10–30 staff at a time. <a href=\"/corporate-wellness\">Start here</a> or go straight to the <a href=\"https://myyoganetwork.com/corporate-wellness-programs\" rel=\"noopener\">My Yoga Network corporate wellness directory</a>.",
           "For private sessions — often a better fit when you're in active recovery from surgery, illness, or acute burnout — see <a href=\"/courses/private-yoga\">Private Yoga</a> or <a href=\"/free-consultation\">book a consultation</a>.",
         ],
@@ -692,7 +692,7 @@ export const courseRegistry: Record<string, CoursePageData> = {
         body: [
           "A private yoga session is a 60–75 minute one-on-one practice designed entirely around you. The first session is almost always assessment-heavy: movement screening, history intake, clarifying what ‘better’ would look like for you in 30, 60, and 90 days. Subsequent sessions move quickly — because now we know what your body is asking for.",
           "Private yoga is different from yoga therapy. Private yoga is teaching-led: we're training a general yoga practice, tailored to your body. Yoga therapy is clinically-led: we're using yogic practices to address a specific health condition, often in coordination with your medical team. Many students start with private yoga, identify a specific issue, and transition some sessions into yoga therapy — see <a href=\"/yoga-therapy\">our yoga therapy page</a> for the clinical pathway.",
-          "We teach privates in-studio at Long Beach School of Yoga, in clients' Long Beach homes (we travel to Belmont Shore, Naples Island, Bixby Knolls, Signal Hill, Downtown, East Village, and select nearby cities), and virtually. The ‘best’ format is whichever one you'll actually show up to.",
+          "We teach privates in clients' Long Beach homes (we travel anywhere in the city — Bixby Knolls, Belmont Shore, California Heights, Downtown, East Village, Naples, Signal Hill, Wrigley, the bluffs — and select nearby cities), in shared spaces by arrangement, and virtually. The ‘best’ format is whichever one you'll actually show up to.",
         ],
       },
       benefits: {
@@ -774,7 +774,7 @@ export const courseRegistry: Record<string, CoursePageData> = {
       local: {
         heading: "Private yoga across Long Beach",
         body: [
-          "We travel to private clients across Long Beach — <strong>Belmont Shore, Naples Island, Bixby Knolls, Signal Hill, Downtown Long Beach, East Village, and the Rose Park neighborhood</strong> — and to nearby cities including Lakewood, Seal Beach, Los Alamitos, and Rossmoor for sessions of 60 minutes or longer.",
+          "We travel to private clients across the entire city of Long Beach — <strong>Bixby Knolls, Belmont Shore, California Heights, Downtown, East Village, Naples, Rose Park, Signal Hill, Wrigley, and the bluffs</strong> — and to nearby cities including Lakewood, Seal Beach, Los Alamitos, and Rossmoor for sessions of 60 minutes or longer.",
           "For hotel guests in Long Beach: note that <strong>hotel guest yoga is a different offering</strong>. We don't teach private yoga therapy to hotel guests — hospitality guest programming runs through <a href=\"/hotel-wellness\">our hotel wellness program</a>, which uses dedicated Hospitality Certified yoga teachers.",
           "For virtual sessions: we work with Long Beach professionals who travel frequently, expats who moved away but want to continue the relationship, and clients in adjacent cities who prefer not to drive. Virtual privates are the same price as in-studio.",
           "<a href=\"/free-consultation\">Book a free 20-minute consultation</a> to see whether a private, a group class, or yoga therapy is the right fit — we'll tell you honestly.",
@@ -942,7 +942,7 @@ export const courseRegistry: Record<string, CoursePageData> = {
       local: {
         heading: "Meditation in Long Beach",
         body: [
-          "Our Long Beach meditation students come primarily from <strong>Belmont Shore, Naples Island, Bixby Knolls, Signal Hill, East Village, and Downtown Long Beach</strong>. Many work at Long Beach Memorial, Miller Children's, St. Mary Medical Center, MemorialCare's Long Beach campuses, the Port of Long Beach, and the Long Beach Convention Center corridor.",
+          "Our Long Beach meditation students come from across the entire city — <strong>Bixby Knolls, Belmont Shore, California Heights, Downtown, East Village, Naples, Signal Hill, Wrigley, and the bluffs</strong>. Many work at Long Beach Memorial, Miller Children's, St. Mary Medical Center, MemorialCare's Long Beach campuses, the Port of Long Beach, and the Long Beach Convention Center corridor.",
           "We also run on-site meditation programs for Long Beach employers — <strong>20-minute lunchtime sessions, 60-minute deep-dive workshops, and 8-week employee cohorts</strong>. For corporate meditation programming, see <a href=\"/corporate-wellness\">corporate wellness</a> or explore <a href=\"https://myyoganetwork.com/corporate-wellness-programs\" rel=\"noopener\">My Yoga Network's corporate wellness programs</a>.",
           "For students who want silent retreat experience alongside weekly class, we point you to the regional vipassana and insight meditation retreat centers — the 10-day sits at Dhamma Vaddhana (nearby San Bernardino) and the weekend insight retreats at Spirit Rock pair well with our curriculum.",
         ],

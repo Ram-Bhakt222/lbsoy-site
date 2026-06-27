@@ -28,6 +28,19 @@ const nextConfig = {
       // Programs consolidated
       { source: "/kids-yoga", destination: "/school-yoga", permanent: true },
       { source: "/workplace-wellness", destination: "/workplace-yoga", permanent: true },
+
+      // Teacher marketplace consolidates the legacy "graduates" concept.
+      { source: "/graduates", destination: "/teachers", permanent: true },
+      { source: "/instructors", destination: "/teachers", permanent: true },
+      { source: "/find-a-teacher", destination: "/teachers", permanent: true },
+
+      // Events: catch the live-site /upcoming-event/ pattern.
+      { source: "/upcoming-event/:slug*", destination: "/events/:slug*", permanent: true },
+      { source: "/calendar", destination: "/events", permanent: true },
+
+      // LA28 / Olympics
+      { source: "/la28", destination: "/yoga-near-long-beach-convention-center", permanent: false },
+      { source: "/olympics", destination: "/yoga-near-long-beach-convention-center", permanent: false },
     ];
   },
 

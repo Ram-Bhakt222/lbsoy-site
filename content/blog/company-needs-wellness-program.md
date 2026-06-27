@@ -148,7 +148,7 @@ city: "Long Beach"
           <p>Yoga Therapist & Wellness Director</p>
         </div>
       </div>
-      <p class="author-bio-text">Ram Bhakt is a certified yoga therapist with an E-RYT 500 credential from the Yoga Alliance and over 15 years of experience helping individuals and organizations harness yoga for healing and performance. He founded Long Beach School of Yoga in 2014 and has since trained 99+ certified yoga professionals while serving hundreds of corporate and private clients across Southern California. His approach blends ancient yogic wisdom with clinical research, making yoga accessible and effective for real-world challenges like stress, chronic pain, and workplace wellness.</p>
+      <p class="author-bio-text">Ram Bhakt is a certified yoga therapist with an E-RYT 500 credential from the Yoga Alliance and over 15 years of experience helping individuals and organizations harness yoga for healing and performance. He founded Long Beach School of Yoga in 2012 and has since trained 99+ certified yoga professionals while serving hundreds of corporate and private clients across Southern California. His approach blends ancient yogic wisdom with clinical research, making yoga accessible and effective for real-world challenges like stress, chronic pain, and workplace wellness.</p>
     </section>
 
     <!-- Related Posts -->

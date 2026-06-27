@@ -8,7 +8,7 @@ const data = courseRegistry["private-yoga"];
 export const metadata: Metadata = buildMetadata({
   title: "Private Yoga in Long Beach | 1-on-1 Sessions In-Home or Virtual",
   description:
-    "Private yoga sessions in Long Beach with Ram Bhakt, E-RYT 500. One-on-one instruction in-studio, in-home across Belmont Shore, Naples, Bixby Knolls and more, or virtual. Built around your body.",
+    "Private yoga sessions in Long Beach with Ram Bhakt, E-RYT 500. One-on-one instruction in-home across the entire city — Bixby Knolls, Belmont Shore, Naples, Signal Hill, Wrigley, and beyond — or virtual. Built around your body.",
   path: "/courses/private-yoga",
   keywords: [
     "private yoga long beach",

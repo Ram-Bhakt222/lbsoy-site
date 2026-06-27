@@ -2,6 +2,8 @@ import type { MetadataRoute } from "next";
 import { siteConfig } from "@/lib/site";
 import { getAllPostSlugs } from "@/lib/posts";
 import { courseList } from "./courses/_course-data";
+import { teacherList } from "@/lib/teachers";
+import { eventList } from "@/lib/events";
 
 /**
  * Dynamic sitemap. Regenerates on every build (or on revalidation window).
@@ -26,6 +28,9 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     { url: `${base}/contact`, lastModified: now, priority: 0.5, changeFrequency: "yearly" },
     { url: `${base}/free-consultation`, lastModified: now, priority: 0.8, changeFrequency: "yearly" },
     { url: `${base}/blog`, lastModified: now, priority: 0.9, changeFrequency: "weekly" },
+    { url: `${base}/teachers`, lastModified: now, priority: 0.9, changeFrequency: "weekly" },
+    { url: `${base}/events`, lastModified: now, priority: 0.95, changeFrequency: "daily" },
+    { url: `${base}/yoga-near-long-beach-convention-center`, lastModified: now, priority: 0.85, changeFrequency: "monthly" },
   ];
 
   const courses = courseList.map((c) => ({
@@ -42,5 +47,19 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     changeFrequency: "monthly" as const,
   }));
 
-  return [...staticRoutes, ...courses, ...posts];
+  const teachers = teacherList.map((t) => ({
+    url: `${base}/teachers/${t.slug}`,
+    lastModified: now,
+    priority: 0.75,
+    changeFrequency: "monthly" as const,
+  }));
+
+  const events = eventList.map((e) => ({
+    url: `${base}/events/${e.slug}`,
+    lastModified: new Date(e.updatedAt ?? now),
+    priority: e.isPast ? 0.4 : 0.85,
+    changeFrequency: e.isPast ? "yearly" as const : "weekly" as const,
+  }));
+
+  return [...staticRoutes, ...courses, ...posts, ...teachers, ...events];
 }

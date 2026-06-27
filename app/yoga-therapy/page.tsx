@@ -199,7 +199,7 @@ const PAGE_HTML = String.raw`<!-- Navigation -->
       </div>
       <div class="trust-item">
         <svg viewBox="0 0 24 24" fill="none" stroke-width="2"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>
-        Serving Long Beach Since 2014
+        Serving Long Beach Since 2012
       </div>
     </div>
   </div>
@@ -317,7 +317,7 @@ const PAGE_HTML = String.raw`<!-- Navigation -->
             <li>Specialization in Therapeutic Yoga for Chronic Pain</li>
             <li>Specialization in Trauma-Informed Yoga</li>
             <li>Prenatal & Postnatal Yoga Specialist</li>
-            <li>10+ Years of Clinical Experience</li>
+            <li>14+ Years of Clinical Experience</li>
           </ul>
         </div>
       </div>
@@ -465,19 +465,22 @@ const PAGE_SCHEMA = {
     "@context": "https://schema.org",
     "@type": ["HealthAndBeautyBusiness", "LocalBusiness"],
     "name": "Long Beach School of Yoga - Yoga Therapy",
-    "description": "Clinically-informed yoga therapy in Long Beach for chronic pain, anxiety, stress, and injury recovery",
+    "description": "Yoga therapy in Long Beach for back pain, recovery, postpartum, anxiety, and chronic conditions. One-on-one or small-group sessions adapted to your specific condition.",
     "url": "https://longbeachschoolofyoga.com/yoga-therapy",
-    "telephone": "+1-562-123-4567",
-    "email": "info@lbsoy.com",
+    "email": "longbeachschoolofyoga@gmail.com",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Long Beach, CA",
       "addressLocality": "Long Beach",
       "addressRegion": "CA",
-      "postalCode": "90801",
       "addressCountry": "US"
     },
-    "areaServed": "Long Beach, CA",
+    "areaServed": [
+      { "@type": "City", "name": "Long Beach" },
+      { "@type": "City", "name": "Signal Hill" },
+      { "@type": "City", "name": "Seal Beach" },
+      { "@type": "City", "name": "Lakewood" },
+      { "@type": "City", "name": "Los Alamitos" }
+    ],
     "medicalSpecialty": "Yoga Therapy"
   };
 

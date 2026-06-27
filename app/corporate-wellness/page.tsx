@@ -362,7 +362,7 @@ const PAGE_SCHEMA = {
     "name": "Long Beach School of Yoga Corporate Wellness",
     "description": "Corporate wellness programs featuring on-site and virtual yoga, stress management, and meditation workshops for Long Beach businesses.",
     "url": "https://longbeachschoolofyoga.com/corporate-wellness",
-    "email": "info@lbsoy.com",
+    "email": "longbeachschoolofyoga@gmail.com",
     "areaServed": ["Long Beach", "Los Angeles County", "California"],
     "hasOfferCatalog": {
       "@type": "OfferCatalog",
