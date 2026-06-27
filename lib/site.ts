@@ -78,16 +78,9 @@ export const siteConfig = {
     { label: "Blog", href: "/blog" },
   ],
 
-  // Footer link groups
+  // Footer link groups — keys map to the three Footer columns (Services / Company / Resources).
   footerLinks: {
-    school: [
-      { label: "About the School", href: "/about" },
-      { label: "Teacher Training (RYT-200)", href: "/school-yoga" },
-      { label: "Online Courses", href: "/online-courses" },
-      { label: "Teachers", href: "/teachers" },
-      { label: "Events", href: "/events" },
-    ],
-    offerings: [
+    services: [
       { label: "Yoga Therapy", href: "/yoga-therapy" },
       { label: "Senior Yoga", href: "/senior-wellness" },
       { label: "Corporate Wellness", href: "/corporate-wellness" },
@@ -98,6 +91,13 @@ export const siteConfig = {
       { label: "FAQs", href: "/faqs" },
       { label: "Contact", href: "/contact" },
       { label: "My Yoga Network", href: "https://myyoganetwork.com" },
+    ],
+    resources: [
+      { label: "About the School", href: "/about" },
+      { label: "Teacher Training (RYT-200)", href: "/school-yoga" },
+      { label: "Online Courses", href: "/online-courses" },
+      { label: "Teachers", href: "/teachers" },
+      { label: "Events", href: "/events" },
     ],
   },
 } as const;
