@@ -1,17 +1,17 @@
 ---
 title: "Healthy Things to Do in Long Beach: The Living Guide"
-description: "A regularly updated guide to healthy things to do in Long Beach — this week's events plus the best restaurants, parks, recovery studios, and water sports."
-date: "2026-06-29"
-lastUpdated: "2026-06-29"
+description: "A regularly updated guide to healthy things to do in Long Beach — this week's events plus the best restaurants, parks, juice bars, and water sports."
+date: "2026-06-25"
+lastUpdated: "2026-06-25"
 tag: "Long Beach Directory"
 author: "Long Beach School of Yoga"
 keywords:
   - "things to do in long beach"
   - "healthy long beach"
   - "long beach wellness guide"
-  - "cold plunge long beach"
-  - "infrared sauna long beach"
   - "healthy restaurants long beach"
+  - "long beach parks and trails"
+  - "acai bowls long beach"
   - "yoga on the bluff long beach"
   - "long beach water sports"
 city: "Long Beach"
@@ -62,10 +62,6 @@ Pack a picnic and walk or bike to your nearest park. The 2026 theme is "Picnics 
 
 Walk, shop local produce, and walk home. That's a complete wellness outing.
 
-### Coming Up Later in July
-
-Mark the calendar: **Stroll & Savor** returns to 2nd Street in Belmont Shore on **July 15–16** (dozens of eateries serving sidewalk samples — a walkable food crawl), and the **Love Long Beach Festival** lands at Shoreline Aquatic Park on **July 18–19** with beachfront yoga at the Yoga Meadow, sound healing, a farmers market, and live music. Both reward arriving on foot or by bike.
-
 > Events shift week to week — always confirm with the organizer before you go.
 
 ## Best Healthy Restaurants & Cafés in Long Beach
@@ -106,13 +102,9 @@ The **Shoreline Pedestrian Bikepath** runs roughly 4.5 miles flat and car-free f
 
 **Long Beach Run Club** (Meetup, meets Coronado Ave & Ocean Blvd Saturday mornings, ~5 miles). **Run Club Girls** (9 a.m. weekly, two pace options). **Lululemon run clubs** (Belmont Shore and PCH corridor). **The Camp Transformation Center** (245 The Promenade N, 5 a.m. weekdays bootcamp). **Crunch Fitness** (100 Oceangate, group HIIT/cycling/Zumba). Upcoming: Aloha Run (Sept 20, Shoreline Aquatic Park), 2XU Long Beach Marathon (Oct 10–11). Full guide: [Best Run & Walk Clubs & Group Fitness in Long Beach](/blog/2026-06-18-best-run-walk-clubs-long-beach).
 
-## Best Cold Plunge, Sauna & Recovery Studios in Long Beach
-
-Recovery is Long Beach's fastest-growing wellness habit, and a recovery row of contrast-therapy studios has opened up along Pacific Coast Highway. In **Belmont Shore / Belmont Heights**: **SWTHZ (SweatHouz)** (6480 E PCH, Ste 152) for private infrared-sauna + cold-plunge + vitamin-C-shower suites; **Pause Studio** (6242 PCH) for structured contrast therapy plus IV hydration; and **Human Aeon — The Hidden Sanctuary** (121 Belmont Ave) for a calm, natural take on cold plunge and sauna. Near the **Traffic Circle**: **ReEnergized** (4434 E PCH) stacks contrast therapy with cryotherapy, hyperbaric oxygen, and red-light. In **East Long Beach**: **Cellevate** (6445 E PCH) is the social option — a 10-person communal cold plunge and 20+-person infrared sauna with breathwork — and **Perspire Sauna Studio** at the Long Beach Exchange (4201 McGowen St) offers 40-minute full-spectrum infrared sessions with red-light and a cold "SNO" shower finish. A quick honest note: treat recovery benefits as what studios report, not medical promises, and check with your doctor before cold immersion if you have a heart condition. Full guide: [Best Cold Plunge, Sauna & Recovery Studios in Long Beach](/blog/2026-06-29-cold-plunge-sauna-recovery-long-beach).
-
 ## More Coming Soon
 
-This directory grows every few days — family-friendly outings, gyms and strength training, mental-health and mindfulness resources, bike paths, and seasonal guides. [Reach out](/free-consultation) if you run a healthy Long Beach spot that belongs here.
+This directory grows every few days — cold plunge and recovery, family-friendly outings, gyms, farmers markets, and seasonal guides. [Reach out](/free-consultation) if you run a healthy Long Beach spot that belongs here.
 
 ## About Long Beach School of Yoga
 
