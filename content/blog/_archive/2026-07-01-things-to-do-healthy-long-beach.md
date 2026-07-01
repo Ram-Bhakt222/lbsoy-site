@@ -1,16 +1,16 @@
 ---
 title: "Healthy Things to Do in Long Beach: The Living Guide"
-description: "A regularly updated guide to healthy things to do in Long Beach — this week's events plus the best parks, restaurants, recovery studios, and water sports."
-date: "2026-07-01"
-lastUpdated: "2026-07-01"
+description: "A regularly updated guide to healthy things to do in Long Beach — this week's events plus the best restaurants, parks, recovery studios, and water sports."
+date: "2026-06-29"
+lastUpdated: "2026-06-29"
 tag: "Long Beach Directory"
 author: "Long Beach School of Yoga"
 keywords:
   - "things to do in long beach"
   - "healthy long beach"
   - "long beach wellness guide"
-  - "best parks in long beach"
-  - "el dorado park long beach"
+  - "cold plunge long beach"
+  - "infrared sauna long beach"
   - "healthy restaurants long beach"
   - "yoga on the bluff long beach"
   - "long beach water sports"
@@ -22,29 +22,21 @@ This is our living guide to healthy, active things to do in Long Beach — updat
 
 ## This Week in Long Beach
 
-### Fourth of July on the Long Beach Shoreline
+### Sea to Shining LBC — July 4 Fireworks Finale
 
-**When:** Saturday, July 4 — city fireworks finale at 9 p.m. (about 20 minutes)
+**When:** Saturday, July 4 — fireworks at 9 p.m. (about 20 minutes)
 **Where:** Three coastal zones — Queen Mary / Downtown Waterfront, Cherry / Junipero Beach, and Granada Beach
 **Cost:** Free
 
-With the long-running Big Bang on the Bay show on pause for 2026, the city is hosting a free, coast-wide Fourth of July celebration capped by a synchronized fireworks finale visible from multiple beach gathering spots. Walk or bike to your nearest zone and make a full day of the shoreline.
+With the long-running Big Bang on the Bay show on pause for 2026 (the Coastal Commission did not approve its permit), the city is hosting a free, coast-wide Fourth of July celebration marking America's 250th — capped by a synchronized fireworks finale visible from multiple beach gathering spots. Walk or bike to your nearest zone and make a day of the shoreline.
 
-### Long Beach Municipal Band — "Picnics and Pops" — Through July 31
-
-**When:** Tuesdays–Fridays at 6:30 p.m. (Wed 7/1 Los Cerritos, Thu 7/2 Marine Stadium, Fri 7/3 El Dorado West, Tue 7/7 Bixby Annex, Wed 7/8 Los Cerritos, Thu 7/9 Marine Stadium, Fri 7/10 El Dorado West)
-**Where:** Five rotating parks — Bixby Annex, Los Cerritos Park, Larry Curtis Concert Park at Marine Stadium, El Dorado Park West
-**Cost:** Free
-
-The 117th season of the Municipal Band plays four nights a week across the city's parks. Pack a picnic, bring a blanket, and walk or bike to your nearest park — a built-in reason to be outside and moving. Check longbeach.gov/park for the night's location.
-
-### Moonlight Movies on the Beach — Tuesdays Through Summer
+### Moonlight Movies on the Beach — Tuesdays Through August 18
 
 **When:** Tuesdays at sundown (roughly 8–8:30 p.m.)
-**Where:** Granada Beach, 5000 E. Ocean Blvd. (Belmont Shore)
+**Where:** Granada Beach (Belmont Shore)
 **Cost:** Free
 
-Free outdoor movie nights on the sand with food trucks on-site (Mean Girls plays July 14, The Lost Boys July 21). Bring a blanket, walk the beach beforehand, and settle in — a low-cost, screen-light-free way to wind down a summer evening outdoors.
+Free outdoor movie nights on the sand. Bring a blanket, walk the beach beforehand, and settle in — a low-cost, screen-light-free way to wind down a summer evening outdoors.
 
 ### Yoga on the Bluff — Daily, Year-Round
 
@@ -53,6 +45,14 @@ Free outdoor movie nights on the sand with food trucks on-site (Mean Girls plays
 **Cost:** Free; donations welcome
 
 Long Beach's best standing free wellness ritual. Rotating instructors lead an open-air, all-levels session above the Pacific. Cancelled only in rain.
+
+### Long Beach Municipal Band Summer Concert Series — Through July 31
+
+**When:** Tuesdays–Fridays at 6:30 p.m., rotating parks
+**Where:** Five rotating parks — Whaley Park North, Bixby Annex, Marine Stadium, Los Cerritos, El Dorado West (check longbeach.gov/park/municipal-band for the night's location)
+**Cost:** Free
+
+Pack a picnic and walk or bike to your nearest park. The 2026 theme is "Picnics and Pops" — a built-in reason to be outside and moving four nights a week.
 
 ### Long Beach Farmers Markets — Weekly
 
@@ -64,13 +64,9 @@ Walk, shop local produce, and walk home. That's a complete wellness outing.
 
 ### Coming Up Later in July
 
-Mark the calendar: **Stroll & Savor** returns to 2nd Street in Belmont Shore on **July 15–16** (dozens of eateries serving sidewalk samples — a walkable food crawl), the **CSULB Japanese Garden** summer concert-and-picnic series runs **Fridays July 10–August 28** (5:30–7:30 p.m.), and **Live at the Shell** brings Tuesday-evening concerts to Recreation Park starting **July 14**. All reward arriving on foot or by bike.
+Mark the calendar: **Stroll & Savor** returns to 2nd Street in Belmont Shore on **July 15–16** (dozens of eateries serving sidewalk samples — a walkable food crawl), and the **Love Long Beach Festival** lands at Shoreline Aquatic Park on **July 18–19** with beachfront yoga at the Yoga Meadow, sound healing, a farmers market, and live music. Both reward arriving on foot or by bike.
 
 > Events shift week to week — always confirm with the organizer before you go.
-
-## Best Parks & Green Spaces in Long Beach
-
-Long Beach has one of the deepest park systems in Southern California — more than 170 parks across roughly 3,200 acres — and using them is the cheapest, most reliable way to stay active here. The crown jewel is **El Dorado East Regional Park** in **East Long Beach**, an 800-plus-acre complex split by the San Gabriel River with fishing lakes, bike trails, an archery range, and the **El Dorado Nature Center** (2+ miles of dirt-and-paved loop trails around lakes and woodland; trails open Tue–Sun 8 a.m.–5 p.m., free to walk in, vehicles $6–9). Across the street, **El Dorado Park West** packs a 15-court tennis center, a skate park, disc golf, and a duck pond into 275 acres. **Recreation Park** near the Traffic Circle offers golf, two pools, a running track, disc golf, and the band shell at Live at the Shell. **Heartwell Park** (122 acres) has a fishing pond, a bike/skate path, and a fitness course; **Wardlow Park** on the Westside rounds it out with fields and playgrounds. For views and a walk, the **Bluff Park** loop above Alamitos Beach runs a little over a mile along the ocean, **Bixby Park** offers bluff-top seating and the daily Yoga on the Bluff, and **Hilltop Park** in **Signal Hill** delivers a short, steep climb to 360-degree views of the harbor and Catalina. Full guide: [Best Parks & Green Spaces in Long Beach](/blog/2026-07-01-best-parks-green-spaces-long-beach).
 
 ## Best Healthy Restaurants & Cafés in Long Beach
 
@@ -98,7 +94,7 @@ Long Beach has five miles of beach, a protected bay, calm canals, and some of th
 
 You don't need a membership to live well here. The daily free Yoga on the Bluff, bluff-top paths above Alamitos Beach, and open lawns of Bluff Park are a no-cost gym. Add the free summer Municipal Band concerts, Moonlight Movies on the sand, and a farmers-market produce run and you have a genuinely healthy Long Beach day for the price of a coffee donation.
 
-## Best Bluff & Beach Walking Paths in Long Beach
+## Best Parks, Bluff & Beach Paths in Long Beach
 
 The **Shoreline Pedestrian Bikepath** runs roughly 4.5 miles flat and car-free from Shoreline Village to Belmont Shore. In **Naples Island**, the **Naples Canals Loop** is a gentle ~2.5-mile waterfront walk. Up in **Signal Hill**, the Signal Hill Trail and Hilltop Park offer the only real elevation in the Long Beach basin, with 360-degree views from the top.
 
@@ -112,12 +108,4 @@ The **Shoreline Pedestrian Bikepath** runs roughly 4.5 miles flat and car-free f
 
 ## Best Cold Plunge, Sauna & Recovery Studios in Long Beach
 
-Recovery is Long Beach's fastest-growing wellness habit, and a recovery row of contrast-therapy studios has opened up along Pacific Coast Highway. In **Belmont Shore / Belmont Heights**: **SWTHZ (SweatHouz)** (6480 E PCH, Ste 152) for private infrared-sauna + cold-plunge + vitamin-C-shower suites; **Pause Studio** (6242 PCH) for structured contrast therapy plus IV hydration; and **Human Aeon — The Hidden Sanctuary** (121 Belmont Ave) for a calm, natural take on cold plunge and sauna. Near the **Traffic Circle**: **ReEnergized** (4434 E PCH) stacks contrast therapy with cryotherapy, hyperbaric oxygen, and red-light. In **East Long Beach**: **Cellevate** (6445 E PCH) is the social option — a 10-person communal cold plunge and 20+-person infrared sauna with breathwork — and **Perspire Sauna Studio** at the Long Beach Exchange (4201 McGowen St) offers 40-minute full-spectrum infrared sessions with red-light and a cold "SNO" shower finish. A quick honest note: treat recovery benefits as what studios report, not medical promises, and check with your doctor before cold immersion if you have a heart condition. Full guide: [Best Cold Plunge, Sauna & Recovery Studios in Long Beach](/blog/2026-06-29-cold-plunge-sauna-recovery-long-beach).
-
-## More Coming Soon
-
-This directory grows every few days — family-friendly outings, gyms and strength training, mental-health and mindfulness resources, bike paths, and seasonal guides. [Reach out](/free-consultation) if you run a healthy Long Beach spot that belongs here.
-
-## About Long Beach School of Yoga
-
-LBSOY is Long Beach's hub for yoga therapy and corporate wellness, powered by the My Yoga Network marketplace of IAYT-credentialed yoga therapists. Looking for a corporate wellness program for your Long Beach office? [Start with a free consultation](/free-consultation).
+Recovery is Long Beach's fastest-growing wellness habit, and a rec
