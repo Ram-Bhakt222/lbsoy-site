@@ -2,7 +2,7 @@
 title: "Naples Island Wellness Guide: A Quiet Long Beach Loop You Can Actually Stick With"
 description: "A clinical-eyed wellness guide to Naples Island in Long Beach: the 2.5-mile canal loop, Mother's Beach, water yoga, and how locals build a sustainable routine."
 date: "2026-05-06"
-tag: "Long Beach Neighborhoods"
+tag: "Long Beach Neighborhood Guide"
 author: "Long Beach School of Yoga"
 keywords:
   - "naples island long beach"

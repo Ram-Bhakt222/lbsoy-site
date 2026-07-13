@@ -1,19 +1,19 @@
 ---
 title: "Healthy Things to Do in Long Beach: The Living Guide"
-description: "A regularly updated guide to healthy things to do in Long Beach — this week's events plus the best parks, restaurants, recovery studios, and family activities."
-date: "2026-07-13"
-lastUpdated: "2026-07-13"
+description: "A regularly updated guide to healthy things to do in Long Beach — this week's events plus the best parks, restaurants, recovery studios, and water sports."
+date: "2026-07-01"
+lastUpdated: "2026-07-01"
 tag: "Long Beach Directory"
 author: "Long Beach School of Yoga"
 keywords:
   - "things to do in long beach"
   - "healthy long beach"
   - "long beach wellness guide"
-  - "family things to do long beach"
-  - "long beach with kids"
+  - "best parks in long beach"
+  - "el dorado park long beach"
   - "healthy restaurants long beach"
   - "yoga on the bluff long beach"
-  - "beach streets long beach"
+  - "long beach water sports"
 city: "Long Beach"
 coverImage: "/uploads/blog-images/things-to-do-healthy-long-beach-hero.png"
 ---
@@ -22,37 +22,29 @@ This is our living guide to healthy, active things to do in Long Beach — updat
 
 ## This Week in Long Beach
 
-### Beach Streets Kickin' It — Downtown Long Beach
+### Fourth of July on the Long Beach Shoreline
 
-**When:** Sunday, July 19, 11 a.m.–4 p.m. (welcome ceremony 11:30 a.m.)
-**Where:** Pine Ave (1st–9th), Broadway (Pine–Redondo), Cherry Ave (Broadway–4th), 4th St (Cherry–Junipero) — Kickin' It Hub at Bixby Park, 130 Cherry Ave
+**When:** Saturday, July 4 — city fireworks finale at 9 p.m. (about 20 minutes)
+**Where:** Three coastal zones — Queen Mary / Downtown Waterfront, Cherry / Junipero Beach, and Granada Beach
 **Cost:** Free
 
-The city closes miles of downtown streets to car traffic for an afternoon of walking, biking, and rolling — this edition doubles as the send-off for Long Beach's "Soccer in the LBC" World Cup programming, with family-friendly soccer activities and a big-screen watch party at the Bixby Park hub. The single best "get the whole family moving" event of the month.
+With the long-running Big Bang on the Bay show on pause for 2026, the city is hosting a free, coast-wide Fourth of July celebration capped by a synchronized fireworks finale visible from multiple beach gathering spots. Walk or bike to your nearest zone and make a full day of the shoreline.
 
-### Love Long Beach Festival
+### Long Beach Municipal Band — "Picnics and Pops" — Through July 31
 
-**When:** Saturday–Sunday, July 18–19
-**Where:** ShoreLine Aquatic Park
-**Cost:** Ticketed
-
-Two days of music and dance performances on the downtown shoreline. Walk or bike down rather than driving — parking is tight on festival weekends.
-
-### Belmont Shore Stroll & Savor
-
-**When:** Wednesday–Thursday, July 15–16, evening
-**Where:** 2nd Street, Belmont Shore
-**Cost:** Free to attend; tasting tickets $15/sheet
-
-Dozens of Belmont Shore restaurants serve sidewalk samples along a walkable stretch of 2nd Street — a food crawl that's naturally a few thousand steps.
-
-### Long Beach Municipal Band — "Songs for the One You Love" Week
-
-**When:** Tue 7/14 Bixby Annex · Wed 7/15 Los Cerritos Park · Thu 7/16 Marine Stadium · Fri 7/17 El Dorado Park West — all 6:30 p.m.
-**Where:** Rotating city parks
+**When:** Tuesdays–Fridays at 6:30 p.m. (Wed 7/1 Los Cerritos, Thu 7/2 Marine Stadium, Fri 7/3 El Dorado West, Tue 7/7 Bixby Annex, Wed 7/8 Los Cerritos, Thu 7/9 Marine Stadium, Fri 7/10 El Dorado West)
+**Where:** Five rotating parks — Bixby Annex, Los Cerritos Park, Larry Curtis Concert Park at Marine Stadium, El Dorado Park West
 **Cost:** Free
 
-Pack a picnic, walk or bike to the nearest park, and catch the 117th season of the Municipal Band. New themed program each week through July 31.
+The 117th season of the Municipal Band plays four nights a week across the city's parks. Pack a picnic, bring a blanket, and walk or bike to your nearest park — a built-in reason to be outside and moving. Check longbeach.gov/park for the night's location.
+
+### Moonlight Movies on the Beach — Tuesdays Through Summer
+
+**When:** Tuesdays at sundown (roughly 8–8:30 p.m.)
+**Where:** Granada Beach, 5000 E. Ocean Blvd. (Belmont Shore)
+**Cost:** Free
+
+Free outdoor movie nights on the sand with food trucks on-site (Mean Girls plays July 14, The Lost Boys July 21). Bring a blanket, walk the beach beforehand, and settle in — a low-cost, screen-light-free way to wind down a summer evening outdoors.
 
 ### Yoga on the Bluff — Daily, Year-Round
 
@@ -62,23 +54,23 @@ Pack a picnic, walk or bike to the nearest park, and catch the 117th season of t
 
 Long Beach's best standing free wellness ritual. Rotating instructors lead an open-air, all-levels session above the Pacific. Cancelled only in rain.
 
-### Moonlight Movies on the Beach & Farmers Markets — Weekly
+### Long Beach Farmers Markets — Weekly
 
-**When:** Movies Tuesdays at sundown, Granada Beach; Farmers Markets: Bixby Park Tue 3–8 p.m. & Sat 9 a.m.–2 p.m., CSULB Tue & Wed 10 a.m.–2 p.m., Marine Stadium Tue & Wed evenings, Harbor area Thu/Fri/Sun
-**Where:** Granada Beach; Bixby Park, CSULB, Marine Stadium, Harbor neighborhoods
-**Cost:** Free
+**When:** Bixby Park Tue 3–8 p.m. & Sat 9 a.m.–2 p.m.; CSULB Tue & Wed 10 a.m.–2 p.m.; Marine Stadium Tue & Wed evenings; Harbor area Thu/Fri/Sun
+**Where:** Bixby Park (Alamitos Beach), CSULB campus, Marine Stadium, Harbor neighborhoods
+**Cost:** Free to browse
 
-Two standing, no-cost reasons to walk somewhere this week.
+Walk, shop local produce, and walk home. That's a complete wellness outing.
+
+### Coming Up Later in July
+
+Mark the calendar: **Stroll & Savor** returns to 2nd Street in Belmont Shore on **July 15–16** (dozens of eateries serving sidewalk samples — a walkable food crawl), the **CSULB Japanese Garden** summer concert-and-picnic series runs **Fridays July 10–August 28** (5:30–7:30 p.m.), and **Live at the Shell** brings Tuesday-evening concerts to Recreation Park starting **July 14**. All reward arriving on foot or by bike.
 
 > Events shift week to week — always confirm with the organizer before you go.
 
 ## Best Parks & Green Spaces in Long Beach
 
 Long Beach has one of the deepest park systems in Southern California — more than 170 parks across roughly 3,200 acres — and using them is the cheapest, most reliable way to stay active here. The crown jewel is **El Dorado East Regional Park** in **East Long Beach**, an 800-plus-acre complex split by the San Gabriel River with fishing lakes, bike trails, an archery range, and the **El Dorado Nature Center** (2+ miles of dirt-and-paved loop trails around lakes and woodland; trails open Tue–Sun 8 a.m.–5 p.m., free to walk in, vehicles $6–9). Across the street, **El Dorado Park West** packs a 15-court tennis center, a skate park, disc golf, and a duck pond into 275 acres. **Recreation Park** near the Traffic Circle offers golf, two pools, a running track, disc golf, and the band shell at Live at the Shell. **Heartwell Park** (122 acres) has a fishing pond, a bike/skate path, and a fitness course; **Wardlow Park** on the Westside rounds it out with fields and playgrounds. For views and a walk, the **Bluff Park** loop above Alamitos Beach runs a little over a mile along the ocean, **Bixby Park** offers bluff-top seating and the daily Yoga on the Bluff, and **Hilltop Park** in **Signal Hill** delivers a short, steep climb to 360-degree views of the harbor and Catalina. Full guide: [Best Parks & Green Spaces in Long Beach](/blog/2026-07-01-best-parks-green-spaces-long-beach).
-
-## Best Family-Friendly Healthy Things to Do in Long Beach
-
-Long Beach is an easy place to raise active kids. **Aquarium of the Pacific** (100 Aquarium Way) anchors the Downtown waterfront with 11,000+ animals across 50 exhibits, open daily 9 a.m.–6 p.m. In **Naples**, **Mother's Beach / Marine Park** (5839 Appian Way) has calm, lifeguarded bay water plus a climb-crawl-swing playground steps from the sand — the easiest supervised beach day in the city. In **East Long Beach**, **Colorado Lagoon** (5119 E Colorado St) pairs a shallow, wave-free swimming lagoon with a renovated inclusive playground built for ages 2–12. **Rancho Los Alamitos** (6400 E Bixby Hill Rd) is a free, walkable historic ranch where kids meet horses, goats, chickens, and rabbits in the barnyard, Wed–Sun 1–5 p.m. Down at **Shoreline Village**, **Wheel Fun Rentals** rents four-person surreys and kid trailers for a flat, car-free ride along the Shoreline Pedestrian Bikepath. Full guide: [Best Family-Friendly Healthy Things to Do in Long Beach](/blog/2026-07-13-family-friendly-healthy-things-to-do-long-beach).
 
 ## Best Healthy Restaurants & Cafés in Long Beach
 
@@ -124,7 +116,7 @@ Recovery is Long Beach's fastest-growing wellness habit, and a recovery row of c
 
 ## More Coming Soon
 
-This directory grows every few days — gyms and strength training, mental-health and mindfulness resources, farmers-market deep dives, bike paths, and seasonal guides. [Reach out](/free-consultation) if you run a healthy Long Beach spot that belongs here.
+This directory grows every few days — family-friendly outings, gyms and strength training, mental-health and mindfulness resources, bike paths, and seasonal guides. [Reach out](/free-consultation) if you run a healthy Long Beach spot that belongs here.
 
 ## About Long Beach School of Yoga
 

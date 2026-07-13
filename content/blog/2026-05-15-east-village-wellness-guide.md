@@ -2,7 +2,7 @@
 title: "East Village Arts District: A Walkable Wellness Guide for Downtown Long Beach"
 description: "How to use Long Beach's East Village Arts District — Harvey Milk Promenade Park, Yoga108, MOLAA, and the 2nd Saturday Art Walk — for a real weekly wellness routine."
 date: "2026-05-15"
-tag: "Long Beach Neighborhoods"
+tag: "Long Beach Neighborhood Guide"
 author: "Long Beach School of Yoga"
 keywords:
   - "east village long beach"

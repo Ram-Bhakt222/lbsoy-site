@@ -2,7 +2,7 @@
 title: "Belmont Shore Wellness Guide: Yoga, Movement, and Recovery in Long Beach's Most Walkable Neighborhood"
 description: "A Long Beach local's guide to Belmont Shore wellness — yoga, meditation, recovery, and 2nd Street walking routes for residents and visitors."
 date: "2026-04-29"
-tag: "Long Beach Neighborhoods"
+tag: "Long Beach Neighborhood Guide"
 author: "Long Beach School of Yoga"
 keywords:
   - "belmont shore wellness"
