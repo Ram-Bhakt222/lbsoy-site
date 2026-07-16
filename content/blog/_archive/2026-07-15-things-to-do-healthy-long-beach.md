@@ -1,19 +1,19 @@
 ---
 title: "Healthy Things to Do in Long Beach: The Living Guide"
-description: "A regularly updated guide to healthy things to do in Long Beach — this week's events plus the best parks, restaurants, bike paths, recovery studios, and family activities."
-date: "2026-07-15"
-lastUpdated: "2026-07-15"
+description: "A regularly updated guide to healthy things to do in Long Beach — this week's events plus the best parks, restaurants, recovery studios, and family activities."
+date: "2026-07-13"
+lastUpdated: "2026-07-13"
 tag: "Long Beach Directory"
 author: "Long Beach School of Yoga"
 keywords:
   - "things to do in long beach"
   - "healthy long beach"
   - "long beach wellness guide"
-  - "bike paths long beach"
+  - "family things to do long beach"
   - "long beach with kids"
   - "healthy restaurants long beach"
   - "yoga on the bluff long beach"
-  - "love long beach festival"
+  - "beach streets long beach"
 city: "Long Beach"
 coverImage: "/uploads/blog-images/things-to-do-healthy-long-beach-hero.png"
 ---
@@ -22,45 +22,37 @@ This is our living guide to healthy, active things to do in Long Beach — updat
 
 ## This Week in Long Beach
 
-### Belmont Shore Stroll & Savor
-
-**When:** Wednesday–Thursday, July 15–16, evening
-**Where:** 2nd Street, Belmont Shore
-**Cost:** Free to attend; tasting tickets $15/sheet
-
-Dozens of Belmont Shore restaurants serve sidewalk samples along a walkable stretch of 2nd Street — a food crawl that's naturally a few thousand steps. Happening tonight and tomorrow.
-
-### Love Long Beach Festival
-
-**When:** Saturday–Sunday, July 18–19
-**Where:** ShoreLine Aquatic Park, Downtown Long Beach
-**Cost:** Ticketed
-
-Now in its 11th year, this two-day shoreline festival pairs music and dance with a genuine wellness footprint: beachfront yoga at the Yoga Meadow, flow arts at the Flow Dojo, and sound healing at the Sound Oasis. Walk or bike down — parking is tight on festival weekends.
-
 ### Beach Streets Kickin' It — Downtown Long Beach
 
 **When:** Sunday, July 19, 11 a.m.–4 p.m. (welcome ceremony 11:30 a.m.)
 **Where:** Pine Ave (1st–9th), Broadway (Pine–Redondo), Cherry Ave (Broadway–4th), 4th St (Cherry–Junipero) — Kickin' It Hub at Bixby Park, 130 Cherry Ave
 **Cost:** Free
 
-The city closes miles of downtown streets to car traffic for an afternoon of walking, biking, and rolling — this edition doubles as the send-off for Long Beach's "Soccer in the LBC" World Cup programming, with family-friendly activities and a big-screen watch party at the Bixby Park hub. The single best "get the whole family moving" event of the month.
+The city closes miles of downtown streets to car traffic for an afternoon of walking, biking, and rolling — this edition doubles as the send-off for Long Beach's "Soccer in the LBC" World Cup programming, with family-friendly soccer activities and a big-screen watch party at the Bixby Park hub. The single best "get the whole family moving" event of the month.
 
-### Long Beach Municipal Band — "John Williams in Concert" Week
+### Love Long Beach Festival
 
-**When:** Tue 7/21 Bixby Annex · Wed 7/22 Los Cerritos Park · Thu 7/23 Marine Stadium (Larry Curtis Concert Park) · Fri 7/24 El Dorado Park West — all 6:30 p.m.
+**When:** Saturday–Sunday, July 18–19
+**Where:** ShoreLine Aquatic Park
+**Cost:** Ticketed
+
+Two days of music and dance performances on the downtown shoreline. Walk or bike down rather than driving — parking is tight on festival weekends.
+
+### Belmont Shore Stroll & Savor
+
+**When:** Wednesday–Thursday, July 15–16, evening
+**Where:** 2nd Street, Belmont Shore
+**Cost:** Free to attend; tasting tickets $15/sheet
+
+Dozens of Belmont Shore restaurants serve sidewalk samples along a walkable stretch of 2nd Street — a food crawl that's naturally a few thousand steps.
+
+### Long Beach Municipal Band — "Songs for the One You Love" Week
+
+**When:** Tue 7/14 Bixby Annex · Wed 7/15 Los Cerritos Park · Thu 7/16 Marine Stadium · Fri 7/17 El Dorado Park West — all 6:30 p.m.
 **Where:** Rotating city parks
 **Cost:** Free
 
-Pack a picnic, walk or bike to the nearest park, and catch a cinematic John Williams program from the 117th season of the Municipal Band. New themed program each week through July 31.
-
-### Vans Warped Tour — Shoreline Waterfront
-
-**When:** Saturday–Sunday, July 25–26
-**Where:** Festival Grounds at Shoreline Waterfront, Downtown Long Beach
-**Cost:** Ticketed
-
-The Warped Tour returns to the Long Beach waterfront with a stacked lineup. Not a wellness event, but an all-day, on-your-feet one — bike or transit in, since the shoreline lots fill fast.
+Pack a picnic, walk or bike to the nearest park, and catch the 117th season of the Municipal Band. New themed program each week through July 31.
 
 ### Yoga on the Bluff — Daily, Year-Round
 
@@ -87,10 +79,6 @@ Long Beach has one of the deepest park systems in Southern California — more t
 ## Best Family-Friendly Healthy Things to Do in Long Beach
 
 Long Beach is an easy place to raise active kids. **Aquarium of the Pacific** (100 Aquarium Way) anchors the Downtown waterfront with 11,000+ animals across 50 exhibits, open daily 9 a.m.–6 p.m. In **Naples**, **Mother's Beach / Marine Park** (5839 Appian Way) has calm, lifeguarded bay water plus a climb-crawl-swing playground steps from the sand — the easiest supervised beach day in the city. In **East Long Beach**, **Colorado Lagoon** (5119 E Colorado St) pairs a shallow, wave-free swimming lagoon with a renovated inclusive playground built for ages 2–12. **Rancho Los Alamitos** (6400 E Bixby Hill Rd) is a free, walkable historic ranch where kids meet horses, goats, chickens, and rabbits in the barnyard, Wed–Sun 1–5 p.m. Down at **Shoreline Village**, **Wheel Fun Rentals** rents four-person surreys and kid trailers for a flat, car-free ride along the Shoreline Pedestrian Bikepath. Full guide: [Best Family-Friendly Healthy Things to Do in Long Beach](/blog/2026-07-13-family-friendly-healthy-things-to-do-long-beach).
-
-## Best Bike Paths & Active Transportation in Long Beach
-
-Long Beach markets itself as one of America's most bike-friendly cities, and the paths back it up. The flagship is the **Shoreline Pedestrian Bikepath** — about 4.5 flat, car-free miles along the Pacific from **Shoreline Village** in Downtown to **Belmont Shore**, with a 17-foot-wide paved core from Shoreline Village to Alamitos Bay that's ideal for beginners and kids. For distance, two river routes start here: the **LA River Bike Path** (a ~4-mile Long Beach stretch of the nearly 30-mile bikeway) and the **San Gabriel River Bike Trail** (~28 miles through **El Dorado Regional Park** in **East Long Beach** down to Alamitos Bay Marina). Inside the parks, the **El Dorado Bike Path** (~4 miles) and **Heartwell Bike Path** (~2.5 miles) offer shaded, low-traffic loops. No bike? The **GoActiveLB Hub** (223 E. 1st St., Downtown; weekdays 9 a.m.–5 p.m.) rents bikes and anchors **Long Beach Bike Share**, and **Wheel Fun Rentals** at Shoreline Village stocks cruisers and surreys. Full guide: [Best Bike Paths & Active Transportation in Long Beach](/blog/2026-07-15-best-bike-paths-active-transportation-long-beach).
 
 ## Best Healthy Restaurants & Cafés in Long Beach
 
@@ -136,7 +124,7 @@ Recovery is Long Beach's fastest-growing wellness habit, and a recovery row of c
 
 ## More Coming Soon
 
-This directory grows every few days — gyms and strength training, mental-health and mindfulness resources, farmers-market deep dives, and seasonal guides. [Reach out](/free-consultation) if you run a healthy Long Beach spot that belongs here.
+This directory grows every few days — gyms and strength training, mental-health and mindfulness resources, farmers-market deep dives, bike paths, and seasonal guides. [Reach out](/free-consultation) if you run a healthy Long Beach spot that belongs here.
 
 ## About Long Beach School of Yoga
 
