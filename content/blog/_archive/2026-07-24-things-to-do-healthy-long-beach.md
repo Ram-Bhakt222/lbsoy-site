@@ -1,19 +1,19 @@
 ---
 title: "Healthy Things to Do in Long Beach: The Living Guide"
-description: "A regularly updated guide to healthy things to do in Long Beach — this week's events plus the best farmers markets, parks, restaurants, bike paths, and recovery studios."
-date: "2026-07-24"
-lastUpdated: "2026-07-24"
+description: "A regularly updated guide to healthy things to do in Long Beach — this week's events plus the best parks, restaurants, bike paths, recovery studios, and family activities."
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 tag: "Long Beach Directory"
 author: "Long Beach School of Yoga"
 keywords:
   - "things to do in long beach"
   - "healthy long beach"
   - "long beach wellness guide"
-  - "farmers markets long beach"
   - "bike paths long beach"
+  - "long beach with kids"
   - "healthy restaurants long beach"
   - "yoga on the bluff long beach"
-  - "long beach food scene week"
+  - "love long beach festival"
 city: "Long Beach"
 coverImage: "/uploads/blog-images/things-to-do-healthy-long-beach-hero.png"
 ---
@@ -22,37 +22,45 @@ This is our living guide to healthy, active things to do in Long Beach — updat
 
 ## This Week in Long Beach
 
-### KCRW Summer Nights at MOLAA — East Village
+### Belmont Shore Stroll & Savor
 
-**When:** Friday, July 24, 6–10 p.m.
-**Where:** Museum of Latin American Art, 628 Alamitos Ave, Downtown / East Village
-**Cost:** Free (RSVP; parking $10)
+**When:** Wednesday–Thursday, July 15–16, evening
+**Where:** 2nd Street, Belmont Shore
+**Cost:** Free to attend; tasting tickets $15/sheet
 
-A free, all-ages outdoor dance party in MOLAA's open-air courtyard with KCRW DJs Tyler Boudreaux (6–8) and Wyldeflower (8–10), plus food trucks, a full bar, and access to the galleries. Walk or bike in — it's an easy, active night out downtown.
+Dozens of Belmont Shore restaurants serve sidewalk samples along a walkable stretch of 2nd Street — a food crawl that's naturally a few thousand steps. Happening tonight and tomorrow.
 
-### Vans Warped Tour — Shoreline Waterfront
+### Love Long Beach Festival
 
-**When:** Saturday–Sunday, July 25–26, 11 a.m.–10 p.m.
-**Where:** Festival Grounds at Shoreline Waterfront, 386 E Shoreline Dr, Downtown Long Beach
+**When:** Saturday–Sunday, July 18–19
+**Where:** ShoreLine Aquatic Park, Downtown Long Beach
 **Cost:** Ticketed
 
-The Warped Tour returns to the Long Beach waterfront with 100+ acts across multiple stages plus skate and BMX demos. Not a wellness event, but an all-day, on-your-feet one — bike or transit in, since the shoreline lots fill fast.
+Now in its 11th year, this two-day shoreline festival pairs music and dance with a genuine wellness footprint: beachfront yoga at the Yoga Meadow, flow arts at the Flow Dojo, and sound healing at the Sound Oasis. Walk or bike down — parking is tight on festival weekends.
 
-### Long Beach Municipal Band — "Legends of Vinyl" Finale Week
+### Beach Streets Kickin' It — Downtown Long Beach
 
-**When:** Tue 7/28 Bixby Annex Park · Wed 7/29 Los Cerritos Park · Thu 7/30 Marine Stadium (Larry Curtis Concert Park) · Fri 7/31 El Dorado Park West — all 6:30 p.m.
+**When:** Sunday, July 19, 11 a.m.–4 p.m. (welcome ceremony 11:30 a.m.)
+**Where:** Pine Ave (1st–9th), Broadway (Pine–Redondo), Cherry Ave (Broadway–4th), 4th St (Cherry–Junipero) — Kickin' It Hub at Bixby Park, 130 Cherry Ave
+**Cost:** Free
+
+The city closes miles of downtown streets to car traffic for an afternoon of walking, biking, and rolling — this edition doubles as the send-off for Long Beach's "Soccer in the LBC" World Cup programming, with family-friendly activities and a big-screen watch party at the Bixby Park hub. The single best "get the whole family moving" event of the month.
+
+### Long Beach Municipal Band — "John Williams in Concert" Week
+
+**When:** Tue 7/21 Bixby Annex · Wed 7/22 Los Cerritos Park · Thu 7/23 Marine Stadium (Larry Curtis Concert Park) · Fri 7/24 El Dorado Park West — all 6:30 p.m.
 **Where:** Rotating city parks
 **Cost:** Free
 
-The 117th season closes with a '60s–'70s rock-and-pop program. Pack a picnic, walk or bike to the nearest park, and catch a free evening of live music under the stars — the last week of the summer series.
+Pack a picnic, walk or bike to the nearest park, and catch a cinematic John Williams program from the 117th season of the Municipal Band. New themed program each week through July 31.
 
-### Long Beach Food Scene Week
+### Vans Warped Tour — Shoreline Waterfront
 
-**When:** Friday, July 31 – Sunday, August 9
-**Where:** 100+ restaurants, bars, and cafés citywide
-**Cost:** Varies by venue
+**When:** Saturday–Sunday, July 25–26
+**Where:** Festival Grounds at Shoreline Waterfront, Downtown Long Beach
+**Cost:** Ticketed
 
-The fourth annual celebration of the local food scene, with more than 100 spaces confirmed for the first time — prix-fixe menus, new dishes, and returning favorites. Pick a neighborhood, walk between spots, and eat where Long Beach actually eats.
+The Warped Tour returns to the Long Beach waterfront with a stacked lineup. Not a wellness event, but an all-day, on-your-feet one — bike or transit in, since the shoreline lots fill fast.
 
 ### Yoga on the Bluff — Daily, Year-Round
 
@@ -60,21 +68,17 @@ The fourth annual celebration of the local food scene, with more than 100 spaces
 **Where:** Bixby Park Annex, Ocean Blvd at Junipero Ave (Alamitos Beach)
 **Cost:** Free; donations welcome
 
-Long Beach's best standing free wellness ritual — an open-air, all-levels session above the Pacific. Cancelled only in rain.
+Long Beach's best standing free wellness ritual. Rotating instructors lead an open-air, all-levels session above the Pacific. Cancelled only in rain.
 
-### Farmers Markets & Moonlight Movies — Weekly
+### Moonlight Movies on the Beach & Farmers Markets — Weekly
 
-**When:** Farmers Markets almost daily (Bixby Park Tue 3–8 p.m. & Sat 9 a.m.–2 p.m., Marine Stadium Wed 3–7 p.m., 4th St Thu 8 a.m.–noon, Bixby Knolls Thu 3–7 p.m., Downtown Fri 10 a.m.–2 p.m., Wrigley Sat 9 a.m.–2 p.m., Alamitos Bay & Clark/Spring Sun); Moonlight Movies Tuesdays at sundown, Granada Beach
-**Where:** Neighborhoods citywide; Granada Beach
-**Cost:** Free to attend
+**When:** Movies Tuesdays at sundown, Granada Beach; Farmers Markets: Bixby Park Tue 3–8 p.m. & Sat 9 a.m.–2 p.m., CSULB Tue & Wed 10 a.m.–2 p.m., Marine Stadium Tue & Wed evenings, Harbor area Thu/Fri/Sun
+**Where:** Granada Beach; Bixby Park, CSULB, Marine Stadium, Harbor neighborhoods
+**Cost:** Free
 
-Standing, no-cost reasons to walk somewhere this week — full day-by-day market guide below.
+Two standing, no-cost reasons to walk somewhere this week.
 
 > Events shift week to week — always confirm with the organizer before you go.
-
-## Best Farmers Markets in Long Beach
-
-Long Beach has a certified farmers market almost every day of the week, and mid-to-late summer is peak season for stone fruit, tomatoes, melons, and corn. **Tuesdays & Saturdays**, the **Bixby Park** market (130 Cherry Ave., **Alamitos Beach**) sets up across from the ocean — Tue 3–8 p.m., Sat 9 a.m.–2 p.m. — with produce, prepared food, and local makers. **Wednesdays**, the **Marine Stadium** market (5255 Paoli Way, near **Belmont Shore**) runs 3–7 p.m. on the water with fruit, flowers, and artisan goods. **Thursdays** give you two: the chef-driven **Fourth Street Farmers Market** on **Retro Row** (4th & Cherry, 8 a.m.–noon; Hey Brother Baker sourdough, Long Beach Mushrooms, Stepladder Ranch) and the neighborly **Bixby Knolls** market (Atlantic Ave. at E. 46th, 3–7 p.m.). **Fridays**, the bike-valet-friendly **Downtown Long Beach** market runs 10 a.m.–2 p.m. near 4th & the Promenade. **Saturdays** add the **Wrigley** market behind Long Beach Beer Lab (518 W. Willow St., **Westside**, 9 a.m.–2 p.m.). **Sundays**, choose the harbor-side **Alamitos Bay** market (205 N. Marina Dr., near **Naples**, 9 a.m.–2 p.m., heavy on seafood and cheese) or the relaxed **Farmers Marketplace** at Clark & Spring in **East Long Beach** (8 a.m.–1 p.m.). Several markets accept EBT, WIC, and CalFresh with **Market Match** doubling produce dollars up to $15. Full guide: [Best Farmers Markets in Long Beach](/blog/2026-07-24-best-farmers-markets-long-beach).
 
 ## Best Parks & Green Spaces in Long Beach
 
@@ -132,7 +136,7 @@ Recovery is Long Beach's fastest-growing wellness habit, and a recovery row of c
 
 ## More Coming Soon
 
-This directory grows every few days — gyms and strength training, mental-health and mindfulness resources, sober-curious nightlife, and seasonal guides. [Reach out](/free-consultation) if you run a healthy Long Beach spot that belongs here.
+This directory grows every few days — gyms and strength training, mental-health and mindfulness resources, farmers-market deep dives, and seasonal guides. [Reach out](/free-consultation) if you run a healthy Long Beach spot that belongs here.
 
 ## About Long Beach School of Yoga
 
