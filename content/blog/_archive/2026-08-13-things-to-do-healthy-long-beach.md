@@ -1,8 +1,8 @@
 ---
 title: "Healthy Things to Do in Long Beach: The Living Guide"
-description: "A regularly updated guide to healthy things to do in Long Beach — this week's events plus the best gyms, yoga studios, farmers markets, parks, and bike paths."
-date: "2026-08-13"
-lastUpdated: "2026-08-13"
+description: "A regularly updated guide to healthy things to do in Long Beach — this week's events plus the best yoga studios, farmers markets, parks, restaurants, and bike paths."
+date: "2026-08-04"
+lastUpdated: "2026-08-04"
 tag: "Long Beach Directory"
 author: "Long Beach School of Yoga"
 keywords:
@@ -14,7 +14,6 @@ keywords:
   - "parks long beach"
   - "yoga on the bluff long beach"
   - "walking trails long beach"
-  - "best gyms long beach"
   - "long beach summer events"
 city: "Long Beach"
 coverImage: "/uploads/blog-images/things-to-do-healthy-long-beach-hero.png"
@@ -32,41 +31,37 @@ This is our living guide to healthy, active things to do in Long Beach — updat
 
 Long Beach's best standing free wellness ritual — an open-air, all-levels session on the grass above the Pacific, led by rotating instructors seven days a week. Cancelled only in rain or wet ground.
 
-### Movies in the Park — The Last Two Weeks of the Season
+### Movies in the Park — Free Summer Nights
 
-**When:** Fri 8/14 Houghton Park (6301 Myrtle Ave.) · Sat 8/15 Signal Hill Park (2175 Cherry Ave.) — *Wicked: For Good* · Mon 8/17 Orizaba Park (1435 Orizaba Ave.) · Wed 8/19 Recreation Park (4900 E. 7th St.) · Fri 8/21 Ramona Park (3301 E. 65th St.) — *How to Train Your Dragon*. Activities 6:30 p.m., movie at dusk
+**When:** Wed 8/5 Silverado Park · Fri 8/8 MacArthur Park · Sun 8/10 Heartwell Park · Wed 8/12 College Estates Park · Fri 8/14 Houghton Park — arrive 6:30 p.m., film at dusk
 **Where:** Rotating city parks
 **Cost:** Free
 
-The city's free outdoor movie series closes out its 2026 run on August 21. Come at 6:30 p.m. for free popcorn, a bounce house, and a nightly raffle, then a family film after sundown. Most of these parks have a fitness loop or walking path — get a lap in before the projector starts.
+The Parks, Recreation & Marine department's free outdoor movie series runs through August 21. Come at 6:30 p.m. for free popcorn, a bounce house, and a nightly raffle, then a family film after sundown. Walk or bike to the nearest park and pack a blanket.
 
-### Moonlight Movies on the Beach — Season Finale
+### Moonlight Movies on the Beach — Belmont Shore
 
-**When:** Tuesday, August 18 — *Grease* Sing-A-Long, movie at sunset (8–8:30 p.m.)
+**When:** Tuesdays at 8 p.m. through August 18 (season closes with a *Grease* sing-along on 8/18)
 **Where:** Granada Beach, Belmont Shore
-**Cost:** Free; parking free after 6 p.m., limited and first-come
+**Cost:** Free; parking free after 6 p.m., limited spots
 
-The last beach movie of the summer. Food trucks and a kettle-corn vendor on site, BYO food welcome, no alcohol. Bike the Shoreline path down and skip the parking hunt entirely.
+Movies on the sand with food trucks and a kettle-corn vendor; bring your own food and low beach chairs. An easy, active summer night — bike the Shoreline path down and skip the parking hunt entirely.
 
-### Beachside Beats Fest: Prince Tribute — 2ND & PCH
+### Beachside Beats Fest — 2ND & PCH
 
-**When:** Thursday, August 20, 5–8 p.m.; seating opens 4 p.m., first-come first-served
+**When:** Thursday evenings through summer; seating opens 4 p.m., first-come first-served (Prince tribute on 8/20)
 **Where:** Seaport Way at 2ND & PCH, Belmont Shore
 **Cost:** Free
 
-A free, family-friendly waterfront concert — this one a Prince tribute set. Bring chairs and a blanket. Walk in from the Shoreline path rather than fighting for a space in the lot.
+A free, family-friendly live-music series on the waterfront, with face painting and airbrush tattoos from 5–7 p.m. Bring chairs and a blanket. Walk in from the Shoreline path rather than fighting for a space in the lot.
 
-### Free Outdoor Fitness Zones — Every Day
+### Taste of Downtown — KCRW Summer Nights
 
-**When:** Daylight hours, year-round
-**Where:** Nine city parks including the 4.8-mile Downtown Fitness Loop, Bixby Fitness Loop (Junipero & Ocean), Houghton Park, Lincoln Park, and Orizaba Park
-**Cost:** Free
+**When:** Saturday, August 22, 2–10 p.m.
+**Where:** Pine Avenue between Broadway and 3rd Street, Downtown
+**Cost:** Ticketed
 
-Long Beach maintains real outdoor gym equipment — pull-up and dip bars, leg press, chest press, marked distance loops — across nine parks, several of them ADA accessible. The city's own pitch: skip the membership. Full list in the gyms guide below.
-
-### Long Beach Municipal Band — Season Over
-
-A heads-up rather than an event: the 2026 Municipal Band summer concert series ended July 31. Marine Stadium and El Dorado Park West are quiet until next June — the Movies in the Park slate above is the free evening programming still running.
+Worth putting on the calendar now: bite-sized samples from Downtown restaurants plus beer, wine, and cocktails, followed by KCRW DJ sets. It's an entirely walkable food crawl through the city's densest restaurant corridor.
 
 ### Farmers Markets — Almost Daily
 
@@ -122,7 +117,7 @@ Long Beach has five miles of beach, a protected bay, calm canals, and some of th
 
 ## Best Free & Outdoor Wellness in Long Beach
 
-You don't need a membership to live well here. The daily free Yoga on the Bluff, the bluff-top paths above Alamitos Beach, and the open lawns of Bluff Park are a no-cost gym — and the city's nine free outdoor **Fitness Zones** add actual weight-bearing equipment to that, from the pull-up and dip stations on the 4.8-mile Downtown Fitness Loop to the ADA-accessible sets at Lincoln Park and Orizaba Park. Add the free summer Movies in the Park (through August 21), the Granada Beach season finale on August 18, and a farmers-market produce run, and you have a genuinely healthy Long Beach day for the price of a coffee donation.
+You don't need a membership to live well here. The daily free Yoga on the Bluff, bluff-top paths above Alamitos Beach, and open lawns of Bluff Park are a no-cost gym. Add the summer's free Movies in the Park, Moonlight Movies on the sand at Granada Beach, and a farmers-market produce run and you have a genuinely healthy Long Beach day for the price of a coffee donation.
 
 ## Best Hikes, Bluff & Beach Walking Paths in Long Beach
 
@@ -140,13 +135,9 @@ Long Beach looks flat, but the city hides more dirt, elevation, and wetland than
 
 Recovery is Long Beach's fastest-growing wellness habit, and a recovery row of contrast-therapy studios has opened up along Pacific Coast Highway. In **Belmont Shore / Belmont Heights**: **SWTHZ (SweatHouz)** (6480 E PCH, Ste 152) for private infrared-sauna + cold-plunge + vitamin-C-shower suites; **Pause Studio** (6242 PCH) for structured contrast therapy plus IV hydration; and **Human Aeon — The Hidden Sanctuary** (121 Belmont Ave) for a calm, natural take on cold plunge and sauna. Near the **Traffic Circle**: **ReEnergized** (4434 E PCH) stacks contrast therapy with cryotherapy, hyperbaric oxygen, and red-light. In **East Long Beach**: **Cellevate** (6445 E PCH) is the social option — a 10-person communal cold plunge and 20+-person infrared sauna with breathwork — and **Perspire Sauna Studio** at the Long Beach Exchange (4201 McGowen St) offers 40-minute full-spectrum infrared sessions with red-light and a cold "SNO" shower finish. A quick honest note: treat recovery benefits as what studios report, not medical promises, and check with your doctor before cold immersion if you have a heart condition. Full guide: [Best Cold Plunge, Sauna & Recovery Studios in Long Beach](/blog/2026-06-29-cold-plunge-sauna-recovery-long-beach).
 
-## Best Gyms & Strength Training in Long Beach
-
-Long Beach reads as a cardio town, but the strength scene is deeper than the beach path suggests — and it spans about $0 to $200 a month. For **coached boutique training** on the east side: **ICONIX Fitness** (4101 E Olympic Plaza) runs 130-plus classes a week across strength, cardio, and group formats on top of a full equipment floor, and **ONIX Fitness** (5010 2nd St, **Belmont Shore**) is the smaller, circuit-and-personal-training option with certified coaches — the right first stop if you've never touched a barbell. For **big-box value**: **Club Studio** (6310A E PCH, Marina Pacifica) pairs a full cardio-and-strength floor with boutique studios under one membership, and **EōS Fitness** has two locations — 75 Aquarium Way on the **Downtown** waterfront and 5810 Downey Ave in **North Long Beach**. For **serious lifting**, **Iron Addicts Gym** (2224A Cerritos Ave, **Signal Hill**, 5 a.m.–10 p.m. daily) is the heavy free-weight destination in greater Long Beach — go coached somewhere else first. For **functional and competitive strength**: **CrossFit Modern** (1180 N Studebaker Rd, Ste C, **East Long Beach**), **CrossFit Reality** (Signal Hill, with HYROX-specific training), and **Molivate Gym** (5401 E Village Rd, near El Dorado Park) for CrossFit and powerlifting. And free, every day: the city's nine outdoor **Fitness Zones**, including the 4.8-mile Downtown Fitness Loop, the six-station Bixby Fitness Loop at Junipero & Ocean, the half-mile Houghton Park loop with bilingual signs and QR demo videos, and ADA-accessible equipment at Lincoln Park, 14th Street Park, Orizaba Park, and Cesar E. Chavez Park. Full guide: [Best Gyms & Strength Training in Long Beach](/blog/2026-08-13-best-gyms-strength-training-long-beach).
-
 ## More Coming Soon
 
-This directory grows every few days — mental-health and mindfulness resources, sober-curious nightlife, budget wellness, and seasonal guides. [Reach out](/free-consultation) if you run a healthy Long Beach spot that belongs here.
+This directory grows every few days — gyms and strength training, mental-health and mindfulness resources, sober-curious nightlife, and seasonal guides. [Reach out](/free-consultation) if you run a healthy Long Beach spot that belongs here.
 
 ## About Long Beach School of Yoga
 
