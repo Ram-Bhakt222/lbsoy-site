@@ -618,3 +618,62 @@ All nine are public parks/trails operated by the City of Long Beach or Signal Hi
 
 **BUG FOUND + FIXED THIS RUN (runbook defect — read this):** the Step 6 one-liner stages `content/blog/ public/uploads/blog-images/`, but `public/uploads/blog-images/` **does not exist in this repo**. Git treats an unmatched pathspec as fatal for the whole `git add`, so NOTHING was ever staged and the subsequent commit was a no-op ("no changes added to commit"). `git push` then printed "Everything up-to-date" — which reads like success. This silently swallowed the **2026-08-04 run entirely** (hikes/bluff-paths deep-dive + that run's hub refresh + archive snapshot were sitting untracked on disk, never shipped, never live). That backlog was recovered and included in this commit.
 **Fix applied this run:** staged `content/blog/` alone. **Permanent fix for the SKILL:** either create `public/uploads/blog-images/` with a `.gitkeep`, or change Step 6 to `git add content/blog/; if (Test-Path public/uploads/blog-images) { git add public/uploads/blog-images/ }`. Also: "Everything up-to-date" on push must be treated as a FAILURE signal when a commit was expected — verify via `git log --oneline -1` before declaring success.
+
+
+---
+
+## Run: 2026-08-15
+
+**Hub updated:** yes — `content/blog/things-to-do-healthy-long-beach.md` (date + lastUpdated bumped to 2026-08-15)
+**Archive snapshot:** `content/blog/_archive/2026-08-15-things-to-do-healthy-long-beach.md`
+
+**Deep-dive slug:** `2026-08-15-sober-curious-mocktails-healthy-nightlife-long-beach`
+**Path:** `content/blog/2026-08-15-sober-curious-mocktails-healthy-nightlife-long-beach.md`
+
+**Rotated category:** #14 — Sober-curious / mocktails / healthy nightlife.
+**Why:** Never covered in any prior run, and the hub's own "More Coming Soon" block was already promising it. The last six runs were gyms/strength (8/13), hikes & bluff paths (8/4), yoga & movement studios (8/3), farmers markets (7/24), bike paths (7/15), family-friendly (7/13) — all daytime/movement. This opens the first evening/nightlife surface in the directory, which is where "things to do in Long Beach" search volume actually concentrates, and it lets the healthy-first angle carry a category that normally has nothing to do with wellness. Remaining uncovered after this run: #11 free & low-cost wellness (partially covered by the standing Free & Outdoor section), #13 mental health & mindfulness, #16 seasonal.
+
+**Word count:** ~1,050 body words (1,400 including frontmatter + Sources block). In the 800–1,200 range.
+
+**Events verified (6, all inside the 8/15–8/25 window):**
+1. Live at the Shell — Tuesdays 6–8 p.m., free, all ages, The Shell at Recreation Park. Remaining 2026 dates: 8/18 Stone Soul, 8/25 King Salmon & The Funkyard Horns w/ disco costume contest. Series ends 8/25. Source: liveattheshell.org/cal + artslb.org.
+2. Stroll & Savor — Wed 8/19 + Thu 8/20, 2nd St, Belmont Shore. Tickets 12 for $15 / 18 for $20, sales from 4 p.m. at Chase Bank 5200 2nd St. Final installment of the 2026 series (June 17–18, July 15–16, Aug 19–20). Source: belmontshore.org + visitlongbeach.com.
+3. Taste of Downtown with KCRW Summer Nights — Sat 8/22, 2–10 p.m., Pine Ave between Broadway & 3rd. Free entry, 17th year, KCRW DJs Nassir Nassirzadeh & Raul Campos. Source: visitlongbeach.com + downtownlongbeach.org + kcrw.com.
+4. Movies in the Park — 8/15 Signal Hill Park (*Wicked: For Good*), 8/17 Orizaba, 8/19 Recreation, 8/21 Ramona (*How to Train Your Dragon*). Season ends 8/21. Carried from 8/13 run (longbeach.gov primary); past dates 8/14 dropped.
+5. Moonlight Movies on the Beach — Tue 8/18, *Grease* Sing-A-Long, Granada Beach, free, explicitly no-alcohol. Carried from 8/13 run (moonlightmoviesonthebeach.com primary).
+6. Beachside Beats Fest: Prince Tribute — Thu 8/20, 5–8 p.m., 2ND & PCH, free. Carried from 8/13 run (Eventbrite).
+Plus standing: Yoga on the Bluff (daily, free, 6 p.m. weekday session through October) and the near-daily farmers market slate.
+
+**Stale/dead data caught and rejected:**
+- **Shirley's Temple** — the Long Beach area's only dedicated zero-proof bar — is **permanently closed** (Longbeachize). Multiple aggregator "best mocktail bars" lists still surface it. Deliberately included in the post as a *negative* so readers don't drive to a closed room, and so the piece isn't structured around a venue that no longer exists.
+- Prior-year Stroll & Savor date confusion flagged in the 8/13 log resolved: Aug 19–20 2026 are Wed/Thu, which matches the official belmontshore.org series listing. Verified before publishing.
+- Long Beach Municipal Band remains over for 2026 (ended July 31) — the standing heads-up in the hub was left in place.
+- No verifiable Long Beach-specific sober run club / recovery-community meetup could be sourced. Searched; results were out-of-market (San Diego, Orange County) or generic. **Omitted entirely rather than invented** — this was the one gap in the category and it stays a gap until a primary source exists.
+
+**Directory entries verified (8 venues, every one confirmed open):**
+- BO-beau kitchen + roof tap, 144 Pine Ave (Downtown) — Yelp updated Aug 2026 + bobeaurooftap.com. Wed–Thu 5–9p, Fri 5–10p, Sat 4–10p, Sun 4–9p; closed Mon–Tue. Zero-proof menu: Pink Madame, Grapefruit & Berries Smash, French Riviera Whip.
+- Anna's Joint, 443 Pine Ave Ste A (Downtown) — Yelp updated Aug 2026 + annasjoint.com. Mon–Thu 7a–10p, Fri 7a–9p, Sat 7a–11p, Sun 7a–10p. NA Negroni.
+- Olive & Rose, 255 Atlantic Ave (Downtown/East Village) — Yelp updated Aug 2026 + oliveandroselb.com. Tue–Thu 5–9p, Fri–Sat 5–10p; closed Sun–Mon. Herbal Remedy, Avo Verdita.
+- Parkers' Lighthouse, 435 Shoreline Village Dr (Downtown waterfront) — Yelp updated Aug 2026 + parkerslighthouse.com. Daily 11:30a, to 9p Sun–Thu / 10p Fri–Sat. Ritual Zero Proof: Spicy Señorita, Lavender Paradise, Blood Orange Bomb, Cucumber Crush.
+- Baby Gee, 1227 E 4th St (4th Street Corridor / Retro Row) — Yelp updated Jul 2026 + babygeebar.com. Mon–Wed 5p–12a, Thu–Fri 5p–2a, Sat 2p–2a, Sun 2p–12a. White Lightning, Suffusion of Yellow.
+- The Bamboo Club, 3522 E Anaheim St (East Anaheim/Zaferia) — Yelp updated Aug 2026 + bambooclublb.com. Mon–Tue 3–10p, Wed–Thu 3p–12a, Fri–Sat 11a–2a, Sun 11a–10p. Alcohol-free versions of signature tiki drinks.
+- The Bungalow, 2ND & PCH (near Belmont Shore) — thebungalow.com/long-beach Zero Proof menu (NA spirits + beers). **Street number deliberately omitted** — not confirmable from a primary source this run, so described at intersection/neighborhood level rather than guessed (same discipline applied to CrossFit Reality on 8/13).
+- The Great Mocktail Mixer (Downtown Long Beach Alliance) — annual Dry January mocktail crawl, listed as a forward-looking January item, not as a current event.
+
+**Older section freshened:** "Best Free & Outdoor Wellness in Long Beach" — added the final two free Live at the Shell Tuesdays (8/18, 8/25) and free entry to Taste of Downtown (8/22), and added the line that essentially all of this month's best evening programming is free and alcohol-optional by design (ties the standing section to the new category).
+
+**Keywords (deep-dive):** mocktails long beach · sober bars long beach · non alcoholic drinks long beach · zero proof cocktails long beach · sober curious long beach · healthy nightlife long beach · things to do in long beach at night
+**Keyword added to hub:** mocktails long beach
+
+**Links:** deep-dive → internal `/yoga-therapy`, `/corporate-wellness`, `/free-consultation`; outbound `https://myyoganetwork.com/corporate-wellness-programs`. Hub → new internal link to `/blog/2026-08-15-sober-curious-mocktails-healthy-nightlife-long-beach`.
+
+**Neighborhoods in subheads:** Downtown Long Beach, Retro Row / 4th Street Corridor, East Anaheim; Belmont Shore, East Village, Alamitos Beach, Shoreline Village inside body and hub.
+
+**Vocabulary check:** PASS. Zero uses of "yoga teacher" or "yoga instructor" in either file (grep-verified). The single clinical mention uses "yoga therapist" and links `/yoga-therapy`; no mixing in the same sentence.
+
+**Tone / "space to think" check:** This category is one bad sentence away from moralizing about drinking or implying a health claim. Handled deliberately — the post states plainly that it is "not medical advice, and it isn't a lecture about drinking," makes no claim about alcohol reduction and health outcomes, and routes anything structural (stress, sleep, a specific condition) to a credentialed yoga therapist rather than implying a bar menu is an intervention. Brand tie-in kept to one short paragraph, per the soft-tie-in rule for lifestyle posts.
+
+**Image handoff:** queued 2 lines to `myn.com-main/tools/blog-image-studio/inbox/pending.jsonl` (68 → 70 lines). Deep-dive slug queued; hub slug queued again because `things-to-do-healthy-long-beach-hero.png` still does not exist. No heroes generated inline per AUTO_POST_POLICY.
+
+**RUNBOOK BUG FROM 2026-08-13 — PERMANENTLY FIXED THIS RUN:** the prior run diagnosed that `public/uploads/blog-images/` does not exist in this repo, which makes the Step 6 `git add content/blog/ public/uploads/blog-images/` a fatal unmatched pathspec that silently stages nothing (this is what swallowed the entire 2026-08-04 run). The 8/13 run worked around it by staging `content/blog/` alone. **This run applied the permanent fix instead:** created `public/uploads/blog-images/.gitkeep` with an explanatory comment, so the directory now exists in git and the runbook's two-path `git add` is a valid pathspec from here on. No workaround needed in future runs. Still true and worth keeping in the runbook: `git push` printing "Everything up-to-date" when a commit was expected must be treated as a FAILURE signal — verify with `git log --oneline -1` before declaring success.
+

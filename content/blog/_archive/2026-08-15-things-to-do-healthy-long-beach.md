@@ -1,8 +1,8 @@
 ---
 title: "Healthy Things to Do in Long Beach: The Living Guide"
-description: "A regularly updated guide to healthy things to do in Long Beach — this week's events plus the best gyms, yoga studios, farmers markets, parks, trails and mocktails."
-date: "2026-08-15"
-lastUpdated: "2026-08-15"
+description: "A regularly updated guide to healthy things to do in Long Beach — this week's events plus the best gyms, yoga studios, farmers markets, parks, and bike paths."
+date: "2026-08-13"
+lastUpdated: "2026-08-13"
 tag: "Long Beach Directory"
 author: "Long Beach School of Yoga"
 keywords:
@@ -15,7 +15,6 @@ keywords:
   - "yoga on the bluff long beach"
   - "walking trails long beach"
   - "best gyms long beach"
-  - "mocktails long beach"
   - "long beach summer events"
 city: "Long Beach"
 coverImage: "/uploads/blog-images/things-to-do-healthy-long-beach-hero.png"
@@ -33,37 +32,13 @@ This is our living guide to healthy, active things to do in Long Beach — updat
 
 Long Beach's best standing free wellness ritual — an open-air, all-levels session on the grass above the Pacific, led by rotating instructors seven days a week. Cancelled only in rain or wet ground.
 
-### Live at the Shell — Final Two Tuesdays
+### Movies in the Park — The Last Two Weeks of the Season
 
-**When:** Tue 8/18 — Stone Soul · Tue 8/25 — King Salmon & The Funkyard Horns, with a disco costume contest. 6–8 p.m. both nights
-**Where:** The Shell at Recreation Park, between Federation Dr. and Park Ave. (across from Wilson High)
-**Cost:** Free, all ages
-
-The 1929 band shell closes its 2026 season on August 25. There are 600-plus bench seats and a big open lawn — bring a blanket, a low-back chair, and a picnic dinner. Park once and walk the Recreation Park track before the set starts.
-
-### Stroll & Savor — Belmont Shore, Two Nights
-
-**When:** Wednesday 8/19 and Thursday 8/20; ticket sales from 4 p.m.
-**Where:** 2nd Street, Belmont Shore
-**Cost:** Tasting tickets $15 for a sheet of 12 or $20 for 18, sold online or at Chase Bank (5200 2nd St.) and multiple street locations
-
-The final Stroll & Savor of 2026. Dozens of 2nd Street eateries put out small tasting portions along the sidewalk, which makes it a walking food festival — you'll cover well over a mile without noticing. Go early for the shorter lines and the daylight.
-
-### Taste of Downtown with KCRW Summer Nights
-
-**When:** Saturday, August 22, 2–10 p.m.
-**Where:** Pine Avenue between Broadway and 3rd St., Downtown Long Beach
-**Cost:** Free entry; food and drink for purchase
-
-Now in its 17th year — local restaurants on the street, live music, and DJ sets from KCRW's Nassir Nassirzadeh and Raul Campos as the sun goes down. Free to walk in and dance, which makes it one of the better alcohol-optional nights of the summer.
-
-### Movies in the Park — Final Week of the Season
-
-**When:** Sat 8/15 Signal Hill Park (2175 Cherry Ave.) — *Wicked: For Good* · Mon 8/17 Orizaba Park (1435 Orizaba Ave.) · Wed 8/19 Recreation Park (4900 E. 7th St.) · Fri 8/21 Ramona Park (3301 E. 65th St.) — *How to Train Your Dragon*. Activities 6:30 p.m., movie at dusk
+**When:** Fri 8/14 Houghton Park (6301 Myrtle Ave.) · Sat 8/15 Signal Hill Park (2175 Cherry Ave.) — *Wicked: For Good* · Mon 8/17 Orizaba Park (1435 Orizaba Ave.) · Wed 8/19 Recreation Park (4900 E. 7th St.) · Fri 8/21 Ramona Park (3301 E. 65th St.) — *How to Train Your Dragon*. Activities 6:30 p.m., movie at dusk
 **Where:** Rotating city parks
 **Cost:** Free
 
-The city's free outdoor movie series ends its 2026 run on August 21. Come at 6:30 p.m. for free popcorn, a bounce house, and a nightly raffle, then a family film after sundown. Most of these parks have a fitness loop or walking path — get a lap in before the projector starts.
+The city's free outdoor movie series closes out its 2026 run on August 21. Come at 6:30 p.m. for free popcorn, a bounce house, and a nightly raffle, then a family film after sundown. Most of these parks have a fitness loop or walking path — get a lap in before the projector starts.
 
 ### Moonlight Movies on the Beach — Season Finale
 
@@ -71,7 +46,7 @@ The city's free outdoor movie series ends its 2026 run on August 21. Come at 6:3
 **Where:** Granada Beach, Belmont Shore
 **Cost:** Free; parking free after 6 p.m., limited and first-come
 
-The last beach movie of the summer, and an explicitly no-alcohol event. Food trucks and a kettle-corn vendor on site, BYO food welcome. Bike the Shoreline path down and skip the parking hunt entirely.
+The last beach movie of the summer. Food trucks and a kettle-corn vendor on site, BYO food welcome, no alcohol. Bike the Shoreline path down and skip the parking hunt entirely.
 
 ### Beachside Beats Fest: Prince Tribute — 2ND & PCH
 
@@ -147,7 +122,7 @@ Long Beach has five miles of beach, a protected bay, calm canals, and some of th
 
 ## Best Free & Outdoor Wellness in Long Beach
 
-You don't need a membership to live well here. The daily free Yoga on the Bluff, the bluff-top paths above Alamitos Beach, and the open lawns of Bluff Park are a no-cost gym — and the city's nine free outdoor **Fitness Zones** add actual weight-bearing equipment to that, from the pull-up and dip stations on the 4.8-mile Downtown Fitness Loop to the ADA-accessible sets at Lincoln Park and Orizaba Park. Add the free summer Movies in the Park (through August 21), the Granada Beach movie finale on August 18, the last two free Tuesday concerts at Live at the Shell (August 18 and 25), free entry to Taste of Downtown on August 22, and a farmers-market produce run, and you have a genuinely healthy Long Beach week for the price of a coffee donation. Nearly all of the city's best evening programming this month is free and alcohol-optional by design.
+You don't need a membership to live well here. The daily free Yoga on the Bluff, the bluff-top paths above Alamitos Beach, and the open lawns of Bluff Park are a no-cost gym — and the city's nine free outdoor **Fitness Zones** add actual weight-bearing equipment to that, from the pull-up and dip stations on the 4.8-mile Downtown Fitness Loop to the ADA-accessible sets at Lincoln Park and Orizaba Park. Add the free summer Movies in the Park (through August 21), the Granada Beach season finale on August 18, and a farmers-market produce run, and you have a genuinely healthy Long Beach day for the price of a coffee donation.
 
 ## Best Hikes, Bluff & Beach Walking Paths in Long Beach
 
@@ -169,13 +144,9 @@ Recovery is Long Beach's fastest-growing wellness habit, and a recovery row of c
 
 Long Beach reads as a cardio town, but the strength scene is deeper than the beach path suggests — and it spans about $0 to $200 a month. For **coached boutique training** on the east side: **ICONIX Fitness** (4101 E Olympic Plaza) runs 130-plus classes a week across strength, cardio, and group formats on top of a full equipment floor, and **ONIX Fitness** (5010 2nd St, **Belmont Shore**) is the smaller, circuit-and-personal-training option with certified coaches — the right first stop if you've never touched a barbell. For **big-box value**: **Club Studio** (6310A E PCH, Marina Pacifica) pairs a full cardio-and-strength floor with boutique studios under one membership, and **EōS Fitness** has two locations — 75 Aquarium Way on the **Downtown** waterfront and 5810 Downey Ave in **North Long Beach**. For **serious lifting**, **Iron Addicts Gym** (2224A Cerritos Ave, **Signal Hill**, 5 a.m.–10 p.m. daily) is the heavy free-weight destination in greater Long Beach — go coached somewhere else first. For **functional and competitive strength**: **CrossFit Modern** (1180 N Studebaker Rd, Ste C, **East Long Beach**), **CrossFit Reality** (Signal Hill, with HYROX-specific training), and **Molivate Gym** (5401 E Village Rd, near El Dorado Park) for CrossFit and powerlifting. And free, every day: the city's nine outdoor **Fitness Zones**, including the 4.8-mile Downtown Fitness Loop, the six-station Bixby Fitness Loop at Junipero & Ocean, the half-mile Houghton Park loop with bilingual signs and QR demo videos, and ADA-accessible equipment at Lincoln Park, 14th Street Park, Orizaba Park, and Cesar E. Chavez Park. Full guide: [Best Gyms & Strength Training in Long Beach](/blog/2026-08-13-best-gyms-strength-training-long-beach).
 
-## Best Mocktails & Sober-Curious Nightlife in Long Beach
-
-Long Beach no longer has a dedicated zero-proof bar — Shirley's Temple, the area's only one, closed permanently — but a handful of regular bars now run non-alcoholic programs good enough that you don't miss it. **Downtown** is the densest cluster: **BO-beau kitchen + roof tap** (144 Pine Ave) has the city's deepest list, built on distilled zero-proof spirits rather than juice (the Pink Madame with Lyre's White Cane and lavender honey; the Grapefruit & Berries Smash with Ritual's whiskey alternative); **Anna's Joint** (443 Pine Ave, Ste A) pours a non-alcoholic Negroni with zero-proof gin and vermouth and stays open from 7 a.m.; and **Olive & Rose** (255 Atlantic Ave) brings neo-bistro polish with the savory Herbal Remedy and Avo Verdita. On the waterfront, **Parkers' Lighthouse** (435 Shoreline Village Dr) runs the most-cited program in the city on Ritual Zero Proof — the Spicy Señorita with jalapeño, grapefruit and a Tajín rim, and the Lavender Paradise with elderflower tonic. In the **4th Street Corridor / Retro Row**, **Baby Gee** (1227 E 4th St) keeps a short, deliberate list (White Lightning, Suffusion of Yellow). Out on **East Anaheim**, **The Bamboo Club** (3522 E Anaheim St) makes alcohol-free versions of its signature tiki drinks — mug, garnish and all — and **The Bungalow** at 2ND & PCH near **Belmont Shore** publishes a standing Zero Proof menu of non-alcoholic spirits and beers. Watch for the Downtown Long Beach Alliance's **Great Mocktail Mixer** Dry January crawl if you want to survey the whole scene in one night. Full guide: [Sober-Curious Long Beach: The Best Mocktails & Healthy Nightlife](/blog/2026-08-15-sober-curious-mocktails-healthy-nightlife-long-beach).
-
 ## More Coming Soon
 
-This directory grows every few days — mental-health and mindfulness resources, budget wellness, and seasonal guides. [Reach out](/free-consultation) if you run a healthy Long Beach spot that belongs here.
+This directory grows every few days — mental-health and mindfulness resources, sober-curious nightlife, budget wellness, and seasonal guides. [Reach out](/free-consultation) if you run a healthy Long Beach spot that belongs here.
 
 ## About Long Beach School of Yoga
 
