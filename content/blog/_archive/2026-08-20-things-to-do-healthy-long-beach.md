@@ -1,8 +1,8 @@
 ---
 title: "Healthy Things to Do in Long Beach: The Living Guide"
-description: "A regularly updated guide to healthy things to do in Long Beach — this week's events plus the best gyms, yoga studios, farmers markets, parks, trails and mindfulness resources."
-date: "2026-08-20"
-lastUpdated: "2026-08-20"
+description: "A regularly updated guide to healthy things to do in Long Beach — this week's events plus the best gyms, yoga studios, farmers markets, parks, trails and mocktails."
+date: "2026-08-15"
+lastUpdated: "2026-08-15"
 tag: "Long Beach Directory"
 author: "Long Beach School of Yoga"
 keywords:
@@ -16,7 +16,6 @@ keywords:
   - "walking trails long beach"
   - "best gyms long beach"
   - "mocktails long beach"
-  - "meditation long beach"
   - "long beach summer events"
 city: "Long Beach"
 coverImage: "/uploads/blog-images/things-to-do-healthy-long-beach-hero.png"
@@ -26,61 +25,73 @@ This is our living guide to healthy, active things to do in Long Beach — updat
 
 ## This Week in Long Beach
 
-### El Dorado Nature Center Summer Concert — Tonight
-
-**When:** Thursday, August 20; gates 6:30 p.m., music 7–8 p.m.
-**Where:** El Dorado East Regional Park, 7550 E. Spring St. (East Long Beach)
-**Cost:** $5/person suggested donation
-
-Sligo Rags closes out the Nature Center's summer concert series in the outdoor amphitheater. Bring a low chair or blanket and a picnic dinner; the donation supports the Nature Center and Partners of Parks. Walk one of the park's dirt loop trails before the gates open.
-
-### Earl Burns Miller Japanese Garden Concerts — Two Fridays Left
-
-**When:** Fri 8/21 — Think of One Jazz · Fri 8/28 — Dave Nachmanoff (season finale). Both 5:30–7:30 p.m.
-**Where:** Earl Burns Miller Japanese Garden, CSULB campus (Determination Dr.)
-**Cost:** $10/person, reserve online or call (562) 985-8420
-
-A serene picnic-and-concert series inside a real Japanese garden — jazz, folk, and Motown against koi ponds and manicured pines. Arrive early to walk the garden paths before the music starts.
-
-### Shoreline Village Weekend Concerts
-
-**When:** Sat 8/22 — As IF / Sugarlips · Sat 8/29 — Mr. Max / Thieves Like Us. Saturdays 1–5 p.m. and 6–10 p.m.; DJ sets Sundays 1–5 p.m.
-**Where:** Off Boardwalk Theater, Shoreline Village, 429 Shoreline Village Dr. (Downtown)
-**Cost:** Free
-
-Rock, R&B, and Latin acts on the waterfront boardwalk — walk the harbor promenade or rent a bike from Wheel Fun Rentals before the set.
-
-### Peninsula & Rancho Los Alamitos — Sunday Double, Season Finales
-
-**When:** Sunday, August 23, 5–7 p.m. (Rancho Los Alamitos) and 5:30–7:30 p.m. (Peninsula)
-**Where:** Rancho Los Alamitos, 6400 E. Bixby Hill Rd. (free shuttle from CSULB Lot G13) · Alamitos Park, 72nd Place & E. Ocean Blvd. (Peninsula)
-**Cost:** Free
-
-Two free, family-friendly season-closing shows the same evening: The Blues Society All Stars on the historic Rancho grounds, and Squeezebox at the bay-edge Peninsula park. Pick a neighborhood and walk the grounds or the beach before the music starts.
-
-### Live at the Shell — Season Finale
-
-**When:** Tuesday, August 25, 6–8 p.m.
-**Where:** Recreation Park Bandshell, 701–939 Federation Dr. (East Long Beach)
-**Cost:** Free, all ages
-
-King Salmon and the Funk Yard Horns close the 2026 season with a '70s and disco set — plus a disco costume contest. Park once and walk the Recreation Park track or a round of disc golf before the show.
-
-### Free Outdoor Fitness Zones — Every Day
-
-**When:** Daylight hours, year-round
-**Where:** Nine city parks, including the 4.8-mile Downtown Fitness Loop and the Bixby Fitness Loop at Junipero & Ocean
-**Cost:** Free
-
-Long Beach's standing no-membership gym — pull-up bars, leg press, and marked distance loops across the city. Full list in the gyms guide below.
-
 ### Yoga on the Bluff — Daily, Year-Round
 
 **When:** Daily, 11 a.m.; second session weekdays at 6 p.m. through October
 **Where:** Bixby Park Annex, Ocean Blvd at Junipero Ave (Alamitos Beach)
 **Cost:** Free; donations welcome
 
-Long Beach's best standing free wellness ritual — an open-air, all-levels session on the grass above the Pacific, led by rotating instructors seven days a week.
+Long Beach's best standing free wellness ritual — an open-air, all-levels session on the grass above the Pacific, led by rotating instructors seven days a week. Cancelled only in rain or wet ground.
+
+### Live at the Shell — Final Two Tuesdays
+
+**When:** Tue 8/18 — Stone Soul · Tue 8/25 — King Salmon & The Funkyard Horns, with a disco costume contest. 6–8 p.m. both nights
+**Where:** The Shell at Recreation Park, between Federation Dr. and Park Ave. (across from Wilson High)
+**Cost:** Free, all ages
+
+The 1929 band shell closes its 2026 season on August 25. There are 600-plus bench seats and a big open lawn — bring a blanket, a low-back chair, and a picnic dinner. Park once and walk the Recreation Park track before the set starts.
+
+### Stroll & Savor — Belmont Shore, Two Nights
+
+**When:** Wednesday 8/19 and Thursday 8/20; ticket sales from 4 p.m.
+**Where:** 2nd Street, Belmont Shore
+**Cost:** Tasting tickets $15 for a sheet of 12 or $20 for 18, sold online or at Chase Bank (5200 2nd St.) and multiple street locations
+
+The final Stroll & Savor of 2026. Dozens of 2nd Street eateries put out small tasting portions along the sidewalk, which makes it a walking food festival — you'll cover well over a mile without noticing. Go early for the shorter lines and the daylight.
+
+### Taste of Downtown with KCRW Summer Nights
+
+**When:** Saturday, August 22, 2–10 p.m.
+**Where:** Pine Avenue between Broadway and 3rd St., Downtown Long Beach
+**Cost:** Free entry; food and drink for purchase
+
+Now in its 17th year — local restaurants on the street, live music, and DJ sets from KCRW's Nassir Nassirzadeh and Raul Campos as the sun goes down. Free to walk in and dance, which makes it one of the better alcohol-optional nights of the summer.
+
+### Movies in the Park — Final Week of the Season
+
+**When:** Sat 8/15 Signal Hill Park (2175 Cherry Ave.) — *Wicked: For Good* · Mon 8/17 Orizaba Park (1435 Orizaba Ave.) · Wed 8/19 Recreation Park (4900 E. 7th St.) · Fri 8/21 Ramona Park (3301 E. 65th St.) — *How to Train Your Dragon*. Activities 6:30 p.m., movie at dusk
+**Where:** Rotating city parks
+**Cost:** Free
+
+The city's free outdoor movie series ends its 2026 run on August 21. Come at 6:30 p.m. for free popcorn, a bounce house, and a nightly raffle, then a family film after sundown. Most of these parks have a fitness loop or walking path — get a lap in before the projector starts.
+
+### Moonlight Movies on the Beach — Season Finale
+
+**When:** Tuesday, August 18 — *Grease* Sing-A-Long, movie at sunset (8–8:30 p.m.)
+**Where:** Granada Beach, Belmont Shore
+**Cost:** Free; parking free after 6 p.m., limited and first-come
+
+The last beach movie of the summer, and an explicitly no-alcohol event. Food trucks and a kettle-corn vendor on site, BYO food welcome. Bike the Shoreline path down and skip the parking hunt entirely.
+
+### Beachside Beats Fest: Prince Tribute — 2ND & PCH
+
+**When:** Thursday, August 20, 5–8 p.m.; seating opens 4 p.m., first-come first-served
+**Where:** Seaport Way at 2ND & PCH, Belmont Shore
+**Cost:** Free
+
+A free, family-friendly waterfront concert — this one a Prince tribute set. Bring chairs and a blanket. Walk in from the Shoreline path rather than fighting for a space in the lot.
+
+### Free Outdoor Fitness Zones — Every Day
+
+**When:** Daylight hours, year-round
+**Where:** Nine city parks including the 4.8-mile Downtown Fitness Loop, Bixby Fitness Loop (Junipero & Ocean), Houghton Park, Lincoln Park, and Orizaba Park
+**Cost:** Free
+
+Long Beach maintains real outdoor gym equipment — pull-up and dip bars, leg press, chest press, marked distance loops — across nine parks, several of them ADA accessible. The city's own pitch: skip the membership. Full list in the gyms guide below.
+
+### Long Beach Municipal Band — Season Over
+
+A heads-up rather than an event: the 2026 Municipal Band summer concert series ended July 31. Marine Stadium and El Dorado Park West are quiet until next June — the Movies in the Park slate above is the free evening programming still running.
 
 ### Farmers Markets — Almost Daily
 
@@ -91,10 +102,6 @@ Long Beach's best standing free wellness ritual — an open-air, all-levels sess
 Standing, no-cost reasons to walk somewhere this week — full day-by-day market guide below.
 
 > Events shift week to week — always confirm with the organizer before you go.
-
-## Best Mental Health & Mindfulness Resources in Long Beach
-
-Long Beach has a deeper mental-health and mindfulness ecosystem than most locals realize, from donation-based meditation halls to a full outpatient care network. On the meditation side, **Long Beach Meditation** (5100 E. The Toledo, Alamitos Beach) is the city's longest-running Buddhist-inspired sangha, offering donation-based sits and Mindfulness Based Stress Reduction (MBSR) classes several evenings a week at Bay Shore Community Church, an ADA-accessible, LGBTQ+-welcoming space. **InsightLA Long Beach** holds classes at the Sacred Roots Healing Center on E. Broadway. **Atlantic Meditation** (4320 Atlantic Ave.) runs guided sessions in-person or by Zoom with a low-cost intro rate, open six days a week. If you'd rather move than sit still, **Yogalution Movement & Wellness** on the bluff pairs its free daily Yoga on the Bluff with donation-based meditation offerings. For anyone in crisis or supporting someone who is, the **988 Suicide and Crisis Lifeline** (call or text 988) and the **Crisis Text Line** (text "LA" to 741741) are free and available 24/7, and the **NAMI HelpLine** (1-800-950-6264) connects callers to peer support and local referrals, including the NAMI Long Beach/Whittier chapter. This is general information, not a diagnosis or a treatment recommendation — for an ongoing condition, the right next step is a licensed provider. Full guide: [Mental Health & Mindfulness Resources in Long Beach](/blog/2026-08-20-mental-health-mindfulness-resources-long-beach).
 
 ## Best Yoga & Movement Studios in Long Beach
 
@@ -140,7 +147,7 @@ Long Beach has five miles of beach, a protected bay, calm canals, and some of th
 
 ## Best Free & Outdoor Wellness in Long Beach
 
-You don't need a membership to live well here. The daily free Yoga on the Bluff, the bluff-top paths above Alamitos Beach, and the open lawns of Bluff Park are a no-cost gym — and the city's nine free outdoor **Fitness Zones** add actual weight-bearing equipment to that, from the pull-up and dip stations on the 4.8-mile Downtown Fitness Loop to the ADA-accessible sets at Lincoln Park and Orizaba Park. Add the free 988 crisis line and donation-based meditation sits, and Long Beach's baseline for a healthy week costs close to nothing. Nearly all of this month's remaining evening concert programming — El Dorado Nature Center, Live at the Shell's finale, the Peninsula and Rancho Los Alamitos Sunday shows — is free or a small donation.
+You don't need a membership to live well here. The daily free Yoga on the Bluff, the bluff-top paths above Alamitos Beach, and the open lawns of Bluff Park are a no-cost gym — and the city's nine free outdoor **Fitness Zones** add actual weight-bearing equipment to that, from the pull-up and dip stations on the 4.8-mile Downtown Fitness Loop to the ADA-accessible sets at Lincoln Park and Orizaba Park. Add the free summer Movies in the Park (through August 21), the Granada Beach movie finale on August 18, the last two free Tuesday concerts at Live at the Shell (August 18 and 25), free entry to Taste of Downtown on August 22, and a farmers-market produce run, and you have a genuinely healthy Long Beach week for the price of a coffee donation. Nearly all of the city's best evening programming this month is free and alcohol-optional by design.
 
 ## Best Hikes, Bluff & Beach Walking Paths in Long Beach
 
@@ -168,7 +175,7 @@ Long Beach no longer has a dedicated zero-proof bar — Shirley's Temple, the ar
 
 ## More Coming Soon
 
-This directory grows every few days — budget/free wellness deep-dives and seasonal guides (fall transitions, allergy season, holiday stress). [Reach out](/free-consultation) if you run a healthy Long Beach spot that belongs here.
+This directory grows every few days — mental-health and mindfulness resources, budget wellness, and seasonal guides. [Reach out](/free-consultation) if you run a healthy Long Beach spot that belongs here.
 
 ## About Long Beach School of Yoga
 

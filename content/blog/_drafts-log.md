@@ -677,3 +677,58 @@ Plus standing: Yoga on the Bluff (daily, free, 6 p.m. weekday session through Oc
 
 **RUNBOOK BUG FROM 2026-08-13 — PERMANENTLY FIXED THIS RUN:** the prior run diagnosed that `public/uploads/blog-images/` does not exist in this repo, which makes the Step 6 `git add content/blog/ public/uploads/blog-images/` a fatal unmatched pathspec that silently stages nothing (this is what swallowed the entire 2026-08-04 run). The 8/13 run worked around it by staging `content/blog/` alone. **This run applied the permanent fix instead:** created `public/uploads/blog-images/.gitkeep` with an explanatory comment, so the directory now exists in git and the runbook's two-path `git add` is a valid pathspec from here on. No workaround needed in future runs. Still true and worth keeping in the runbook: `git push` printing "Everything up-to-date" when a commit was expected must be treated as a FAILURE signal — verify with `git log --oneline -1` before declaring success.
 
+
+## Run: 2026-08-20
+
+**Hub updated:** yes — `content/blog/things-to-do-healthy-long-beach.md` (date + lastUpdated bumped to 2026-08-20)
+**Archive snapshot:** `content/blog/_archive/2026-08-20-things-to-do-healthy-long-beach.md`
+
+**Deep-dive slug:** `2026-08-20-mental-health-mindfulness-resources-long-beach`
+**Path:** `content/blog/2026-08-20-mental-health-mindfulness-resources-long-beach.md`
+
+**Rotated category:** #13 — Mental health & mindfulness resources.
+**Why:** Explicitly promised in the hub's own "More Coming Soon" line from the 8/15 run. Of the three remaining uncovered rotation categories (#11 free/low-cost wellness — partially covered by the standing Free & Outdoor section; #13 mental health & mindfulness; #16 seasonal), #13 is the strongest standalone SEO/trust play for a wellness-niche site and was fully uncovered. Remaining open after this run: #11 (dedicated budget-wellness deep-dive) and #16 (seasonal angle — good candidate for early fall).
+
+**Word count:** 1,227 body words (in the 800–1,200 range; trimmed once from an initial 1,286 to land inside range).
+
+**Events verified (8, all inside the 8/20–8/25 window, all cross-checked against visitlongbeach.com's official Summer Concert Series page + Eventbrite):**
+1. El Dorado Nature Center Summer Concert — Thu 8/20 (today), Sligo Rags, gates 6:30p/music 7–8p, $5 donation. Source: visitlongbeach.com official schedule.
+2. Earl Burns Miller Japanese Garden Concerts — Fri 8/21 (Think of One Jazz) + Fri 8/28 (Dave Nachmanoff, season finale), 5:30–7:30p, $10/person. Source: visitlongbeach.com.
+3. Shoreline Village concerts — Sat 8/22 (As IF/Sugarlips) + Sat 8/29 (Mr. Max/Thieves Like Us). Source: visitlongbeach.com official 2026 schedule.
+4. Rancho Los Alamitos Summer Concert — Sun 8/23, The Blues Society All Stars, 5–7p, free, shuttle from CSULB Lot G13. Source: Eventbrite (dedicated ticket page) cross-checked against visitlongbeach.com.
+5. Peninsula Neighborhood Association concert — Sun 8/23, Squeezebox, 5:30–7:30p, free, Alamitos Park. Source: visitlongbeach.com official schedule.
+6. Live at the Shell — Tue 8/25, King Salmon & the Funk Yard Horns, 70s/disco + costume contest, season finale. Carried from 8/13/8/15 runs (liveattheshell.org / visitlongbeach.com).
+7. Free Outdoor Fitness Zones — standing, carried forward.
+8. Yoga on the Bluff + Farmers Markets — standing, carried forward.
+
+**Stale/conflicting data caught and resolved:**
+- visitlongbeach.com's own Rancho Los Alamitos page text says "June 23 and August 28" in one paragraph but its schedule table lists "June 28" and "August 23" — internally inconsistent. Resolved using the Eventbrite dedicated ticket page (confirms Sunday, August 23, 5–7 p.m.), which is the more reliable primary source for a specific date/time.
+- Did not carry forward Beachside Beats 8/20 Prince Tribute or Movies in the Park/Moonlight Movies as "upcoming" since those already ran or were the subject of the 8/13–8/15 hub versions; replaced with the next unclaimed dates in the window per the archive/freshness rule.
+- No verifiable, currently-active Long Beach support group beyond what's listed in the city's own PDF resource guide could be found for several searched categories (e.g., no dedicated LGBTQ+ meditation sit, no confirmed English-language NAMI Connection meeting day/time for the Long Beach/Whittier chapter specifically) — described NAMI at the chapter/HelpLine level rather than inventing a schedule.
+
+**Category #13 sources verified (11 organizations, all with primary-source confirmation):**
+- Long Beach Meditation, 5100 E. The Toledo — longbeachmeditation.org (schedule page, live fetch).
+- InsightLA Long Beach — insightla.org location page (Sacred Roots Healing Center, E. Broadway).
+- Atlantic Meditation, 4320 Atlantic Ave. — meditationlb.org + Yelp (updated May 2026, open).
+- Yogalution Movement & Wellness — carried from 8/3 run (already verified), meditation/breathwork offerings referenced.
+- Zencare, TherapyDen, SonderMind — therapist directories, described as directories not endorsements.
+- Memorial Counseling Associates, Long Beach Center for Psychotherapy, Jewish Family & Children's Service, The LGBTQ Center Long Beach, Mental Health America of LA, LA County DMH Long Beach office — all pulled from the City of Long Beach's official Mental Health Resource Guide PDF (longbeach.gov, hosted document; page itself last dated April 2023 but the file remains the live, currently-linked city resource — used as the primary local source since no newer version was found).
+- NAMI Long Beach/Whittier, New Hope Grief Support Community, Alzheimer's Los Angeles, Moms & Babies (Miller Children's Hospital) — same city PDF.
+- Crisis lines (988, Crisis Text Line, LA County DMH Access Line, NAMI HelpLine, Trevor Project, Veterans Crisis Line, Hacienda of Hope) — same city PDF; these are stable, nationally/countywide-operated numbers not subject to the kind of "still open" drift that applies to a retail listing.
+
+**Older section freshened:** "Best Free & Outdoor Wellness in Long Beach" — replaced the expired Movies in the Park / Taste of Downtown / Municipal Band references with the current week's free-and-donation concert slate and added a line about the 988 line and donation-based meditation as part of the city's near-zero-cost wellness baseline.
+
+**Keywords (deep-dive):** mental health resources long beach · meditation long beach · therapy long beach · low cost counseling long beach · mindfulness long beach · crisis line long beach · things to do in long beach
+**Keyword added to hub:** meditation long beach
+
+**Links:** deep-dive → internal `/yoga-therapy` (implied via "yoga therapist" mention), `/free-consultation`; outbound `https://myyoganetwork.com/corporate-wellness-programs`. Hub → new internal link to `/blog/2026-08-20-mental-health-mindfulness-resources-long-beach`.
+
+**Neighborhoods in subheads/body:** Alamitos Beach, East Village, Downtown, Belmont Heights.
+
+**Vocabulary check:** PASS (grep-verified across both files — zero instances of "yoga teacher," "yoga instructor," or "yoga class"). Deep-dive uses "yoga therapist"/"yoga therapy" only, and explicitly separates meditation/movement as an adjunct rather than a treatment.
+
+**"Space to think" / clinical-credibility check:** This is the most sensitive category run to date — mental health content sits closest to the medical-reviewer-embarrassment line in the brand spine. Handled deliberately: no diagnostic language, no claims that meditation or yoga treats a mental health condition, a dedicated crisis-resources section pulled entirely from primary sources (city PDF + org homepages, no invented phone numbers or hours), and an explicit "note on how we think about this" paragraph stating plainly that movement/mindfulness complements but does not replace therapy or crisis care. No urgency-based CTA language anywhere near the crisis section.
+
+**Image handoff:** queued 2 lines to `myn.com-main/tools/blog-image-studio/inbox/pending.jsonl`. Deep-dive slug queued; hub slug queued again because `things-to-do-healthy-long-beach-hero.png` still does not exist in `public/uploads/blog-images/`.
+
+**Publish result:** see commit hash + push status appended below by the Step 6 publish step.
