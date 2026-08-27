@@ -1,25 +1,23 @@
 ---
 title: "Healthy Things to Do in Long Beach: The Living Guide"
-description: "A regularly updated guide to healthy things to do in Long Beach — this week's events plus the best fall activities, free wellness, gyms, studios, markets and trails."
-date: "2026-08-27"
-lastUpdated: "2026-08-27"
+description: "A regularly updated guide to healthy things to do in Long Beach — this week's events plus the best gyms, yoga studios, farmers markets, parks, trails and mindfulness resources."
+date: "2026-08-20"
+lastUpdated: "2026-08-20"
 tag: "Long Beach Directory"
 author: "Long Beach School of Yoga"
 keywords:
   - "things to do in long beach"
   - "healthy long beach"
   - "long beach wellness guide"
-  - "fall things to do in long beach"
-  - "long beach marathon 2026"
   - "yoga studios long beach"
   - "farmers markets long beach"
   - "parks long beach"
   - "yoga on the bluff long beach"
   - "walking trails long beach"
   - "best gyms long beach"
-  - "coastal cleanup day long beach"
-  - "free things to do in long beach"
-  - "long beach fall events"
+  - "mocktails long beach"
+  - "meditation long beach"
+  - "long beach summer events"
 city: "Long Beach"
 coverImage: "/uploads/blog-images/things-to-do-healthy-long-beach-hero.png"
 ---
@@ -28,69 +26,71 @@ This is our living guide to healthy, active things to do in Long Beach — updat
 
 ## This Week in Long Beach
 
-Summer's concert series have wrapped. What's replacing them is better: the season Long Beach locals actually train in. Here's what's on between now and early September.
+### El Dorado Nature Center Summer Concert — Tonight
 
-### Tour the Shore Walking Group — Every Saturday
+**When:** Thursday, August 20; gates 6:30 p.m., music 7–8 p.m.
+**Where:** El Dorado East Regional Park, 7550 E. Spring St. (East Long Beach)
+**Cost:** $5/person suggested donation
 
-**When:** Saturdays, 7:30 a.m. (Aug 29, Sept 6, and weekly)
-**Where:** 2nd Street & La Verne Avenue, Belmont Shore (200 La Verne Ave.)
+Sligo Rags closes out the Nature Center's summer concert series in the outdoor amphitheater. Bring a low chair or blanket and a picnic dinner; the donation supports the Nature Center and Partners of Parks. Walk one of the park's dirt loop trails before the gates open.
+
+### Earl Burns Miller Japanese Garden Concerts — Two Fridays Left
+
+**When:** Fri 8/21 — Think of One Jazz · Fri 8/28 — Dave Nachmanoff (season finale). Both 5:30–7:30 p.m.
+**Where:** Earl Burns Miller Japanese Garden, CSULB campus (Determination Dr.)
+**Cost:** $10/person, reserve online or call (562) 985-8420
+
+A serene picnic-and-concert series inside a real Japanese garden — jazz, folk, and Motown against koi ponds and manicured pines. Arrive early to walk the garden paths before the music starts.
+
+### Shoreline Village Weekend Concerts
+
+**When:** Sat 8/22 — As IF / Sugarlips · Sat 8/29 — Mr. Max / Thieves Like Us. Saturdays 1–5 p.m. and 6–10 p.m.; DJ sets Sundays 1–5 p.m.
+**Where:** Off Boardwalk Theater, Shoreline Village, 429 Shoreline Village Dr. (Downtown)
 **Cost:** Free
 
-A 2–3 mile group loop to a different point of interest each week — past walks have gone to the Jack Dunster Marine Biological Reserve, Recreation Park, and the beach water polo tournament at Horny Corner. All levels and abilities: walkers, skaters, and wheelchair users welcome, plus dogs. Participants get discounts on coffee and food at Chapter II Coffee afterward.
+Rock, R&B, and Latin acts on the waterfront boardwalk — walk the harbor promenade or rent a bike from Wheel Fun Rentals before the set.
 
-### WOW — Walk On Wednesdays — Every Wednesday
+### Peninsula & Rancho Los Alamitos — Sunday Double, Season Finales
 
-**When:** Wednesdays, gather 7:15 a.m., depart 7:30 a.m. sharp (next: Sept 3)
-**Where:** In front of Chase Bank, 2nd Street, Belmont Shore
+**When:** Sunday, August 23, 5–7 p.m. (Rancho Los Alamitos) and 5:30–7:30 p.m. (Peninsula)
+**Where:** Rancho Los Alamitos, 6400 E. Bixby Hill Rd. (free shuttle from CSULB Lot G13) · Alamitos Park, 72nd Place & E. Ocean Blvd. (Peninsula)
 **Cost:** Free
 
-A brisk one-hour, three-mile loop that rotates through twelve routes — every one of them along water: the ocean, the bay, the Naples canals, Marine Stadium, and the Colorado Lagoon. The most consistent free cardio commitment in the city.
+Two free, family-friendly season-closing shows the same evening: The Blues Society All Stars on the historic Rancho grounds, and Squeezebox at the bay-edge Peninsula park. Pick a neighborhood and walk the grounds or the beach before the music starts.
 
-### Surfrider Beach Cleanup — First Saturday
+### Live at the Shell — Season Finale
 
-**When:** Saturday, September 5, 10 a.m.–12 p.m.
-**Where:** Belmont Pier, Ocean Blvd. at 39th Place (Belmont Shore)
-**Cost:** Free; RSVP recommended
+**When:** Tuesday, August 25, 6–8 p.m.
+**Where:** Recreation Park Bandshell, 701–939 Federation Dr. (East Long Beach)
+**Cost:** Free, all ages
 
-The Surfrider Long Beach chapter's monthly cleanup. Gloves, buckets, and trash pickers provided (bring your own if you have them), plus a free parking pass from the tent. Wear closed-toe shoes and bring water. Anyone 14 and under needs an adult; no dogs on city beaches.
+King Salmon and the Funk Yard Horns close the 2026 season with a '70s and disco set — plus a disco costume contest. Park once and walk the Recreation Park track or a round of disc golf before the show.
 
-### Yoga on the Bluff — Daily, Plus Sunset Sessions Through October
+### Free Outdoor Fitness Zones — Every Day
 
-**When:** Daily, 11 a.m.; seasonal 6 p.m. weekday sunset sessions run April through October
-**Where:** The grass at Ocean Blvd. and Junipero Ave., above Junipero Beach (Alamitos Beach)
-**Cost:** Free; donations welcome, never required
+**When:** Daylight hours, year-round
+**Where:** Nine city parks, including the 4.8-mile Downtown Fitness Loop and the Bixby Fitness Loop at Junipero & Ocean
+**Cost:** Free
 
-Long Beach's best standing free wellness ritual — an open-air, all-levels yoga class on the bluff above the Pacific, run by Yogalution Movement & Wellness seven days a week, year-round. Only cancelled for rain or wet ground. Bring a mat, towel, or just use the grass.
+Long Beach's standing no-membership gym — pull-up bars, leg press, and marked distance loops across the city. Full list in the gyms guide below.
 
-### Coastal Cleanup Day — Register Now for Sept 19
+### Yoga on the Bluff — Daily, Year-Round
 
-**When:** Saturday, September 19, 2026
-**Where:** 60+ sites across L.A. County — beaches, the L.A. River, parks, trails, and dive sites
-**Cost:** Free; registration open through Heal the Bay
+**When:** Daily, 11 a.m.; second session weekdays at 6 p.m. through October
+**Where:** Bixby Park Annex, Ocean Blvd at Junipero Ave (Alamitos Beach)
+**Cost:** Free; donations welcome
 
-The largest volunteer day of the year on the coast. Last year 6,722 volunteers pulled 19,139 pounds of trash from 70 sites. Register early — the first 400 registrants are entered to win festival passes.
-
-### Belmont Shore Car Show — Sunday, Sept 13
-
-**When:** Sunday, September 13, 9 a.m.–3 p.m.
-**Where:** 2nd Street, Belmont Shore
-**Cost:** Free for spectators
-
-One of the largest car shows on the West Coast, and functionally a two-mile walk down a closed 2nd Street. Pair it with the morning Tour the Shore loop.
+Long Beach's best standing free wellness ritual — an open-air, all-levels session on the grass above the Pacific, led by rotating instructors seven days a week.
 
 ### Farmers Markets — Almost Daily
 
-**When:** Bixby Park Tue 3–8 p.m. & Sat 9 a.m.–2 p.m., Marine Stadium Wed 3–8 p.m., Downtown (City Place) Fri 10 a.m.–2 p.m., Alamitos Bay Marina Sun 9 a.m.–2 p.m., and more
+**When:** Bixby Park Tue 3–8 p.m. & Sat 9 a.m.–2 p.m., Marine Stadium Wed 3–8 p.m., Downtown Fri 10 a.m.–2 p.m., Alamitos Bay Sun 9 a.m.–2 p.m., and more
 **Where:** Neighborhoods citywide
-**Cost:** Free to browse; several accept EBT, WIC, and CalFresh with Market Match
+**Cost:** Free to attend
 
-Late-summer stone fruit and melons are on their way out; squash, apples, pomegranates, and persimmons are on their way in. Full schedule in the markets section below.
+Standing, no-cost reasons to walk somewhere this week — full day-by-day market guide below.
 
 > Events shift week to week — always confirm with the organizer before you go.
-
-## Best Fall Healthy Things to Do in Long Beach
-
-Fall is the season Long Beach is actually best in: October averages a high near 75°F with nights around 62°F, and the ocean holds around 64.8°F after a September peak near 69°F — the warmest water of the year arrives right as the air cools off. The anchor event is **2XU Long Beach Marathon weekend, October 10–11**, with the marathon Sunday, October 11 at a 5:30 a.m. start on a flat, Boston-qualifying course past the Queen Mary and through **Belmont Shore**; the expo runs Oct 9 (1–7 p.m.) and Oct 10 (10 a.m.–4 p.m.) at the Long Beach Convention Center Hall C, and the 2026 race sold out with a waitlist. Cooler air also reopens the trails — the **El Dorado Nature Center** in **East Long Beach** (Tue–Sun, 8 a.m.–5 p.m., no entry after 4:30; free to walk or bike in) is far better in October than in August, and Hilltop Park in **Signal Hill** gets its clearest Catalina views of the year. Cleanup season stacks on top: **Coastal Cleanup Day Sept 19** plus Surfrider's first-Saturday cleanup at Belmont Pier. The festival slate is walkable — **Belmont Shore Car Show Sept 13** (free), **Oktoberfest at Steelcraft Sept 25–27**, the free **Fall Into Autumn Arts, Crafts & Food Market Fest Oct 2–4** at Shoreline Aquatic Park **Downtown**, and Trick-or-Treat on 2nd Street on Halloween. And Yoga on the Bluff's seasonal 6 p.m. sunset sessions run through October. Full guide: [Fall in Long Beach: The Best Healthy Things to Do This Season](/blog/2026-08-27-fall-healthy-things-to-do-long-beach).
 
 ## Best Mental Health & Mindfulness Resources in Long Beach
 
@@ -140,7 +140,7 @@ Long Beach has five miles of beach, a protected bay, calm canals, and some of th
 
 ## Best Free & Outdoor Wellness in Long Beach
 
-You don't need a membership to live well here. The daily free Yoga on the Bluff, the bluff-top paths above Alamitos Beach, and the open lawns of Bluff Park are a no-cost gym — and the city's nine free outdoor **Fitness Zones** add actual weight-bearing equipment to that, from the pull-up and dip stations on the 4.8-mile Downtown Fitness Loop to the ADA-accessible sets at Lincoln Park and Orizaba Park. Add the free 988 crisis line and donation-based meditation sits, and Long Beach's baseline for a healthy week costs close to nothing. With the summer concert series wrapped, the free calendar shifts to standing weekly programming — the Saturday Tour the Shore and Wednesday WOW walking groups in Belmont Shore, Surfrider's first-Saturday cleanup at Belmont Pier, and Yoga on the Bluff twice daily through October — none of which cost anything.
+You don't need a membership to live well here. The daily free Yoga on the Bluff, the bluff-top paths above Alamitos Beach, and the open lawns of Bluff Park are a no-cost gym — and the city's nine free outdoor **Fitness Zones** add actual weight-bearing equipment to that, from the pull-up and dip stations on the 4.8-mile Downtown Fitness Loop to the ADA-accessible sets at Lincoln Park and Orizaba Park. Add the free 988 crisis line and donation-based meditation sits, and Long Beach's baseline for a healthy week costs close to nothing. Nearly all of this month's remaining evening concert programming — El Dorado Nature Center, Live at the Shell's finale, the Peninsula and Rancho Los Alamitos Sunday shows — is free or a small donation.
 
 ## Best Hikes, Bluff & Beach Walking Paths in Long Beach
 
@@ -168,7 +168,7 @@ Long Beach no longer has a dedicated zero-proof bar — Shirley's Temple, the ar
 
 ## More Coming Soon
 
-This directory grows every few days — next up are neighborhood-by-neighborhood food guides and the rest of the seasonal set (allergy season, holiday stress, winter training). [Reach out](/free-consultation) if you run a healthy Long Beach spot that belongs here.
+This directory grows every few days — budget/free wellness deep-dives and seasonal guides (fall transitions, allergy season, holiday stress). [Reach out](/free-consultation) if you run a healthy Long Beach spot that belongs here.
 
 ## About Long Beach School of Yoga
 

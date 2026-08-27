@@ -732,3 +732,63 @@ Plus standing: Yoga on the Bluff (daily, free, 6 p.m. weekday session through Oc
 **Image handoff:** queued 2 lines to `myn.com-main/tools/blog-image-studio/inbox/pending.jsonl`. Deep-dive slug queued; hub slug queued again because `things-to-do-healthy-long-beach-hero.png` still does not exist in `public/uploads/blog-images/`.
 
 **Publish result:** see commit hash + push status appended below by the Step 6 publish step.
+
+**Publish result (Step 6):** PUBLISHED. Commit `838c3a3` — "blog: directory refresh 2026-08-20 (mental health and mindfulness resources)". 4 files changed, 368 insertions, 49 deletions. Push confirmed: `fea4937..838c3a3  main -> main`; `git status -sb` shows `## main...origin/main` with nothing ahead (the red "RemoteException" line in the PowerShell output was git's normal stderr progress text, not a failure — per the standing runbook note). Author Ram Bhakt <sideoutbox@gmail.com>. Staged only `content/blog/` + `public/uploads/blog-images/`; unrelated modified site files (app/blog/[slug]/page.tsx, app/blog/page.tsx, lib/posts.ts, lib/seo.ts, next.config.mjs) were left untouched in the working tree, not swept in.
+
+---
+
+## SKIPPED — duplicate same-day scheduler trigger (2026-08-20, ~16:35 PDT run)
+
+The `lbsoy-blog-every-3-days` task fired again today at ~16:35 PDT (scheduler `lastRunAt` recorded as 2026-08-20T23:35:19Z). Today's cadence slot was already fulfilled by the earlier 2026-08-20 ~09:45–09:50 PDT run: hub refreshed, deep-dive `2026-08-20-mental-health-mindfulness-resources-long-beach.md` written, both queued to Blog Image Studio, and published as commit `838c3a3` (confirmed pushed, `fea4937..838c3a3 main -> main`).
+
+No new research, hub archive, deep-dive, image-queue entry, or publish was performed on this second same-day firing — re-running would have double-published within hours, prematurely burned the next rotation category, and re-archived a hub that was only refreshed 7 hours earlier. Per the task's "when in doubt, produce a report" rule, this run's output is this note instead of new content.
+
+Scheduler's own `nextRunAt` is already projecting forward to 2026-08-23T05:45:57Z, so the cadence should self-correct. Flagging for Ram: this is the second observed same-day double-fire on this task (worth a look at the cron jitter/catch-up logic if it recurs a third time).
+
+---
+
+## Run: 2026-08-27 (lbsoy-blog-every-3-days)
+
+**Hub updated:** yes — `content/blog/things-to-do-healthy-long-beach.md` (date + lastUpdated bumped to 2026-08-27)
+**Archive snapshot:** `content/blog/_archive/2026-08-27-things-to-do-healthy-long-beach.md`
+**Deep-dive slug:** `fall-healthy-things-to-do-long-beach`
+**Deep-dive path:** `content/blog/2026-08-27-fall-healthy-things-to-do-long-beach.md`
+
+**Rotated category chosen:** #16 Seasonal angle (fall) — *why:* it was the only category in the 16-item rotation never yet run, and the hub had no seasonal H2. Last 6 runs were free/low-cost (8/24), mental health (8/20), sober-curious (8/15), gyms (8/13), hikes (8/04), yoga studios (8/03) — none repeated. Timing is also right: Aug 27 is the pivot point where the summer concert calendar ends and the fall training/marathon/cleanup season begins, so the page captures "fall things to do in Long Beach" going into its peak search window.
+
+**Word count:** deep-dive 1,254 words incl. frontmatter + sources (body ≈1,050 — within the 800–1,200 target). Hub 4,033 words.
+
+**Events verified (7):**
+1. Tour the Shore walking group — Saturdays 7:30 a.m., 2nd & La Verne (200 La Verne Ave), Belmont Shore, free — belmontshore.org/events
+2. WOW / Walk On Wednesdays — Wednesdays 7:15 a.m. gather / 7:30 depart, Chase Bank on 2nd St, 3-mi loop, free — belmontshore.org/events
+3. Surfrider LB beach cleanup — first Saturday monthly (next Sept 5), Belmont Pier at Ocean & 39th Pl, 10 a.m.–12 p.m., free — longbeach.surfrider.org
+4. Coastal Cleanup Day — Sat Sept 19, 2026, 60+ LA County sites, registration live — healthebay.org/coastalcleanupday
+5. Belmont Shore Car Show — Sun Sept 13, 2026, 9 a.m.–3 p.m., free for spectators
+6. Yoga on the Bluff — daily 11 a.m. + seasonal 6 p.m. weekday sunset sessions April–Oct, Ocean & Junipero, donation-based — yogalutionmovement.com/bluff
+7. Farmers markets — Bixby Park Tue/Sat, Downtown/City Place Fri, Alamitos Bay Sun — visitlongbeach.com
+
+**Directory entries verified (8, fall category):**
+- 2XU Long Beach Marathon weekend Oct 10–11 (marathon Oct 11, 5:30 a.m. start; expo Oct 9 1–7 p.m. + Oct 10 10 a.m.–4 p.m., Convention Center Hall C; 2026 sold out w/ waitlist)
+- El Dorado Nature Center — trails Tue–Sun 8 a.m.–5 p.m., no entry after 4:30; museum 8:30 a.m.–4 p.m.; ¼-mi paved + two 1-mi dirt trails; free on foot/bike
+- Hilltop Park, Signal Hill — clearest Catalina visibility of the year in fall
+- Oktoberfest at Steelcraft Long Beach — Sept 25–27, bar crawl Sat Sept 26 from 4 p.m.
+- Fall Into Autumn Arts, Crafts & Food Market Fest — Oct 2–4, 10 a.m.–6 p.m., Shoreline Aquatic Park, free admission
+- Trick-or-Treat on 2nd Street — annual BSBA Halloween tradition, jack-o'-lantern storefront signs
+- Long Beach October climate — avg high ~75°F / low ~62.2°F; ocean ~64.8°F Oct after ~69.3°F Sept peak
+- Fall farmers-market produce shift (squash, apples, pomegranates, persimmons, citrus)
+
+**Open-business check:** all entries are city facilities, nonprofits, recurring civic programs, or ticketed events with live 2026 listings — no permanently-closed risk. No new private businesses were added this run.
+
+**Keywords (deep-dive):** fall things to do in long beach · healthy things to do in long beach · long beach fall events · long beach marathon 2026 · coastal cleanup day long beach · belmont shore walking group · el dorado nature center fall
+
+**Links:** outbound https://myyoganetwork.com/corporate-wellness-programs (1) · internal /yoga-therapy, /corporate-wellness, /free-consultation · hub↔deep-dive cross-link in place
+
+**Vocabulary check:** PASS — grep for `yoga (teacher|instructor|class)` co-occurring with `therapist|therapy` on the same line returned zero hits. "Yoga class" used only for the community bluff session; "yoga therapy / yoga therapist" reserved for the clinical tie-in paragraph.
+
+**Older section freshened:** "Best Free & Outdoor Wellness in Long Beach" — replaced the expired August concert-series reference with the standing free weekly programming (Tour the Shore, WOW, Surfrider first-Saturday, Yoga on the Bluff through October).
+
+**Sources:** weather-us.com (LB October) · seatemperature.org + seatemperature.info · runlongbeach.com/marathon · belmontshore.org/events · visitlongbeach.com (El Dorado Nature Center, Oktoberfest, farmers markets) · healthebay.org/coastalcleanupday · longbeach.surfrider.org/programs/beach-cleanups · eventbrite.com (Fall Into Autumn Fest) · yogalutionmovement.com/bluff
+
+**Image handoff:** both slugs queued to `myn.com-main/tools/blog-image-studio/inbox/pending.jsonl` (hub hero PNG still absent, so re-queued per spec).
+
+**Publish result:** see below.
