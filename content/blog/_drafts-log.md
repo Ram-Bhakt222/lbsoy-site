@@ -791,4 +791,55 @@ Scheduler's own `nextRunAt` is already projecting forward to 2026-08-23T05:45:57
 
 **Image handoff:** both slugs queued to `myn.com-main/tools/blog-image-studio/inbox/pending.jsonl` (hub hero PNG still absent, so re-queued per spec).
 
-**Publish result:** see below.
+**Publish result:** PUSHED. Commit `3891f75` "blog: directory refresh 2026-08-27 (fall seasonal guide)" — 6 files changed, 636 insertions(+), 47 deletions(-). Push confirmed by ref update `838c3a3..3891f75  main -> main`; follow-up `git status -sb` shows `## main...origin/main` with nothing ahead. (PowerShell rendered git's normal stderr as a red RemoteException — not a failure.) Note: this commit also swept in the 2026-08-24 run's blog files, which had been left uncommitted by that run. Unrelated in-progress site code (`app/blog/[slug]/page.tsx`, `app/blog/page.tsx`, `lib/posts.ts`, `lib/seo.ts`, `next.config.mjs`) was correctly left unstaged.
+
+---
+
+## Run: 2026-08-31 (lbsoy-blog-every-3-days)
+
+**Hub updated:** yes — `content/blog/things-to-do-healthy-long-beach.md` (date + lastUpdated bumped to 2026-08-31)
+**Archive snapshot:** `content/blog/_archive/2026-08-31-things-to-do-healthy-long-beach.md`
+**Deep-dive slug:** `long-beach-juice-bars-downtown-eastside-guide`
+**Deep-dive path:** `content/blog/2026-08-31-long-beach-juice-bars-downtown-eastside-guide.md`
+
+**Rotated category chosen:** #2 Best juice bars, smoothies & açaí bowls (by neighborhood) — *why:* all 16 categories in the rotation have now run at least once (seasonal, category #16, ran 8/27). Juice bars (category #2) was the least-recently-used, last touched 2026-06-16 — over 10 weeks / 15 runs ago, well past the "don't repeat within ~6 runs" threshold. Rather than re-cover Belmont Shore/Bluff Heights (already done), this run deliberately targeted the neighborhoods NOT covered in June: Downtown, California Heights, the CSULB/Spring St corridor, and the PCH/Los Altos corridor — plus a fact-check pass on the East Village.
+
+**Word count:** deep-dive body ≈853 words (within 800–1,200 target). Hub: unchanged length class, ~4,000+ words.
+
+**Events verified (this week / next 7–14 days):**
+1. Long Beach Greek Festival — Sept 5–7, 5761 E. Colorado St., noon–10p Sat/Sun, noon–9p Mon, free admission — lbgreekfest.org / visitlongbeach.com Labor Day roundup
+2. Shoreline Village Summer Concert Series, final weekend — Sept 5–7, 401–435 Shoreline Village Dr., free (As IF, Pop Vision, So Rad, DJ Impeccable Styles) — visitlongbeach.com official 2026 schedule
+3. Surfrider LB beach cleanup — Sat Sept 5 (first Saturday), Belmont Pier, 10a–12p, free — longbeach.surfrider.org (carried forward from 8/27, date confirmed still correct)
+4. Tour the Shore walking group — standing Saturdays, carried forward
+5. WOW / Walk On Wednesdays — standing Wednesdays, carried forward
+6. Yoga on the Bluff — standing daily + seasonal sunset sessions through Oct, carried forward
+7. Belmont Shore Car Show — Sun Sept 13, carried forward (date not yet passed)
+8. Coastal Cleanup Day — Sat Sept 19, carried forward (register-now framing, Heal the Bay)
+
+**Directory entries verified (juice bar category, 6 businesses + 1 closure):**
+- Movita Juice Bar, 421 W Broadway, Downtown — Yelp updated June 2026, confirmed open, hours verified
+- Movita Juice Bar, 2288 E Carson St, California Heights (zip 90807) — Yelp updated June 2026, confirmed open
+- Juice It Up!, 6508 E Spring St (across from Millikan HS), East Long Beach/CSULB corridor — Yelp updated July 2026, confirmed open, locally-owned franchise per LB Business Journal
+- Robeks, 4547 E Pacific Coast Hwy (zip 90804, Los Altos corridor) — Yelp updated Dec 2025, confirmed open, hours verified
+- Salud Juice, Pressed Juicery, Tru Nature Juice Bar — carried forward from 6/16 post as "still going strong," not re-verified individually this run (no signal of change)
+
+**Closure caught and corrected:** Revive Juice Bar (145 Linden Ave, East Village Arts District) — Yelp listing explicitly marked "CLOSED — Updated August 2026." Per the open-business safety rule, this was NOT listed as an open option; instead the deep-dive and hub both call out the closure directly and route readers to the nearest open alternative (Movita, Downtown Broadway). No replacement business was found yet for the Linden Ave space — noted as a watch item, not invented.
+
+**Keywords (deep-dive):** juice bars long beach · movita juice bar long beach · acai bowls downtown long beach · juice it up long beach · robeks long beach · smoothies long beach · east village long beach juice
+**Keyword added to hub:** juice bars long beach; swapped out "coastal cleanup day long beach" and "long beach fall events" for "juice bars long beach" and "long beach labor day weekend" to match this run's content mix.
+
+**Links:** deep-dive → internal `/yoga-therapy`, `/free-consultation`; outbound `https://myyoganetwork.com/corporate-wellness-programs` (1). Hub → juice bar section re-linked to the new 8/31 deep-dive as primary "Full guide," original 6/16 post still linked from within the new post's intro (cross-reference preserved, not orphaned).
+
+**Neighborhoods in subheads/body:** Downtown Long Beach, East Village Arts District, California Heights, Los Altos, plus Belmont Shore/Bluff Heights referenced as prior coverage.
+
+**Vocabulary check:** PASS — grep for "yoga teacher," "yoga instructor," "yoga class" in the deep-dive returned zero hits. Hub's only match is the pre-existing "yoga class" reference to the free community Yoga on the Bluff session (consumer/community context, not paired with "therapist/therapy" in the same sentence) — consistent with prior runs' vocabulary rule.
+
+**Open-business check:** All 4 new/newly-featured businesses confirmed open via recently-updated Yelp listings (Dec 2025–July 2026). One closure (Revive Juice Bar) caught via Yelp's explicit "CLOSED" status flag and correctly excluded/flagged rather than listed.
+
+**Older section freshened:** "Best Free & Outdoor Wellness in Long Beach" — updated the "summer concert series wrapped" framing to reflect Shoreline Village's final concert weekend landing during this run's Labor Day window, then transitioning to standing weekly programming after Sept 7.
+
+**Sources:** movitajuicebar.com (both location pages) · yelp.com (Movita ×2, Juice It Up!, Robeks, Revive Juice Bar) · juiceitup.com/location/long-beach · lbbusinessjournal.com (Juice It Up! profile) · robeks.com/locations · visitlongbeach.com (Labor Day roundup, summer concert series official schedule) · lbgreekfest.org · longbeach.surfrider.org/programs/beach-cleanups
+
+**Image handoff:** 2 lines appended to `myn.com-main/tools/blog-image-studio/inbox/pending.jsonl` — deep-dive slug `2026-08-31-long-beach-juice-bars-downtown-eastside-guide` (new) and hub slug `things-to-do-healthy-long-beach` (re-queued; hero PNG still does not exist in `public/uploads/blog-images/`).
+
+**Publish result:** see commit hash + push status appended below by the Step 6 publish step.

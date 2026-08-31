@@ -1,8 +1,8 @@
 ---
 title: "Healthy Things to Do in Long Beach: The Living Guide"
 description: "A regularly updated guide to healthy things to do in Long Beach — this week's events plus the best fall activities, free wellness, gyms, studios, markets and trails."
-date: "2026-08-31"
-lastUpdated: "2026-08-31"
+date: "2026-08-27"
+lastUpdated: "2026-08-27"
 tag: "Long Beach Directory"
 author: "Long Beach School of Yoga"
 keywords:
@@ -17,9 +17,9 @@ keywords:
   - "yoga on the bluff long beach"
   - "walking trails long beach"
   - "best gyms long beach"
-  - "juice bars long beach"
+  - "coastal cleanup day long beach"
   - "free things to do in long beach"
-  - "long beach labor day weekend"
+  - "long beach fall events"
 city: "Long Beach"
 coverImage: "/uploads/blog-images/things-to-do-healthy-long-beach-hero.png"
 ---
@@ -28,19 +28,11 @@ This is our living guide to healthy, active things to do in Long Beach — updat
 
 ## This Week in Long Beach
 
-Labor Day weekend is the pivot point — the last big outdoor gathering before fall training season takes over. Here's what's on between now and mid-September.
-
-### Labor Day Weekend: Greek Festival + Shoreline Village's Final Concert Weekend
-
-**When:** Friday–Monday, September 5–7 (Greek Festival) and Friday–Sunday, September 5–7 (Shoreline Village concerts)
-**Where:** Long Beach Greek Festival, 5761 E. Colorado St.; Shoreline Village, 401–435 Shoreline Village Dr., Downtown
-**Cost:** Free admission to both (Greek Festival food/vendors à la carte)
-
-The Greek Festival runs noon–10 p.m. Sat/Sun and noon–9 p.m. Mon with dancing, a walkable festival grounds, and food stalls — plenty of steps in even if you skip the fried dough. Down at Shoreline Village, the free outdoor concert series plays its last weekend of the season (As IF, Pop Vision, So Rad, and DJ Impeccable Styles), an easy pairing with a walk along the Shoreline Pedestrian Bikepath beforehand.
+Summer's concert series have wrapped. What's replacing them is better: the season Long Beach locals actually train in. Here's what's on between now and early September.
 
 ### Tour the Shore Walking Group — Every Saturday
 
-**When:** Saturdays, 7:30 a.m. (Sept 5, 12, 19, and weekly)
+**When:** Saturdays, 7:30 a.m. (Aug 29, Sept 6, and weekly)
 **Where:** 2nd Street & La Verne Avenue, Belmont Shore (200 La Verne Ave.)
 **Cost:** Free
 
@@ -48,7 +40,7 @@ A 2–3 mile group loop to a different point of interest each week — past walk
 
 ### WOW — Walk On Wednesdays — Every Wednesday
 
-**When:** Wednesdays, gather 7:15 a.m., depart 7:30 a.m. sharp (next: Sept 2, 9)
+**When:** Wednesdays, gather 7:15 a.m., depart 7:30 a.m. sharp (next: Sept 3)
 **Where:** In front of Chase Bank, 2nd Street, Belmont Shore
 **Cost:** Free
 
@@ -60,7 +52,7 @@ A brisk one-hour, three-mile loop that rotates through twelve routes — every o
 **Where:** Belmont Pier, Ocean Blvd. at 39th Place (Belmont Shore)
 **Cost:** Free; RSVP recommended
 
-The Surfrider Long Beach chapter's monthly cleanup, timed the same weekend as the Greek Festival and Shoreline Village's final concert. Gloves, buckets, and trash pickers provided (bring your own if you have them), plus a free parking pass from the tent. Wear closed-toe shoes and bring water. Anyone 14 and under needs an adult; no dogs on city beaches.
+The Surfrider Long Beach chapter's monthly cleanup. Gloves, buckets, and trash pickers provided (bring your own if you have them), plus a free parking pass from the tent. Wear closed-toe shoes and bring water. Anyone 14 and under needs an adult; no dogs on city beaches.
 
 ### Yoga on the Bluff — Daily, Plus Sunset Sessions Through October
 
@@ -70,14 +62,6 @@ The Surfrider Long Beach chapter's monthly cleanup, timed the same weekend as th
 
 Long Beach's best standing free wellness ritual — an open-air, all-levels yoga class on the bluff above the Pacific, run by Yogalution Movement & Wellness seven days a week, year-round. Only cancelled for rain or wet ground. Bring a mat, towel, or just use the grass.
 
-### Belmont Shore Car Show — Sunday, Sept 13
-
-**When:** Sunday, September 13, 9 a.m.–3 p.m.
-**Where:** 2nd Street, Belmont Shore
-**Cost:** Free for spectators
-
-One of the largest car shows on the West Coast, and functionally a two-mile walk down a closed 2nd Street. Pair it with the morning Tour the Shore loop.
-
 ### Coastal Cleanup Day — Register Now for Sept 19
 
 **When:** Saturday, September 19, 2026
@@ -85,6 +69,14 @@ One of the largest car shows on the West Coast, and functionally a two-mile walk
 **Cost:** Free; registration open through Heal the Bay
 
 The largest volunteer day of the year on the coast. Last year 6,722 volunteers pulled 19,139 pounds of trash from 70 sites. Register early — the first 400 registrants are entered to win festival passes.
+
+### Belmont Shore Car Show — Sunday, Sept 13
+
+**When:** Sunday, September 13, 9 a.m.–3 p.m.
+**Where:** 2nd Street, Belmont Shore
+**Cost:** Free for spectators
+
+One of the largest car shows on the West Coast, and functionally a two-mile walk down a closed 2nd Street. Pair it with the morning Tour the Shore loop.
 
 ### Farmers Markets — Almost Daily
 
@@ -148,7 +140,7 @@ Long Beach has five miles of beach, a protected bay, calm canals, and some of th
 
 ## Best Free & Outdoor Wellness in Long Beach
 
-You don't need a membership to live well here. The daily free Yoga on the Bluff, the bluff-top paths above Alamitos Beach, and the open lawns of Bluff Park are a no-cost gym — and the city's nine free outdoor **Fitness Zones** add actual weight-bearing equipment to that, from the pull-up and dip stations on the 4.8-mile Downtown Fitness Loop to the ADA-accessible sets at Lincoln Park and Orizaba Park. Add the free 988 crisis line and donation-based meditation sits, and Long Beach's baseline for a healthy week costs close to nothing. Shoreline Village's outdoor concert series plays its final free weekend over Labor Day (Sept 5–7); after that the free calendar shifts fully to standing weekly programming — the Saturday Tour the Shore and Wednesday WOW walking groups in Belmont Shore, Surfrider's first-Saturday cleanup at Belmont Pier, and Yoga on the Bluff twice daily through October — none of which cost anything.
+You don't need a membership to live well here. The daily free Yoga on the Bluff, the bluff-top paths above Alamitos Beach, and the open lawns of Bluff Park are a no-cost gym — and the city's nine free outdoor **Fitness Zones** add actual weight-bearing equipment to that, from the pull-up and dip stations on the 4.8-mile Downtown Fitness Loop to the ADA-accessible sets at Lincoln Park and Orizaba Park. Add the free 988 crisis line and donation-based meditation sits, and Long Beach's baseline for a healthy week costs close to nothing. With the summer concert series wrapped, the free calendar shifts to standing weekly programming — the Saturday Tour the Shore and Wednesday WOW walking groups in Belmont Shore, Surfrider's first-Saturday cleanup at Belmont Pier, and Yoga on the Bluff twice daily through October — none of which cost anything.
 
 ## Best Hikes, Bluff & Beach Walking Paths in Long Beach
 
@@ -156,7 +148,7 @@ Long Beach looks flat, but the city hides more dirt, elevation, and wetland than
 
 ## Best Juice Bars, Smoothies & Açaí Bowls in Long Beach
 
-Belmont Shore and Bluff Heights are well covered — **Salud Juice** (4918 E 2nd St), **Pressed Juicery** (4923 E 2nd St), and **Tru Nature Juice Bar** (2225 E Broadway) are all still going strong. This update fills in the rest of the map. **Downtown**, **Movita Juice Bar** now runs two Long Beach locations — 421 W Broadway and 2288 E Carson St in **California Heights** — both organic açaí and fresh-pressed juice. Near **CSULB**, **Juice It Up!** (6508 E Spring St, across from Millikan High) opened as a local-owned franchise. On the **PCH/Los Altos corridor**, **Robeks** (4547 E PCH) rounds out the east side. One honest update: **Revive Juice Bar**, the East Village Arts District's longtime spot on Linden Ave, has closed — Movita's Downtown Broadway location is the closest replacement. Full guide: [Long Beach Juice Bars & Smoothies: Downtown, Eastside & the East Village Update](/blog/2026-08-31-long-beach-juice-bars-downtown-eastside-guide).
+**Salud Juice** (4918 E 2nd St, Belmont Shore) — USDA-certified-organic, truly raw cold-pressed since 2012. **Pressed Juicery** (4923 E 2nd St) — cold-pressed cleanses, açaí bowls, dairy-free soft serve. **Tru Nature Juice Bar** (2225 E Broadway, Bluff Heights) — fully vegan açaí and pitaya bowls, no added ice or sugar. **Nekter Juice Bar** (6467 E PCH & 2004 Ximeno Ave). **Tru Bowl** (6250 E PCH). **Pur Bowls** (2210 N Bellflower Blvd). Full guide: [Best Juice Bars, Smoothies & Açaí Bowls in Long Beach](/blog/2026-06-16-best-juice-bars-smoothies-acai-long-beach).
 
 ## Best Run & Walk Clubs & Group Fitness in Long Beach
 
