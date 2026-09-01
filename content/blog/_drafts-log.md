@@ -843,3 +843,48 @@ Scheduler's own `nextRunAt` is already projecting forward to 2026-08-23T05:45:57
 **Image handoff:** 2 lines appended to `myn.com-main/tools/blog-image-studio/inbox/pending.jsonl` — deep-dive slug `2026-08-31-long-beach-juice-bars-downtown-eastside-guide` (new) and hub slug `things-to-do-healthy-long-beach` (re-queued; hero PNG still does not exist in `public/uploads/blog-images/`).
 
 **Publish result:** see commit hash + push status appended below by the Step 6 publish step.
+
+**Publish result (Step 6):** PUBLISHED. Commit `cd9f32b` — "blog: directory refresh 2026-08-31 (juice bars downtown/eastside update)". 4 files changed, 317 insertions(+), 19 deletions(-). Push confirmed: `3891f75..cd9f32b  main -> main`; follow-up `git status -sb` shows `## main...origin/main` with nothing ahead. (A stray `$env:GIT_TERMINAL_PROMPT=0` quoting error surfaced in the PowerShell output as a harmless "=0 not recognized" line — it ran after the push had already succeeded and did not affect the commit or push.) Author Ram Bhakt <sideoutbox@gmail.com>. Staged only `content/blog/` + `public/uploads/blog-images/`; unrelated modified site files (`app/blog/[slug]/page.tsx`, `app/blog/page.tsx`, `lib/posts.ts`, `lib/seo.ts`, `next.config.mjs`) were left untouched in the working tree, not swept in.
+
+## Run: 2026-09-01 (lbsoy-blog-every-3-days)
+
+**Hub updated:** yes — `content/blog/things-to-do-healthy-long-beach.md` (date + lastUpdated bumped to 2026-09-01)
+**Archive snapshot:** `content/blog/_archive/2026-09-01-things-to-do-healthy-long-beach.md`
+**Deep-dive slug:** `long-beach-run-walk-clubs-bixby-knolls-signal-hill`
+**Deep-dive path:** `content/blog/2026-09-01-long-beach-run-walk-clubs-bixby-knolls-signal-hill.md`
+
+**Rotated category chosen:** #5 Best run/walk clubs & group fitness — *why:* this run landed the day after the 8/31 run (scheduler-triggered, not a full 3-day gap), and by 8/31 every one of the 16 rotation categories had run at least once (second lap started with #2 juice bars on 8/31). Ranking remaining categories by last-used date, #5 run/walk clubs was the most overdue at 6/18 — older than surf/swim (6/21), restaurants (6/25), cold plunge (6/29), and everything after. Rather than re-cover the same clubs (Long Beach Run Club, Run Club Girls, Lululemon) from the 6/18 post, this run deliberately targeted neighborhood-born groups not in that post: Bixby Knolls Dawn Joggers, Signal Hill's two weekly meetups, and Shoreline Frontrunners of Long Beach (LGBTQ+-inclusive). The existing hub H2 for this category was rewritten in place (not duplicated) and now links to both posts.
+
+**Word count:** deep-dive body ≈907 words (within 800–1,200 target, excl. Sources). Hub: 4,501 words total.
+
+**Events verified (7, "This Week" bucket largely carried forward + 1 new):**
+1. Long Beach Greek Festival — Fri–Mon, Sept 5–7, 5761 E. Colorado St., noon–10p Sat/Sun, noon–9p Mon, free admission — lbgreekfest.org / visitlongbeach.com (confirmed still accurate, now literally this coming weekend)
+2. Shoreline Village Summer Concert Series, final weekend — Sept 5–7, Shoreline Village, free — visitlongbeach.com (carried forward, date not yet passed)
+3. Tour the Shore walking group — standing Saturdays, Belmont Shore — carried forward
+4. WOW / Walk On Wednesdays — standing Wednesdays, Belmont Shore — carried forward
+5. Surfrider LB beach cleanup — first Saturday (Sept 5), Belmont Pier — carried forward, date confirmed still correct
+6. Yoga on the Bluff — standing daily + seasonal sunset sessions through Oct — carried forward
+7. **NEW this run:** Aloha Run Long Beach — Sun Sept 20, 2026, Shoreline Aquatic Park, 5K (7:45a start, $44.46) / 10K (7:30a start, $49.76), chip-timed, finisher medal + T-shirt + post-race festival — thealoharun.com/long-beach, runsignup.com. Added to hub "This Week" section since it falls within the near-term planning window and cross-links to the new deep-dive.
+Belmont Shore Car Show (Sept 13) and Coastal Cleanup Day (Sept 19) remain accurate and were left as-is in the hub (dates not yet passed).
+
+**Directory entries verified (run/walk clubs category, 3 groups + backstory):**
+- Bixby Knolls Dawn Joggers — weekdays 5:15 a.m., Jamba Juice at Atlantic & Carson (4085 Atlantic Ave.), runs Mon/Wed/Fri + walks Tue/Thu, 3–4 mi routes, founded 2016 after prowler incidents (origin story per 2018 Long Beach Post article, schedule/location reconfirmed via current 2024+ community listings — group still active)
+- Signal Hill weekly runs — Monday 6:30 p.m. at Home Depot lot (2450 Cherry Ave.), Wednesday 6 a.m. at Chittick Field
+- Shoreline Frontrunners of Long Beach — Tue/Thu 6:30 p.m. (6 p.m. winter) + Sat 9 a.m., bluff at Redondo & Ocean, 3–6 mi, part of international LGBTQ+-inclusive Frontrunners network, occasional Tuesday relocation to Signal Hill Home Depot lot — sfrlb.com
+
+**Open-business check:** all three are community-run free groups (not storefronts) with active, currently-dated schedule listings (sfrlb.com weekly-runs page, Jamba Juice location page, multiple 2024–2026 aggregator listings for Bixby Knolls). No closure risk category — no paid businesses added this run.
+
+**Keywords (deep-dive):** bixby knolls dawn joggers · run clubs long beach · signal hill running group · shoreline frontrunners long beach · walk clubs long beach · long beach group fitness · aloha run long beach 2026
+**Keyword added to hub:** "run clubs long beach" (swapped in for "yoga on the bluff long beach," which remains covered under existing yoga-studios keywords).
+
+**Links:** deep-dive → internal `/yoga-therapy`, `/free-consultation`; outbound `https://myyoganetwork.com/corporate-wellness-programs` (1). Hub → run/walk clubs section re-linked to new 9/1 deep-dive as primary "Full guide," original 6/18 post preserved as "(original overview)" — not orphaned. Free/Outdoor Wellness section also cross-linked to the new neighborhood clubs.
+
+**Vocabulary check:** PASS — grep for `yoga (teacher|instructor|class)` in the new deep-dive returned zero hits (deep-dive doesn't reference yoga classes at all, only "yoga therapist/yoga therapy" once in the corporate tie-in). Hub's only match remains the pre-existing "yoga class" reference to the free community Yoga on the Bluff session, not paired with therapist/therapy on the same line.
+
+**Older section freshened:** "Best Free & Outdoor Wellness in Long Beach" — added a sentence naming the three free run/walk groups (Dawn Joggers, Frontrunners, Signal Hill meetups) as no-cost options, tying the new category into the existing free-wellness framing; also tightened the "This Week" intro line to note Labor Day weekend is now imminent (this Friday–Monday).
+
+**Sources:** lbpost.com (Bixby Knolls Dawn Joggers origin story, 2018) · thedustland.com (current club listing) · locations.jamba.com (Bixby Knolls Plaza address) · sfrlb.com/weekly-runs (Shoreline Frontrunners schedule) · findtherun.com (Frontrunners club profile) · komoot.com (Signal Hill running trails) · thealoharun.com/long-beach (Aloha Run 2026 official page) · runsignup.com (Aloha Run registration/pricing) · lbgreekfest.org + visitlongbeach.com (Greek Festival, carried-forward confirmation)
+
+**Image handoff:** deep-dive slug queued to `myn.com-main/tools/blog-image-studio/inbox/pending.jsonl`; hub hero re-queued (still absent per Step 5 spec) — see Step 5 confirmation below.
+
+**Publish result:** see commit hash + push status appended below by the Step 6 publish step.

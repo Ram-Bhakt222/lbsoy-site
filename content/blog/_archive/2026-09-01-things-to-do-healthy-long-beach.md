@@ -1,8 +1,8 @@
 ---
 title: "Healthy Things to Do in Long Beach: The Living Guide"
 description: "A regularly updated guide to healthy things to do in Long Beach — this week's events plus the best fall activities, free wellness, gyms, studios, markets and trails."
-date: "2026-09-01"
-lastUpdated: "2026-09-01"
+date: "2026-08-31"
+lastUpdated: "2026-08-31"
 tag: "Long Beach Directory"
 author: "Long Beach School of Yoga"
 keywords:
@@ -14,7 +14,7 @@ keywords:
   - "yoga studios long beach"
   - "farmers markets long beach"
   - "parks long beach"
-  - "run clubs long beach"
+  - "yoga on the bluff long beach"
   - "walking trails long beach"
   - "best gyms long beach"
   - "juice bars long beach"
@@ -28,7 +28,7 @@ This is our living guide to healthy, active things to do in Long Beach — updat
 
 ## This Week in Long Beach
 
-Labor Day weekend is the pivot point — the last big outdoor gathering before fall training season takes over. It lands this Friday through Monday. Here's what's on between now and late September.
+Labor Day weekend is the pivot point — the last big outdoor gathering before fall training season takes over. Here's what's on between now and mid-September.
 
 ### Labor Day Weekend: Greek Festival + Shoreline Village's Final Concert Weekend
 
@@ -85,14 +85,6 @@ One of the largest car shows on the West Coast, and functionally a two-mile walk
 **Cost:** Free; registration open through Heal the Bay
 
 The largest volunteer day of the year on the coast. Last year 6,722 volunteers pulled 19,139 pounds of trash from 70 sites. Register early — the first 400 registrants are entered to win festival passes.
-
-### Aloha Run — Register Now for Sept 20
-
-**When:** Sunday, September 20, 2026 — 10K starts 7:30 a.m., 5K starts 7:45 a.m.
-**Where:** Shoreline Aquatic Park, 200 Aquarium Way, Downtown
-**Cost:** $44–$50 depending on distance
-
-A harbor-and-bay 5K/10K with chip timing, a finisher medal, and a post-race festival with live music. A realistic four-week goal if you've just joined one of the neighborhood run clubs below. Full guide: [Long Beach's Neighborhood Run Clubs](/blog/2026-09-01-long-beach-run-walk-clubs-bixby-knolls-signal-hill).
 
 ### Farmers Markets — Almost Daily
 
@@ -156,7 +148,7 @@ Long Beach has five miles of beach, a protected bay, calm canals, and some of th
 
 ## Best Free & Outdoor Wellness in Long Beach
 
-You don't need a membership to live well here. The daily free Yoga on the Bluff, the bluff-top paths above Alamitos Beach, and the open lawns of Bluff Park are a no-cost gym — and the city's nine free outdoor **Fitness Zones** add actual weight-bearing equipment to that, from the pull-up and dip stations on the 4.8-mile Downtown Fitness Loop to the ADA-accessible sets at Lincoln Park and Orizaba Park. Free group running belongs on this list too: the **Bixby Knolls Dawn Joggers** (weekday mornings, Atlantic & Carson), **Shoreline Frontrunners** (three times a week off the Alamitos Beach bluff), and Signal Hill's Home Depot-lot meetups cost nothing and welcome walkers as readily as runners. Add the free 988 crisis line and donation-based meditation sits, and Long Beach's baseline for a healthy week costs close to nothing. Shoreline Village's outdoor concert series plays its final free weekend over Labor Day (Sept 5–7); after that the free calendar shifts fully to standing weekly programming — the Saturday Tour the Shore and Wednesday WOW walking groups in Belmont Shore, Surfrider's first-Saturday cleanup at Belmont Pier, and Yoga on the Bluff twice daily through October — none of which cost anything.
+You don't need a membership to live well here. The daily free Yoga on the Bluff, the bluff-top paths above Alamitos Beach, and the open lawns of Bluff Park are a no-cost gym — and the city's nine free outdoor **Fitness Zones** add actual weight-bearing equipment to that, from the pull-up and dip stations on the 4.8-mile Downtown Fitness Loop to the ADA-accessible sets at Lincoln Park and Orizaba Park. Add the free 988 crisis line and donation-based meditation sits, and Long Beach's baseline for a healthy week costs close to nothing. Shoreline Village's outdoor concert series plays its final free weekend over Labor Day (Sept 5–7); after that the free calendar shifts fully to standing weekly programming — the Saturday Tour the Shore and Wednesday WOW walking groups in Belmont Shore, Surfrider's first-Saturday cleanup at Belmont Pier, and Yoga on the Bluff twice daily through October — none of which cost anything.
 
 ## Best Hikes, Bluff & Beach Walking Paths in Long Beach
 
@@ -168,7 +160,7 @@ Belmont Shore and Bluff Heights are well covered — **Salud Juice** (4918 E 2nd
 
 ## Best Run & Walk Clubs & Group Fitness in Long Beach
 
-Belmont Shore's **Long Beach Run Club** (Coronado Ave & Ocean Blvd, Saturday mornings, ~5 miles), **Run Club Girls** (9 a.m. weekly, two pace options), and free **Lululemon run clubs** near the beach path are still the highest-visibility groups. But some of the city's most durable running communities formed neighborhood by neighborhood: the **Bixby Knolls Dawn Joggers** meet every weekday at 5:15 a.m. in front of Jamba Juice at Atlantic & Carson (runs Mon/Wed/Fri, walks Tue/Thu) — a group that started in 2016 after a string of prowler incidents and has grown into the neighborhood's largest fitness community. In **Signal Hill**, a Monday 6:30 p.m. group meets at the Home Depot lot on Cherry Ave., plus a Wednesday 6 a.m. session at Chittick Field. And **Shoreline Frontrunners of Long Beach**, part of the international LGBTQ+-inclusive Frontrunners network, runs three times a week from the bluff at Redondo & Ocean, all paces welcome. Upcoming: Aloha Run (Sept 20, Shoreline Aquatic Park), 2XU Long Beach Marathon (Oct 10–11). Full guide: [Long Beach's Neighborhood Run Clubs: Bixby Knolls, Signal Hill & the Inclusive Crews You Haven't Tried](/blog/2026-09-01-long-beach-run-walk-clubs-bixby-knolls-signal-hill) (original overview: [Best Run & Walk Clubs & Group Fitness in Long Beach](/blog/2026-06-18-best-run-walk-clubs-long-beach)).
+**Long Beach Run Club** (Meetup, meets Coronado Ave & Ocean Blvd Saturday mornings, ~5 miles). **Run Club Girls** (9 a.m. weekly, two pace options). **Lululemon run clubs** (Belmont Shore and PCH corridor). **The Camp Transformation Center** (245 The Promenade N, 5 a.m. weekdays bootcamp). **Crunch Fitness** (100 Oceangate, group HIIT/cycling/Zumba). Upcoming: Aloha Run (Sept 20, Shoreline Aquatic Park), 2XU Long Beach Marathon (Oct 10–11). Full guide: [Best Run & Walk Clubs & Group Fitness in Long Beach](/blog/2026-06-18-best-run-walk-clubs-long-beach).
 
 ## Best Cold Plunge, Sauna & Recovery Studios in Long Beach
 
