@@ -2,7 +2,7 @@
 title: "Healthy Things to Do in Long Beach: The Living Guide"
 description: "A regularly updated guide to healthy things to do in Long Beach — this week's events plus the best fall activities, free wellness, gyms, studios, markets and trails."
 date: "2026-09-01"
-lastUpdated: "2026-09-02"
+lastUpdated: "2026-09-01"
 tag: "Long Beach Directory"
 author: "Long Beach School of Yoga"
 keywords:
@@ -19,7 +19,7 @@ keywords:
   - "best gyms long beach"
   - "juice bars long beach"
   - "free things to do in long beach"
-  - "masters swim long beach"
+  - "long beach labor day weekend"
 city: "Long Beach"
 coverImage: "/uploads/blog-images/things-to-do-healthy-long-beach-hero.png"
 ---
@@ -28,7 +28,7 @@ This is our living guide to healthy, active things to do in Long Beach — updat
 
 ## This Week in Long Beach
 
-Labor Day weekend is now just days away — the last big outdoor gathering before fall training season takes over. It lands this Friday through Monday. Here's what's on between now and late September.
+Labor Day weekend is the pivot point — the last big outdoor gathering before fall training season takes over. It lands this Friday through Monday. Here's what's on between now and late September.
 
 ### Labor Day Weekend: Greek Festival + Shoreline Village's Final Concert Weekend
 
@@ -138,7 +138,7 @@ A healthy day here carries into where you eat — and Long Beach has one of the 
 
 ## Best Surf, Swim, Paddle & Water Fitness in Long Beach
 
-Long Beach has five miles of beach, a protected bay, calm canals, and some of the most accessible water sports infrastructure in Southern California — and underneath the rental-shop layer is a genuinely competitive water culture. Full guides: [Surf, Swim, Paddle & Water Fitness in Long Beach](/blog/2026-06-21-surf-swim-paddle-water-fitness-long-beach) and [Masters Swim, Outrigger Canoe & Scuba in Long Beach](/blog/2026-09-02-long-beach-masters-swim-outrigger-canoe-scuba-guide).
+Long Beach has five miles of beach, a protected bay, calm canals, and some of the most accessible water sports infrastructure in Southern California. Full guide: [Surf, Swim, Paddle & Water Fitness in Long Beach](/blog/2026-06-21-surf-swim-paddle-water-fitness-long-beach).
 
 **Kayaks on the Water** (5411 E Ocean Blvd, Bayshore Beach / Alamitos Bay) — kayaks from $12/hr, SUPs from $25/hr with instruction. Easy put-in on the calm bay; circumnavigate Naples or find the moon-jelly cove. Recommended by the LA Times.
 
@@ -150,13 +150,9 @@ Long Beach has five miles of beach, a protected bay, calm canals, and some of th
 
 **Long Beach Waterbikes** (164 N Marina Dr, Alamitos Bay Landing) — pedal-powered pontoon vessels for bay exploration; nighttime glow rides available.
 
-**Belmont Plaza Olympic Pool** (4320 Olympic Plaza) — $4 drop-in lap swim, outdoor, year-round; also home to the **Long Beach Grunions** and **SWIM Long Beach** masters swim clubs (coached practices, first 3 sessions free at SWIM Long Beach).
-
-**Kahakai Outrigger Canoe Club** and **Hui Lokahi O Ke Kai** (Mother's Beach, Naples) — six-person outrigger canoe paddling, beginner-friendly, swim ability required.
+**Belmont Plaza Olympic Pool** (4320 Olympic Plaza) — $4 drop-in lap swim, outdoor, year-round.
 
 **Sports Basement** (2100 N Bellflower Blvd) — surfboard, bodyboard, SUP, and wetsuit rentals plus buy/sell of used gear. Best way to try before you buy.
-
-One honest update: **Deep Blue Scuba & Swim Center**, the longtime Belmont Shore dive shop, has closed; its swim-lesson side now operates as Deep Blue Swim School in Bixby Knolls. For scuba certification, **Blue Holic Scuba** currently departs from Long Beach's Golden Shore for PADI courses.
 
 ## Best Free & Outdoor Wellness in Long Beach
 

@@ -1,5 +1,56 @@
 # LBSOY Blog Drafts — Audit Log
 
+## Run: 2026-09-02 (lbsoy-blog-every-3-days)
+
+**Hub updated:** yes — `content/blog/things-to-do-healthy-long-beach.md` (lastUpdated bumped to 2026-09-02; date field left at 2026-09-01 since the Sept 1 events refresh is still current)
+**Archive snapshot:** `content/blog/_archive/2026-09-02-things-to-do-healthy-long-beach.md`
+**Deep-dive slug:** `long-beach-masters-swim-outrigger-canoe-scuba-guide`
+**Deep-dive path:** `content/blog/2026-09-02-long-beach-masters-swim-outrigger-canoe-scuba-guide.md`
+
+**Rotated category chosen:** #6 Surf, swim, paddle & water fitness — *why:* second lap of the 16-category rotation is underway (started with #2 juice bars on 8/31, #5 run/walk clubs on 9/1). Ranking remaining categories by last-used date, #6 (last covered 2026-06-21) was the most overdue — older than restaurants (6/25), cold plunge (6/29), and parks (7/1). Rather than re-cover the kayak/windsurf/kitesurf/waterbike ground from the 6/21 post, this run targeted the competitive/club side of Long Beach water culture not covered before: masters swim teams, outrigger canoe clubs, scuba diving, and Marine Stadium as a venue. Existing hub H2 for this category was rewritten in place (not duplicated) and now links both posts.
+
+**Word count:** deep-dive body ≈900 words (within 800–1,200 target, excl. frontmatter/Sources/Quick Reference). Hub: grew modestly with the water-fitness section expansion.
+
+**Events verified (7, "This Week" bucket — all carried forward from 9/1, dates re-checked and still accurate):**
+1. Long Beach Greek Festival — Fri–Mon, Sept 5–7, 5761 E. Colorado St. — lbgreekfest.org / visitlongbeach.com
+2. Shoreline Village Summer Concert Series, final weekend — Sept 5–7 — visitlongbeach.com
+3. Tour the Shore walking group — standing Saturdays, Belmont Shore
+4. WOW / Walk On Wednesdays — standing Wednesdays (today, Sept 2), Belmont Shore
+5. Surfrider LB beach cleanup — Sat Sept 5, Belmont Pier — confirmed via longbeach.surfrider.org (first-Saturday-of-month cadence)
+6. Yoga on the Bluff — standing daily + seasonal sunset sessions through Oct
+7. Coastal Cleanup Day — Sat Sept 19 — confirmed via coastal.ca.gov (42nd annual, 10 LB sites: Alamitos Bay Marina, Alamitos Beach, Belmont Pier, Bluff Park, Junipero Beach, MacArthur Park, Mother's Beach, Peninsula, Shoreline Park, Rainbow Harbor)
+Belmont Shore Car Show (Sept 13) and Aloha Run (Sept 20) also remain accurate, left as-is.
+
+No new dated event surfaced strong enough to bump an existing one this run; research effort concentrated on the rotated category per the mission's priority order.
+
+**Directory entries verified (water fitness category, 5 clubs/businesses + 1 closure + 1 replacement):**
+- Long Beach Grunions (masters swim, Belmont Plaza Pool) — usms.org club listing + lbgrunions.org practice schedule, active
+- SWIM Long Beach (masters swim, Belmont Plaza Pool) — usms.org + swimlongbeach.org, active, first-3-sessions-free offer confirmed
+- Kahakai Outrigger Canoe Club (Mother's Beach, Naples) — kahakaioutrigger.com, active, Winter Lites program schedule confirmed (Sat mornings Oct–Mar, $100 non-member season fee)
+- Hui Lokahi O Ke Kai (Mother's Beach) — huilokahi.org, active
+- Blue Holic Scuba (departs 320 Golden Shore) — blueholicscuba.com, active PADI 5-star center
+- Deep Blue Swim School (3640 Atlantic Ave, Bixby Knolls) — Yelp updated May 2026, confirmed open, swim lessons only
+
+**Closure caught and corrected:** Deep Blue Scuba & Swim Center (11 39th Pl, Belmont Shore) — Yelp explicitly marked "CLOSED — Updated August 2026." Per the open-business safety rule, this was NOT listed as an open scuba option. Cross-referenced via lbpost.com that the business's swim-lesson side relocated to Bixby Knolls as Deep Blue Swim School (confirmed open, but lessons only — no scuba certification offered there). Blue Holic Scuba identified and verified as the active Long Beach-departure alternative for scuba certification. Both the deep-dive and hub call out the closure directly rather than silently dropping it or inventing a replacement at the old address.
+
+**Keywords (deep-dive):** masters swim long beach · long beach grunions · swim long beach masters · outrigger canoe long beach · mother's beach naples · scuba diving long beach · belmont plaza pool · marine stadium long beach
+**Keyword added to hub:** "masters swim long beach" (swapped in for "long beach labor day weekend," which is a one-time seasonal term now covered contextually in the This Week section instead of the keyword list).
+
+**Links:** deep-dive → internal `/yoga-therapy`, `/free-consultation`; outbound `https://myyoganetwork.com/corporate-wellness-programs` (1). Hub → water fitness section re-linked to both the 6/21 and 9/2 posts ("Full guides," plural, not orphaned).
+
+**Neighborhoods in subheads/body:** Belmont Shore, Naples Island (Mother's Beach), Bixby Knolls, Downtown (Golden Shore).
+
+**Vocabulary check:** PASS — grep for `yoga (teacher|instructor|class)` in the deep-dive returned zero hits (only "yoga therapy"/"yoga therapist" appear, once each, in the corporate tie-in and About section).
+
+**Older section freshened:** hub's "This Week" intro line updated to note Labor Day weekend is now "just days away" rather than "this Friday through Monday" (run landed one day closer than the 9/1 run).
+
+**Sources:** usms.org (Grunions + SWIM Long Beach club listings) · lbgrunions.org/practice.php · swimlongbeach.org · longbeach.gov (Belmont Pool) · kahakaioutrigger.com (main + learn/membership pages) · huilokahi.org · yelp.com (Deep Blue Scuba CLOSED listing, Deep Blue Swim School Bixby Knolls listing) · lbpost.com (Deep Blue Bixby Knolls expansion story) · blueholicscuba.com · longbeach.gov (Marine Stadium) · findarace.com (MPSF Open Water Championships 2026)
+
+**Image handoff:** see Step 5 confirmation below.
+
+**Publish result:** see commit hash + push status appended below by the Step 6 publish step.
+
+
 Auto-generated by the `lbsoy-blog-every-3-days` scheduled task. Each entry = one draft run. Drafts are NOT auto-published — human review required before git commit.
 
 ---
@@ -888,3 +939,6 @@ Belmont Shore Car Show (Sept 13) and Coastal Cleanup Day (Sept 19) remain accura
 **Image handoff:** deep-dive slug queued to `myn.com-main/tools/blog-image-studio/inbox/pending.jsonl`; hub hero re-queued (still absent per Step 5 spec) — see Step 5 confirmation below.
 
 **Publish result:** see commit hash + push status appended below by the Step 6 publish step.
+
+**Publish result (Step 6):** PUBLISHED. Commit `9bfe501` — "blog: directory refresh 2026-09-01". 4 files changed, 306 insertions(+), 6 deletions(-). Push confirmed: `cd9f32b..9bfe501  main -> main`; follow-up `git status -sb` shows `## main...origin/main` with nothing ahead. (PowerShell rendered git's normal stderr progress as a red RemoteException — not a failure, confirmed by the ref-update line.) Author Ram Bhakt <sideoutbox@gmail.com>. Staged only `content/blog/` + `public/uploads/blog-images/`; unrelated modified site files (`app/blog/[slug]/page.tsx`, `app/blog/page.tsx`, `lib/posts.ts`, `lib/seo.ts`, `next.config.mjs`) left unstaged, not swept in.
+---
