@@ -1,8 +1,8 @@
 ---
 title: "Healthy Things to Do in Long Beach: The Living Guide"
 description: "A regularly updated guide to healthy things to do in Long Beach — this week's events plus the best fall activities, free wellness, gyms, studios, markets and trails."
-date: "2026-09-05"
-lastUpdated: "2026-09-05"
+date: "2026-09-01"
+lastUpdated: "2026-09-02"
 tag: "Long Beach Directory"
 author: "Long Beach School of Yoga"
 keywords:
@@ -17,7 +17,7 @@ keywords:
   - "run clubs long beach"
   - "walking trails long beach"
   - "best gyms long beach"
-  - "healthy restaurants long beach"
+  - "juice bars long beach"
   - "free things to do in long beach"
   - "masters swim long beach"
 city: "Long Beach"
@@ -28,7 +28,7 @@ This is our living guide to healthy, active things to do in Long Beach — updat
 
 ## This Week in Long Beach
 
-Labor Day weekend is here — the last big outdoor gathering before fall training season takes over. Here's what's on this weekend through late September.
+Labor Day weekend is now just days away — the last big outdoor gathering before fall training season takes over. It lands this Friday through Monday. Here's what's on between now and late September.
 
 ### Labor Day Weekend: Greek Festival + Shoreline Village's Final Concert Weekend
 
@@ -70,21 +70,13 @@ The Surfrider Long Beach chapter's monthly cleanup, timed the same weekend as th
 
 Long Beach's best standing free wellness ritual — an open-air, all-levels yoga class on the bluff above the Pacific, run by Yogalution Movement & Wellness seven days a week, year-round. Only cancelled for rain or wet ground. Bring a mat, towel, or just use the grass.
 
-### Beach Fun 5K/10K/15K/Half Marathon — Sunday, Sept 13
-
-**When:** Sunday, September 13, check-in 7–7:30 a.m., start 7:30 a.m.
-**Where:** 5400 E Ocean Blvd, near Bluff Park
-**Cost:** Paid registration; includes finisher medal, goodie bag, photos
-
-A chip-friendly, beginner-welcoming race series along the bluff and beach path with four distance options, so first-timers and marathon-in-training locals can pick the same morning. Pairs naturally with a Bluff Park walk if you're spectating instead of racing.
-
 ### Belmont Shore Car Show — Sunday, Sept 13
 
 **When:** Sunday, September 13, 9 a.m.–3 p.m.
 **Where:** 2nd Street, Belmont Shore
 **Cost:** Free for spectators
 
-One of the largest car shows on the West Coast, and functionally a two-mile walk down a closed 2nd Street. Pair it with the morning Tour the Shore loop or the Beach Fun race above.
+One of the largest car shows on the West Coast, and functionally a two-mile walk down a closed 2nd Street. Pair it with the morning Tour the Shore loop.
 
 ### Coastal Cleanup Day — Register Now for Sept 19
 
@@ -142,7 +134,7 @@ Long Beach markets itself as one of America's most bike-friendly cities, and the
 
 ## Best Healthy Restaurants & Cafés in Long Beach
 
-A healthy day here carries into where you eat — and Long Beach has one of the deepest clean-food scenes in Southern California. In **Belmont Shore / Belmont Heights**: **The Wild Chive** (2650 E Broadway) for vegan brunch and bowls, **Poke Pola** (5040 E 2nd St) for build-your-own poke, and **Open Sesame** (5215 2nd St) for Lebanese with deep vegan/raw options. **Downtown / East Village**: **Higher Taste, Plant-Based** (340 E 4th St) for açaí bowls and plant-based plates, and **Everytable** (421 W Broadway) for affordable dietitian-designed meals. **Bixby Knolls**: **The Green Olive** (3580 Long Beach Blvd) for fresh Mediterranean salads and kebab plates. **Westside / East LB**: **PlanTita's Kitchen** (1950 W Willow St) for vegan Mexican, **Blue Bowl Superfoods** (4150 McGowen St) for superfood bowls, and **Veggie Grill** (6451 E PCH) for fast-casual plant-based. A September update filled in the rest of the map: **The Small Café** in **Naples Island** (5656 E 2nd St, mornings only), **Simply Salad** near the **Los Altos** Traffic Circle (1775 Ximeno Ave), **Panini Kabob Grill** near **CSULB** (4101 McGowen St), **moonbowls** in the **Willmore District** (1388 Daisy Ave), and **The Grain Cafe** + **Rose Park Roasters** along **Retro Row / Rose Park** (4403 and 3044 E 4th St). Full guides: [Best Healthy Restaurants & Cafés in Long Beach](/blog/2026-06-25-best-healthy-restaurants-cafes-long-beach) and [Long Beach Healthy Eats, Part 2: Naples Island, Los Altos & Retro Row](/blog/2026-09-05-long-beach-healthy-restaurants-naples-los-altos-retro-row).
+A healthy day here carries into where you eat — and Long Beach has one of the deepest clean-food scenes in Southern California. In **Belmont Shore / Belmont Heights**: **The Wild Chive** (2650 E Broadway) for vegan brunch and bowls, **Poke Pola** (5040 E 2nd St) for build-your-own poke, and **Open Sesame** (5215 2nd St) for Lebanese with deep vegan/raw options. **Downtown / East Village**: **Higher Taste, Plant-Based** (340 E 4th St) for açaí bowls and plant-based plates, and **Everytable** (421 W Broadway) for affordable dietitian-designed meals. **Bixby Knolls**: **The Green Olive** (3580 Long Beach Blvd) for fresh Mediterranean salads and kebab plates. **Westside / East LB**: **PlanTita's Kitchen** (1950 W Willow St) for vegan Mexican, **Blue Bowl Superfoods** (4150 McGowen St) for superfood bowls, and **Veggie Grill** (6451 E PCH) for fast-casual plant-based. Full guide: [Best Healthy Restaurants & Cafés in Long Beach](/blog/2026-06-25-best-healthy-restaurants-cafes-long-beach).
 
 ## Best Surf, Swim, Paddle & Water Fitness in Long Beach
 

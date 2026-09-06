@@ -1,5 +1,55 @@
 # LBSOY Blog Drafts — Audit Log
 
+## Run: 2026-09-05 (lbsoy-blog-every-3-days)
+
+**Hub updated:** yes — `content/blog/things-to-do-healthy-long-beach.md` (date + lastUpdated bumped to 2026-09-05)
+**Archive snapshot:** `content/blog/_archive/2026-09-05-things-to-do-healthy-long-beach.md`
+**Deep-dive slug:** `long-beach-healthy-restaurants-naples-los-altos-retro-row`
+**Deep-dive path:** `content/blog/2026-09-05-long-beach-healthy-restaurants-naples-los-altos-retro-row.md`
+
+**Rotated category chosen:** #1 Best healthy restaurants & cafés — *why:* third lap category selection by least-recently-used. The 8/31–9/2 runs completed a second-lap streak on #2 juice bars, #5 run/walk clubs, and #6 water fitness. Ranking the remaining 13 categories by last-used date, #1 restaurants (last covered 2026-06-25) was the most overdue — older than cold plunge (6/29), parks (7/1), and everything after. Rather than re-cover Belmont Shore/Heights, Downtown/East Village, Bixby Knolls, the Westside, and The Marketplace (all done 6/25), this run targeted five stretches not in that post: Naples Island, the Los Altos side of the Traffic Circle, the CSULB corridor, the Willmore District, and the Retro Row/Rose Park stretch of 4th Street. The existing hub H2 was rewritten in place (not duplicated) and now links both posts.
+
+**Word count:** deep-dive body = 904 words (verified via awk/wc, within 800–1,200 target, excl. frontmatter/Sources). Hub: 4,769 words total.
+
+**Events verified (7, "This Week" bucket — 6 carried forward + 1 new):**
+1. Long Beach Greek Festival — Fri–Mon, Sept 5–7, 5761 E. Colorado St. — lbgreekfest.org / visitlongbeach.com (carried forward, happening now)
+2. Shoreline Village Summer Concert Series, final weekend — Sept 5–7 — visitlongbeach.com (carried forward, happening now)
+3. Tour the Shore walking group — standing Saturdays, Belmont Shore — carried forward
+4. WOW / Walk On Wednesdays — standing Wednesdays, Belmont Shore — carried forward
+5. Surfrider LB beach cleanup — Sat Sept 5, Belmont Pier — carried forward, date confirmed still correct (today)
+6. Yoga on the Bluff — standing daily + seasonal sunset sessions through Oct — carried forward
+7. Belmont Shore Car Show (Sept 13) and Coastal Cleanup Day (Sept 19) and Aloha Run (Sept 20) remain accurate, left as-is.
+**NEW this run:** Beach Fun 5K/10K/15K/Half Marathon — Sun Sept 13, 2026, 5400 E Ocean Blvd near Bluff Park, check-in 7 a.m., start 7:30 a.m., paid registration with finisher medal — active.com listing. Added alongside the Belmont Shore Car Show (same date) as a race option for the same weekend.
+
+**Directory entries verified (healthy restaurants category, 6 new spots across 5 previously-uncovered areas):**
+- The Small Café, 5656 E 2nd St, Naples Island — Yelp updated June 2026, confirmed open (7 a.m.–2 p.m.), vegan/vegetarian options, est. 2000
+- Simply Salad, 1775 Ximeno Ave Ste B, Los Altos/Traffic Circle — Yelp updated June 2026, confirmed open, hours verified
+- Panini Kabob Grill, 4101 McGowen St Ste 100, near CSULB — Yelp updated September 2026, confirmed open (distinct location from the Downtown 421 W Broadway store)
+- moonbowls, 1388 Daisy Ave, Willmore District/Downtown — Yelp updated July 2026, confirmed open, hours verified
+- The Grain Cafe, 4403 E 4th St, Retro Row — Yelp updated August 2026, confirmed open
+- Rose Park Roasters, 3044 E 4th St, Rose Park — Yelp updated August 2026, confirmed open
+
+**Open-business check:** all 6 confirmed open via Yelp listings updated June–September 2026 or official location pages. No closures encountered this run (unlike the 8/31 and 9/2 runs). "The Mustard Seed" surfaced in general searches but was excluded after confirming it is physically located in Cerritos, not Long Beach — omitted rather than misrepresent the location.
+
+**Keywords (deep-dive):** healthy restaurants long beach · the small cafe naples long beach · simply salad long beach · moonbowls long beach · the grain cafe long beach · rose park roasters long beach · healthy food naples island long beach · retro row long beach restaurants
+**Keyword added to hub:** "healthy restaurants long beach" (swapped in for "juice bars long beach," which remains covered under the existing juice-bar section keywords).
+
+**Links:** deep-dive → internal `/yoga-therapy`, `/free-consultation`; outbound `https://myyoganetwork.com/corporate-wellness-programs` (1). Hub → restaurants section re-linked to both the 6/25 and 9/5 posts ("Full guides," plural, not orphaned).
+
+**Neighborhoods in subheads/body:** Naples Island, Los Altos, CSULB corridor, Willmore District, Retro Row, Rose Park.
+
+**Vocabulary check:** PASS — grep for `yoga (teacher|instructor|class)` in the deep-dive returned zero hits. Hub's only match remains the pre-existing "yoga class" reference to the free community Yoga on the Bluff session (consumer/community context, not paired with therapist/therapy in the same sentence).
+
+**Older section freshened:** hub's "This Week" intro changed from "Labor Day weekend is now just days away" to "Labor Day weekend is here," since the run landed on the first day of the holiday weekend itself.
+
+**Sources:** yelp.com (The Small Café, Simply Salad, Panini Kabob Grill McGowen, moonbowls, The Grain Cafe, Rose Park Roasters) · order.toasttab.com (The Small Café) · ocweekly.com (The Small Cafe in Naples profile) · simplysalad.com/location · paninikabobgrill.com/locations · moonbowls.com/locations/daisy · elgraincafe.com · roseparkroasters.com/pages/locations · active.com (Beach Fun race series listing)
+
+**Image handoff:** 2 lines appended to `myn.com-main/tools/blog-image-studio/inbox/pending.jsonl` — deep-dive slug `long-beach-healthy-restaurants-naples-los-altos-retro-row` (new) and hub slug `things-to-do-healthy-long-beach` (re-queued; hero PNG still does not exist in `public/uploads/blog-images/`).
+
+**Publish result:** see commit hash + push status appended below by the Step 6 publish step.
+
+---
+
 ## Run: 2026-09-02 (lbsoy-blog-every-3-days)
 
 **Hub updated:** yes — `content/blog/things-to-do-healthy-long-beach.md` (lastUpdated bumped to 2026-09-02; date field left at 2026-09-01 since the Sept 1 events refresh is still current)
