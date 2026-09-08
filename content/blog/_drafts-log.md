@@ -46,7 +46,7 @@
 
 **Image handoff:** 2 lines appended to `myn.com-main/tools/blog-image-studio/inbox/pending.jsonl` — deep-dive slug `long-beach-healthy-restaurants-naples-los-altos-retro-row` (new) and hub slug `things-to-do-healthy-long-beach` (re-queued; hero PNG still does not exist in `public/uploads/blog-images/`).
 
-**Publish result:** see commit hash + push status appended below by the Step 6 publish step.
+**Publish result (Step 6):** PUBLISHED. Commit `4709e1e` — "blog: directory refresh 2026-09-05 (healthy restaurants part 2)". 4 files changed, 329 insertions(+), 6 deletions(-). Push confirmed: `6e72bac..4709e1e  main -> main`; follow-up `git status -sb` shows `## main...origin/main` with nothing ahead (only the pre-existing unrelated modified site files — `app/blog/[slug]/page.tsx`, `app/blog/page.tsx`, `lib/posts.ts`, `lib/seo.ts`, `next.config.mjs` — remain unstaged, not swept in). PowerShell rendered git's normal stderr progress as a red RemoteException — not a failure, confirmed by the ref-update line. Author Ram Bhakt <sideoutbox@gmail.com>. Staged only `content/blog/` + `public/uploads/blog-images/`.
 
 ---
 
@@ -992,3 +992,51 @@ Belmont Shore Car Show (Sept 13) and Coastal Cleanup Day (Sept 19) remain accura
 
 **Publish result (Step 6):** PUBLISHED. Commit `9bfe501` — "blog: directory refresh 2026-09-01". 4 files changed, 306 insertions(+), 6 deletions(-). Push confirmed: `cd9f32b..9bfe501  main -> main`; follow-up `git status -sb` shows `## main...origin/main` with nothing ahead. (PowerShell rendered git's normal stderr progress as a red RemoteException — not a failure, confirmed by the ref-update line.) Author Ram Bhakt <sideoutbox@gmail.com>. Staged only `content/blog/` + `public/uploads/blog-images/`; unrelated modified site files (`app/blog/[slug]/page.tsx`, `app/blog/page.tsx`, `lib/posts.ts`, `lib/seo.ts`, `next.config.mjs`) left unstaged, not swept in.
 ---
+
+## Run: 2026-09-08 (lbsoy-blog-every-3-days)
+
+**Hub updated:** yes — `content/blog/things-to-do-healthy-long-beach.md` (date + lastUpdated bumped to 2026-09-08)
+**Archive snapshot:** `content/blog/_archive/2026-09-08-things-to-do-healthy-long-beach.md`
+**Deep-dive slug:** `long-beach-massage-bodywork-recovery-guide`
+**Deep-dive path:** `content/blog/2026-09-08-long-beach-massage-bodywork-recovery-guide.md`
+
+**Rotated category chosen:** #8 Cold plunge, sauna, recovery & bodywork — *why:* by the 9/5 run, lap 2 of the rotation had covered restaurants (9/5), run/walk clubs (9/1), surf/swim/paddle (9/2), and juice bars (8/31). Ranking remaining categories by last-used date, #8 was the most overdue — last touched 2026-06-29, over 10 weeks / 13 runs ago, older than parks (7/1), hikes (8/4), yoga studios (8/3), farmers markets (7/24), family-friendly (7/13), bike paths (7/15), gyms (8/13), sober-curious (8/15), mental health (8/20), free/low-cost (8/24), or the fall seasonal post (8/27). Rather than re-cover the June post's cold-plunge/sauna studios (Belmont Shore/Heights, Traffic Circle, East LB, LBX), this run deliberately targeted the **bodywork** half of the category name that hadn't been covered yet — chiropractic massage and assisted stretch therapy — in neighborhoods not in the June post: Bixby Knolls and the Marina/East LB (Worsham Ave). The existing hub H2 was renamed "...Recovery & Bodywork" and rewritten in place (not duplicated) to fold in the new content, linking both posts.
+
+**Word count:** deep-dive body ≈838 words (within 800–1,200 target, excl. Sources). Hub: content grew modestly with the This Week refresh + bodywork paragraph.
+
+**Events verified (6, "This Week" bucket fully refreshed — Labor Day items removed as past):**
+1. Beach Fun 5K/10K/15K/Half Marathon — Sun Sept 13, 5400 E Ocean Blvd near Bluff Park, paid — carried forward from 9/5 hub, date not yet passed
+2. Belmont Shore Car Show — Sun Sept 13, 2nd Street, free — carried forward, date not yet passed
+3. Coastal Cleanup Day (42nd annual) — Sat Sept 19, 9a–12p, 10 Long Beach sites (Alamitos Bay Marina, Alamitos Beach, Belmont Pier, Bluff Park, Junipero Beach, MacArthur Park, Mother's Beach, Peninsula, Shoreline Park, Rainbow Harbor) — freshly verified via Eventbrite (Ocean Conservancy + CA Coastal Cleanup Day listings) and heysocal.com "42nd annual" coverage; site list added (more specific than the prior "60+ sites across L.A. County" framing)
+4. Aloha Run Long Beach 5K/10K — Sun Sept 20, Shoreline Aquatic Park — carried forward from 9/1 hub, date not yet passed
+5. **NEW this run:** Ranchos Walk — Sat Sept 26, 8a–2p, free guided urban hike connecting Rancho Los Cerritos to Rancho Los Alamitos via Reservoir Hill/Willow Springs Park/Signal Hill, 3.5/6/9.4-mile options — verified via longbeach.gov official press release + rancholoscerritos.org event page. Slightly beyond the strict 7–10 day window but included per established precedent (prior runs forward-flagged Coastal Cleanup Day and Aloha Run at similar lead times) since it's a flagship free/active event worth planning for.
+6. Tour the Shore + WOW standing walking groups — reframed as one combined "standing groups" entry rather than repeating dated instances; not re-verified with a fresh source this run (no new signal of change), consistent with their status as long-running, previously-sourced weekly community programs.
+
+Dropped from "This Week" as past: Labor Day Greek Festival, Shoreline Village concert series, Sept 5 Surfrider cleanup. Investigated but NOT included: "West Coast Lobster Festival" (Rainbow Lagoon Park) — sources conflicted on exact dates (Yelp said Sept 6–8, Eventbrite listing said single-day Sept 6) and it would have expired same-day as this run; omitted per the no-fabrication/verify-before-listing rule rather than guess. "Original Lobster Festival" 30th anniversary (Sept 11–13) confirmed to be in Fountain Valley, not Long Beach — correctly excluded as out of scope.
+
+**Directory entries verified (bodywork category, 3 open businesses + 1 closure):**
+- Bixby Knolls Wellness Center, 4301 Atlantic Ave Ste 5, Bixby Knolls — Yelp updated June 2026, 71 reviews, confirmed open, hours verified, opened by Dr. Anna Pearl D.C. in 2018
+- StretchLab Long Beach Marina, 6423 E Pacific Coast Hwy Ste B — Yelp updated July 2026, confirmed open, hours verified
+- StretchLab Long Beach (Worsham Ave), 3860 Worsham Ave Ste 320, East Long Beach — Yelp updated July 2026, confirmed open, hours verified
+- Pause Studio Long Beach (float therapy), 6242 Pacific Coast Hwy — already vetted in the June cold-plunge post; re-confirmed as the fallback float option
+
+**Closure caught and corrected:** FloatSpace (415 Pine Ave, Downtown) — current Yelp listing shows "CLOSED." Per the open-business safety rule, NOT listed as an open option; both the deep-dive and hub instead call out the closure directly and route readers to Pause Studio's float therapy suite as the nearest open alternative. No replacement business found for the Pine Ave space — noted as a watch item, not invented.
+
+**Keywords (deep-dive):** massage long beach · bodywork long beach · bixby knolls wellness center · stretchlab long beach · chiropractic massage long beach · assisted stretching long beach · recovery long beach · things to do in long beach
+**Keyword added to hub:** "massage long beach" (swapped in for "fall things to do in long beach," which remains covered under the existing fall-seasonal guide's own keyword set).
+
+**Links:** deep-dive → internal `/yoga-therapy`, `/free-consultation`; outbound `https://myyoganetwork.com/corporate-wellness-programs` (1); internal cross-link back to the June cold-plunge/sauna post. Hub → recovery/bodywork section re-linked to both the 6/29 and 9/8 posts as "Full guides" (dual link, not orphaned).
+
+**Neighborhoods in subheads/body:** Bixby Knolls, the Marina, Belmont Shore, East Long Beach (Worsham/CSULB corridor), Downtown (closure note), Belmont Heights (Pause Studio alternative).
+
+**Vocabulary check:** PASS — grep for `yoga (teacher|instructor|class)` in the new deep-dive returned zero hits.
+
+**Open-business check:** 3 of 3 newly-featured businesses confirmed open via recently-updated Yelp listings (June–July 2026). One closure (FloatSpace) caught via Yelp's explicit "CLOSED" status and correctly excluded/flagged with a working alternative rather than listed as available.
+
+**Older section freshened:** "Best Free & Outdoor Wellness in Long Beach" — updated the stale "Shoreline Village's concert series plays its final free weekend over Labor Day" framing (Labor Day has now passed) to reflect the calendar has shifted to standing weekly programming, and added the new Ranchos Walk as a free/active option.
+
+**Sources:** bixbyknollswellness.com/massage-therapy-long-beach · yelp.com (Bixby Knolls Wellness Center, StretchLab ×2, FloatSpace) · stretchlab.com/location/longbeachmarina · pausestudio.com/long-beach/float-therapy + /locations/long-beach · longbeach.gov/press-releases (Ranchos Walk) · rancholoscerritos.org/events/ranchos-walk · eventbrite.com (Coastal Cleanup Day ×2 listings) · heysocal.com (42nd annual Coastal Cleanup Day coverage) · visitlongbeach.com (event calendar cross-check) · yelp.com (West Coast Lobster Festival — investigated, not used due to date conflict)
+
+**Image handoff:** 2 lines appended to `myn.com-main/tools/blog-image-studio/inbox/pending.jsonl` — deep-dive slug `long-beach-massage-bodywork-recovery-guide` (new) and hub slug `things-to-do-healthy-long-beach` (re-queued; hero PNG still does not exist in `public/uploads/blog-images/`, per every prior run's Step 5 note).
+
+**Publish result:** see commit hash + push status appended below by the Step 6 publish step.

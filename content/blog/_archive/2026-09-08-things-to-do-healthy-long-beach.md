@@ -1,15 +1,15 @@
 ---
 title: "Healthy Things to Do in Long Beach: The Living Guide"
 description: "A regularly updated guide to healthy things to do in Long Beach — this week's events plus the best fall activities, free wellness, gyms, studios, markets and trails."
-date: "2026-09-08"
-lastUpdated: "2026-09-08"
+date: "2026-09-05"
+lastUpdated: "2026-09-05"
 tag: "Long Beach Directory"
 author: "Long Beach School of Yoga"
 keywords:
   - "things to do in long beach"
   - "healthy long beach"
   - "long beach wellness guide"
-  - "massage long beach"
+  - "fall things to do in long beach"
   - "long beach marathon 2026"
   - "yoga studios long beach"
   - "farmers markets long beach"
@@ -28,55 +28,39 @@ This is our living guide to healthy, active things to do in Long Beach — updat
 
 ## This Week in Long Beach
 
-Labor Day's festival crowds have cleared out, and the calendar shifts into a run of races, a car show, and the year's biggest volunteer cleanup — plus a free guided history hike worth planning ahead for.
+Labor Day weekend is here — the last big outdoor gathering before fall training season takes over. Here's what's on this weekend through late September.
 
-### Beach Fun 5K/10K/15K/Half Marathon — Sunday, Sept 13
+### Labor Day Weekend: Greek Festival + Shoreline Village's Final Concert Weekend
 
-**When:** Sunday, September 13, check-in 7–7:30 a.m., start 7:30 a.m.
-**Where:** 5400 E Ocean Blvd, near Bluff Park
-**Cost:** Paid registration; includes finisher medal, goodie bag, photos
+**When:** Friday–Monday, September 5–7 (Greek Festival) and Friday–Sunday, September 5–7 (Shoreline Village concerts)
+**Where:** Long Beach Greek Festival, 5761 E. Colorado St.; Shoreline Village, 401–435 Shoreline Village Dr., Downtown
+**Cost:** Free admission to both (Greek Festival food/vendors à la carte)
 
-A chip-friendly, beginner-welcoming race series along the bluff and beach path with four distance options, so first-timers and marathon-in-training locals can pick the same morning. Pairs naturally with a Bluff Park walk if you're spectating instead of racing.
+The Greek Festival runs noon–10 p.m. Sat/Sun and noon–9 p.m. Mon with dancing, a walkable festival grounds, and food stalls — plenty of steps in even if you skip the fried dough. Down at Shoreline Village, the free outdoor concert series plays its last weekend of the season (As IF, Pop Vision, So Rad, and DJ Impeccable Styles), an easy pairing with a walk along the Shoreline Pedestrian Bikepath beforehand.
 
-### Belmont Shore Car Show — Sunday, Sept 13
+### Tour the Shore Walking Group — Every Saturday
 
-**When:** Sunday, September 13, 9 a.m.–3 p.m.
-**Where:** 2nd Street, Belmont Shore
-**Cost:** Free for spectators
-
-One of the largest car shows on the West Coast, and functionally a two-mile walk down a closed 2nd Street. Pair it with the morning Tour the Shore loop or the Beach Fun race above.
-
-### Coastal Cleanup Day — Saturday, Sept 19
-
-**When:** Saturday, September 19, 2026, 9 a.m.–12 p.m.
-**Where:** 10 sites across Long Beach, including Alamitos Bay Marina, Alamitos Beach, Belmont Pier, Bluff Park, Junipero Beach, MacArthur Park, Mother's Beach, the Peninsula, Shoreline Park, and Rainbow Harbor
-**Cost:** Free; register through Heal the Bay or Ocean Conservancy
-
-The 42nd annual California Coastal Cleanup Day. Pick the site closest to your neighborhood, bring closed-toe shoes and water, and gloves/buckets are provided.
-
-### Aloha Run 5K/10K — Sunday, Sept 20
-
-**When:** Sunday, September 20, 2026 — 10K starts 7:30 a.m., 5K starts 7:45 a.m.
-**Where:** Shoreline Aquatic Park, 200 Aquarium Way, Downtown
-**Cost:** $44–$50 depending on distance
-
-A harbor-and-bay 5K/10K with chip timing, a finisher medal, and a post-race festival with live music. A realistic four-week goal if you've just joined one of the neighborhood run clubs below. Full guide: [Long Beach's Neighborhood Run Clubs](/blog/2026-09-01-long-beach-run-walk-clubs-bixby-knolls-signal-hill).
-
-### Ranchos Walk — Free Guided History Hike, Saturday, Sept 26
-
-**When:** Saturday, September 26, 2026, 8 a.m.–2 p.m. (3.5, 6, or 9.4-mile route options)
-**Where:** Starts at Rancho Los Cerritos, Reservoir Hill, or Willow Springs Park; ends at Rancho Los Alamitos
-**Cost:** Free, including the post-walk celebration
-
-Long Beach's annual urban hike connects the city's two historic ranchos across its highest points — Reservoir Hill, Longview Point at Willow Springs Park, and Hilltop Park in Signal Hill. Walkers and dogs welcome (service animals only at the celebration); not a running or biking route. Worth putting on the calendar now since it books up.
-
-### Tour the Shore & WOW — Standing Saturday and Wednesday Walking Groups
-
-**When:** Tour the Shore, Saturdays 7:30 a.m.; WOW (Walk On Wednesdays), Wednesdays, gather 7:15 a.m.
-**Where:** 2nd Street & La Verne Avenue (Tour the Shore) and in front of Chase Bank on 2nd Street (WOW), both Belmont Shore
+**When:** Saturdays, 7:30 a.m. (Sept 5, 12, 19, and weekly)
+**Where:** 2nd Street & La Verne Avenue, Belmont Shore (200 La Verne Ave.)
 **Cost:** Free
 
-Long Beach's two most durable free walking groups. Tour the Shore is a 2–3 mile loop to a different point of interest each week; WOW is a brisk three-mile loop that rotates through twelve water-adjacent routes. All levels, plus dogs.
+A 2–3 mile group loop to a different point of interest each week — past walks have gone to the Jack Dunster Marine Biological Reserve, Recreation Park, and the beach water polo tournament at Horny Corner. All levels and abilities: walkers, skaters, and wheelchair users welcome, plus dogs. Participants get discounts on coffee and food at Chapter II Coffee afterward.
+
+### WOW — Walk On Wednesdays — Every Wednesday
+
+**When:** Wednesdays, gather 7:15 a.m., depart 7:30 a.m. sharp (next: Sept 2, 9)
+**Where:** In front of Chase Bank, 2nd Street, Belmont Shore
+**Cost:** Free
+
+A brisk one-hour, three-mile loop that rotates through twelve routes — every one of them along water: the ocean, the bay, the Naples canals, Marine Stadium, and the Colorado Lagoon. The most consistent free cardio commitment in the city.
+
+### Surfrider Beach Cleanup — First Saturday
+
+**When:** Saturday, September 5, 10 a.m.–12 p.m.
+**Where:** Belmont Pier, Ocean Blvd. at 39th Place (Belmont Shore)
+**Cost:** Free; RSVP recommended
+
+The Surfrider Long Beach chapter's monthly cleanup, timed the same weekend as the Greek Festival and Shoreline Village's final concert. Gloves, buckets, and trash pickers provided (bring your own if you have them), plus a free parking pass from the tent. Wear closed-toe shoes and bring water. Anyone 14 and under needs an adult; no dogs on city beaches.
 
 ### Yoga on the Bluff — Daily, Plus Sunset Sessions Through October
 
@@ -184,7 +168,7 @@ One honest update: **Deep Blue Scuba & Swim Center**, the longtime Belmont Shore
 
 ## Best Free & Outdoor Wellness in Long Beach
 
-You don't need a membership to live well here. The daily free Yoga on the Bluff, the bluff-top paths above Alamitos Beach, and the open lawns of Bluff Park are a no-cost gym — and the city's nine free outdoor **Fitness Zones** add actual weight-bearing equipment to that, from the pull-up and dip stations on the 4.8-mile Downtown Fitness Loop to the ADA-accessible sets at Lincoln Park and Orizaba Park. Free group running belongs on this list too: the **Bixby Knolls Dawn Joggers** (weekday mornings, Atlantic & Carson), **Shoreline Frontrunners** (three times a week off the Alamitos Beach bluff), and Signal Hill's Home Depot-lot meetups cost nothing and welcome walkers as readily as runners. Add the free 988 crisis line and donation-based meditation sits, and Long Beach's baseline for a healthy week costs close to nothing. With Labor Day and Shoreline Village's summer concert series behind us, the free calendar now runs on standing weekly programming — the Saturday Tour the Shore and Wednesday WOW walking groups in Belmont Shore, Surfrider's first-Saturday cleanup at Belmont Pier, and Yoga on the Bluff twice daily through October — plus the free Ranchos Walk history hike on Sept 26, none of which cost anything.
+You don't need a membership to live well here. The daily free Yoga on the Bluff, the bluff-top paths above Alamitos Beach, and the open lawns of Bluff Park are a no-cost gym — and the city's nine free outdoor **Fitness Zones** add actual weight-bearing equipment to that, from the pull-up and dip stations on the 4.8-mile Downtown Fitness Loop to the ADA-accessible sets at Lincoln Park and Orizaba Park. Free group running belongs on this list too: the **Bixby Knolls Dawn Joggers** (weekday mornings, Atlantic & Carson), **Shoreline Frontrunners** (three times a week off the Alamitos Beach bluff), and Signal Hill's Home Depot-lot meetups cost nothing and welcome walkers as readily as runners. Add the free 988 crisis line and donation-based meditation sits, and Long Beach's baseline for a healthy week costs close to nothing. Shoreline Village's outdoor concert series plays its final free weekend over Labor Day (Sept 5–7); after that the free calendar shifts fully to standing weekly programming — the Saturday Tour the Shore and Wednesday WOW walking groups in Belmont Shore, Surfrider's first-Saturday cleanup at Belmont Pier, and Yoga on the Bluff twice daily through October — none of which cost anything.
 
 ## Best Hikes, Bluff & Beach Walking Paths in Long Beach
 
@@ -198,11 +182,9 @@ Belmont Shore and Bluff Heights are well covered — **Salud Juice** (4918 E 2nd
 
 Belmont Shore's **Long Beach Run Club** (Coronado Ave & Ocean Blvd, Saturday mornings, ~5 miles), **Run Club Girls** (9 a.m. weekly, two pace options), and free **Lululemon run clubs** near the beach path are still the highest-visibility groups. But some of the city's most durable running communities formed neighborhood by neighborhood: the **Bixby Knolls Dawn Joggers** meet every weekday at 5:15 a.m. in front of Jamba Juice at Atlantic & Carson (runs Mon/Wed/Fri, walks Tue/Thu) — a group that started in 2016 after a string of prowler incidents and has grown into the neighborhood's largest fitness community. In **Signal Hill**, a Monday 6:30 p.m. group meets at the Home Depot lot on Cherry Ave., plus a Wednesday 6 a.m. session at Chittick Field. And **Shoreline Frontrunners of Long Beach**, part of the international LGBTQ+-inclusive Frontrunners network, runs three times a week from the bluff at Redondo & Ocean, all paces welcome. Upcoming: Aloha Run (Sept 20, Shoreline Aquatic Park), 2XU Long Beach Marathon (Oct 10–11). Full guide: [Long Beach's Neighborhood Run Clubs: Bixby Knolls, Signal Hill & the Inclusive Crews You Haven't Tried](/blog/2026-09-01-long-beach-run-walk-clubs-bixby-knolls-signal-hill) (original overview: [Best Run & Walk Clubs & Group Fitness in Long Beach](/blog/2026-06-18-best-run-walk-clubs-long-beach)).
 
-## Best Cold Plunge, Sauna, Recovery & Bodywork in Long Beach
+## Best Cold Plunge, Sauna & Recovery Studios in Long Beach
 
-Recovery is Long Beach's fastest-growing wellness habit, and a recovery row of contrast-therapy studios has opened up along Pacific Coast Highway. In **Belmont Shore / Belmont Heights**: **SWTHZ (SweatHouz)** (6480 E PCH, Ste 152) for private infrared-sauna + cold-plunge + vitamin-C-shower suites; **Pause Studio** (6242 PCH) for structured contrast therapy, float therapy, and IV hydration; and **Human Aeon — The Hidden Sanctuary** (121 Belmont Ave) for a calm, natural take on cold plunge and sauna. Near the **Traffic Circle**: **ReEnergized** (4434 E PCH) stacks contrast therapy with cryotherapy, hyperbaric oxygen, and red-light. In **East Long Beach**: **Cellevate** (6445 E PCH) is the social option — a 10-person communal cold plunge and 20+-person infrared sauna with breathwork — and **Perspire Sauna Studio** at the Long Beach Exchange (4201 McGowen St) offers 40-minute full-spectrum infrared sessions with red-light and a cold "SNO" shower finish. A quick honest note: treat recovery benefits as what studios report, not medical promises, and check with your doctor before cold immersion if you have a heart condition.
-
-Recovery isn't only heat and cold — hands-on bodywork is the other half of the category. In **Bixby Knolls**, **Bixby Knolls Wellness Center** (4301 Atlantic Ave, Ste 5) pairs chiropractic adjustments with therapeutic massage under one roof. Near the **Marina** and **Belmont Shore**, **StretchLab** (6423 E PCH, Ste B) offers one-on-one assisted stretch sessions, with a second East Long Beach location on Worsham Ave. One honest update: **FloatSpace**, Downtown's float-tank studio on Pine Ave, has closed — Pause Studio's float therapy suite in Belmont Heights is the closest remaining option in the city. Full guides: [Best Cold Plunge, Sauna & Recovery Studios in Long Beach](/blog/2026-06-29-cold-plunge-sauna-recovery-long-beach) and [Massage, Bodywork & Recovery in Long Beach](/blog/2026-09-08-long-beach-massage-bodywork-recovery-guide).
+Recovery is Long Beach's fastest-growing wellness habit, and a recovery row of contrast-therapy studios has opened up along Pacific Coast Highway. In **Belmont Shore / Belmont Heights**: **SWTHZ (SweatHouz)** (6480 E PCH, Ste 152) for private infrared-sauna + cold-plunge + vitamin-C-shower suites; **Pause Studio** (6242 PCH) for structured contrast therapy plus IV hydration; and **Human Aeon — The Hidden Sanctuary** (121 Belmont Ave) for a calm, natural take on cold plunge and sauna. Near the **Traffic Circle**: **ReEnergized** (4434 E PCH) stacks contrast therapy with cryotherapy, hyperbaric oxygen, and red-light. In **East Long Beach**: **Cellevate** (6445 E PCH) is the social option — a 10-person communal cold plunge and 20+-person infrared sauna with breathwork — and **Perspire Sauna Studio** at the Long Beach Exchange (4201 McGowen St) offers 40-minute full-spectrum infrared sessions with red-light and a cold "SNO" shower finish. A quick honest note: treat recovery benefits as what studios report, not medical promises, and check with your doctor before cold immersion if you have a heart condition. Full guide: [Best Cold Plunge, Sauna & Recovery Studios in Long Beach](/blog/2026-06-29-cold-plunge-sauna-recovery-long-beach).
 
 ## Best Gyms & Strength Training in Long Beach
 
