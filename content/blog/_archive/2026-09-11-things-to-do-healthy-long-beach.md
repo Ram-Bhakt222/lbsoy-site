@@ -1,8 +1,8 @@
 ---
 title: "Healthy Things to Do in Long Beach: The Living Guide"
 description: "A regularly updated guide to healthy things to do in Long Beach — this week's events plus the best fall activities, free wellness, gyms, studios, markets and trails."
-date: "2026-09-11"
-lastUpdated: "2026-09-11"
+date: "2026-09-08"
+lastUpdated: "2026-09-08"
 tag: "Long Beach Directory"
 author: "Long Beach School of Yoga"
 keywords:
@@ -14,12 +14,12 @@ keywords:
   - "yoga studios long beach"
   - "farmers markets long beach"
   - "parks long beach"
-  - "hidden parks long beach"
   - "run clubs long beach"
   - "walking trails long beach"
   - "best gyms long beach"
   - "healthy restaurants long beach"
   - "free things to do in long beach"
+  - "masters swim long beach"
 city: "Long Beach"
 coverImage: "/uploads/blog-images/things-to-do-healthy-long-beach-hero.png"
 ---
@@ -28,7 +28,7 @@ This is our living guide to healthy, active things to do in Long Beach — updat
 
 ## This Week in Long Beach
 
-The middle of September is race-and-cleanup season: a beginner-friendly race series and a closed-street car show both land the same Sunday, then Coastal Cleanup Day and the Aloha Run anchor the following weekend. A free guided history hike is worth calendaring now, too — it books up.
+Labor Day's festival crowds have cleared out, and the calendar shifts into a run of races, a car show, and the year's biggest volunteer cleanup — plus a free guided history hike worth planning ahead for.
 
 ### Beach Fun 5K/10K/15K/Half Marathon — Sunday, Sept 13
 
@@ -52,7 +52,7 @@ One of the largest car shows on the West Coast, and functionally a two-mile walk
 **Where:** 10 sites across Long Beach, including Alamitos Bay Marina, Alamitos Beach, Belmont Pier, Bluff Park, Junipero Beach, MacArthur Park, Mother's Beach, the Peninsula, Shoreline Park, and Rainbow Harbor
 **Cost:** Free; register through Heal the Bay or Ocean Conservancy
 
-The 42nd annual California Coastal Cleanup Day, part of a county-wide effort at 60-plus sites. Pick the site closest to your neighborhood, bring closed-toe shoes and water — gloves and buckets are provided.
+The 42nd annual California Coastal Cleanup Day. Pick the site closest to your neighborhood, bring closed-toe shoes and water, and gloves/buckets are provided.
 
 ### Aloha Run 5K/10K — Sunday, Sept 20
 
@@ -86,6 +86,38 @@ Long Beach's two most durable free walking groups. Tour the Shore is a 2–3 mil
 
 Long Beach's best standing free wellness ritual — an open-air, all-levels yoga class on the bluff above the Pacific, run by Yogalution Movement & Wellness seven days a week, year-round. Only cancelled for rain or wet ground. Bring a mat, towel, or just use the grass.
 
+### Beach Fun 5K/10K/15K/Half Marathon — Sunday, Sept 13
+
+**When:** Sunday, September 13, check-in 7–7:30 a.m., start 7:30 a.m.
+**Where:** 5400 E Ocean Blvd, near Bluff Park
+**Cost:** Paid registration; includes finisher medal, goodie bag, photos
+
+A chip-friendly, beginner-welcoming race series along the bluff and beach path with four distance options, so first-timers and marathon-in-training locals can pick the same morning. Pairs naturally with a Bluff Park walk if you're spectating instead of racing.
+
+### Belmont Shore Car Show — Sunday, Sept 13
+
+**When:** Sunday, September 13, 9 a.m.–3 p.m.
+**Where:** 2nd Street, Belmont Shore
+**Cost:** Free for spectators
+
+One of the largest car shows on the West Coast, and functionally a two-mile walk down a closed 2nd Street. Pair it with the morning Tour the Shore loop or the Beach Fun race above.
+
+### Coastal Cleanup Day — Register Now for Sept 19
+
+**When:** Saturday, September 19, 2026
+**Where:** 60+ sites across L.A. County — beaches, the L.A. River, parks, trails, and dive sites
+**Cost:** Free; registration open through Heal the Bay
+
+The largest volunteer day of the year on the coast. Last year 6,722 volunteers pulled 19,139 pounds of trash from 70 sites. Register early — the first 400 registrants are entered to win festival passes.
+
+### Aloha Run — Register Now for Sept 20
+
+**When:** Sunday, September 20, 2026 — 10K starts 7:30 a.m., 5K starts 7:45 a.m.
+**Where:** Shoreline Aquatic Park, 200 Aquarium Way, Downtown
+**Cost:** $44–$50 depending on distance
+
+A harbor-and-bay 5K/10K with chip timing, a finisher medal, and a post-race festival with live music. A realistic four-week goal if you've just joined one of the neighborhood run clubs below. Full guide: [Long Beach's Neighborhood Run Clubs](/blog/2026-09-01-long-beach-run-walk-clubs-bixby-knolls-signal-hill).
+
 ### Farmers Markets — Almost Daily
 
 **When:** Bixby Park Tue 3–8 p.m. & Sat 9 a.m.–2 p.m., Marine Stadium Wed 3–8 p.m., Downtown (City Place) Fri 10 a.m.–2 p.m., Alamitos Bay Marina Sun 9 a.m.–2 p.m., and more
@@ -114,7 +146,7 @@ Long Beach has a certified farmers market almost every day of the week, and mid-
 
 ## Best Parks & Green Spaces in Long Beach
 
-Long Beach has one of the deepest park systems in Southern California — more than 170 parks across roughly 3,200 acres — and using them is the cheapest, most reliable way to stay active here. The crown jewel is **El Dorado East Regional Park** in **East Long Beach**, an 800-plus-acre complex split by the San Gabriel River with fishing lakes, bike trails, an archery range, and the **El Dorado Nature Center** (2+ miles of dirt-and-paved loop trails around lakes and woodland; trails open Tue–Sun 8 a.m.–5 p.m. with no entry after 4:30 p.m., free to walk or bike in, vehicles $6–9 cashless). Across the street, **El Dorado Park West** packs a 15-court tennis center, a skate park, disc golf, and a duck pond into 275 acres. **Recreation Park** near the Traffic Circle offers golf, two pools, a running track, disc golf, and the band shell at Live at the Shell. **Heartwell Park** (122 acres) has a fishing pond, a bike/skate path, and a fitness course; **Wardlow Park** on the Westside rounds it out with fields and playgrounds. For views and a walk, the **Bluff Park** loop above Alamitos Beach runs a little over a mile along the ocean, **Bixby Park** offers bluff-top seating and the daily Yoga on the Bluff, and **Hilltop Park** in **Signal Hill** delivers a short, steep climb to 360-degree views of the harbor and Catalina. A September update filled in the smaller parks most locals drive past: **Rainbow Lagoon Park** (400 E Shoreline Dr, **Downtown**) for a quiet Japanese-style lagoon loop with swan boats; **Colorado Lagoon** (5119 E Colorado St, **Alamitos Heights**) for calm, wave-free open-water swimming; **Marina Vista Park** (5355 Eliot St, **Belmont Heights**) for waterfront soccer and tennis; **Los Cerritos Park** (3750 Del Mar Ave, **Los Cerritos**) for jogging paths and a nature-inspired playground; the newly rehabilitated **MacArthur Park** (1321 E Anaheim St, **Wrigley / Cambodia Town**) for a calisthenics loop; **Houghton Park** (6301 Myrtle Ave, **North Long Beach**) for its half-mile fitness loop; and **Drake Park** (951 Maine Ave, **Westside**), the historic anchor of the Drake Park/Willmore City Historic District. Full guides: [Best Parks & Green Spaces in Long Beach](/blog/2026-07-01-best-parks-green-spaces-long-beach) and [Long Beach's Hidden Parks: Rainbow Lagoon, MacArthur, Houghton & More](/blog/2026-09-11-long-beach-hidden-parks-rainbow-lagoon-macarthur-houghton).
+Long Beach has one of the deepest park systems in Southern California — more than 170 parks across roughly 3,200 acres — and using them is the cheapest, most reliable way to stay active here. The crown jewel is **El Dorado East Regional Park** in **East Long Beach**, an 800-plus-acre complex split by the San Gabriel River with fishing lakes, bike trails, an archery range, and the **El Dorado Nature Center** (2+ miles of dirt-and-paved loop trails around lakes and woodland; trails open Tue–Sun 8 a.m.–5 p.m. with no entry after 4:30 p.m., free to walk or bike in, vehicles $6–9 cashless). Across the street, **El Dorado Park West** packs a 15-court tennis center, a skate park, disc golf, and a duck pond into 275 acres. **Recreation Park** near the Traffic Circle offers golf, two pools, a running track, disc golf, and the band shell at Live at the Shell. **Heartwell Park** (122 acres) has a fishing pond, a bike/skate path, and a fitness course; **Wardlow Park** on the Westside rounds it out with fields and playgrounds. For views and a walk, the **Bluff Park** loop above Alamitos Beach runs a little over a mile along the ocean, **Bixby Park** offers bluff-top seating and the daily Yoga on the Bluff, and **Hilltop Park** in **Signal Hill** delivers a short, steep climb to 360-degree views of the harbor and Catalina. Full guide: [Best Parks & Green Spaces in Long Beach](/blog/2026-07-01-best-parks-green-spaces-long-beach).
 
 ## Best Family-Friendly Healthy Things to Do in Long Beach
 

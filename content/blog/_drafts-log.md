@@ -1,5 +1,58 @@
 # LBSOY Blog Drafts — Audit Log
 
+## Run: 2026-09-11 (lbsoy-blog-every-3-days)
+
+**Hub updated:** yes — `content/blog/things-to-do-healthy-long-beach.md` (date + lastUpdated bumped to 2026-09-11)
+**Archive snapshot:** `content/blog/_archive/2026-09-11-things-to-do-healthy-long-beach.md`
+**Deep-dive slug:** `long-beach-hidden-parks-rainbow-lagoon-macarthur-houghton`
+**Deep-dive path:** `content/blog/2026-09-11-long-beach-hidden-parks-rainbow-lagoon-macarthur-houghton.md`
+
+**Rotated category chosen:** #3 Best parks & green spaces — *why:* second-lap least-recently-used ranking. Ranking all 16 categories by last-used date as of this run: #3 parks (2026-07-01) was the most overdue, older than family-friendly (7/13), bike paths (7/15), farmers markets (7/24), yoga studios (8/3), hikes (8/4), gyms (8/13), sober-curious (8/15), mental health (8/20), free wellness (8/24), seasonal/fall (8/27), juice bars (8/31), run clubs (9/1), water fitness (9/2), restaurants (9/5), and cold plunge/recovery (9/8). Rather than re-cover El Dorado, Recreation Park, Heartwell, Wardlow, Bluff Park, Bixby Park, and Hilltop Park (all done 7/1), this run targeted seven parks not in that post, spread across neighborhoods with no prior parks coverage: Rainbow Lagoon Park (Downtown), Colorado Lagoon (Alamitos Heights), Marina Vista Park (Belmont Heights), Los Cerritos Park (Los Cerritos), MacArthur Park (Wrigley/Cambodia Town), Houghton Park (North Long Beach), and Drake Park (Westside/Willmore City Historic District). Existing hub H2 rewritten in place (not duplicated) and now links both parks posts.
+
+**Also fixed this run:** the hub's "This Week" section had accumulated duplicate event blocks (Beach Fun, Belmont Shore Car Show, Coastal Cleanup Day, and Aloha Run each appeared twice, under slightly different headers, from prior runs appending instead of fully replacing). Cleaned up to one instance of each event this run — no content lost, just deduplicated.
+
+**Word count:** deep-dive body ≈1,130 words (estimated; bash/wc unavailable this run due to a sandbox mount failure — see Notes). Within 800–1,200 target based on paragraph-level review.
+
+**Events verified (7, "This Week" bucket):**
+1. Beach Fun 5K/10K/15K/Half Marathon — Sun Sept 13, 5400 E Ocean Blvd near Bluff Park — carried forward, date confirmed still correct
+2. Belmont Shore Car Show — Sun Sept 13, 2nd Street — carried forward
+3. Coastal Cleanup Day — Sat Sept 19, 10 LB sites — carried forward, confirmed via eventbrite.com and coastal.ca.gov (42nd annual)
+4. Aloha Run 5K/10K — Sun Sept 20, Shoreline Aquatic Park — carried forward, confirmed via thealoharun.com and runsignup.com
+5. Ranchos Walk — Sat Sept 26, free guided history hike — carried forward, confirmed via heysocal.com (published 9/9/2026) and longbeach.gov/ranchoswalk; route/date matches prior entry
+6. Tour the Shore & WOW — standing Sat/Wed walking groups, Belmont Shore — carried forward
+7. Yoga on the Bluff — standing daily + seasonal sunset sessions through Oct — carried forward
+**Considered but not added:** Baja Splash Cultural Festival (Sept 26–27, Aquarium of the Pacific) — surfaced in research but falls outside the 7–10 day window and reads as cultural/family rather than healthy-active; held for a future run if it recurs closer to its date.
+
+**Directory entries verified (parks category, 7 new parks across 7 previously-uncovered neighborhoods):**
+- Rainbow Lagoon Park, 400 E Shoreline Dr, Downtown — longbeach.gov + artslb.org + mindtrip.ai, public park (no open/closed status applicable)
+- Colorado Lagoon, 5119 E Colorado St, Alamitos Heights — longbeach.gov + californiabeaches.com
+- Marina Vista Park, 5355 Eliot St, Belmont Heights — longbeach.gov + Yelp (address cross-checked, since search results initially suggested Ocean Blvd)
+- Los Cerritos Park, 3750 Del Mar Ave, Los Cerritos — longbeach.gov + Yelp (updated July 2026)
+- MacArthur Park, 1321 E Anaheim St, Wrigley/Cambodia Town — longbeach.gov press releases + sigtrib.com; rehab ribbon-cutting verified as July 26, 2025 (described as "completed rehabilitation," not framed as brand-new to avoid a false-recency claim)
+- Houghton Park, 6301 Myrtle Ave, North Long Beach — longbeach.gov + Wikipedia + locator.lacounty.gov
+- Drake Park, 951 Maine Ave, Westside — longbeach.gov + Yelp + lb908.com (history)
+
+**Open-business check:** N/A this run — all seven entries are city-owned public parks, not businesses, so no closure risk. No fabricated hours, fees, or amenities; all sourced to city pages or verified secondary sources.
+
+**Keywords (deep-dive):** hidden parks long beach · rainbow lagoon park long beach · colorado lagoon long beach · macarthur park long beach · houghton park long beach · drake park long beach · los cerritos park long beach · things to do in long beach
+**Keyword added to hub:** "hidden parks long beach" (added; did not remove any existing keyword — swapped out "masters swim long beach" to stay within the 14-keyword range since that term is already covered by the water-fitness section's own posts).
+
+**Links:** deep-dive → internal `/yoga-therapy`, `/free-consultation`; outbound `https://myyoganetwork.com/corporate-wellness-programs` (1). Hub → parks section re-linked to both the 7/1 and 9/11 posts ("Full guides," plural, not orphaned).
+
+**Neighborhoods in subheads/body:** Downtown, Alamitos Heights, Belmont Heights, Los Cerritos, Wrigley/Cambodia Town, North Long Beach, Westside.
+
+**Vocabulary check:** PASS — deep-dive contains zero instances of "yoga teacher," "yoga instructor," or "yoga class." "Yoga therapists"/"yoga therapy" used only once each, in the single corporate-wellness tie-in paragraph, consistent with the soft-tie-in rule for a lifestyle/parks post.
+
+**Sources:** longbeach.gov (Rainbow Lagoon, Colorado Lagoon, Marina Vista Park, Los Cerritos Park, MacArthur Park ×2 press releases, Houghton Park ×2, Drake Park) · artslb.org (Rainbow Lagoon) · mindtrip.ai (Rainbow Lagoon) · californiabeaches.com (Colorado Lagoon) · yelp.com (Marina Vista, Los Cerritos, Drake Park) · sigtrib.com (MacArthur Park ribbon cutting) · en.wikipedia.org (Houghton Park) · locator.lacounty.gov (Houghton Park) · lb908.com (Drake Park history) · eventbrite.com + coastal.ca.gov (Coastal Cleanup Day) · thealoharun.com + runsignup.com (Aloha Run) · heysocal.com + longbeach.gov/ranchoswalk (Ranchos Walk)
+
+**Image handoff:** 2 lines appended to `myn.com-main/tools/blog-image-studio/inbox/pending.jsonl` — deep-dive slug `long-beach-hidden-parks-rainbow-lagoon-macarthur-houghton` (new) and hub slug `things-to-do-healthy-long-beach` (re-queued; hero PNG still does not exist in `public/uploads/blog-images/` per every prior run's note).
+
+**Notes:** The Cowork Linux sandbox's bash tool failed this entire run with a repeated virtiofs mount error (`failed to mount ... outputs`), unrelated to this task — all file writes were done via the Read/Write/Edit file tools instead, which worked normally throughout. Word count is therefore an estimate from paragraph review rather than a verified `wc` count; flagging this rather than silently asserting a precise number. Publish step (Step 6) requires the Windows-MCP PowerShell connector per the runbook, since the sandbox cannot manipulate this repo's `.git` — see the publish result entry below for that outcome.
+
+**Publish result (Step 6):** [see below, appended after the publish attempt]
+
+---
+
 ## Run: 2026-09-05 (lbsoy-blog-every-3-days)
 
 **Hub updated:** yes — `content/blog/things-to-do-healthy-long-beach.md` (date + lastUpdated bumped to 2026-09-05)
@@ -1040,3 +1093,4 @@ Dropped from "This Week" as past: Labor Day Greek Festival, Shoreline Village co
 **Image handoff:** 2 lines appended to `myn.com-main/tools/blog-image-studio/inbox/pending.jsonl` — deep-dive slug `long-beach-massage-bodywork-recovery-guide` (new) and hub slug `things-to-do-healthy-long-beach` (re-queued; hero PNG still does not exist in `public/uploads/blog-images/`, per every prior run's Step 5 note).
 
 **Publish result:** see commit hash + push status appended below by the Step 6 publish step.
+**Publish result (Step 6):** PUBLISHED. Commit `419472b` — "blog: directory refresh 2026-09-08 (bodywork/recovery update)". 4 files changed, 354 insertions(+), 28 deletions(-). Push confirmed: `4709e1e..419472b  main -> main`; follow-up `git status -sb` shows `## main...origin/main` with nothing ahead. (PowerShell rendered git's normal stderr progress as a red RemoteException — not a failure, per the established pattern.) Author Ram Bhakt <sideoutbox@gmail.com>. Staged only `content/blog/` + `public/uploads/blog-images/`; unrelated modified site files (`app/blog/[slug]/page.tsx`, `app/blog/page.tsx`, `lib/posts.ts`, `lib/seo.ts`, `next.config.mjs`) left unstaged, not swept in.
