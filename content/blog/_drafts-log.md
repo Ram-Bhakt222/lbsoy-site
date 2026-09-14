@@ -1,5 +1,57 @@
 # LBSOY Blog Drafts — Audit Log
 
+## Run: 2026-09-14 (lbsoy-blog-every-3-days)
+
+**Hub updated:** yes — `content/blog/things-to-do-healthy-long-beach.md` (date + lastUpdated bumped to 2026-09-14)
+**Archive snapshot:** `content/blog/_archive/2026-09-14-things-to-do-healthy-long-beach.md`
+**Deep-dive slug:** `long-beach-playgrounds-family-active-spots`
+**Deep-dive path:** `content/blog/2026-09-14-long-beach-playgrounds-family-active-spots.md`
+
+**Rotated category chosen:** #10 Family-friendly healthy things to do — *why:* least-recently-used ranking as of this run. Per the 9/11 log, ranking the 16 categories by last-used date left family-friendly (last covered 2026-07-13) as the oldest uncovered category, older than bike paths (7/15), farmers markets (7/24), yoga studios (8/3), hikes (8/4), gyms (8/13), sober-curious (8/15), mental health (8/20), free wellness (8/24), seasonal/fall (8/27), juice bars (8/31), run clubs (9/1), water fitness (9/2), restaurants (9/5), cold plunge/recovery (9/8), and parks (9/11, just refreshed). Rather than re-cover the Aquarium, Mother's Beach, Colorado Lagoon, Rancho Los Alamitos, and Wheel Fun Rentals from the 7/13 post, this run targeted neighborhood playgrounds not in that post — Admiral Kidd Park, Recreation Park's dinosaur playground, Cherry/Junipero Beach, Lincoln Park, Whaley Park — plus one weekends-only mini theme park (El Dorado Frontier) and a note on two summer-only youth programs (Junior Lifeguards, Supertri kids distances). Existing hub H2 rewritten in place (not duplicated) and now links both family-friendly posts.
+
+**Word count:** deep-dive body ≈1,075 words (estimated; bash/wc unavailable this run due to the same sandbox virtiofs mount failure documented in the 9/11 and prior runs — see Notes). Within 800–1,200 target based on paragraph-level review.
+
+**Events verified (8, "This Week" bucket — 2 dropped as past, 2 new added, 4 carried forward):**
+1. ~~Beach Fun 5K/10K/15K/Half Marathon (Sept 13)~~ — DROPPED, event date has passed as of this run (today is Sept 14).
+2. ~~Belmont Shore Car Show (Sept 13)~~ — DROPPED, same reason.
+3. Coastal Cleanup Day — Sat Sept 19, 10 LB sites — carried forward, confirmed via eventbrite.com and coastal.ca.gov (42nd annual)
+4. Aloha Run 5K/10K — Sun Sept 20, Shoreline Aquatic Park — carried forward, confirmed via thealoharun.com and runsignup.com
+5. **NEW:** KIDZ BOP Live — family concert, Sun Sept 20, Long Beach Amphitheater — confirmed via visitlongbeach.com search results (doors/pre-show ~4 p.m.). Framed honestly as a family movement night, not a fitness event, per the mission's "lead with healthy, soft brand pitch" balance for broader things-to-do content.
+6. Ranchos Walk — Sat Sept 26, free guided history hike — carried forward, confirmed via heysocal.com and longbeach.gov/ranchoswalk; added a note that the 3.5-mile route is stroller/kid-friendly, tying it to this run's family-friendly rotation.
+7. **NEW:** Baja Splash Cultural Festival — Sun Sept 27, Aquarium of the Pacific — confirmed via aquariumofpacific.org (25th annual, 9 a.m.–5 p.m., traditional dance + music + educational booths). This was the event the 9/11 run explicitly considered but excluded for falling outside the 7–10 day window; included this run since it directly serves the family-friendly rotation and is clearly dated/confirmed, with a note in-post that it's a little past the usual window.
+8. Tour the Shore & WOW / Yoga on the Bluff / Farmers Markets — all carried forward unchanged, standing weekly programming.
+**Considered but not added:** Pacific Coast Running Festival (Sept 26–27) — surfaced repeatedly in search but confirmed via bikesignup.com and fleetfeet.com to be in Long Beach, WASHINGTON (115 Bolstad Ave), not Long Beach, CA. Excluded to avoid a location error; flagging here so a future run doesn't re-surface it without the same check. 2XU Long Beach Marathon and Oktoberfest at Steelcraft remain accurately covered in the existing Fall section, not duplicated here.
+
+**Directory entries verified (family-friendly/playgrounds category, 6 new spots):**
+- Admiral Kidd Park, 2125 Santa Fe Ave, Downtown — visitlongbeach.com blog (Creative Playgrounds in Long Beach), nautical theme, ADA-accessible features confirmed
+- Recreation Park playground, 4900 E 7th St, near Traffic Circle — visitlongbeach.com blog, dinosaur theme + ASL accessibility elements confirmed (park itself already covered for golf/pools in the 7/1 parks post; this run covers the playground specifically, a distinct angle)
+- Cherry/Junipero Beach playground, under Bluff Park/LB Museum of Art, Alamitos Beach — visitlongbeach.com blog, rope-web climbers + beachside location confirmed
+- Lincoln Park, 101 Pacific Ave, Downtown — visitlongbeach.com blog, multi-activity hub (skate park, dog park, disc golf) confirmed
+- Whaley Park, 5620 E Atherton St, near CSULB — visitlongbeach.com blog, confirmed
+- El Dorado Frontier, 7550 E Spring St, East Long Beach — official site theeldoradofrontier.com (hours, attractions, phone confirmed live) + Yelp listing updated September 2026 (confirmed open); weekends-only (Sat/Sun 11 a.m.–5 p.m.) called out explicitly since it's easy to show up on a weekday and find it closed
+**Also referenced (evergreen program notes, not "directory" listings per se):** LBFD Junior Lifeguard Program (Claremont Beach) and Supertri Long Beach kids/youth distances — both confirmed via activekids.com, longbeach.gov, and active.com as real, standing programs, but explicitly flagged in-post as summer-only / not currently enrolling, to avoid implying a September sign-up window that doesn't exist.
+
+**Open-business check:** El Dorado Frontier confirmed open via its own live site (hours posted, phone number, active social links) plus a Yelp listing explicitly updated September 2026. The six playgrounds are city-owned public spaces, not businesses, so no closure risk — sourced to Visit Long Beach's official blog rather than a stale third-party list (a first search pass returned several Long Beach, NY playgrounds mixed into results by generic "Long Beach playground" queries; those were identified by NY-specific references — Hurricane Sandy, boardwalk — and excluded).
+
+**Keywords (deep-dive):** long beach playgrounds · el dorado frontier long beach · admiral kidd park long beach · family things to do long beach · recreation park playground long beach · downtown long beach playground · things to do in long beach with kids
+**Keyword added to hub:** "family friendly things to do long beach" (swapped in for "free things to do in long beach," which remains covered contextually by the Free & Outdoor Wellness section's own keyword set).
+
+**Links:** deep-dive → internal `/yoga-therapy`, `/free-consultation`; outbound `https://myyoganetwork.com/corporate-wellness-programs` (1). Hub → family-friendly section re-linked to both the 7/13 and 9/14 posts ("Full guides," plural, not orphaned).
+
+**Neighborhoods in subheads/body:** Downtown Long Beach, the Traffic Circle (Recreation Park), Alamitos Beach, near CSULB, East Long Beach.
+
+**Vocabulary check:** PASS — deep-dive contains zero instances of "yoga teacher," "yoga instructor," or "yoga class." "Yoga therapist" used once, linked to `/yoga-therapy`, in the single corporate-wellness tie-in paragraph, consistent with the soft-tie-in rule for a lifestyle/family post.
+
+**Sources:** visitlongbeach.com/blog/creative-playgrounds-in-long-beach (Admiral Kidd, Recreation Park, Cherry/Junipero Beach, Lincoln Park, Whaley Park, Los Cerritos — used only the 6 not already covered) · theeldoradofrontier.com (official site — hours, attractions, address, phone) · yelp.com (El Dorado Frontier, updated September 2026) · kidsguidemagazine.com (El Dorado Frontier overview) · activekids.com (Junior Lifeguard Program, LBFD) · longbeach.gov (Junior Lifeguard Competition press release) · active.com (Supertri Long Beach 2026) · aquariumofpacific.org (Baja Splash Cultural Festival, 25th annual) · bikesignup.com + fleetfeet.com (Pacific Coast Running Festival — confirmed Long Beach, WA, excluded) · visitlongbeach.com (KIDZ BOP Live, September events search results) · eventbrite.com + coastal.ca.gov (Coastal Cleanup Day, carried forward) · thealoharun.com + runsignup.com (Aloha Run, carried forward) · heysocal.com + longbeach.gov/ranchoswalk (Ranchos Walk, carried forward)
+
+**Image handoff:** 2 lines appended to `myn.com-main/tools/blog-image-studio/inbox/pending.jsonl` — deep-dive slug `long-beach-playgrounds-family-active-spots` (new) and hub slug `things-to-do-healthy-long-beach` (re-queued; hero PNG still does not exist in `public/uploads/blog-images/` per every prior run's note).
+
+**Notes:** The Cowork Linux sandbox's bash tool failed this entire run with the same repeated virtiofs mount error documented in the 2026-09-11 log (`failed to mount ... outputs`, "Windows update released September 8" per the tool's own error message) — unrelated to this task, all file writes were done via the Read/Write/Edit file tools instead, which worked normally throughout. Word count is therefore an estimate from paragraph review rather than a verified `wc` count. A first research pass for "Long Beach playgrounds" surfaced several Long Beach, NY results (Clark Street Playground, Magnolia Playground — post-Hurricane-Sandy references gave it away) and one Long Beach, WA race (Pacific Coast Running Festival) mixed into generic search results; both were caught and excluded before writing rather than after. Publish step (Step 6) requires the Windows-MCP PowerShell connector per the runbook, since the sandbox cannot manipulate this repo's `.git` — see the publish result entry below for that outcome.
+
+**Publish result (Step 6):** [PENDING — see final response for outcome]
+
+---
+
 ## Run: 2026-09-11 (lbsoy-blog-every-3-days)
 
 **Hub updated:** yes — `content/blog/things-to-do-healthy-long-beach.md` (date + lastUpdated bumped to 2026-09-11)
@@ -49,7 +101,7 @@
 
 **Notes:** The Cowork Linux sandbox's bash tool failed this entire run with a repeated virtiofs mount error (`failed to mount ... outputs`), unrelated to this task — all file writes were done via the Read/Write/Edit file tools instead, which worked normally throughout. Word count is therefore an estimate from paragraph review rather than a verified `wc` count; flagging this rather than silently asserting a precise number. Publish step (Step 6) requires the Windows-MCP PowerShell connector per the runbook, since the sandbox cannot manipulate this repo's `.git` — see the publish result entry below for that outcome.
 
-**Publish result (Step 6):** [see below, appended after the publish attempt]
+**Publish result (Step 6):** PUBLISHED. Commit `ab42e77` — "blog: directory refresh 2026-09-11 (hidden parks part 2)". 4 files changed, 356 insertions(+), 38 deletions(-). Push confirmed: `419472b..ab42e77  main -> main`; follow-up `git status -sb` shows `## main...origin/main` with nothing ahead (only the pre-existing unrelated modified site files — `app/blog/[slug]/page.tsx`, `app/blog/page.tsx`, `lib/posts.ts`, `lib/seo.ts`, `next.config.mjs` — remain unstaged, not swept in). PowerShell rendered git's normal stderr progress as a red RemoteException — not a failure, confirmed by the ref-update line. Author Ram Bhakt <sideoutbox@gmail.com>. Staged only `content/blog/` + `public/uploads/blog-images/` (no new heroes existed to stage this run). Published via the Windows-MCP PowerShell connector, since the Cowork Linux sandbox's bash tool was down for the entire run (see Notes above).
 
 ---
 

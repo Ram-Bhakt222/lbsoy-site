@@ -1,8 +1,8 @@
 ---
 title: "Healthy Things to Do in Long Beach: The Living Guide"
 description: "A regularly updated guide to healthy things to do in Long Beach — this week's events plus the best fall activities, free wellness, gyms, studios, markets and trails."
-date: "2026-09-14"
-lastUpdated: "2026-09-14"
+date: "2026-09-11"
+lastUpdated: "2026-09-11"
 tag: "Long Beach Directory"
 author: "Long Beach School of Yoga"
 keywords:
@@ -19,7 +19,7 @@ keywords:
   - "walking trails long beach"
   - "best gyms long beach"
   - "healthy restaurants long beach"
-  - "family friendly things to do long beach"
+  - "free things to do in long beach"
 city: "Long Beach"
 coverImage: "/uploads/blog-images/things-to-do-healthy-long-beach-hero.png"
 ---
@@ -28,7 +28,23 @@ This is our living guide to healthy, active things to do in Long Beach — updat
 
 ## This Week in Long Beach
 
-With the Beach Fun race and the Belmont Shore Car Show behind us, the back half of September turns family- and cleanup-focused: Coastal Cleanup Day and the Aloha Run anchor next weekend, a family concert night and a free history hike follow, and the Aquarium's biggest cultural festival of the year closes out the month.
+The middle of September is race-and-cleanup season: a beginner-friendly race series and a closed-street car show both land the same Sunday, then Coastal Cleanup Day and the Aloha Run anchor the following weekend. A free guided history hike is worth calendaring now, too — it books up.
+
+### Beach Fun 5K/10K/15K/Half Marathon — Sunday, Sept 13
+
+**When:** Sunday, September 13, check-in 7–7:30 a.m., start 7:30 a.m.
+**Where:** 5400 E Ocean Blvd, near Bluff Park
+**Cost:** Paid registration; includes finisher medal, goodie bag, photos
+
+A chip-friendly, beginner-welcoming race series along the bluff and beach path with four distance options, so first-timers and marathon-in-training locals can pick the same morning. Pairs naturally with a Bluff Park walk if you're spectating instead of racing.
+
+### Belmont Shore Car Show — Sunday, Sept 13
+
+**When:** Sunday, September 13, 9 a.m.–3 p.m.
+**Where:** 2nd Street, Belmont Shore
+**Cost:** Free for spectators
+
+One of the largest car shows on the West Coast, and functionally a two-mile walk down a closed 2nd Street. Pair it with the morning Tour the Shore loop or the Beach Fun race above.
 
 ### Coastal Cleanup Day — Saturday, Sept 19
 
@@ -46,29 +62,13 @@ The 42nd annual California Coastal Cleanup Day, part of a county-wide effort at 
 
 A harbor-and-bay 5K/10K with chip timing, a finisher medal, and a post-race festival with live music. A realistic four-week goal if you've just joined one of the neighborhood run clubs below. Full guide: [Long Beach's Neighborhood Run Clubs](/blog/2026-09-01-long-beach-run-walk-clubs-bixby-knolls-signal-hill).
 
-### KIDZ BOP Live — Family Concert Night, Sunday, Sept 20
-
-**When:** Sunday, September 20, 2026, doors/pre-show activities from 4 p.m.
-**Where:** Long Beach Amphitheater
-**Cost:** Paid tickets
-
-Not a workout, but a genuinely active night for families with young kids — KIDZ BOP's touring show is built around sing-and-dance-along choreography, which is more movement than most kids get at a typical evening event. Pair it with an early walk on the Shoreline Pedestrian Bikepath before the show.
-
 ### Ranchos Walk — Free Guided History Hike, Saturday, Sept 26
 
 **When:** Saturday, September 26, 2026, 8 a.m.–2 p.m. (3.5, 6, or 9.4-mile route options)
 **Where:** Starts at Rancho Los Cerritos, Reservoir Hill, or Willow Springs Park; ends at Rancho Los Alamitos
 **Cost:** Free, including the post-walk celebration
 
-Long Beach's annual urban hike connects the city's two historic ranchos across its highest points — Reservoir Hill, Longview Point at Willow Springs Park, and Hilltop Park in Signal Hill. Walkers and dogs welcome (service animals only at the celebration); not a running or biking route. Worth putting on the calendar now since it books up — it's also stroller- and kid-friendly on the shorter 3.5-mile route.
-
-### Baja Splash Cultural Festival — Sunday, Sept 27
-
-**When:** Sunday, September 27, 2026, 9 a.m.–5 p.m.
-**Where:** Aquarium of the Pacific, 100 Aquarium Way, Downtown
-**Cost:** Included with Aquarium admission
-
-The Aquarium's 25th annual Baja Splash brings live traditional dance, music, and hands-on educational booths celebrating Latino cultures from Mexico and Central/South America — a full day of movement and activity for families, not just a sit-and-watch festival. A little past the usual 7–10 day window but worth calendaring now since it's the Aquarium's biggest family event of the fall.
+Long Beach's annual urban hike connects the city's two historic ranchos across its highest points — Reservoir Hill, Longview Point at Willow Springs Park, and Hilltop Park in Signal Hill. Walkers and dogs welcome (service animals only at the celebration); not a running or biking route. Worth putting on the calendar now since it books up.
 
 ### Tour the Shore & WOW — Standing Saturday and Wednesday Walking Groups
 
@@ -118,7 +118,7 @@ Long Beach has one of the deepest park systems in Southern California — more t
 
 ## Best Family-Friendly Healthy Things to Do in Long Beach
 
-Long Beach is an easy place to raise active kids. **Aquarium of the Pacific** (100 Aquarium Way) anchors the Downtown waterfront with 11,000+ animals across 50 exhibits, open daily 9 a.m.–6 p.m. In **Naples**, **Mother's Beach / Marine Park** (5839 Appian Way) has calm, lifeguarded bay water plus a climb-crawl-swing playground steps from the sand — the easiest supervised beach day in the city. In **East Long Beach**, **Colorado Lagoon** (5119 E Colorado St) pairs a shallow, wave-free swimming lagoon with a renovated inclusive playground built for ages 2–12. **Rancho Los Alamitos** (6400 E Bixby Hill Rd) is a free, walkable historic ranch where kids meet horses, goats, chickens, and rabbits in the barnyard, Wed–Sun 1–5 p.m. Down at **Shoreline Village**, **Wheel Fun Rentals** rents four-person surreys and kid trailers for a flat, car-free ride along the Shoreline Pedestrian Bikepath. A September update added the city's best playgrounds and one weekends-only mini theme park: **El Dorado Frontier** (7550 E Spring St, **East Long Beach**, Sat/Sun 11 a.m.–5 p.m.) has a mine-shaft train ride, carousel, gold-panning, and a 110-foot slide; **Admiral Kidd Park** (2125 Santa Fe Ave) is a nautical-themed, ADA-accessible playground with a rocking boat and zipline; **Recreation Park**'s renovated playground (4900 E 7th St) has a full dinosaur-dig theme for ages 5–12; **Cherry/Junipero Beach** playground sits steps from the sand below Bluff Park; and **Lincoln Park** (101 Pacific Ave, Downtown) and **Whaley Park** (5620 E Atherton St, near CSULB) round out the list. Full guides: [Best Family-Friendly Healthy Things to Do in Long Beach](/blog/2026-07-13-family-friendly-healthy-things-to-do-long-beach) and [Long Beach's Best Playgrounds & Family Active Spots, Part 2](/blog/2026-09-14-long-beach-playgrounds-family-active-spots).
+Long Beach is an easy place to raise active kids. **Aquarium of the Pacific** (100 Aquarium Way) anchors the Downtown waterfront with 11,000+ animals across 50 exhibits, open daily 9 a.m.–6 p.m. In **Naples**, **Mother's Beach / Marine Park** (5839 Appian Way) has calm, lifeguarded bay water plus a climb-crawl-swing playground steps from the sand — the easiest supervised beach day in the city. In **East Long Beach**, **Colorado Lagoon** (5119 E Colorado St) pairs a shallow, wave-free swimming lagoon with a renovated inclusive playground built for ages 2–12. **Rancho Los Alamitos** (6400 E Bixby Hill Rd) is a free, walkable historic ranch where kids meet horses, goats, chickens, and rabbits in the barnyard, Wed–Sun 1–5 p.m. Down at **Shoreline Village**, **Wheel Fun Rentals** rents four-person surreys and kid trailers for a flat, car-free ride along the Shoreline Pedestrian Bikepath. Full guide: [Best Family-Friendly Healthy Things to Do in Long Beach](/blog/2026-07-13-family-friendly-healthy-things-to-do-long-beach).
 
 ## Best Bike Paths & Active Transportation in Long Beach
 
