@@ -1,8 +1,8 @@
 ---
 title: "Healthy Things to Do in Long Beach: The Living Guide"
 description: "A regularly updated guide to healthy things to do in Long Beach — this week's events plus the best fall activities, free wellness, gyms, studios, markets and trails."
-date: "2026-09-17"
-lastUpdated: "2026-09-17"
+date: "2026-09-14"
+lastUpdated: "2026-09-14"
 tag: "Long Beach Directory"
 author: "Long Beach School of Yoga"
 keywords:
@@ -16,7 +16,7 @@ keywords:
   - "parks long beach"
   - "hidden parks long beach"
   - "run clubs long beach"
-  - "bike boulevards long beach"
+  - "walking trails long beach"
   - "best gyms long beach"
   - "healthy restaurants long beach"
   - "family friendly things to do long beach"
@@ -28,17 +28,17 @@ This is our living guide to healthy, active things to do in Long Beach — updat
 
 ## This Week in Long Beach
 
-We're now inside the run-up: Coastal Cleanup Day and the Aloha Run land this weekend, a family concert night and a free history hike follow, and the Aquarium's biggest cultural festival of the year closes out the month. If two wheels are more your speed than two feet, this update also adds Long Beach's calm-street bike boulevards to the directory below — a good match for anyone eyeing the group rides mentioned there.
+With the Beach Fun race and the Belmont Shore Car Show behind us, the back half of September turns family- and cleanup-focused: Coastal Cleanup Day and the Aloha Run anchor next weekend, a family concert night and a free history hike follow, and the Aquarium's biggest cultural festival of the year closes out the month.
 
-### Coastal Cleanup Day — This Saturday, Sept 19
+### Coastal Cleanup Day — Saturday, Sept 19
 
 **When:** Saturday, September 19, 2026, 9 a.m.–12 p.m.
 **Where:** 10 sites across Long Beach, including Alamitos Bay Marina, Alamitos Beach, Belmont Pier, Bluff Park, Junipero Beach, MacArthur Park, Mother's Beach, the Peninsula, Shoreline Park, and Rainbow Harbor
 **Cost:** Free; register through Heal the Bay or Ocean Conservancy
 
-The 42nd annual California Coastal Cleanup Day. The city expanded this year's footprint to 10 Long Beach sites, roughly double last year's count, each led by a city department or community partner with its own activities and giveaways. Pick the site closest to your neighborhood, bring closed-toe shoes and water — gloves and buckets are provided.
+The 42nd annual California Coastal Cleanup Day, part of a county-wide effort at 60-plus sites. Pick the site closest to your neighborhood, bring closed-toe shoes and water — gloves and buckets are provided.
 
-### Aloha Run 5K/10K — This Sunday, Sept 20
+### Aloha Run 5K/10K — Sunday, Sept 20
 
 **When:** Sunday, September 20, 2026 — 10K starts 7:30 a.m., 5K starts 7:45 a.m.
 **Where:** Shoreline Aquatic Park, 200 Aquarium Way, Downtown
@@ -122,7 +122,7 @@ Long Beach is an easy place to raise active kids. **Aquarium of the Pacific** (1
 
 ## Best Bike Paths & Active Transportation in Long Beach
 
-Long Beach markets itself as one of America's most bike-friendly cities, and the paths back it up. The flagship is the **Shoreline Pedestrian Bikepath** — about 4.5 flat, car-free miles along the Pacific from **Shoreline Village** in Downtown to **Belmont Shore**, with a 17-foot-wide paved core from Shoreline Village to Alamitos Bay that's ideal for beginners and kids. For distance, two river routes start here: the **LA River Bike Path** (a ~4-mile Long Beach stretch of the nearly 30-mile bikeway) and the **San Gabriel River Bike Trail** (~28 miles through **El Dorado Regional Park** in **East Long Beach** down to Alamitos Bay Marina). Inside the parks, the **El Dorado Bike Path** (~4 miles) and **Heartwell Bike Path** (~2.5 miles) offer shaded, low-traffic loops. A September update added the calm-street network locals actually commute on: the **Daisy/Myrtle Bike Boulevard**, a 9.5-mile traffic-calmed route connecting **Bixby Knolls** and **North Long Beach** to Downtown; the shorter **Vista Street Bike Boulevard** (~1.3 miles) through **Belmont Heights / Los Altos**; the restored **Wrigley Greenbelt** along the LA River's west bank; and the one real hill workout in the city, the climb up **Skyline Drive** to **Hilltop Park** in **Signal Hill**. No bike? The **GoActiveLB Hub** (223 E. 1st St., Downtown; weekdays 9 a.m.–5 p.m.) rents bikes and anchors **Long Beach Bike Share**, which is expanding toward roughly 650 bikes across 110-plus hubs with new stations in **West** and **North Long Beach**; **Wheel Fun Rentals** at Shoreline Village stocks cruisers and surreys; and **Bike Long Beach** (bikelb.com) runs a standing calendar of casual group rides for anyone who'd rather learn the network with company. Full guides: [Best Bike Paths & Active Transportation in Long Beach](/blog/2026-07-15-best-bike-paths-active-transportation-long-beach) and [Long Beach's Quiet Bike Boulevards: Daisy/Myrtle, Vista Street & the Signal Hill Climb](/blog/2026-09-17-long-beach-bike-boulevards-vista-signal-hill-guide).
+Long Beach markets itself as one of America's most bike-friendly cities, and the paths back it up. The flagship is the **Shoreline Pedestrian Bikepath** — about 4.5 flat, car-free miles along the Pacific from **Shoreline Village** in Downtown to **Belmont Shore**, with a 17-foot-wide paved core from Shoreline Village to Alamitos Bay that's ideal for beginners and kids. For distance, two river routes start here: the **LA River Bike Path** (a ~4-mile Long Beach stretch of the nearly 30-mile bikeway) and the **San Gabriel River Bike Trail** (~28 miles through **El Dorado Regional Park** in **East Long Beach** down to Alamitos Bay Marina). Inside the parks, the **El Dorado Bike Path** (~4 miles) and **Heartwell Bike Path** (~2.5 miles) offer shaded, low-traffic loops. No bike? The **GoActiveLB Hub** (223 E. 1st St., Downtown; weekdays 9 a.m.–5 p.m.) rents bikes and anchors **Long Beach Bike Share**, and **Wheel Fun Rentals** at Shoreline Village stocks cruisers and surreys. Full guide: [Best Bike Paths & Active Transportation in Long Beach](/blog/2026-07-15-best-bike-paths-active-transportation-long-beach).
 
 ## Best Healthy Restaurants & Cafés in Long Beach
 
@@ -152,7 +152,7 @@ One honest update: **Deep Blue Scuba & Swim Center**, the longtime Belmont Shore
 
 ## Best Free & Outdoor Wellness in Long Beach
 
-You don't need a membership to live well here. The daily free Yoga on the Bluff, the bluff-top paths above Alamitos Beach, and the open lawns of Bluff Park are a no-cost gym — and the city's nine free outdoor **Fitness Zones** add actual weight-bearing equipment to that, from the pull-up and dip stations on the 4.8-mile Downtown Fitness Loop to the ADA-accessible sets at Lincoln Park and Orizaba Park. Free group running belongs on this list too: the **Bixby Knolls Dawn Joggers** (weekday mornings, Atlantic & Carson), **Shoreline Frontrunners** (three times a week off the Alamitos Beach bluff), and Signal Hill's Home Depot-lot meetups cost nothing and welcome walkers as readily as runners. Add the free 988 crisis line and donation-based meditation sits, and Long Beach's baseline for a healthy week costs close to nothing. The city's calm-street bike boulevards belong on this list too — Daisy/Myrtle, Vista Street, and the free Signal Hill climb cost nothing beyond owning or renting a bike, and Bike Long Beach's group rides are open to anyone who shows up. With Labor Day and Shoreline Village's summer concert series behind us, the free calendar now runs on standing weekly programming — the Saturday Tour the Shore and Wednesday WOW walking groups in Belmont Shore, Surfrider's first-Saturday cleanup at Belmont Pier, and Yoga on the Bluff twice daily through October — plus the free Ranchos Walk history hike on Sept 26, none of which cost anything.
+You don't need a membership to live well here. The daily free Yoga on the Bluff, the bluff-top paths above Alamitos Beach, and the open lawns of Bluff Park are a no-cost gym — and the city's nine free outdoor **Fitness Zones** add actual weight-bearing equipment to that, from the pull-up and dip stations on the 4.8-mile Downtown Fitness Loop to the ADA-accessible sets at Lincoln Park and Orizaba Park. Free group running belongs on this list too: the **Bixby Knolls Dawn Joggers** (weekday mornings, Atlantic & Carson), **Shoreline Frontrunners** (three times a week off the Alamitos Beach bluff), and Signal Hill's Home Depot-lot meetups cost nothing and welcome walkers as readily as runners. Add the free 988 crisis line and donation-based meditation sits, and Long Beach's baseline for a healthy week costs close to nothing. With Labor Day and Shoreline Village's summer concert series behind us, the free calendar now runs on standing weekly programming — the Saturday Tour the Shore and Wednesday WOW walking groups in Belmont Shore, Surfrider's first-Saturday cleanup at Belmont Pier, and Yoga on the Bluff twice daily through October — plus the free Ranchos Walk history hike on Sept 26, none of which cost anything.
 
 ## Best Hikes, Bluff & Beach Walking Paths in Long Beach
 

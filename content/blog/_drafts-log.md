@@ -1,5 +1,53 @@
 # LBSOY Blog Drafts — Audit Log
 
+## Run: 2026-09-17 (lbsoy-blog-every-3-days)
+
+**Hub updated:** yes — `content/blog/things-to-do-healthy-long-beach.md` (date + lastUpdated bumped to 2026-09-17)
+**Archive snapshot:** `content/blog/_archive/2026-09-17-things-to-do-healthy-long-beach.md`
+**Deep-dive slug:** `long-beach-bike-boulevards-vista-signal-hill-guide`
+**Deep-dive path:** `content/blog/2026-09-17-long-beach-bike-boulevards-vista-signal-hill-guide.md`
+
+**Rotated category chosen:** #15 Bike paths & active transportation — *why:* ranking all 16 categories by last-used date as of this run, #15 (last touched 2026-07-15) was the most overdue — older than farmers markets (7/24), yoga studios (8/3), hikes (8/4), gyms (8/13), sober-curious (8/15), mental health (8/20), free/low-cost wellness (8/24), seasonal/fall (8/27), juice bars (8/31), run clubs (9/1), water fitness (9/2), restaurants (9/5), cold plunge/bodywork (9/8), parks (9/11, refreshed), and family-friendly (9/14, refreshed). Rather than re-cover the Shoreline Pedestrian Bikepath, the LA River/San Gabriel River trails, El Dorado/Heartwell park paths, Naples canals, and rental shops from the 7/15 post, this run targeted the calm-street network not in that post: the Daisy/Myrtle Bike Boulevard (Bixby Knolls/North Long Beach), the Vista Street Bike Boulevard (Belmont Heights/Los Altos), the Wrigley Greenbelt, the Signal Hill/Hilltop Park climb, and the ongoing Long Beach Bike Share expansion plus Bike Long Beach's group-ride calendar. Existing hub H2 rewritten in place (not duplicated) and now links both bike-paths posts.
+
+**Word count:** deep-dive body ≈919 words (verified via script, excl. About/Sources; ≈1,069 words incl. those sections). Within 800–1,200 target.
+
+**Events verified (5 "This Week" items, all still upcoming as of this run — nothing dropped, none newly added):**
+1. Coastal Cleanup Day — Sat Sept 19, 9a–12p, 10 Long Beach sites — carried forward, re-confirmed via longbeach.gov press release + coastal.ca.gov (42nd annual, footprint doubled from last year to 10 sites)
+2. Aloha Run 5K/10K — Sun Sept 20, Shoreline Aquatic Park — carried forward, re-confirmed via thealoharun.com/runsignup.com (dates/pricing unchanged)
+3. KIDZ BOP Live — Sun Sept 20, Long Beach Amphitheater — carried forward from 9/14 hub, not independently re-verified this run (no signal of change)
+4. Ranchos Walk — Sat Sept 26, free guided history hike — carried forward, dates/routes unchanged
+5. Baja Splash Cultural Festival — Sun Sept 27, Aquarium of the Pacific — carried forward, dates unchanged
+Standing weekly programming (Tour the Shore, WOW, Yoga on the Bluff, farmers markets) carried forward unchanged. New this run: searched specifically for a fresh bike-community event (CicLAvia, Bike Month rides) to tie into the rotated category — found none inside the 7–10 day window (nearest CicLAvia is Oct 11, Heart of LA, outside Long Beach; Bike Long Beach's most recent "Bikes and Coffee" was Aug 30, already past) — so rather than force a dated event, the deep-dive instead points readers to bikelb.com's standing group-ride calendar as an evergreen resource.
+
+**Directory entries verified (bike boulevards/active transportation category, all public infrastructure, no open/closed business risk):**
+- Daisy/Myrtle Bike Boulevard — 9.5 miles, Bixby Knolls/North Long Beach to Downtown, completed Dec 2018 — longbeach.gov Public Works news release (25 intersections traffic-calmed)
+- Vista Street Bike Boulevard — ~1.3 miles, Belmont Heights/Los Altos (Argonne to Orizaba, signalized crossing at Redondo) — Streetsblog LA photo tour (2010, still accurate per current city bike-paths page cross-check)
+- Wrigley Greenbelt — LA River west-bank corridor, Westside; 2023 renovation (1-mile trail, native landscaping) confirmed via longbeach.gov park directory + Wikipedia (Long Beach Green Belt path)
+- Signal Hill climb / Hilltop Park loop — Temple Ave → Skyline Drive, ~1 mile climb to 2351 Dawson Ave — confirmed via Foresyte trail guide + Evendo travel guide (cross-checked against the existing 8/4 hikes post's Signal Hill Trail figures for consistency — no contradiction)
+- Long Beach Bike Share expansion — ~650 bikes / 110+ hubs, new stations in West/North Long Beach and along Daisy/Myrtle — PeopleForBikes coverage + longbeach.gov press release
+- Bike Long Beach (bikelb.com) group rides — confirmed active via Long Beach Breeze and Inside LB News coverage of National Bike Month, plus bikelb.com's own calendar/rides pages
+
+**Keywords (deep-dive):** bike boulevards long beach · daisy myrtle bike boulevard · vista street bike boulevard long beach · wrigley greenbelt long beach · signal hill bike climb · bike long beach group rides · long beach bike share · things to do in long beach
+**Keyword added to hub:** "bike boulevards long beach" (swapped in for "walking trails long beach," which remains covered under the existing hikes/walking-paths section's own keyword set).
+
+**Links:** deep-dive → internal `/yoga-therapy`, `/free-consultation`; outbound `https://myyoganetwork.com/corporate-wellness-programs` (1); internal cross-link back to the July bike-paths post. Hub → bike paths section re-linked to both the 7/15 and 9/17 posts ("Full guides," plural, not orphaned); Free & Outdoor Wellness section also freshened with a one-sentence mention of the new boulevards as no-cost infrastructure.
+
+**Neighborhoods in subheads/body:** Bixby Knolls, North Long Beach, Belmont Heights, Los Altos, Westside (Wrigley), Signal Hill, West Long Beach.
+
+**Vocabulary check:** PASS — grep for `yoga teacher|yoga instructor|yoga class` in the new deep-dive returned zero hits. "Yoga therapist"/"yoga therapy" used in the single corporate-wellness tie-in paragraph only, consistent with the soft-tie-in rule for a lifestyle/infrastructure post.
+
+**Open-business check:** N/A — all entries this run are public bike infrastructure (boulevards, a greenbelt, a park trail, a city bike-share program) or a volunteer advocacy group's ride calendar, not storefront businesses, so no closure risk applies. No hours, prices, or amenities were fabricated; all sourced to city press releases, the city's own park/bike-paths pages, or independently published trail guides.
+
+**Older section freshened:** "Best Free & Outdoor Wellness in Long Beach" — added a sentence naming the bike boulevards and the Signal Hill climb as no-cost infrastructure, tying this run's new category into the existing free-wellness framing, consistent with prior runs' practice.
+
+**Sources:** longbeach.gov/pw/news (Daisy/Myrtle Bike Blvd completion) · longbeach.gov/press-releases (Bike Share expansion) · peopleforbikes.org (Bike Share coverage) · la.streetsblog.org (Vista Street Bike Boulevard photo tour) · longbeach.gov/Park (Wrigley Greenbelt) · en.wikipedia.org (Long Beach Green Belt path) · wrigleylb.com/outdoors (Wrigley Association) · foresyteapp.com (Signal Hill Trail) · evendo.com (Hilltop Park) · bikelb.com (calendar/rides) · longbeachbreeze.com + insidelbnews.com (Bike Long Beach / National Bike Month coverage) · longbeach.gov/press-releases + coastal.ca.gov (Coastal Cleanup Day, carried forward) · thealoharun.com + runsignup.com (Aloha Run, carried forward) · compoundlb.org (checked for a wellness-event tie-in; found the venue has permanently closed as of August 18, 2026 — noted here so a future run doesn't cite it as an active venue)
+
+**Image handoff:** 1 new line appended to `myn.com-main/tools/blog-image-studio/inbox/pending.jsonl` — deep-dive slug `2026-09-17-long-beach-bike-boulevards-vista-signal-hill-guide`. Hub hero (`things-to-do-healthy-long-beach-hero.png`) still does not exist in `public/uploads/blog-images/` per every prior run's note — not re-queued this run since an unresolved pending-line entry for it already exists in the inbox from 9/14.
+
+**Publish result:** see commit hash + push status appended below by the Step 6 publish step.
+
+---
+
 ## Run: 2026-09-14 (lbsoy-blog-every-3-days)
 
 **Hub updated:** yes — `content/blog/things-to-do-healthy-long-beach.md` (date + lastUpdated bumped to 2026-09-14)
@@ -48,7 +96,7 @@
 
 **Notes:** The Cowork Linux sandbox's bash tool failed this entire run with the same repeated virtiofs mount error documented in the 2026-09-11 log (`failed to mount ... outputs`, "Windows update released September 8" per the tool's own error message) — unrelated to this task, all file writes were done via the Read/Write/Edit file tools instead, which worked normally throughout. Word count is therefore an estimate from paragraph review rather than a verified `wc` count. A first research pass for "Long Beach playgrounds" surfaced several Long Beach, NY results (Clark Street Playground, Magnolia Playground — post-Hurricane-Sandy references gave it away) and one Long Beach, WA race (Pacific Coast Running Festival) mixed into generic search results; both were caught and excluded before writing rather than after. Publish step (Step 6) requires the Windows-MCP PowerShell connector per the runbook, since the sandbox cannot manipulate this repo's `.git` — see the publish result entry below for that outcome.
 
-**Publish result (Step 6):** [PENDING — see final response for outcome]
+**Publish result (Step 6):** PUBLISHED. Commit `cb75dfa` — "blog: directory refresh 2026-09-14 (playgrounds + family part 2)". 4 files changed, 333 insertions(+), 23 deletions(-). Push confirmed: `ab42e77..cb75dfa  main -> main`; follow-up `git status -sb` shows `## main...origin/main` with nothing ahead (only the pre-existing unrelated modified site files — `app/blog/[slug]/page.tsx`, `app/blog/page.tsx`, `lib/posts.ts`, `lib/seo.ts`, `next.config.mjs` — remain unstaged, not swept in). PowerShell rendered git's normal stderr progress as a red RemoteException — not a failure, confirmed by the ref-update line. Author Ram Bhakt <sideoutbox@gmail.com>. Staged only `content/blog/` + `public/uploads/blog-images/`. Published via the Windows-MCP PowerShell connector, since the Cowork Linux sandbox's bash tool was down for the entire run (see Notes above).
 
 ---
 
