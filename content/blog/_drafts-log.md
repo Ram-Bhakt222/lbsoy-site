@@ -1235,4 +1235,4 @@ Dropped from "This Week" as past: Labor Day Greek Festival, Shoreline Village co
 
 **Image handoff:** 2 lines appended to `myn.com-main/tools/blog-image-studio/inbox/pending.jsonl` — the deep-dive slug, plus `things-to-do-healthy-long-beach` (hub hero PNG still absent; `public/uploads/blog-images/` is empty). Both lines JSON-validated after a double-escape fix on `target_path`.
 
-**Publish result:** see below.
+**Publish result:** SUCCESS. Commit `0624981` — "blog: directory refresh 2026-09-20", authored `Ram Bhakt <sideoutbox@gmail.com>` (Vercel-safe identity). 4 files changed, 348 insertions(+), 38 deletions(-). Pushed to `origin/main`: `6d38ae4..0624981  main -> main`. PowerShell rendered git's normal stderr progress as a red RemoteException — not a failure; confirmed by the ref-update line and a follow-up `git status -sb` showing `## main...origin/main` with nothing ahead. Staged scope held to `content/blog/` and `public/uploads/blog-images/` only — unrelated modified files (`app/blog/[slug]/page.tsx`, `app/blog/page.tsx`) were correctly left untouched in the working tree.
