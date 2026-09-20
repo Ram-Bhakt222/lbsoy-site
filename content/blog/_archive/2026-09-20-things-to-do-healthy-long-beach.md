@@ -1,8 +1,8 @@
 ---
 title: "Healthy Things to Do in Long Beach: The Living Guide"
-description: "A regularly updated guide to healthy things to do in Long Beach — this week's events plus the best fall activities, farms, markets, parks, gyms, studios and trails."
-date: "2026-09-20"
-lastUpdated: "2026-09-20"
+description: "A regularly updated guide to healthy things to do in Long Beach — this week's events plus the best fall activities, free wellness, gyms, studios, markets and trails."
+date: "2026-09-17"
+lastUpdated: "2026-09-17"
 tag: "Long Beach Directory"
 author: "Long Beach School of Yoga"
 keywords:
@@ -13,9 +13,6 @@ keywords:
   - "long beach marathon 2026"
   - "yoga studios long beach"
   - "farmers markets long beach"
-  - "where to buy organic long beach"
-  - "long beach urban farm"
-  - "community garden long beach"
   - "parks long beach"
   - "hidden parks long beach"
   - "run clubs long beach"
@@ -31,52 +28,52 @@ This is our living guide to healthy, active things to do in Long Beach — updat
 
 ## This Week in Long Beach
 
-The Aloha Run and Coastal Cleanup Day are behind us, and the next real slate lands on one day: Saturday, September 26, when a free 9-mile history hike, a statewide open-doors architecture day, and the Aquarium's biggest cultural festival of the year all run at once. Then the calendar tips into marathon month. This update also expands the directory below past the farmers market tents — to the urban farms, CSA boxes, and 400-plus rentable garden plots inside the city limits.
+We're now inside the run-up: Coastal Cleanup Day and the Aloha Run land this weekend, a family concert night and a free history hike follow, and the Aquarium's biggest cultural festival of the year closes out the month. If two wheels are more your speed than two feet, this update also adds Long Beach's calm-street bike boulevards to the directory below — a good match for anyone eyeing the group rides mentioned there.
+
+### Coastal Cleanup Day — This Saturday, Sept 19
+
+**When:** Saturday, September 19, 2026, 9 a.m.–12 p.m.
+**Where:** 10 sites across Long Beach, including Alamitos Bay Marina, Alamitos Beach, Belmont Pier, Bluff Park, Junipero Beach, MacArthur Park, Mother's Beach, the Peninsula, Shoreline Park, and Rainbow Harbor
+**Cost:** Free; register through Heal the Bay or Ocean Conservancy
+
+The 42nd annual California Coastal Cleanup Day. The city expanded this year's footprint to 10 Long Beach sites, roughly double last year's count, each led by a city department or community partner with its own activities and giveaways. Pick the site closest to your neighborhood, bring closed-toe shoes and water — gloves and buckets are provided.
+
+### Aloha Run 5K/10K — This Sunday, Sept 20
+
+**When:** Sunday, September 20, 2026 — 10K starts 7:30 a.m., 5K starts 7:45 a.m.
+**Where:** Shoreline Aquatic Park, 200 Aquarium Way, Downtown
+**Cost:** $44–$50 depending on distance
+
+A harbor-and-bay 5K/10K with chip timing, a finisher medal, and a post-race festival with live music. A realistic four-week goal if you've just joined one of the neighborhood run clubs below. Full guide: [Long Beach's Neighborhood Run Clubs](/blog/2026-09-01-long-beach-run-walk-clubs-bixby-knolls-signal-hill).
+
+### KIDZ BOP Live — Family Concert Night, Sunday, Sept 20
+
+**When:** Sunday, September 20, 2026, doors/pre-show activities from 4 p.m.
+**Where:** Long Beach Amphitheater
+**Cost:** Paid tickets
+
+Not a workout, but a genuinely active night for families with young kids — KIDZ BOP's touring show is built around sing-and-dance-along choreography, which is more movement than most kids get at a typical evening event. Pair it with an early walk on the Shoreline Pedestrian Bikepath before the show.
 
 ### Ranchos Walk — Free Guided History Hike, Saturday, Sept 26
 
-**When:** Saturday, September 26, 2026, 8 a.m.–2 p.m. (3, 6, or 9-mile route options)
-**Where:** Rancho Los Cerritos → Willow Springs Park → Reservoir Hill → Rancho Los Alamitos
-**Cost:** Free, including the post-walk celebration; registration required
+**When:** Saturday, September 26, 2026, 8 a.m.–2 p.m. (3.5, 6, or 9.4-mile route options)
+**Where:** Starts at Rancho Los Cerritos, Reservoir Hill, or Willow Springs Park; ends at Rancho Los Alamitos
+**Cost:** Free, including the post-walk celebration
 
-Long Beach's annual crest-trail hike connects the city's two historic ranchos across its highest ground, with a downloadable guided audio tour covering the area's history along the way. Three distances means it works whether you want a serious 9-mile day or a 3-mile family walk. Register through the city's Ranchos Walk page — it fills up.
+Long Beach's annual urban hike connects the city's two historic ranchos across its highest points — Reservoir Hill, Longview Point at Willow Springs Park, and Hilltop Park in Signal Hill. Walkers and dogs welcome (service animals only at the celebration); not a running or biking route. Worth putting on the calendar now since it books up — it's also stroller- and kid-friendly on the shorter 3.5-mile route.
 
-### Baja Splash Cultural Festival — Saturday & Sunday, Sept 26–27
+### Baja Splash Cultural Festival — Sunday, Sept 27
 
-**When:** Saturday, September 26 and Sunday, September 27, 2026, 9 a.m.–5 p.m. both days
-**Where:** Aquarium of the Pacific, 100 Aquarium Way, **Downtown**
-**Cost:** Included with admission — $49.95 adult (12+), $46.95 senior (62+), $34.95 child (3–11), free for members and under-3s
+**When:** Sunday, September 27, 2026, 9 a.m.–5 p.m.
+**Where:** Aquarium of the Pacific, 100 Aquarium Way, Downtown
+**Cost:** Included with Aquarium admission
 
-The Aquarium's 25th annual Baja Splash runs both weekend days this year, not just Sunday. Live traditional music and dance, the annual Heritage Award presentation, interactive performances, and educational games with prizes — a day on your feet, not in a seat, and the Aquarium's biggest family event of the fall.
-
-### Doors Open California — Saturday, Sept 26
-
-**When:** Saturday, September 26, 2026, from 9 a.m.
-**Where:** Participating sites across Long Beach
-**Cost:** Free
-
-The statewide open-doors weekend unlocks buildings that are normally closed to the public. It's a walking day disguised as an architecture day — pick a cluster of nearby sites and cover them on foot rather than driving between them. Check the Arts Council for Long Beach calendar for this year's participating locations.
-
-### Restoration Fridays at Willow Springs Park — Weekly
-
-**When:** Fridays (check the city's Restoration Friday page for the current schedule)
-**Where:** Willow Springs Park, 2755 Orange Ave.
-**Cost:** Free
-
-The city's standing volunteer stewardship morning at its 48-acre restored wetland — native planting, weeding, and habitat work on the bio-swale loop. Real physical work outdoors, no fee, no fitness prerequisite, and the closest thing Long Beach has to a weekly nature-conservation shift.
-
-### Marathon Month Starts: Expo Oct 9–10, Races Oct 10–11
-
-**When:** Free race expo Friday, Oct 9, 1–7 p.m. and Saturday, Oct 10, 10 a.m.–4 p.m.; Aquarium of the Pacific 5K Saturday, Oct 10 at 6:50 a.m.; marathon and half marathon Sunday, Oct 11
-**Where:** Expo at Long Beach Convention Center Hall C, 400 E Seaside Way; races start Downtown; Finish Line Festival at Marina Green
-**Cost:** Expo free and open to the public; races paid
-
-The 2XU Long Beach Marathon weekend is three weeks out. Even if you're not running, the expo is free and open to everyone, and the Saturday 5K is the realistic entry point. Full guide: [Long Beach's Neighborhood Run Clubs](/blog/2026-09-01-long-beach-run-walk-clubs-bixby-knolls-signal-hill).
+The Aquarium's 25th annual Baja Splash brings live traditional dance, music, and hands-on educational booths celebrating Latino cultures from Mexico and Central/South America — a full day of movement and activity for families, not just a sit-and-watch festival. A little past the usual 7–10 day window but worth calendaring now since it's the Aquarium's biggest family event of the fall.
 
 ### Tour the Shore & WOW — Standing Saturday and Wednesday Walking Groups
 
 **When:** Tour the Shore, Saturdays 7:30 a.m.; WOW (Walk On Wednesdays), Wednesdays, gather 7:15 a.m.
-**Where:** 2nd Street & La Verne Avenue (Tour the Shore) and in front of Chase Bank on 2nd Street (WOW), both **Belmont Shore**
+**Where:** 2nd Street & La Verne Avenue (Tour the Shore) and in front of Chase Bank on 2nd Street (WOW), both Belmont Shore
 **Cost:** Free
 
 Long Beach's two most durable free walking groups. Tour the Shore is a 2–3 mile loop to a different point of interest each week; WOW is a brisk three-mile loop that rotates through twelve water-adjacent routes. All levels, plus dogs.
@@ -84,24 +81,24 @@ Long Beach's two most durable free walking groups. Tour the Shore is a 2–3 mil
 ### Yoga on the Bluff — Daily, Plus Sunset Sessions Through October
 
 **When:** Daily, 11 a.m.; seasonal 6 p.m. weekday sunset sessions run April through October
-**Where:** The grass at Ocean Blvd. and Junipero Ave., above Junipero Beach (**Alamitos Beach**)
+**Where:** The grass at Ocean Blvd. and Junipero Ave., above Junipero Beach (Alamitos Beach)
 **Cost:** Free; donations welcome, never required
 
-Long Beach's best standing free wellness ritual — an open-air, all-levels yoga class on the bluff above the Pacific, run by Yogalution Movement & Wellness seven days a week, year-round. The 6 p.m. sunset sessions have about six weeks left before they close for the season. Only cancelled for rain or wet ground.
+Long Beach's best standing free wellness ritual — an open-air, all-levels yoga class on the bluff above the Pacific, run by Yogalution Movement & Wellness seven days a week, year-round. Only cancelled for rain or wet ground. Bring a mat, towel, or just use the grass.
 
 ### Farmers Markets — Almost Daily
 
-**When:** Bixby Park Tue 3–8 p.m. & Sat 9 a.m.–2 p.m., Marine Stadium Wed 3–8 p.m., Fourth Street (Retro Row) Thu 8 a.m.–noon, Bixby Knolls Thu 3–7 p.m., Downtown Fri 10 a.m.–2 p.m., Wrigley Sat 9 a.m.–2 p.m., Alamitos Bay Sun 9 a.m.–2 p.m.
+**When:** Bixby Park Tue 3–8 p.m. & Sat 9 a.m.–2 p.m., Marine Stadium Wed 3–8 p.m., Downtown (City Place) Fri 10 a.m.–2 p.m., Alamitos Bay Marina Sun 9 a.m.–2 p.m., and more
 **Where:** Neighborhoods citywide
 **Cost:** Free to browse; several accept EBT, WIC, and CalFresh with Market Match
 
-Summer stone fruit is finished. Squash, apples, pomegranates, and persimmons are the fall board now. And if the market hours never line up with your week, this update adds the rest of the local-food map below — urban farms, CSA boxes, and garden plots.
+Late-summer stone fruit and melons are on their way out; squash, apples, pomegranates, and persimmons are on their way in. Full schedule in the markets section below.
 
 > Events shift week to week — always confirm with the organizer before you go.
 
 ## Best Fall Healthy Things to Do in Long Beach
 
-Fall is the season Long Beach is actually best in: October averages a high near 75°F with nights around 62°F, and the ocean holds around 64.8°F after a September peak near 69°F — the warmest water of the year arrives right as the air cools off. The anchor event is **2XU Long Beach Marathon weekend, October 10–11**, with the marathon Sunday, October 11 at a 5:30 a.m. start on a flat, Boston-qualifying course past the Queen Mary and through **Belmont Shore**; the expo runs Oct 9 (1–7 p.m.) and Oct 10 (10 a.m.–4 p.m.) at the Long Beach Convention Center Hall C, and the 2026 race sold out with a waitlist. Cooler air also reopens the trails — the **El Dorado Nature Center** in **East Long Beach** (Tue–Sun, 8 a.m.–5 p.m., no entry after 4:30; free to walk or bike in) is far better in October than in August, and Hilltop Park in **Signal Hill** gets its clearest Catalina views of the year. Stewardship season stacks on top: Coastal Cleanup Day is done for 2026, but Surfrider's first-Saturday cleanup at Belmont Pier and the city's weekly **Restoration Fridays** at Willow Springs Park run right through fall. The remaining festival slate is walkable — the free **Ranchos Walk Sept 26**, **Baja Splash Sept 26–27** at the Aquarium, **Oktoberfest at Steelcraft Sept 25–27**, the free **Fall Into Autumn Arts, Crafts & Food Market Fest Oct 2–4** at Shoreline Aquatic Park **Downtown**, and Trick-or-Treat on 2nd Street on Halloween. And Yoga on the Bluff's seasonal 6 p.m. sunset sessions run through October. Full guide: [Fall in Long Beach: The Best Healthy Things to Do This Season](/blog/2026-08-27-fall-healthy-things-to-do-long-beach).
+Fall is the season Long Beach is actually best in: October averages a high near 75°F with nights around 62°F, and the ocean holds around 64.8°F after a September peak near 69°F — the warmest water of the year arrives right as the air cools off. The anchor event is **2XU Long Beach Marathon weekend, October 10–11**, with the marathon Sunday, October 11 at a 5:30 a.m. start on a flat, Boston-qualifying course past the Queen Mary and through **Belmont Shore**; the expo runs Oct 9 (1–7 p.m.) and Oct 10 (10 a.m.–4 p.m.) at the Long Beach Convention Center Hall C, and the 2026 race sold out with a waitlist. Cooler air also reopens the trails — the **El Dorado Nature Center** in **East Long Beach** (Tue–Sun, 8 a.m.–5 p.m., no entry after 4:30; free to walk or bike in) is far better in October than in August, and Hilltop Park in **Signal Hill** gets its clearest Catalina views of the year. Cleanup season stacks on top: **Coastal Cleanup Day Sept 19** plus Surfrider's first-Saturday cleanup at Belmont Pier. The festival slate is walkable — **Belmont Shore Car Show Sept 13** (free), **Oktoberfest at Steelcraft Sept 25–27**, the free **Fall Into Autumn Arts, Crafts & Food Market Fest Oct 2–4** at Shoreline Aquatic Park **Downtown**, and Trick-or-Treat on 2nd Street on Halloween. And Yoga on the Bluff's seasonal 6 p.m. sunset sessions run through October. Full guide: [Fall in Long Beach: The Best Healthy Things to Do This Season](/blog/2026-08-27-fall-healthy-things-to-do-long-beach).
 
 ## Best Mental Health & Mindfulness Resources in Long Beach
 
@@ -111,13 +108,9 @@ Long Beach has a deeper mental-health and mindfulness ecosystem than most locals
 
 Long Beach has a genuinely deep yoga scene, from donation-based community classes to full hot-yoga and recovery studios. In **Downtown / East Village**, **Yoga108** (242 E 3rd St) runs daily vinyasa for every level plus HIIT and circuit classes, sound baths, low-cost community sessions, and teacher training, with the first two hours of parking free next to Harvey Milk Park. On the bluff above **Alamitos Beach**, **Yogalution Movement & Wellness** (244 Redondo Ave) is Long Beach's only donation-based studio and the home of the free daily **Yoga on the Bluff**. Out toward **Belmont Shore** and the Marina, **Ra Yoga** (3860 Worsham Ave) offers a 3,400-sq-ft space with eco-friendly radiant heat, two practice rooms, a dedicated meditation room, and childcare for most morning classes; **West Coast Sweat** (6324 E PCH), the area's original hot-yoga studio since 2002, runs about 30 Bikram, hot-fusion, and Inferno Hot Pilates classes a week; and **Purple Yoga** (6535 E PCH) centers community, longevity, and a welcoming beginner-friendly vibe. In the **North Long Beach / Bixby Knolls** corridor, **FreedOhm Wellness** (4647 Long Beach Blvd) blends yoga and meditation with Reiki and empowerment coaching. Full guide: [Best Yoga & Movement Studios in Long Beach](/blog/2026-08-03-best-yoga-movement-studios-long-beach).
 
-## Best Farmers Markets & Where to Buy Local in Long Beach
+## Best Farmers Markets in Long Beach
 
-Long Beach has a certified farmers market almost every day of the week, and fall brings squash, apples, pomegranates, and persimmons onto the tables as the summer stone fruit finishes. **Tuesdays & Saturdays**, the **Bixby Park** market (130 Cherry Ave., **Alamitos Beach**) sets up across from the ocean — Tue 3–8 p.m., Sat 9 a.m.–2 p.m. — with produce, prepared food, and local makers. **Wednesdays**, the **Marine Stadium** market (5255 Paoli Way, near **Belmont Shore**) runs 3–8 p.m. on the water with fruit, flowers, and artisan goods. **Thursdays** give you two: the chef-driven **Fourth Street Farmers Market** on **Retro Row** (4th & Cherry, 8 a.m.–noon) and the neighborly **Bixby Knolls** market (Atlantic Ave. at E. 46th, 3–7 p.m.). **Fridays**, the bike-valet-friendly **Downtown Long Beach** market runs 10 a.m.–2 p.m. near 4th & the Promenade. **Saturdays** add the **Wrigley** market behind Long Beach Beer Lab (518 W. Willow St., **Westside**, 9 a.m.–2 p.m.). **Sundays**, choose the harbor-side **Alamitos Bay** market (205 N. Marina Dr., near **Naples**, 9 a.m.–2 p.m., heavy on seafood and cheese) or the relaxed **Farmers Marketplace** at Clark & Spring in **East Long Beach** (8 a.m.–1 p.m.). Several markets accept EBT, WIC, and CalFresh with **Market Match** doubling produce dollars up to $15.
-
-A September update mapped the rest of the local-food supply chain, for the weeks when market hours don't fit. **Urban farms:** **Farm Lot 59** (2714 California Ave., **Wrigley**) is a nonprofit certified-organic farm with a farmstand, tours, workshops, and standing volunteer days — call (562) 542-8213 to confirm stand hours. **The Growing Experience** (750 Via Carmelitos, **North Long Beach**) is the seven-acre farm inside the Carmelitos housing development, with a published CSA at $20 a box ($10 for residents) and a Friday farm stand — but its own page still carries a pandemic-era suspension notice and a major listing shows it closed, so call (562) 984-2917 first. **Produce boxes: Süprmarkt** delivers organic boxes (about $30 weekly, EBT accepted) to parts of Long Beach, and a **Weiser Family Farms** box can be pre-ordered for Thursday pickup at **Alder & Sage** (366 Cherry Ave.). **Garden plots: Long Beach Organic** runs nine organic community gardens on six-month rental terms — the September-to-February cycle is opening now — led by **Zaferia Junction** (3709 E. 10th St., 90 plots) and the newest **Captain Charles Moore Urban Community Garden** (3121 Long Beach Blvd., **North Wrigley**, 30 plots plus four accessible raised beds). The **Long Beach Community Garden Association** inside **El Dorado East Regional Park** is the big one: 303 plots at roughly 600 sq ft for **$160 a year**, with monthly first-Saturday work parties. **Natural grocers:** **Lazy Acres** (2080 N. Bellflower Blvd., 6 a.m.–10 p.m. daily), **Whole Foods** (3881 Lakewood Blvd., 7 a.m.–9 p.m.), **Sprouts** (4600 E. PCH), and the independent **Olives Gourmet Grocer** (3510 E. Broadway, **Belmont Heights**).
-
-Full guides: [Best Farmers Markets in Long Beach](/blog/2026-07-24-best-farmers-markets-long-beach) and [Where to Buy Local & Organic in Long Beach Beyond the Farmers Market](/blog/2026-09-20-long-beach-local-organic-urban-farms-csa-garden-plots).
+Long Beach has a certified farmers market almost every day of the week, and mid-to-late summer is peak season for stone fruit, tomatoes, melons, and corn. **Tuesdays & Saturdays**, the **Bixby Park** market (130 Cherry Ave., **Alamitos Beach**) sets up across from the ocean — Tue 3–8 p.m., Sat 9 a.m.–2 p.m. — with produce, prepared food, and local makers. **Wednesdays**, the **Marine Stadium** market (5255 Paoli Way, near **Belmont Shore**) runs 3–8 p.m. on the water with fruit, flowers, and artisan goods. **Thursdays** give you two: the chef-driven **Fourth Street Farmers Market** on **Retro Row** (4th & Cherry, 8 a.m.–noon) and the neighborly **Bixby Knolls** market (Atlantic Ave. at E. 46th, 3–7 p.m.). **Fridays**, the bike-valet-friendly **Downtown Long Beach** market runs 10 a.m.–2 p.m. near 4th & the Promenade. **Saturdays** add the **Wrigley** market behind Long Beach Beer Lab (518 W. Willow St., **Westside**, 9 a.m.–2 p.m.). **Sundays**, choose the harbor-side **Alamitos Bay** market (205 N. Marina Dr., near **Naples**, 9 a.m.–2 p.m., heavy on seafood and cheese) or the relaxed **Farmers Marketplace** at Clark & Spring in **East Long Beach** (8 a.m.–1 p.m.). Several markets accept EBT, WIC, and CalFresh with **Market Match** doubling produce dollars up to $15. Full guide: [Best Farmers Markets in Long Beach](/blog/2026-07-24-best-farmers-markets-long-beach).
 
 ## Best Parks & Green Spaces in Long Beach
 

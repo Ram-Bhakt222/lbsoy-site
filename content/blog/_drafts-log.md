@@ -44,7 +44,7 @@ Standing weekly programming (Tour the Shore, WOW, Yoga on the Bluff, farmers mar
 
 **Image handoff:** 1 new line appended to `myn.com-main/tools/blog-image-studio/inbox/pending.jsonl` — deep-dive slug `2026-09-17-long-beach-bike-boulevards-vista-signal-hill-guide`. Hub hero (`things-to-do-healthy-long-beach-hero.png`) still does not exist in `public/uploads/blog-images/` per every prior run's note — not re-queued this run since an unresolved pending-line entry for it already exists in the inbox from 9/14.
 
-**Publish result:** see commit hash + push status appended below by the Step 6 publish step.
+**Publish result (Step 6):** PUBLISHED. Commit `6d38ae4` — "blog: directory refresh 2026-09-17 (bike boulevards + Signal Hill climb)". 4 files changed, 311 insertions(+), 10 deletions(-). Push confirmed: `cb75dfa..6d38ae4  main -> main`; follow-up `git status -sb` shows `## main...origin/main` with nothing ahead (only the pre-existing unrelated modified site files — `app/blog/[slug]/page.tsx`, `app/blog/page.tsx`, `lib/posts.ts`, `lib/seo.ts`, `next.config.mjs` — remain unstaged, not swept in). PowerShell rendered git's normal stderr progress as a red RemoteException — not a failure, confirmed by the ref-update line, per the established pattern in every prior run. Author Ram Bhakt <sideoutbox@gmail.com>. Staged only `content/blog/` + `public/uploads/blog-images/`. Published via the Windows-MCP PowerShell connector per the runbook (sandbox bash worked fine this run, but `.git` operations still route through Windows PowerShell as required).
 
 ---
 
@@ -1194,3 +1194,45 @@ Dropped from "This Week" as past: Labor Day Greek Festival, Shoreline Village co
 
 **Publish result:** see commit hash + push status appended below by the Step 6 publish step.
 **Publish result (Step 6):** PUBLISHED. Commit `419472b` — "blog: directory refresh 2026-09-08 (bodywork/recovery update)". 4 files changed, 354 insertions(+), 28 deletions(-). Push confirmed: `4709e1e..419472b  main -> main`; follow-up `git status -sb` shows `## main...origin/main` with nothing ahead. (PowerShell rendered git's normal stderr progress as a red RemoteException — not a failure, per the established pattern.) Author Ram Bhakt <sideoutbox@gmail.com>. Staged only `content/blog/` + `public/uploads/blog-images/`; unrelated modified site files (`app/blog/[slug]/page.tsx`, `app/blog/page.tsx`, `lib/posts.ts`, `lib/seo.ts`, `next.config.mjs`) left unstaged, not swept in.
+
+---
+
+## Run: 2026-09-20
+
+**Hub updated:** yes — `content/blog/things-to-do-healthy-long-beach.md` (date + lastUpdated bumped to 2026-09-20; description and keywords refreshed; "This Week in Long Beach" block fully replaced; Farmers Markets H2 renamed to "Best Farmers Markets & Where to Buy Local in Long Beach" and expanded with the new directory entries; Fall section freshened to drop the past Coastal Cleanup Day / Belmont Shore Car Show and correct Baja Splash to Sept 26–27).
+**Archive snapshot:** `content/blog/_archive/2026-09-20-things-to-do-healthy-long-beach.md` (34,674 bytes, prior 2026-09-17 state preserved).
+
+**Deep-dive slug:** `2026-09-20-long-beach-local-organic-urban-farms-csa-garden-plots`
+**Path:** `content/blog/2026-09-20-long-beach-local-organic-urban-farms-csa-garden-plots.md`
+**Title:** Where to Buy Local & Organic in Long Beach Beyond the Farmers Market
+**Word count (body, excl. frontmatter + Sources):** 1,095 — inside the 800–1,200 band.
+
+**Rotated category chosen:** #9 Farmers markets & where to buy local/organic — **Part 2 angle**.
+**Why:** Category #9 was last covered 2026-07-24, ~15 runs back and the furthest un-recent item in the rotation. Recent six runs were #15 bike paths (09-17), #10 family (09-14), #3 parks (09-11), #8 recovery/bodywork (09-08), #1 healthy restaurants (09-05), #6 water fitness (09-02) — no collision. Because the 07-24 post already covers the certified markets day-by-day, this run deliberately took the *uncovered half* of the category: urban farms, CSA/produce boxes, community garden plots, and natural grocers. Seasonally apt — LBO's September–February plot cycle is opening now and the fall produce board just turned over.
+
+**Events verified (6):**
+1. Ranchos Walk — Sat Sept 26, 8 a.m.–2 p.m., free, 3/6/9-mile options, registration required (longbeach.gov/ranchoswalk, fetched live).
+2. Baja Splash Cultural Festival — Sat–Sun **Sept 26–27**, 9 a.m.–5 p.m. both days, Aquarium admission $49.95 adult / $46.95 senior / $34.95 child, free for members. **Correction shipped:** the prior hub listed this as Sunday Sept 27 only.
+3. Doors Open California — Sat Sept 26 from 9 a.m., free (Arts Council for Long Beach calendar).
+4. Restoration Fridays, Willow Springs Park — weekly free volunteer stewardship (longbeach.gov Sustainability).
+5. 2XU Long Beach Marathon weekend — free expo Oct 9 (1–7 p.m.) + Oct 10 (10 a.m.–4 p.m.) at LB Convention Center Hall C; Aquarium of the Pacific 5K Sat Oct 10, 6:50 a.m.; marathon + half Sun Oct 11; Finish Line Festival at Marina Green (runlongbeach.com).
+6. Standing weekly: Tour the Shore (Sat 7:30 a.m.) + WOW (Wed 7:15 a.m.) in Belmont Shore; Yoga on the Bluff daily 11 a.m. + 6 p.m. sunset sessions through October.
+
+**Directory entries verified (11):** Farm Lot 59 (2714 California Ave, Wrigley — open, nonprofit, farmstand + tours + volunteer days); The Growing Experience (750 Via Carmelitos, North LB — CSA $20/$10, Fri farm stand 10 a.m.–noon at 801 Via Carmelitos, **status flagged**); Süprmarkt (~$30/wk, EBT, delivers to parts of Long Beach); Weiser Family Farms box pickup at Alder & Sage (366 Cherry Ave, Thu until 8 p.m.); Long Beach Organic (9 gardens, six-month terms); Zaferia Junction Community Garden (3709 E 10th St, 90 plots); Captain Charles Moore Urban Community Garden (3121 Long Beach Blvd, 30 plots + 4 accessible raised beds); Long Beach Community Garden Association (El Dorado East Regional Park, 303 plots, $160/yr, 20'×30', first-Saturday work parties); Lazy Acres (2080 N Bellflower Blvd, 6 a.m.–10 p.m. daily); Whole Foods (3881 Lakewood Blvd Ste A, 7 a.m.–9 p.m.); Sprouts (4600 E PCH); Olives Gourmet Grocer (3510 E Broadway, Belmont Heights).
+
+**Open-business check / honest updates:** The Growing Experience is the one conflicted listing — Yelp currently shows the site as CLOSED, the farm's own LACDA produce page still carries a pandemic-era CSA/stand suspension notice, and the last confirmed operating news is the 2022 MAYE Center five-year land-use agreement (Signal Tribune). Rather than omit or overstate, both hub and post state the conflict plainly and give the phone number (562) 984-2917 with a "call before you go" instruction. Zaferia Junction plot count taken from LBO's own site (90), not the higher third-party figure (115). Farm Lot 59 stand hours given as "have run Thu–Sun 9 a.m.–1 p.m." with a confirm-by-phone instruction, since small-farm stand hours move with the harvest.
+
+**Keywords (post):** where to buy organic long beach · long beach urban farm · csa box long beach · community garden long beach · long beach organic grocery · farm lot 59 long beach · things to do in long beach
+**Keywords added to hub:** where to buy organic long beach · long beach urban farm · community garden long beach
+
+**Links:** post → outbound `https://myyoganetwork.com/corporate-wellness-programs` (1) + internal `/yoga-therapy` (1) + internal `/blog/2026-07-24-best-farmers-markets-long-beach` (1) + `/free-consultation` (CTA). Hub → new deep-dive linked from the Farmers Markets H2 alongside the 07-24 guide.
+
+**Vocabulary check:** PASS. Zero "yoga teacher" / "yoga instructor" / "yoga class" occurrences in the new post; only "yoga therapy" / "yoga therapists" used, so no same-sentence mixing is possible. Hub's Yoga on the Bluff entry retains consumer "yoga class" phrasing in its own sentence, separate from any therapist reference.
+
+**Tie-in weight:** light, per the 2026-06-15 policy — this is a food/lifestyle post, so the MYN link sits in a single closing paragraph rather than being threaded through the body.
+
+**Sources:** farmlot59.org · visitlongbeach.com/blog/long-beach-farms · ucanr.edu (Farm Lot 59 + Growing Experience) · growingexperiencelb.lacda.org/produce · sigtrib.com (MAYE Center revival) · suprmarkt.la · theinfatuation.com (produce boxes) · longbeachorganic.org/gardens + /get-a-plot-1 · lbcg.org · lazyacres.com · wholefoodsmarket.com · sprouts.com · olivesgourmetgrocer.com · goodveg.org · longbeach.gov/ranchoswalk · aquariumofpacific.org (Baja Splash) · runlongbeach.com · artslb.org
+
+**Image handoff:** 2 lines appended to `myn.com-main/tools/blog-image-studio/inbox/pending.jsonl` — the deep-dive slug, plus `things-to-do-healthy-long-beach` (hub hero PNG still absent; `public/uploads/blog-images/` is empty). Both lines JSON-validated after a double-escape fix on `target_path`.
+
+**Publish result:** see below.
