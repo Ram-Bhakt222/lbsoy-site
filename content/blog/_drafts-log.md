@@ -1236,3 +1236,54 @@ Dropped from "This Week" as past: Labor Day Greek Festival, Shoreline Village co
 **Image handoff:** 2 lines appended to `myn.com-main/tools/blog-image-studio/inbox/pending.jsonl` — the deep-dive slug, plus `things-to-do-healthy-long-beach` (hub hero PNG still absent; `public/uploads/blog-images/` is empty). Both lines JSON-validated after a double-escape fix on `target_path`.
 
 **Publish result:** SUCCESS. Commit `0624981` — "blog: directory refresh 2026-09-20", authored `Ram Bhakt <sideoutbox@gmail.com>` (Vercel-safe identity). 4 files changed, 348 insertions(+), 38 deletions(-). Pushed to `origin/main`: `6d38ae4..0624981  main -> main`. PowerShell rendered git's normal stderr progress as a red RemoteException — not a failure; confirmed by the ref-update line and a follow-up `git status -sb` showing `## main...origin/main` with nothing ahead. Staged scope held to `content/blog/` and `public/uploads/blog-images/` only — unrelated modified files (`app/blog/[slug]/page.tsx`, `app/blog/page.tsx`) were correctly left untouched in the working tree.
+
+---
+
+## Run: 2026-09-23
+
+**Hub updated:** yes — `content/blog/things-to-do-healthy-long-beach.md` (date + lastUpdated bumped to 2026-09-23; description unchanged; keywords refreshed — dropped `yoga studios long beach`-adjacent duplicates and `long beach urban farm`/`community garden long beach` in favor of the new studio keywords; "This Week" block fully replaced; Yoga & Movement Studios H2 renamed to "Best Yoga, Pilates & Movement Studios in Long Beach" and expanded with the new Part 2 content; farmers-market intro line trimmed of the now-stale "this update adds" framing from the 09-20 run).
+**Archive snapshot:** `content/blog/_archive/2026-09-23-things-to-do-healthy-long-beach.md` (37,061 bytes, prior 2026-09-20 state preserved).
+
+**Deep-dive slug:** `2026-09-23-long-beach-yoga-pilates-barre-studios-part-2`
+**Path:** `content/blog/2026-09-23-long-beach-yoga-pilates-barre-studios-part-2.md`
+**Title:** More Long Beach Movement Studios: CorePower, Pilates & Barre (Part 2)
+**Word count (body, excl. frontmatter + Sources):** 938 — inside the 800–1,200 band.
+
+**Rotated category chosen:** #7 Best yoga & movement studios — Part 2 angle.
+**Why:** Ranking the 16-category rotation by last-used date: #7 yoga studios was last covered 2026-08-03, the most overdue of all categories (older than #4 hikes 08-04, #12 gyms 08-13, #14 sober-curious 08-15, #13 mental health 08-20, #11 free/low-cost 08-24, #16 seasonal 08-27). No collision with the last six runs (#9 farmers markets/organic 09-20, #15 bike paths 09-17, #10 family 09-14, #3 parks 09-11, #8 recovery/bodywork 09-08, #1 restaurants 09-05). Rather than re-cover the 08-03 post's beach-adjacent studios (Yoga108, Yogalution, Ra Yoga, West Coast Sweat, Purple Yoga, FreedOhm), this run deliberately took the uncovered half of "movement studios": heated national-chain yoga, reformer Pilates, and barre — equipment-based formats the first post didn't touch, in neighborhoods (Traffic Circle/Los Altos, CSULB corridor) the first post barely mentioned.
+
+**Events verified (6, "This Week" fully refreshed):**
+1. Ranchos Walk — Sat Sept 26, 8 a.m.–2 p.m., free, 3/6/9-mile options, registration required — carried forward from 09-20 hub, date not yet passed.
+2. Baja Splash Cultural Festival — Sat–Sun Sept 26–27, Aquarium of the Pacific, $49.95/$46.95/$34.95 (adult/senior/child), free members — carried forward, re-confirmed via WebSearch, unchanged.
+3. Doors Open California — Sat–Sun Sept 26–27 — **correction shipped this run**: prior hub listed this as free; live search of californiapreservation.org / artslb.org confirms a $20 flat-fee registration (children and students free) covering all participating sites, not a free event. Both hub and this note now state the corrected price and name the confirmed Long Beach sites (First Congregational Church, Bembridge House, Queen Mary).
+4. Restoration Fridays, Willow Springs Park — weekly, free — carried forward, no change.
+5. **NEW this run:** Fall Into Autumn Arts, Crafts & Food Market Fest — Fri–Sun Oct 2–4, 10 a.m.–6 p.m. daily, free, Shoreline Aquatic Park — verified via Eventbrite official listing (dates, hours, admission).
+6. 2XU Long Beach Marathon weekend (expo Oct 9–10, races Oct 10–11) — carried forward, still the anchor "marathon month" event, now ~2.5 weeks out.
+
+Investigated but NOT included: "Long Beach Urban Farm Dinner" — one search snippet claimed a "16th annual" 2026 date of Sept 27, but the only substantive source found (lbpost.com) was a 2023 article describing the *13th* annual dinner (Oct 1, 2023, $175/ticket, River Trail Ranch). No live 2026 confirmation of date, venue, or price was found, and the event is a $175 fundraiser gala rather than a "healthy things to do" directory listing in any case — omitted per the no-fabrication rule rather than guess at 2026 specifics from a stale source. Aquarium "Autumn Festival" checked and correctly excluded — confirmed via aquariumofpacific.org to be Nov 21–22, 2026, outside this run's window.
+
+**Directory entries verified (5 new movement studios, all confirmed open):**
+- CorePower Yoga — The Circle, 4640 Pacific Coast Hwy (Traffic Circle/Los Altos) — verified via official corepoweryoga.com studio page (current Aug 2026 imagery), address/amenities/pricing confirmed.
+- LiveMetta Pilates + Fitness, 6539 E Pacific Coast Hwy (Belmont Shore) — verified via official livemetta.com studio page, address/class list/20+ year tenure confirmed.
+- Club Pilates Long Beach Marina, 6236 Pacific Coast Hwy — verified via Yelp (June 2026 update) + official clubpilates.com location page, address/hours confirmed, open.
+- Club Pilates East Long Beach, 5939 E Spring St (near CSULB) — verified via official clubpilates.com location JSON payload (`"coming_soon":0`), address/hours/class list confirmed, open.
+- The Bar Method Long Beach, 3891 Lakewood Blvd Ste 500 (near CSULB) — verified via official barmethod.com location page (modified Aug 2026, copyright 2026), address/amenities/policies confirmed, open.
+
+**Watch item, not listed:** a fifth Club Pilates location at 4010 Atlantic Ave (Bixby Knolls/California Heights) surfaced in search but its Yelp listing title still read "Coming Soon" — status unconfirmed, so it was omitted entirely rather than listed as open or flagged with an assumed timeline, per the open-business verification rule.
+
+**Keywords (deep-dive):** corepower yoga long beach · pilates long beach · reformer pilates long beach · barre long beach · club pilates long beach · livemetta long beach · movement studios long beach · things to do in long beach
+**Keywords updated on hub:** added `corepower yoga long beach`, `pilates long beach`, `barre long beach`; removed `long beach urban farm` and `community garden long beach` (covered sufficiently by `where to buy organic long beach` from the 09-20 run) to hold the keyword list to a reasonable length.
+
+**Links:** deep-dive → internal `/yoga-therapy`, `/corporate-wellness`, `/free-consultation`; outbound `https://myyoganetwork.com/corporate-wellness-programs` (1); internal cross-link back to the 08-03 yoga studios post. Hub → Yoga & Movement Studios H2 re-linked to both the 08-03 and 09-23 posts as "Full guides" (dual link, consistent with prior dual-link precedent for other re-visited categories).
+
+**Neighborhoods in subheads/body:** Traffic Circle / Los Altos, Belmont Shore, CSULB corridor (×2 studios).
+
+**Vocabulary check:** PASS. Grep for `yoga (teacher|instructor|class)` on the new deep-dive returned zero hits; sentence-level scan of the full hub for `yoga therap*` + `yoga (teacher|instructor|class)` co-occurring in the same sentence returned zero matches.
+
+**Tie-in weight:** standard — one "For Long Beach Employers" closing section linking the corporate-wellness program, consistent with prior directory posts in this category.
+
+**Sources:** corepoweryoga.com (The Circle studio page + class pack pricing) · livemetta.com/studio/long-beach-ca (studio + class list) · yelp.com (Club Pilates Long Beach Marina) · clubpilates.com (Long Beach Marina + East Long Beach location pages) · barmethod.com/locations/long-beach (studio page, amenities, policies) · californiapreservation.org + artslb.org (Doors Open California 2026 pricing correction) · eventbrite.com (Fall Into Autumn Arts, Crafts & Food Market Fest official listing) · aquariumofpacific.org (Autumn Festival date check — excluded) · lbpost.com (Long Beach Urban Farm Dinner — investigated, not used, stale 2023 source)
+
+**Image handoff:** 2 lines appended to `myn.com-main/tools/blog-image-studio/inbox/pending.jsonl` — deep-dive slug `2026-09-23-long-beach-yoga-pilates-barre-studios-part-2` (new) and hub slug `things-to-do-healthy-long-beach` (re-queued; hero PNG still does not exist in `public/uploads/blog-images/`, which remains empty except `.gitkeep`, per every prior run's Step 5 note). Both lines JSON-validated via Python round-trip before append.
+
+**Publish result:** see commit hash + push status appended below by the Step 6 publish step.

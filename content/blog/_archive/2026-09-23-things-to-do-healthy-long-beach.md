@@ -1,21 +1,21 @@
 ---
 title: "Healthy Things to Do in Long Beach: The Living Guide"
 description: "A regularly updated guide to healthy things to do in Long Beach — this week's events plus the best fall activities, farms, markets, parks, gyms, studios and trails."
-date: "2026-09-23"
-lastUpdated: "2026-09-23"
+date: "2026-09-20"
+lastUpdated: "2026-09-20"
 tag: "Long Beach Directory"
 author: "Long Beach School of Yoga"
 keywords:
   - "things to do in long beach"
   - "healthy long beach"
   - "long beach wellness guide"
-  - "corepower yoga long beach"
-  - "pilates long beach"
-  - "barre long beach"
+  - "massage long beach"
   - "long beach marathon 2026"
   - "yoga studios long beach"
   - "farmers markets long beach"
   - "where to buy organic long beach"
+  - "long beach urban farm"
+  - "community garden long beach"
   - "parks long beach"
   - "hidden parks long beach"
   - "run clubs long beach"
@@ -31,7 +31,7 @@ This is our living guide to healthy, active things to do in Long Beach — updat
 
 ## This Week in Long Beach
 
-The next stretch is front-loaded into one big weekend: Saturday and Sunday, September 26–27, when a free 9-mile history hike, a $20 statewide open-doors architecture weekend, and the Aquarium's biggest cultural festival of the year all overlap. A week and a half later, a free three-day arts-and-food market takes over Shoreline Aquatic Park, and marathon month follows right behind it. This update also adds three new movement studios to the yoga & studios directory below — see that section for CorePower Yoga, reformer Pilates, and barre.
+The Aloha Run and Coastal Cleanup Day are behind us, and the next real slate lands on one day: Saturday, September 26, when a free 9-mile history hike, a statewide open-doors architecture day, and the Aquarium's biggest cultural festival of the year all run at once. Then the calendar tips into marathon month. This update also expands the directory below past the farmers market tents — to the urban farms, CSA boxes, and 400-plus rentable garden plots inside the city limits.
 
 ### Ranchos Walk — Free Guided History Hike, Saturday, Sept 26
 
@@ -49,13 +49,13 @@ Long Beach's annual crest-trail hike connects the city's two historic ranchos ac
 
 The Aquarium's 25th annual Baja Splash runs both weekend days this year, not just Sunday. Live traditional music and dance, the annual Heritage Award presentation, interactive performances, and educational games with prizes — a day on your feet, not in a seat, and the Aquarium's biggest family event of the fall.
 
-### Doors Open California — Saturday & Sunday, Sept 26–27
+### Doors Open California — Saturday, Sept 26
 
-**When:** Saturday, September 26, 9 a.m. through Sunday, September 27, 3 p.m.
-**Where:** Participating sites across Long Beach, including First Congregational Church, the Bembridge House, and the Queen Mary
-**Cost:** $20 flat-fee registration covers all sites; children and students free
+**When:** Saturday, September 26, 2026, from 9 a.m.
+**Where:** Participating sites across Long Beach
+**Cost:** Free
 
-**Correction from an earlier listing:** this statewide open-doors weekend is not free — it's a $20 flat registration fee that unlocks behind-the-scenes access to preserved architecture and landmark buildings normally closed to the public, with children and students admitted free. It's still a walking day disguised as an architecture day — pick a cluster of nearby sites and cover them on foot. Check the California Preservation Foundation's Doors Open California page for this year's confirmed Long Beach sites.
+The statewide open-doors weekend unlocks buildings that are normally closed to the public. It's a walking day disguised as an architecture day — pick a cluster of nearby sites and cover them on foot rather than driving between them. Check the Arts Council for Long Beach calendar for this year's participating locations.
 
 ### Restoration Fridays at Willow Springs Park — Weekly
 
@@ -65,21 +65,13 @@ The Aquarium's 25th annual Baja Splash runs both weekend days this year, not jus
 
 The city's standing volunteer stewardship morning at its 48-acre restored wetland — native planting, weeding, and habitat work on the bio-swale loop. Real physical work outdoors, no fee, no fitness prerequisite, and the closest thing Long Beach has to a weekly nature-conservation shift.
 
-### Fall Into Autumn Arts, Crafts & Food Market Fest — Friday–Sunday, Oct 2–4
-
-**When:** Friday, October 2 through Sunday, October 4, 2026, 10 a.m.–6 p.m. daily
-**Where:** Shoreline Aquatic Park, **Downtown**
-**Cost:** Free and open to the public
-
-A three-day outdoor marketplace of local artisans, makers, and food vendors on the Downtown waterfront — handmade crafts, boutique fashion, specialty foods, and baked goods, with no admission charge. A good low-effort walking outing between the Sept 26–27 weekend and marathon month.
-
 ### Marathon Month Starts: Expo Oct 9–10, Races Oct 10–11
 
 **When:** Free race expo Friday, Oct 9, 1–7 p.m. and Saturday, Oct 10, 10 a.m.–4 p.m.; Aquarium of the Pacific 5K Saturday, Oct 10 at 6:50 a.m.; marathon and half marathon Sunday, Oct 11
 **Where:** Expo at Long Beach Convention Center Hall C, 400 E Seaside Way; races start Downtown; Finish Line Festival at Marina Green
 **Cost:** Expo free and open to the public; races paid
 
-The 2XU Long Beach Marathon weekend is a little over two weeks out. Even if you're not running, the expo is free and open to everyone, and the Saturday 5K is the realistic entry point. Full guide: [Long Beach's Neighborhood Run Clubs](/blog/2026-09-01-long-beach-run-walk-clubs-bixby-knolls-signal-hill).
+The 2XU Long Beach Marathon weekend is three weeks out. Even if you're not running, the expo is free and open to everyone, and the Saturday 5K is the realistic entry point. Full guide: [Long Beach's Neighborhood Run Clubs](/blog/2026-09-01-long-beach-run-walk-clubs-bixby-knolls-signal-hill).
 
 ### Tour the Shore & WOW — Standing Saturday and Wednesday Walking Groups
 
@@ -103,7 +95,7 @@ Long Beach's best standing free wellness ritual — an open-air, all-levels yoga
 **Where:** Neighborhoods citywide
 **Cost:** Free to browse; several accept EBT, WIC, and CalFresh with Market Match
 
-Summer stone fruit is finished. Squash, apples, pomegranates, and persimmons are the fall board now, and the local-food map below already covers urban farms, CSA boxes, and garden plots for the days market hours don't line up with your week.
+Summer stone fruit is finished. Squash, apples, pomegranates, and persimmons are the fall board now. And if the market hours never line up with your week, this update adds the rest of the local-food map below — urban farms, CSA boxes, and garden plots.
 
 > Events shift week to week — always confirm with the organizer before you go.
 
@@ -115,11 +107,9 @@ Fall is the season Long Beach is actually best in: October averages a high near 
 
 Long Beach has a deeper mental-health and mindfulness ecosystem than most locals realize, from donation-based meditation halls to a full outpatient care network. On the meditation side, **Long Beach Meditation** (5100 E. The Toledo, Alamitos Beach) is the city's longest-running Buddhist-inspired sangha, offering donation-based sits and Mindfulness Based Stress Reduction (MBSR) classes several evenings a week at Bay Shore Community Church, an ADA-accessible, LGBTQ+-welcoming space. **InsightLA Long Beach** holds classes at the Sacred Roots Healing Center on E. Broadway. **Atlantic Meditation** (4320 Atlantic Ave.) runs guided sessions in-person or by Zoom with a low-cost intro rate, open six days a week. If you'd rather move than sit still, **Yogalution Movement & Wellness** on the bluff pairs its free daily Yoga on the Bluff with donation-based meditation offerings. For anyone in crisis or supporting someone who is, the **988 Suicide and Crisis Lifeline** (call or text 988) and the **Crisis Text Line** (text "LA" to 741741) are free and available 24/7, and the **NAMI HelpLine** (1-800-950-6264) connects callers to peer support and local referrals, including the NAMI Long Beach/Whittier chapter. This is general information, not a diagnosis or a treatment recommendation — for an ongoing condition, the right next step is a licensed provider. Full guide: [Mental Health & Mindfulness Resources in Long Beach](/blog/2026-08-20-mental-health-mindfulness-resources-long-beach).
 
-## Best Yoga, Pilates & Movement Studios in Long Beach
+## Best Yoga & Movement Studios in Long Beach
 
-Long Beach has a genuinely deep yoga scene, from donation-based community classes to full hot-yoga and recovery studios. In **Downtown / East Village**, **Yoga108** (242 E 3rd St) runs daily vinyasa for every level plus HIIT and circuit classes, sound baths, low-cost community sessions, and teacher training, with the first two hours of parking free next to Harvey Milk Park. On the bluff above **Alamitos Beach**, **Yogalution Movement & Wellness** (244 Redondo Ave) is Long Beach's only donation-based studio and the home of the free daily **Yoga on the Bluff**. Out toward **Belmont Shore** and the Marina, **Ra Yoga** (3860 Worsham Ave) offers a 3,400-sq-ft space with eco-friendly radiant heat, two practice rooms, a dedicated meditation room, and childcare for most morning classes; **West Coast Sweat** (6324 E PCH), the area's original hot-yoga studio since 2002, runs about 30 Bikram, hot-fusion, and Inferno Hot Pilates classes a week; and **Purple Yoga** (6535 E PCH) centers community, longevity, and a welcoming beginner-friendly vibe. In the **North Long Beach / Bixby Knolls** corridor, **FreedOhm Wellness** (4647 Long Beach Blvd) blends yoga and meditation with Reiki and empowerment coaching.
-
-A September update filled in the equipment-based side of the category. Near the **Traffic Circle / Los Altos**, **CorePower Yoga — The Circle** (4640 Pacific Coast Hwy) brings heated national-chain vinyasa and yoga sculpt to the inland side of the city, with a free intro week for new students. Reformer Pilates now spans the city west to east: **LiveMetta Pilates + Fitness** (6539 E PCH, **Belmont Shore**), 20-plus years in the neighborhood, layers reformer classes across four levels with mat Pilates and rebounding cardio; **Club Pilates Long Beach Marina** (6236 Pacific Coast Hwy) sits in the same cluster as Ra Yoga and West Coast Sweat; and **Club Pilates East Long Beach** (5939 E Spring St, near **CSULB**) covers the east-side campus corridor. For barre, **The Bar Method Long Beach** (3891 Lakewood Blvd, Ste 500, near CSULB) marks its brand's 25th year in 2026 with a renovated studio, free parking, and prenatal-friendly modifications. Full guides: [Best Yoga & Movement Studios in Long Beach](/blog/2026-08-03-best-yoga-movement-studios-long-beach) and [More Long Beach Movement Studios: CorePower, Pilates & Barre (Part 2)](/blog/2026-09-23-long-beach-yoga-pilates-barre-studios-part-2).
+Long Beach has a genuinely deep yoga scene, from donation-based community classes to full hot-yoga and recovery studios. In **Downtown / East Village**, **Yoga108** (242 E 3rd St) runs daily vinyasa for every level plus HIIT and circuit classes, sound baths, low-cost community sessions, and teacher training, with the first two hours of parking free next to Harvey Milk Park. On the bluff above **Alamitos Beach**, **Yogalution Movement & Wellness** (244 Redondo Ave) is Long Beach's only donation-based studio and the home of the free daily **Yoga on the Bluff**. Out toward **Belmont Shore** and the Marina, **Ra Yoga** (3860 Worsham Ave) offers a 3,400-sq-ft space with eco-friendly radiant heat, two practice rooms, a dedicated meditation room, and childcare for most morning classes; **West Coast Sweat** (6324 E PCH), the area's original hot-yoga studio since 2002, runs about 30 Bikram, hot-fusion, and Inferno Hot Pilates classes a week; and **Purple Yoga** (6535 E PCH) centers community, longevity, and a welcoming beginner-friendly vibe. In the **North Long Beach / Bixby Knolls** corridor, **FreedOhm Wellness** (4647 Long Beach Blvd) blends yoga and meditation with Reiki and empowerment coaching. Full guide: [Best Yoga & Movement Studios in Long Beach](/blog/2026-08-03-best-yoga-movement-studios-long-beach).
 
 ## Best Farmers Markets & Where to Buy Local in Long Beach
 
