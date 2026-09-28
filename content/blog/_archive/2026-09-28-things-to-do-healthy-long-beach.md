@@ -1,18 +1,17 @@
 ---
 title: "Healthy Things to Do in Long Beach: The Living Guide"
 description: "A regularly updated guide to healthy things to do in Long Beach — this week's events plus the best fall activities, farms, markets, parks, gyms, studios and trails."
-date: "2026-09-28"
-lastUpdated: "2026-09-28"
+date: "2026-09-23"
+lastUpdated: "2026-09-23"
 tag: "Long Beach Directory"
 author: "Long Beach School of Yoga"
 keywords:
   - "things to do in long beach"
   - "healthy long beach"
   - "long beach wellness guide"
-  - "long beach wetlands walk"
-  - "colorado lagoon long beach"
-  - "los cerritos wetlands tour"
+  - "corepower yoga long beach"
   - "pilates long beach"
+  - "barre long beach"
   - "long beach marathon 2026"
   - "yoga studios long beach"
   - "farmers markets long beach"
@@ -20,6 +19,7 @@ keywords:
   - "parks long beach"
   - "hidden parks long beach"
   - "run clubs long beach"
+  - "bike boulevards long beach"
   - "best gyms long beach"
   - "healthy restaurants long beach"
   - "family friendly things to do long beach"
@@ -31,55 +31,31 @@ This is our living guide to healthy, active things to do in Long Beach — updat
 
 ## This Week in Long Beach
 
-This stretch belongs to the wetlands. The first Saturday of October brings a guided nature walk and a free restoration morning at the Los Cerritos Wetlands, and a kayak tour into Steamshovel Slough follows on Sunday. A free three-day market fills Shoreline Aquatic Park the same weekend, and marathon weekend comes right after. This update also adds a new wetland and lagoon walks guide to the trails section below.
+The next stretch is front-loaded into one big weekend: Saturday and Sunday, September 26–27, when a free 9-mile history hike, a $20 statewide open-doors architecture weekend, and the Aquarium's biggest cultural festival of the year all overlap. A week and a half later, a free three-day arts-and-food market takes over Shoreline Aquatic Park, and marathon month follows right behind it. This update also adds three new movement studios to the yoga & studios directory below — see that section for CorePower Yoga, reformer Pilates, and barre.
 
-### Los Cerritos Wetlands Nature Walk at Gum Grove Park — Saturday, Oct 3
+### Ranchos Walk — Free Guided History Hike, Saturday, Sept 26
 
-**When:** Saturday, October 3, 2026, 8–10 a.m. (you must stay for the whole tour)
-**Where:** Gum Grove Park parking lot, where Avalon Drive dead-ends (Seal Beach side of the Los Cerritos Wetlands, just east of Long Beach)
-**Cost:** RSVP required through the Los Cerritos Wetlands Land Trust
+**When:** Saturday, September 26, 2026, 8 a.m.–2 p.m. (3, 6, or 9-mile route options)
+**Where:** Rancho Los Cerritos → Willow Springs Park → Reservoir Hill → Rancho Los Alamitos
+**Cost:** Free, including the post-walk celebration; registration required
 
-This is a new, limited-time tour led by an ecologist from the Southern Los Cerritos Wetlands Restoration Project. It covers the restoration's progress, then walks through Gum Grove Park's eucalyptus, where monarchs and raptors are sometimes seen, to a viewpoint over the "little hills," and finishes on the Heron Pointe cultural trail. Close-toed shoes are required, and kids under 16 must come with an adult. Bring binoculars. Full guide: [Long Beach Wetland Walks](/blog/2026-09-28-long-beach-wetland-lagoon-walks-guide).
+Long Beach's annual crest-trail hike connects the city's two historic ranchos across its highest ground, with a downloadable guided audio tour covering the area's history along the way. Three distances means it works whether you want a serious 9-mile day or a 3-mile family walk. Register through the city's Ranchos Walk page — it fills up.
 
-### Los Cerritos Wetlands Habitat Restoration — Saturday, Oct 3
+### Baja Splash Cultural Festival — Saturday & Sunday, Sept 26–27
 
-**When:** Saturday, October 3, 2026, 10:30 a.m.–12:30 p.m.
-**Where:** Los Cerritos Wetlands (offsite event; registration required)
-**Cost:** Free
+**When:** Saturday, September 26 and Sunday, September 27, 2026, 9 a.m.–5 p.m. both days
+**Where:** Aquarium of the Pacific, 100 Aquarium Way, **Downtown**
+**Cost:** Included with admission — $49.95 adult (12+), $46.95 senior (62+), $34.95 child (3–11), free for members and under-3s
 
-The Aquarium of the Pacific's monthly stewardship morning with the Los Cerritos Wetlands Authority: pulling non-native plants, collecting seeds from rare plants, and picking up trash. It's two hours of real outdoor work and fits right after the 8 a.m. nature walk. Families are welcome, and children under 14 need an adult with them.
+The Aquarium's 25th annual Baja Splash runs both weekend days this year, not just Sunday. Live traditional music and dance, the annual Heritage Award presentation, interactive performances, and educational games with prizes — a day on your feet, not in a seat, and the Aquarium's biggest family event of the fall.
 
-### Kayak Tour of the Los Cerritos Wetlands — Sunday, Oct 4
+### Doors Open California — Saturday & Sunday, Sept 26–27
 
-**When:** Sunday, October 4, 2026, 9:30 a.m. (about two hours, timed to the high tide)
-**Where:** Meet near the playground at Mother's Beach, 5733 Appian Way (**Naples**)
-**Cost:** $40 donation per kayaker; non-refundable
+**When:** Saturday, September 26, 9 a.m. through Sunday, September 27, 3 p.m.
+**Where:** Participating sites across Long Beach, including First Congregational Church, the Bembridge House, and the Queen Mary
+**Cost:** $20 flat-fee registration covers all sites; children and students free
 
-The Land Trust and LA River Expeditions paddle into Steamshovel Slough, a part of the wetlands you can only reach by kayak, with a guide explaining what you're seeing. It's physically demanding: paddlers must be 12 or older, able to swim, and able to handle a solo kayak for a few miles. These tours usually sell out.
-
-### Fall Into Autumn Arts, Crafts & Food Market Fest — Friday–Sunday, Oct 2–4
-
-**When:** Friday, October 2 through Sunday, October 4, 2026, 10 a.m.–6 p.m. daily
-**Where:** Shoreline Aquatic Park, **Downtown**
-**Cost:** Free and open to the public
-
-A three-day outdoor market of local artisans, makers, and food vendors on the Downtown waterfront. It's an easy walking outing if you're already on the water that weekend.
-
-### El Dorado Frontier Pumpkin Patch — Weekends
-
-**When:** Weekends, 11 a.m.–5 p.m.; Saturday and Sunday hours extend to 7 p.m. starting October 11
-**Where:** El Dorado Frontier inside El Dorado East Regional Park, 7550 E Spring St (**East Long Beach**; enter off Spring Street)
-**Cost:** $5 general admission; kids 13 and under free with a pumpkin fun pass; regional park parking $8 on weekends
-
-The 7th annual patch has a train ride, carousel, gold panning, and a scavenger hunt. Pair it with a lap of the park's lakes and a morning at the El Dorado Nature Center trails in the same regional park complex, and the family gets a full, active fall day.
-
-### Marathon Weekend: Expo Oct 9–10, Races Oct 10–11
-
-**When:** Free race expo Friday, Oct 9, 1–7 p.m. and Saturday, Oct 10, 10 a.m.–4 p.m.; Aquarium of the Pacific 5K Saturday, Oct 10 at 6:50 a.m.; marathon (5:30 a.m.) and half marathon (7 a.m.) Sunday, Oct 11
-**Where:** Expo at Long Beach Convention Center Hall C, 400 E Seaside Way; races start Downtown; Finish Line Festival at Marina Green
-**Cost:** Expo and Finish Line Festival free; races paid
-
-The full marathon is reported sold out, so check runlongbeach.com for half marathon and 5K spots. Watching from Ocean Blvd. or the beach path is free and easy to walk to. Full guide: [Long Beach's Neighborhood Run Clubs](/blog/2026-09-01-long-beach-run-walk-clubs-bixby-knolls-signal-hill).
+**Correction from an earlier listing:** this statewide open-doors weekend is not free — it's a $20 flat registration fee that unlocks behind-the-scenes access to preserved architecture and landmark buildings normally closed to the public, with children and students admitted free. It's still a walking day disguised as an architecture day — pick a cluster of nearby sites and cover them on foot. Check the California Preservation Foundation's Doors Open California page for this year's confirmed Long Beach sites.
 
 ### Restoration Fridays at Willow Springs Park — Weekly
 
@@ -87,7 +63,23 @@ The full marathon is reported sold out, so check runlongbeach.com for half marat
 **Where:** Willow Springs Park, 2755 Orange Ave.
 **Cost:** Free
 
-The city's standing volunteer morning at its 48-acre restored wetland: native planting, weeding, and habitat work on the bio-swale loop. It's the inland counterpart to this weekend's Los Cerritos restoration day.
+The city's standing volunteer stewardship morning at its 48-acre restored wetland — native planting, weeding, and habitat work on the bio-swale loop. Real physical work outdoors, no fee, no fitness prerequisite, and the closest thing Long Beach has to a weekly nature-conservation shift.
+
+### Fall Into Autumn Arts, Crafts & Food Market Fest — Friday–Sunday, Oct 2–4
+
+**When:** Friday, October 2 through Sunday, October 4, 2026, 10 a.m.–6 p.m. daily
+**Where:** Shoreline Aquatic Park, **Downtown**
+**Cost:** Free and open to the public
+
+A three-day outdoor marketplace of local artisans, makers, and food vendors on the Downtown waterfront — handmade crafts, boutique fashion, specialty foods, and baked goods, with no admission charge. A good low-effort walking outing between the Sept 26–27 weekend and marathon month.
+
+### Marathon Month Starts: Expo Oct 9–10, Races Oct 10–11
+
+**When:** Free race expo Friday, Oct 9, 1–7 p.m. and Saturday, Oct 10, 10 a.m.–4 p.m.; Aquarium of the Pacific 5K Saturday, Oct 10 at 6:50 a.m.; marathon and half marathon Sunday, Oct 11
+**Where:** Expo at Long Beach Convention Center Hall C, 400 E Seaside Way; races start Downtown; Finish Line Festival at Marina Green
+**Cost:** Expo free and open to the public; races paid
+
+The 2XU Long Beach Marathon weekend is a little over two weeks out. Even if you're not running, the expo is free and open to everyone, and the Saturday 5K is the realistic entry point. Full guide: [Long Beach's Neighborhood Run Clubs](/blog/2026-09-01-long-beach-run-walk-clubs-bixby-knolls-signal-hill).
 
 ### Tour the Shore & WOW — Standing Saturday and Wednesday Walking Groups
 
@@ -95,7 +87,7 @@ The city's standing volunteer morning at its 48-acre restored wetland: native pl
 **Where:** 2nd Street & La Verne Avenue (Tour the Shore) and in front of Chase Bank on 2nd Street (WOW), both **Belmont Shore**
 **Cost:** Free
 
-Long Beach's two longest-running free walking groups. Tour the Shore is a 2–3 mile loop to a different point of interest each week. WOW is a brisk three-mile loop that rotates through twelve routes near the water. All levels welcome, dogs too.
+Long Beach's two most durable free walking groups. Tour the Shore is a 2–3 mile loop to a different point of interest each week; WOW is a brisk three-mile loop that rotates through twelve water-adjacent routes. All levels, plus dogs.
 
 ### Yoga on the Bluff — Daily, Plus Sunset Sessions Through October
 
@@ -103,7 +95,7 @@ Long Beach's two longest-running free walking groups. Tour the Shore is a 2–3 
 **Where:** The grass at Ocean Blvd. and Junipero Ave., above Junipero Beach (**Alamitos Beach**)
 **Cost:** Free; donations welcome, never required
 
-An open-air, all-levels yoga class on the bluff, run by Yogalution Movement & Wellness every day of the year. The 6 p.m. sunset sessions end with October, so this is the last month to catch one. Sessions are cancelled only for rain or wet ground.
+Long Beach's best standing free wellness ritual — an open-air, all-levels yoga class on the bluff above the Pacific, run by Yogalution Movement & Wellness seven days a week, year-round. The 6 p.m. sunset sessions have about six weeks left before they close for the season. Only cancelled for rain or wet ground.
 
 ### Farmers Markets — Almost Daily
 
@@ -111,13 +103,13 @@ An open-air, all-levels yoga class on the bluff, run by Yogalution Movement & We
 **Where:** Neighborhoods citywide
 **Cost:** Free to browse; several accept EBT, WIC, and CalFresh with Market Match
 
-Squash, apples, pomegranates, and persimmons are in season now. The Wednesday Marine Stadium market is next to the Colorado Lagoon construction zone, so follow the detour signs.
+Summer stone fruit is finished. Squash, apples, pomegranates, and persimmons are the fall board now, and the local-food map below already covers urban farms, CSA boxes, and garden plots for the days market hours don't line up with your week.
 
 > Events shift week to week — always confirm with the organizer before you go.
 
 ## Best Fall Healthy Things to Do in Long Beach
 
-Fall is the season Long Beach is actually best in: October averages a high near 75°F with nights around 62°F, and the ocean holds around 64.8°F after a September peak near 69°F — the warmest water of the year arrives right as the air cools off. The anchor event is **2XU Long Beach Marathon weekend, October 10–11**, with the marathon Sunday, October 11 at a 5:30 a.m. start on a flat, Boston-qualifying course past the Queen Mary and through **Belmont Shore**; the expo runs Oct 9 (1–7 p.m.) and Oct 10 (10 a.m.–4 p.m.) at the Long Beach Convention Center Hall C, and the 2026 race sold out with a waitlist. Cooler air also reopens the trails — the **El Dorado Nature Center** in **East Long Beach** (Tue–Sun, 8 a.m.–5 p.m., no entry after 4:30; free to walk or bike in) is far better in October than in August, and Hilltop Park in **Signal Hill** gets its clearest Catalina views of the year. Stewardship season stacks on top: Coastal Cleanup Day is done for 2026, but Surfrider's first-Saturday cleanup at Belmont Pier and the city's weekly **Restoration Fridays** at Willow Springs Park run right through fall. The rest of the fall calendar is easy to do on foot: the free **Fall Into Autumn Arts, Crafts & Food Market Fest Oct 2–4** at Shoreline Aquatic Park **Downtown**, the El Dorado Frontier pumpkin patch on weekends in **East Long Beach**, guided Los Cerritos Wetlands walks on first Saturdays, and Trick-or-Treat on 2nd Street on Halloween. And Yoga on the Bluff's seasonal 6 p.m. sunset sessions run through October. Full guide: [Fall in Long Beach: The Best Healthy Things to Do This Season](/blog/2026-08-27-fall-healthy-things-to-do-long-beach).
+Fall is the season Long Beach is actually best in: October averages a high near 75°F with nights around 62°F, and the ocean holds around 64.8°F after a September peak near 69°F — the warmest water of the year arrives right as the air cools off. The anchor event is **2XU Long Beach Marathon weekend, October 10–11**, with the marathon Sunday, October 11 at a 5:30 a.m. start on a flat, Boston-qualifying course past the Queen Mary and through **Belmont Shore**; the expo runs Oct 9 (1–7 p.m.) and Oct 10 (10 a.m.–4 p.m.) at the Long Beach Convention Center Hall C, and the 2026 race sold out with a waitlist. Cooler air also reopens the trails — the **El Dorado Nature Center** in **East Long Beach** (Tue–Sun, 8 a.m.–5 p.m., no entry after 4:30; free to walk or bike in) is far better in October than in August, and Hilltop Park in **Signal Hill** gets its clearest Catalina views of the year. Stewardship season stacks on top: Coastal Cleanup Day is done for 2026, but Surfrider's first-Saturday cleanup at Belmont Pier and the city's weekly **Restoration Fridays** at Willow Springs Park run right through fall. The remaining festival slate is walkable — the free **Ranchos Walk Sept 26**, **Baja Splash Sept 26–27** at the Aquarium, **Oktoberfest at Steelcraft Sept 25–27**, the free **Fall Into Autumn Arts, Crafts & Food Market Fest Oct 2–4** at Shoreline Aquatic Park **Downtown**, and Trick-or-Treat on 2nd Street on Halloween. And Yoga on the Bluff's seasonal 6 p.m. sunset sessions run through October. Full guide: [Fall in Long Beach: The Best Healthy Things to Do This Season](/blog/2026-08-27-fall-healthy-things-to-do-long-beach).
 
 ## Best Mental Health & Mindfulness Resources in Long Beach
 
@@ -177,13 +169,11 @@ One honest update: **Deep Blue Scuba & Swim Center**, the longtime Belmont Shore
 
 ## Best Free & Outdoor Wellness in Long Beach
 
-You don't need a membership to live well here. The daily free Yoga on the Bluff, the bluff-top paths above Alamitos Beach, and the open lawns of Bluff Park are a no-cost gym — and the city's nine free outdoor **Fitness Zones** add actual weight-bearing equipment to that, from the pull-up and dip stations on the 4.8-mile Downtown Fitness Loop to the ADA-accessible sets at Lincoln Park and Orizaba Park. Free group running belongs on this list too: the **Bixby Knolls Dawn Joggers** (weekday mornings, Atlantic & Carson), **Shoreline Frontrunners** (three times a week off the Alamitos Beach bluff), and Signal Hill's Home Depot-lot meetups cost nothing and welcome walkers as readily as runners. Add the free 988 crisis line and donation-based meditation sits, and Long Beach's baseline for a healthy week costs close to nothing. The city's calm-street bike boulevards belong on this list too — Daisy/Myrtle, Vista Street, and the free Signal Hill climb cost nothing beyond owning or renting a bike, and Bike Long Beach's group rides are open to anyone who shows up. With Labor Day and Shoreline Village's summer concert series behind us, the free calendar now runs on standing weekly programming — the Saturday Tour the Shore and Wednesday WOW walking groups in Belmont Shore, Surfrider's first-Saturday cleanup at Belmont Pier, and Yoga on the Bluff twice daily through October — plus the free monthly Los Cerritos Wetlands restoration mornings with the Aquarium of the Pacific (next: Oct 3). None of them cost anything.
+You don't need a membership to live well here. The daily free Yoga on the Bluff, the bluff-top paths above Alamitos Beach, and the open lawns of Bluff Park are a no-cost gym — and the city's nine free outdoor **Fitness Zones** add actual weight-bearing equipment to that, from the pull-up and dip stations on the 4.8-mile Downtown Fitness Loop to the ADA-accessible sets at Lincoln Park and Orizaba Park. Free group running belongs on this list too: the **Bixby Knolls Dawn Joggers** (weekday mornings, Atlantic & Carson), **Shoreline Frontrunners** (three times a week off the Alamitos Beach bluff), and Signal Hill's Home Depot-lot meetups cost nothing and welcome walkers as readily as runners. Add the free 988 crisis line and donation-based meditation sits, and Long Beach's baseline for a healthy week costs close to nothing. The city's calm-street bike boulevards belong on this list too — Daisy/Myrtle, Vista Street, and the free Signal Hill climb cost nothing beyond owning or renting a bike, and Bike Long Beach's group rides are open to anyone who shows up. With Labor Day and Shoreline Village's summer concert series behind us, the free calendar now runs on standing weekly programming — the Saturday Tour the Shore and Wednesday WOW walking groups in Belmont Shore, Surfrider's first-Saturday cleanup at Belmont Pier, and Yoga on the Bluff twice daily through October — plus the free Ranchos Walk history hike on Sept 26, none of which cost anything.
 
 ## Best Hikes, Bluff & Beach Walking Paths in Long Beach
 
 Long Beach looks flat, but the city hides more dirt, elevation, and wetland than most locals ever walk. For real trail, the **El Dorado Nature Center** in **East Long Beach** is a 105-acre wildlife sanctuary with 2+ miles of trails — a ¼-mile paved loop plus two one-mile dirt routes — open Tue–Sun 8 a.m.–5 p.m. (no entry after 4:30); admission is free and only cars pay ($6–9, cashless). For elevation, the **Signal Hill Trail** at **Hilltop Park** climbs about 1.6 miles and 206 feet to 360-degree views of the port, the THUMS islands, downtown LA, and Catalina on a clear day (free, 5 a.m.–10 p.m.), with the quieter **Panorama Promenade** adding a third of a mile of north-facing views and the Unity Monument. For flat mileage, the **Shoreline Pedestrian Bikepath** runs 4.3–4.5 car-free miles from Shoreline Village to **Belmont Shore**, and the **Naples Canals Loop** in **Naples Island** is a gentle ~2.5-mile waterfront circuit (the full island loop runs ~4.5 miles). The **Bluff Park** loop above **Alamitos Beach** is the city's sunset standard — a mile-plus along the bluff with stairways down to the beach path. And two restored wetlands hide in plain sight: **Willow Springs Park** (48.2 acres, bio-swale loop, panoramic Longview Point) and **DeForest Park** in **North Long Beach** (riparian nature trail along the LA River levee). Full guide: [Best Hikes, Bluff & Beach Walking Paths in Long Beach](/blog/2026-08-04-best-hikes-bluff-beach-walking-paths-long-beach).
-
-For quieter water, Long Beach's restored wetlands make the calmest walking in the city, and fall migration is the best time to go. **Colorado Lagoon** (5119 E Colorado St) is an 18-acre tidal lagoon with a roughly 1.1-mile loop, a boardwalk, and a north-shore granite trail. The city's Open Channel construction is still going on around it, so expect detours and a stretch on neighborhood sidewalks. At the end of Boathouse Lane by **Marine Stadium**, the free **Jack Dunster Marine Biological Reserve** has a 0.4-mile path and floating observation platforms over a restored tidal marsh. **Sims' Pond** in **Alamitos Heights** can only be viewed from the sidewalk at Loynes & PCH, but it's a reliable stop for ducks and egrets. In **North Long Beach**, the **Dominguez Gap Wetlands** (286 W Del Amo Blvd; park at David Molina Park) circle a 37-acre restored basin beside the LA River on a roughly 2-mile loop. The gated **Los Cerritos Wetlands** are best seen with a guide: the Land Trust's first-Saturday 8 a.m. nature walks, its $40-donation kayak tours into Steamshovel Slough from Mother's Beach in **Naples**, or the Aquarium of the Pacific's free monthly restoration mornings. Full guide: [Long Beach Wetland Walks: Colorado Lagoon, Los Cerritos & the Hidden Reserves](/blog/2026-09-28-long-beach-wetland-lagoon-walks-guide).
 
 ## Best Juice Bars, Smoothies & Açaí Bowls in Long Beach
 
@@ -191,7 +181,7 @@ Belmont Shore and Bluff Heights are well covered — **Salud Juice** (4918 E 2nd
 
 ## Best Run & Walk Clubs & Group Fitness in Long Beach
 
-Belmont Shore's **Long Beach Run Club** (Coronado Ave & Ocean Blvd, Saturday mornings, ~5 miles), **Run Club Girls** (9 a.m. weekly, two pace options), and free **Lululemon run clubs** near the beach path are still the highest-visibility groups. But some of the city's most durable running communities formed neighborhood by neighborhood: the **Bixby Knolls Dawn Joggers** meet every weekday at 5:15 a.m. in front of Jamba Juice at Atlantic & Carson (runs Mon/Wed/Fri, walks Tue/Thu) — a group that started in 2016 after a string of prowler incidents and has grown into the neighborhood's largest fitness community. In **Signal Hill**, a Monday 6:30 p.m. group meets at the Home Depot lot on Cherry Ave., plus a Wednesday 6 a.m. session at Chittick Field. And **Shoreline Frontrunners of Long Beach**, part of the international LGBTQ+-inclusive Frontrunners network, runs three times a week from the bluff at Redondo & Ocean, all paces welcome. Upcoming: 2XU Long Beach Marathon weekend (Aquarium 5K Oct 10; marathon and half Oct 11; full marathon reported sold out). Full guide: [Long Beach's Neighborhood Run Clubs: Bixby Knolls, Signal Hill & the Inclusive Crews You Haven't Tried](/blog/2026-09-01-long-beach-run-walk-clubs-bixby-knolls-signal-hill) (original overview: [Best Run & Walk Clubs & Group Fitness in Long Beach](/blog/2026-06-18-best-run-walk-clubs-long-beach)).
+Belmont Shore's **Long Beach Run Club** (Coronado Ave & Ocean Blvd, Saturday mornings, ~5 miles), **Run Club Girls** (9 a.m. weekly, two pace options), and free **Lululemon run clubs** near the beach path are still the highest-visibility groups. But some of the city's most durable running communities formed neighborhood by neighborhood: the **Bixby Knolls Dawn Joggers** meet every weekday at 5:15 a.m. in front of Jamba Juice at Atlantic & Carson (runs Mon/Wed/Fri, walks Tue/Thu) — a group that started in 2016 after a string of prowler incidents and has grown into the neighborhood's largest fitness community. In **Signal Hill**, a Monday 6:30 p.m. group meets at the Home Depot lot on Cherry Ave., plus a Wednesday 6 a.m. session at Chittick Field. And **Shoreline Frontrunners of Long Beach**, part of the international LGBTQ+-inclusive Frontrunners network, runs three times a week from the bluff at Redondo & Ocean, all paces welcome. Upcoming: Aloha Run (Sept 20, Shoreline Aquatic Park), 2XU Long Beach Marathon (Oct 10–11). Full guide: [Long Beach's Neighborhood Run Clubs: Bixby Knolls, Signal Hill & the Inclusive Crews You Haven't Tried](/blog/2026-09-01-long-beach-run-walk-clubs-bixby-knolls-signal-hill) (original overview: [Best Run & Walk Clubs & Group Fitness in Long Beach](/blog/2026-06-18-best-run-walk-clubs-long-beach)).
 
 ## Best Cold Plunge, Sauna, Recovery & Bodywork in Long Beach
 

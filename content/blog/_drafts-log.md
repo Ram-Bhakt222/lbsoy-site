@@ -1287,3 +1287,44 @@ Investigated but NOT included: "Long Beach Urban Farm Dinner" — one search sni
 **Image handoff:** 2 lines appended to `myn.com-main/tools/blog-image-studio/inbox/pending.jsonl` — deep-dive slug `2026-09-23-long-beach-yoga-pilates-barre-studios-part-2` (new) and hub slug `things-to-do-healthy-long-beach` (re-queued; hero PNG still does not exist in `public/uploads/blog-images/`, which remains empty except `.gitkeep`, per every prior run's Step 5 note). Both lines JSON-validated via Python round-trip before append.
 
 **Publish result:** see commit hash + push status appended below by the Step 6 publish step.
+**Publish result (Step 6):** PUBLISHED. Commit `3585def` — "blog: directory refresh 2026-09-23". 4 files changed, 334 insertions(+), 15 deletions(-). Push confirmed: `f35a2bf..3585def  main -> main`; follow-up `git status -sb` shows `## main...origin/main` with nothing ahead. (PowerShell rendered git's normal stderr progress as a red RemoteException — not a failure, confirmed by the ref-update line, per the established pattern.) Author Ram Bhakt <sideoutbox@gmail.com>. Staged only `content/blog/` + `public/uploads/blog-images/`; unrelated modified site files (`app/blog/[slug]/page.tsx`, `app/blog/page.tsx`, `lib/posts.ts`, `lib/seo.ts`, `next.config.mjs`) left unstaged, not swept in.
+
+---
+
+## Run: 2026-09-28
+
+**Hub updated:** yes — `content/blog/things-to-do-healthy-long-beach.md` (date + lastUpdated → 2026-09-28; keywords: +`long beach wetlands walk`, +`colorado lagoon long beach`, +`los cerritos wetlands tour`, −`corepower yoga long beach`, −`barre long beach`, −`bike boulevards long beach`; "This Week" fully replaced; Hikes H2 gained a wetland/lagoon paragraph linking the new deep-dive; stale-fact freshen on 3 older sections — Fall H2 festival slate, Free & Outdoor Wellness, Run Clubs "Upcoming" line — all removed passed Sept 20–27 events).
+**Archive snapshot:** `content/blog/_archive/2026-09-28-things-to-do-healthy-long-beach.md` (39,148 bytes, prior 09-23 state).
+
+**Deep-dive slug:** `2026-09-28-long-beach-wetland-lagoon-walks-guide`
+**Path:** `content/blog/2026-09-28-long-beach-wetland-lagoon-walks-guide.md`
+**Title:** Long Beach Wetland Walks: Colorado Lagoon, Los Cerritos & the Hidden Reserves
+**Word count (body, excl. frontmatter + Sources):** 1,075.
+
+**Rotated category:** #4 Best hikes, bluff & beach walking paths — Part 2 (wetlands/lagoons angle).
+**Why:** #4 (last 08-04) was the most overdue category after #7 was taken on 09-23; next oldest are #12 gyms (08-13) and #14 sober-curious (08-15). No collision with the last six runs (#7 09-23, #9 09-20, #15 09-17, #10 09-14, #3 09-11, #8 09-08). Deliberately avoided the 08-04 post's routes (El Dorado, Signal Hill, Bluff Park, beach path, Naples, Willow Springs/DeForest) and took the uncovered wetland/lagoon set; timed to fall migration and to the Oct 3–4 Los Cerritos walk/restoration/kayak slate.
+
+**Events verified (10 listed; 3 new):**
+1. NEW — LCWLT Gum Grove Park nature walk, Sat Oct 3, 8–10 a.m., RSVP (lcwlandtrust.org post dated 2026-09-20). Cost not stated on source → listed as "RSVP required", no price invented. Note: meeting point is on the Seal Beach side of the wetlands complex; stated plainly.
+2. NEW — Aquarium of the Pacific LCW habitat restoration, Sat Oct 3, 10:30 a.m.–12:30 p.m., free, registration (aquariumofpacific.org).
+3. NEW — LCWLT kayak tour, Sun Oct 4, 9:30 a.m., Mother's Beach 5733 Appian Way, $40 donation, 12+ (Eventbrite listing).
+4. NEW — El Dorado Frontier pumpkin patch weekends, $5 / kids ≤13 free w/ pass, $8 parking (longbeachstuff.com Oct 2026 guide).
+5. Carried — Fall Into Autumn market Oct 2–4 (Eventbrite, verified 09-23).
+6. Carried/updated — Marathon weekend Oct 9–11; added marathon 5:30 a.m./half 7 a.m. starts and "full marathon reported sold out" (longbeachstuff.com).
+7–10. Standing: Restoration Fridays, Tour the Shore/WOW, Yoga on the Bluff (sunset sessions' final month), farmers markets.
+Removed (passed): Ranchos Walk, Baja Splash, Doors Open California (Sept 26–27).
+Considered/excluded: Japanese Classic Car Show (Oct 3, Marina Green) — not a healthy/active listing; Dark Harbor — not in scope.
+
+**Directory entries verified (6):** Colorado Lagoon (city PW project page + AllTrails; Open Channel construction/detours flagged honestly); Jack Dunster Marine Biological Reserve (city parks page — 2.7 ac, floating platforms; AllTrails 0.4 mi); Marine Stadium (Wikipedia, 1932 Olympic rowing venue); Sims' Pond Biological Reserve (closed to public, sidewalk viewing only — stated explicitly); Los Cerritos Wetlands tours (LCWLT + Aquarium); Dominguez Gap Wetlands (LA County PW — 37 ac, 2008; ~2 mi loop per LA Explorer/Wilderness Portal; access via David Molina Park). All public lands/programs — no private businesses this run, so no Yelp open/closed risk.
+
+**Keywords (deep-dive):** long beach wetlands walk · colorado lagoon long beach · los cerritos wetlands tour · dominguez gap wetlands · jack dunster marine reserve · birdwatching long beach · walking trails long beach · things to do in long beach
+
+**Links:** deep-dive → `/yoga-therapy` (1), `https://myyoganetwork.com/corporate-wellness-programs` (1), `/blog/2026-08-04-best-hikes-bluff-beach-walking-paths-long-beach`, `/blog/2026-09-11-long-beach-hidden-parks-rainbow-lagoon-macarthur-houghton`, `/free-consultation` (CTA). Hub → deep-dive linked from Hikes H2 (dual "Full guide" with 08-04) and from the Oct 3 event entry.
+
+**Vocabulary check:** PASS — zero `yoga (teacher|instructor|class)` in deep-dive; sentence-level co-occurrence scan of hub returned zero mixes.
+
+**Tie-in weight:** light — one closing paragraph (yoga therapy for walkers + MYN corporate link).
+
+**Sources:** lcwlandtrust.org (walks category + 2026-09-20 post) · eventbrite.com (LCW kayak tour) · aquariumofpacific.org (LCW habitat restoration) · longbeach.gov/pw/projects/colorado-lagoon-project · lbpost.com (Colorado Lagoon delays) · alltrails.com (Colorado Lagoon loop, Jack Dunster) · longbeach.gov (Jack Dunster reserve) · en.wikipedia.org (Marine Stadium) · alamitosheightsblog.com + gonebirdwatching.com (Sims' Pond) · pw.lacounty.gov (Dominguez Gap) · la-explorer.com (Dominguez Gap access) · longbeachstuff.com (October 2026 guide — marathon, pumpkin patch)
+
+**Image handoff:** 2 JSON-validated lines appended to `myn.com-main/tools/blog-image-studio/inbox/pending.jsonl` — deep-dive slug + hub slug (hub hero still absent; `public/uploads/blog-images/` contains only `.gitkeep`).
