@@ -1,16 +1,14 @@
 ---
 title: "Healthy Things to Do in Long Beach: The Living Guide"
-description: "A regularly updated guide to healthy things to do in Long Beach — this week's events plus the best fall activities, farms, markets, parks, climbing and boxing gyms, studios and trails."
-date: "2026-09-29"
-lastUpdated: "2026-09-29"
+description: "A regularly updated guide to healthy things to do in Long Beach — this week's events plus the best fall activities, farms, markets, parks, gyms, studios and trails."
+date: "2026-09-28"
+lastUpdated: "2026-09-28"
 tag: "Long Beach Directory"
 author: "Long Beach School of Yoga"
 keywords:
   - "things to do in long beach"
   - "healthy long beach"
   - "long beach wellness guide"
-  - "climbing gym long beach"
-  - "boxing gym long beach"
   - "long beach wetlands walk"
   - "colorado lagoon long beach"
   - "los cerritos wetlands tour"
@@ -33,7 +31,7 @@ This is our living guide to healthy, active things to do in Long Beach — updat
 
 ## This Week in Long Beach
 
-This stretch belongs to the wetlands. The first Saturday of October brings a guided nature walk and a free restoration morning at the Los Cerritos Wetlands, and a kayak tour into Steamshovel Slough follows on Sunday. A free three-day market fills Shoreline Aquatic Park the same weekend, and marathon weekend comes right after. This update adds a new guide to Long Beach's climbing and boxing gyms to the strength section below — the events below are all still ahead.
+This stretch belongs to the wetlands. The first Saturday of October brings a guided nature walk and a free restoration morning at the Los Cerritos Wetlands, and a kayak tour into Steamshovel Slough follows on Sunday. A free three-day market fills Shoreline Aquatic Park the same weekend, and marathon weekend comes right after. This update also adds a new wetland and lagoon walks guide to the trails section below.
 
 ### Los Cerritos Wetlands Nature Walk at Gum Grove Park — Saturday, Oct 3
 
@@ -203,9 +201,7 @@ Recovery isn't only heat and cold — hands-on bodywork is the other half of the
 
 ## Best Gyms & Strength Training in Long Beach
 
-Long Beach reads as a cardio town, but the strength scene is deeper than the beach path suggests — and it spans about $0 to $200 a month. For **coached boutique training** on the east side: **ICONIX Fitness** (4101 E Olympic Plaza) runs 130-plus classes a week across strength, cardio, and group formats on top of a full equipment floor, and **ONIX Fitness** (5010 2nd St, **Belmont Shore**) is the smaller, circuit-and-personal-training option with certified coaches — the right first stop if you've never touched a barbell. For **big-box value**: **Club Studio** (6310A E PCH, Marina Pacifica) pairs a full cardio-and-strength floor with boutique studios under one membership, and **EōS Fitness** has two locations — 75 Aquarium Way on the **Downtown** waterfront and 5810 Downey Ave in **North Long Beach**. For **serious lifting**, **Iron Addicts Gym** (2224A Cerritos Ave, **Signal Hill**, 5 a.m.–10 p.m. daily) is the heavy free-weight destination in greater Long Beach — go coached somewhere else first. For **functional and competitive strength**: **CrossFit Modern** (1180 N Studebaker Rd, Ste C, **East Long Beach**), **CrossFit Reality** (Signal Hill, with HYROX-specific training), and **Molivate Gym** (5401 E Village Rd, near El Dorado Park) for CrossFit and powerlifting. And free, every day: the city's nine outdoor **Fitness Zones**, including the 4.8-mile Downtown Fitness Loop, the six-station Bixby Fitness Loop at Junipero & Ocean, the half-mile Houghton Park loop with bilingual signs and QR demo videos, and ADA-accessible equipment at Lincoln Park, 14th Street Park, Orizaba Park, and Cesar E. Chavez Park.
-
-Beyond the barbell, climbing and boxing are Long Beach's other strength scene. **Long Beach Rising** (205 E Anaheim St, **Downtown**) is a 17,000-square-foot bouldering gym in a 1926 landmark building, with daily intro classes, weights, yoga, and saunas. **Hangar 18** (2599 E Willow St, **Signal Hill**) adds top-rope and auto-belay walls, and **Sender One** (4949 Lakewood Blvd, just over the line in Lakewood near the airport) is the biggest at 29,000 square feet, with a kids' climbing zone and 6 a.m. weekday openings. For striking, **Hard Worx Fitness** (1936 E 4th St, **Retro Row**) runs boxing, kickboxing, Muay Thai, and BJJ classes plus an open gym floor, and **Hill Street Boxing Gym** (1201 E Hill St, **Signal Hill**) holds evening Open Boxing sessions. Rent climbing gear, or play on the five free indoor pickleball courts, at **Sports Basement** (2100 N Bellflower Blvd, **Los Altos**). Full guides: [Best Gyms & Strength Training in Long Beach](/blog/2026-08-13-best-gyms-strength-training-long-beach) and [Climbing & Boxing Gyms in Long Beach](/blog/2026-09-29-long-beach-climbing-boxing-gyms-guide).
+Long Beach reads as a cardio town, but the strength scene is deeper than the beach path suggests — and it spans about $0 to $200 a month. For **coached boutique training** on the east side: **ICONIX Fitness** (4101 E Olympic Plaza) runs 130-plus classes a week across strength, cardio, and group formats on top of a full equipment floor, and **ONIX Fitness** (5010 2nd St, **Belmont Shore**) is the smaller, circuit-and-personal-training option with certified coaches — the right first stop if you've never touched a barbell. For **big-box value**: **Club Studio** (6310A E PCH, Marina Pacifica) pairs a full cardio-and-strength floor with boutique studios under one membership, and **EōS Fitness** has two locations — 75 Aquarium Way on the **Downtown** waterfront and 5810 Downey Ave in **North Long Beach**. For **serious lifting**, **Iron Addicts Gym** (2224A Cerritos Ave, **Signal Hill**, 5 a.m.–10 p.m. daily) is the heavy free-weight destination in greater Long Beach — go coached somewhere else first. For **functional and competitive strength**: **CrossFit Modern** (1180 N Studebaker Rd, Ste C, **East Long Beach**), **CrossFit Reality** (Signal Hill, with HYROX-specific training), and **Molivate Gym** (5401 E Village Rd, near El Dorado Park) for CrossFit and powerlifting. And free, every day: the city's nine outdoor **Fitness Zones**, including the 4.8-mile Downtown Fitness Loop, the six-station Bixby Fitness Loop at Junipero & Ocean, the half-mile Houghton Park loop with bilingual signs and QR demo videos, and ADA-accessible equipment at Lincoln Park, 14th Street Park, Orizaba Park, and Cesar E. Chavez Park. Full guide: [Best Gyms & Strength Training in Long Beach](/blog/2026-08-13-best-gyms-strength-training-long-beach).
 
 ## Best Mocktails & Sober-Curious Nightlife in Long Beach
 
