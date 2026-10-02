@@ -1,8 +1,8 @@
 ---
 title: "Healthy Things to Do in Long Beach: The Living Guide"
 description: "A regularly updated guide to healthy things to do in Long Beach — this week's events plus the best fall activities, farms, markets, parks, climbing and boxing gyms, studios and trails."
-date: "2026-10-02"
-lastUpdated: "2026-10-02"
+date: "2026-09-29"
+lastUpdated: "2026-09-29"
 tag: "Long Beach Directory"
 author: "Long Beach School of Yoga"
 keywords:
@@ -32,7 +32,8 @@ coverImage: "/uploads/blog-images/things-to-do-healthy-long-beach-hero.png"
 This is our living guide to healthy, active things to do in Long Beach — updated every few days. The top of the page covers what's happening this week; below it, an expanding directory of the best places and habits for a healthier life across Long Beach's neighborhoods. Bookmark it and check back.
 
 ## This Week in Long Beach
-Wetlands first, then the marathon. This weekend brings a guided nature walk, a free restoration morning and a kayak tour at the Los Cerritos Wetlands, a free three-day market at Shoreline Aquatic Park, and then the 2XU Long Beach Marathon on Oct. 10-11 (all distances sold out; 5K Saturday 6:50 a.m., half marathon Sunday 6:30 a.m., marathon Sunday 5:30 a.m.). Full guide: [Long Beach Marathon Weekend 2026: Where to Move, Watch & Recover](/blog/2026-10-02-long-beach-marathon-weekend-wellness-guide).
+
+This stretch belongs to the wetlands. The first Saturday of October brings a guided nature walk and a free restoration morning at the Los Cerritos Wetlands, and a kayak tour into Steamshovel Slough follows on Sunday. A free three-day market fills Shoreline Aquatic Park the same weekend, and marathon weekend comes right after. This update adds a new guide to Long Beach's climbing and boxing gyms to the strength section below — the events below are all still ahead.
 
 ### Los Cerritos Wetlands Nature Walk at Gum Grove Park — Saturday, Oct 3
 
