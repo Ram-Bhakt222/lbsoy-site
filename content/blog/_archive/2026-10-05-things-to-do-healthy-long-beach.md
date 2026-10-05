@@ -1,17 +1,16 @@
 ---
 title: "Healthy Things to Do in Long Beach: The Living Guide"
-description: "A regularly updated guide to healthy things to do in Long Beach — marathon weekend, the best fall activities, alcohol-free hangouts, markets, parks, gyms, studios and trails."
-date: "2026-10-05"
-lastUpdated: "2026-10-05"
+description: "A regularly updated guide to healthy things to do in Long Beach — this week's events plus the best fall activities, farms, markets, parks, climbing and boxing gyms, studios and trails."
+date: "2026-10-02"
+lastUpdated: "2026-10-02"
 tag: "Long Beach Directory"
 author: "Long Beach School of Yoga"
 keywords:
   - "things to do in long beach"
   - "healthy long beach"
   - "long beach wellness guide"
-  - "alcohol free things to do long beach"
-  - "tea rooms long beach"
   - "climbing gym long beach"
+  - "boxing gym long beach"
   - "long beach wetlands walk"
   - "colorado lagoon long beach"
   - "los cerritos wetlands tour"
@@ -33,7 +32,39 @@ coverImage: "/uploads/blog-images/things-to-do-healthy-long-beach-hero.png"
 This is our living guide to healthy, active things to do in Long Beach — updated every few days. The top of the page covers what's happening this week; below it, an expanding directory of the best places and habits for a healthier life across Long Beach's neighborhoods. Bookmark it and check back.
 
 ## This Week in Long Beach
-Marathon week. The 2XU Long Beach Marathon weekend runs Oct. 9-11 (expo Friday and Saturday, 5K Saturday at 6:50 a.m., marathon Sunday at 5:30 a.m. and half marathon at 7 a.m.; the full marathon is reported sold out), the El Dorado pumpkin patch is open weekends, and a free sober social on Oct. 17 is next on the calendar. Full guide: [Long Beach Marathon Weekend 2026: Where to Move, Watch & Recover](/blog/2026-10-02-long-beach-marathon-weekend-wellness-guide). Looking for a night out without a bar? See [Alcohol-Free Hangouts in Long Beach](/blog/2026-10-05-long-beach-alcohol-free-hangouts-tea-rooms-coffee-matcha).
+Wetlands first, then the marathon. This weekend brings a guided nature walk, a free restoration morning and a kayak tour at the Los Cerritos Wetlands, a free three-day market at Shoreline Aquatic Park, and then the 2XU Long Beach Marathon on Oct. 10-11 (all distances sold out; 5K Saturday 6:50 a.m., half marathon Sunday 6:30 a.m., marathon Sunday 5:30 a.m.). Full guide: [Long Beach Marathon Weekend 2026: Where to Move, Watch & Recover](/blog/2026-10-02-long-beach-marathon-weekend-wellness-guide).
+
+### Los Cerritos Wetlands Nature Walk at Gum Grove Park — Saturday, Oct 3
+
+**When:** Saturday, October 3, 2026, 8–10 a.m. (you must stay for the whole tour)
+**Where:** Gum Grove Park parking lot, where Avalon Drive dead-ends (Seal Beach side of the Los Cerritos Wetlands, just east of Long Beach)
+**Cost:** RSVP required through the Los Cerritos Wetlands Land Trust
+
+This is a new, limited-time tour led by an ecologist from the Southern Los Cerritos Wetlands Restoration Project. It covers the restoration's progress, then walks through Gum Grove Park's eucalyptus, where monarchs and raptors are sometimes seen, to a viewpoint over the "little hills," and finishes on the Heron Pointe cultural trail. Close-toed shoes are required, and kids under 16 must come with an adult. Bring binoculars. Full guide: [Long Beach Wetland Walks](/blog/2026-09-28-long-beach-wetland-lagoon-walks-guide).
+
+### Los Cerritos Wetlands Habitat Restoration — Saturday, Oct 3
+
+**When:** Saturday, October 3, 2026, 10:30 a.m.–12:30 p.m.
+**Where:** Los Cerritos Wetlands (offsite event; registration required)
+**Cost:** Free
+
+The Aquarium of the Pacific's monthly stewardship morning with the Los Cerritos Wetlands Authority: pulling non-native plants, collecting seeds from rare plants, and picking up trash. It's two hours of real outdoor work and fits right after the 8 a.m. nature walk. Families are welcome, and children under 14 need an adult with them.
+
+### Kayak Tour of the Los Cerritos Wetlands — Sunday, Oct 4
+
+**When:** Sunday, October 4, 2026, 9:30 a.m. (about two hours, timed to the high tide)
+**Where:** Meet near the playground at Mother's Beach, 5733 Appian Way (**Naples**)
+**Cost:** $40 donation per kayaker; non-refundable
+
+The Land Trust and LA River Expeditions paddle into Steamshovel Slough, a part of the wetlands you can only reach by kayak, with a guide explaining what you're seeing. It's physically demanding: paddlers must be 12 or older, able to swim, and able to handle a solo kayak for a few miles. These tours usually sell out.
+
+### Fall Into Autumn Arts, Crafts & Food Market Fest — Friday–Sunday, Oct 2–4
+
+**When:** Friday, October 2 through Sunday, October 4, 2026, 10 a.m.–6 p.m. daily
+**Where:** Shoreline Aquatic Park, **Downtown**
+**Cost:** Free and open to the public
+
+A three-day outdoor market of local artisans, makers, and food vendors on the Downtown waterfront. It's an easy walking outing if you're already on the water that weekend.
 
 ### El Dorado Frontier Pumpkin Patch — Weekends
 
@@ -51,13 +82,6 @@ The 7th annual patch has a train ride, carousel, gold panning, and a scavenger h
 
 The full marathon is reported sold out, so check runlongbeach.com for half marathon and 5K spots. Watching from Ocean Blvd. or the beach path is free and easy to walk to. Full guide: [Long Beach's Neighborhood Run Clubs](/blog/2026-09-01-long-beach-run-walk-clubs-bixby-knolls-signal-hill).
 
-### Dry Spell Social Club: Pumpkins and Karaoke - Saturday, Oct 17
-
-**When:** Saturday, October 17, 2026, 7 p.m.
-**Where:** Venue not stated in the listing (RSVP page: Meetup, Dry Spell Social Club)
-**Cost:** Not stated in the listing
-
-An alcohol-free social evening listed under Meetup's Long Beach sober events. Check the [RSVP page](https://www.meetup.com/dryspellsocialclub/events/316822393/) for the venue and price before you go. Full guide: [Alcohol-Free Hangouts in Long Beach](/blog/2026-10-05-long-beach-alcohol-free-hangouts-tea-rooms-coffee-matcha).
 ### Restoration Fridays at Willow Springs Park — Weekly
 
 **When:** Fridays (check the city's Restoration Friday page for the current schedule)
@@ -94,7 +118,7 @@ Squash, apples, pomegranates, and persimmons are in season now. The Wednesday Ma
 
 ## Best Fall Healthy Things to Do in Long Beach
 
-Fall is the season Long Beach is actually best in: October averages a high near 75°F with nights around 62°F, and the ocean holds around 64.8°F after a September peak near 69°F — the warmest water of the year arrives right as the air cools off. The anchor event is **2XU Long Beach Marathon weekend, October 10–11**, with the marathon Sunday, October 11 at a 5:30 a.m. start on a flat, Boston-qualifying course past the Queen Mary and through **Belmont Shore**; the expo runs Oct 9 (1–7 p.m.) and Oct 10 (10 a.m.–4 p.m.) at the Long Beach Convention Center Hall C, and the 2026 race sold out with a waitlist. Cooler air also reopens the trails — the **El Dorado Nature Center** in **East Long Beach** (Tue–Sun, 8 a.m.–5 p.m., no entry after 4:30; free to walk or bike in) is far better in October than in August, and Hilltop Park in **Signal Hill** gets its clearest Catalina views of the year. Stewardship season stacks on top: Coastal Cleanup Day is done for 2026, but Surfrider's first-Saturday cleanup at Belmont Pier and the city's weekly **Restoration Fridays** at Willow Springs Park run right through fall. The rest of the fall calendar is easy to do on foot: the El Dorado Frontier pumpkin patch on weekends in **East Long Beach**, guided Los Cerritos Wetlands walks on first Saturdays, and Trick-or-Treat on 2nd Street on Halloween. And Yoga on the Bluff's seasonal 6 p.m. sunset sessions run through October. Full guide: [Fall in Long Beach: The Best Healthy Things to Do This Season](/blog/2026-08-27-fall-healthy-things-to-do-long-beach).
+Fall is the season Long Beach is actually best in: October averages a high near 75°F with nights around 62°F, and the ocean holds around 64.8°F after a September peak near 69°F — the warmest water of the year arrives right as the air cools off. The anchor event is **2XU Long Beach Marathon weekend, October 10–11**, with the marathon Sunday, October 11 at a 5:30 a.m. start on a flat, Boston-qualifying course past the Queen Mary and through **Belmont Shore**; the expo runs Oct 9 (1–7 p.m.) and Oct 10 (10 a.m.–4 p.m.) at the Long Beach Convention Center Hall C, and the 2026 race sold out with a waitlist. Cooler air also reopens the trails — the **El Dorado Nature Center** in **East Long Beach** (Tue–Sun, 8 a.m.–5 p.m., no entry after 4:30; free to walk or bike in) is far better in October than in August, and Hilltop Park in **Signal Hill** gets its clearest Catalina views of the year. Stewardship season stacks on top: Coastal Cleanup Day is done for 2026, but Surfrider's first-Saturday cleanup at Belmont Pier and the city's weekly **Restoration Fridays** at Willow Springs Park run right through fall. The rest of the fall calendar is easy to do on foot: the free **Fall Into Autumn Arts, Crafts & Food Market Fest Oct 2–4** at Shoreline Aquatic Park **Downtown**, the El Dorado Frontier pumpkin patch on weekends in **East Long Beach**, guided Los Cerritos Wetlands walks on first Saturdays, and Trick-or-Treat on 2nd Street on Halloween. And Yoga on the Bluff's seasonal 6 p.m. sunset sessions run through October. Full guide: [Fall in Long Beach: The Best Healthy Things to Do This Season](/blog/2026-08-27-fall-healthy-things-to-do-long-beach).
 
 ## Best Mental Health & Mindfulness Resources in Long Beach
 
@@ -154,7 +178,7 @@ One honest update: **Deep Blue Scuba & Swim Center**, the longtime Belmont Shore
 
 ## Best Free & Outdoor Wellness in Long Beach
 
-You don't need a membership to live well here. The daily free Yoga on the Bluff, the bluff-top paths above Alamitos Beach, and the open lawns of Bluff Park are a no-cost gym — and the city's nine free outdoor **Fitness Zones** add actual weight-bearing equipment to that, from the pull-up and dip stations on the 4.8-mile Downtown Fitness Loop to the ADA-accessible sets at Lincoln Park and Orizaba Park. Free group running belongs on this list too: the **Bixby Knolls Dawn Joggers** (weekday mornings, Atlantic & Carson), **Shoreline Frontrunners** (three times a week off the Alamitos Beach bluff), and Signal Hill's Home Depot-lot meetups cost nothing and welcome walkers as readily as runners. Add the free 988 crisis line and donation-based meditation sits, and Long Beach's baseline for a healthy week costs close to nothing. The city's calm-street bike boulevards belong on this list too — Daisy/Myrtle, Vista Street, and the free Signal Hill climb cost nothing beyond owning or renting a bike, and Bike Long Beach's group rides are open to anyone who shows up. With Labor Day and Shoreline Village's summer concert series behind us, the free calendar now runs on standing weekly programming — the Saturday Tour the Shore and Wednesday WOW walking groups in Belmont Shore, Surfrider's first-Saturday cleanup at Belmont Pier, and Yoga on the Bluff twice daily through October — plus the free monthly Los Cerritos Wetlands restoration mornings with the Aquarium of the Pacific (check its calendar for the November date). None of them cost anything.
+You don't need a membership to live well here. The daily free Yoga on the Bluff, the bluff-top paths above Alamitos Beach, and the open lawns of Bluff Park are a no-cost gym — and the city's nine free outdoor **Fitness Zones** add actual weight-bearing equipment to that, from the pull-up and dip stations on the 4.8-mile Downtown Fitness Loop to the ADA-accessible sets at Lincoln Park and Orizaba Park. Free group running belongs on this list too: the **Bixby Knolls Dawn Joggers** (weekday mornings, Atlantic & Carson), **Shoreline Frontrunners** (three times a week off the Alamitos Beach bluff), and Signal Hill's Home Depot-lot meetups cost nothing and welcome walkers as readily as runners. Add the free 988 crisis line and donation-based meditation sits, and Long Beach's baseline for a healthy week costs close to nothing. The city's calm-street bike boulevards belong on this list too — Daisy/Myrtle, Vista Street, and the free Signal Hill climb cost nothing beyond owning or renting a bike, and Bike Long Beach's group rides are open to anyone who shows up. With Labor Day and Shoreline Village's summer concert series behind us, the free calendar now runs on standing weekly programming — the Saturday Tour the Shore and Wednesday WOW walking groups in Belmont Shore, Surfrider's first-Saturday cleanup at Belmont Pier, and Yoga on the Bluff twice daily through October — plus the free monthly Los Cerritos Wetlands restoration mornings with the Aquarium of the Pacific (next: Oct 3). None of them cost anything.
 
 ## Best Hikes, Bluff & Beach Walking Paths in Long Beach
 
@@ -184,7 +208,7 @@ Beyond the barbell, climbing and boxing are Long Beach's other strength scene. *
 
 ## Best Mocktails & Sober-Curious Nightlife in Long Beach
 
-Long Beach no longer has a dedicated zero-proof bar — Shirley's Temple, the area's only one, closed permanently — but a handful of regular bars now run non-alcoholic programs good enough that you don't miss it. **Downtown** is the densest cluster: **BO-beau kitchen + roof tap** (144 Pine Ave) has the city's deepest list, built on distilled zero-proof spirits rather than juice (the Pink Madame with Lyre's White Cane and lavender honey; the Grapefruit & Berries Smash with Ritual's whiskey alternative); **Anna's Joint** (443 Pine Ave, Ste A) pours a non-alcoholic Negroni with zero-proof gin and vermouth and stays open from 7 a.m.; and **Olive & Rose** (255 Atlantic Ave) brings neo-bistro polish with the savory Herbal Remedy and Avo Verdita. On the waterfront, **Parkers' Lighthouse** (435 Shoreline Village Dr) runs the most-cited program in the city on Ritual Zero Proof — the Spicy Señorita with jalapeño, grapefruit and a Tajín rim, and the Lavender Paradise with elderflower tonic. In the **4th Street Corridor / Retro Row**, **Baby Gee** (1227 E 4th St) keeps a short, deliberate list (White Lightning, Suffusion of Yellow). Out on **East Anaheim**, **The Bamboo Club** (3522 E Anaheim St) makes alcohol-free versions of its signature tiki drinks — mug, garnish and all — and **The Bungalow** at 2ND & PCH near **Belmont Shore** publishes a standing Zero Proof menu of non-alcoholic spirits and beers. Watch for the Downtown Long Beach Alliance's **Great Mocktail Mixer** Dry January crawl if you want to survey the whole scene in one night. Full guide: [Sober-Curious Long Beach: The Best Mocktails & Healthy Nightlife](/blog/2026-08-15-sober-curious-mocktails-healthy-nightlife-long-beach). Not every good night out needs a bar: **Twelfth House Tea Sanctuary** (1950 W Willow St), **Dedo Coffee** (2156 Pacific Ave) with its vinyl listening room, **Wrigley Coffee** (437 W Willow St), **Stereoscope** (4925 E 2nd St, **Belmont Shore**) for matcha, and weekend afternoon tea at **Chez Bacchus** (743 E 4th St) are covered in our alcohol-free hangouts guide, and the Dry Spell Social Club hosts a sober social Oct 17. Full guide: [Alcohol-Free Hangouts in Long Beach](/blog/2026-10-05-long-beach-alcohol-free-hangouts-tea-rooms-coffee-matcha).
+Long Beach no longer has a dedicated zero-proof bar — Shirley's Temple, the area's only one, closed permanently — but a handful of regular bars now run non-alcoholic programs good enough that you don't miss it. **Downtown** is the densest cluster: **BO-beau kitchen + roof tap** (144 Pine Ave) has the city's deepest list, built on distilled zero-proof spirits rather than juice (the Pink Madame with Lyre's White Cane and lavender honey; the Grapefruit & Berries Smash with Ritual's whiskey alternative); **Anna's Joint** (443 Pine Ave, Ste A) pours a non-alcoholic Negroni with zero-proof gin and vermouth and stays open from 7 a.m.; and **Olive & Rose** (255 Atlantic Ave) brings neo-bistro polish with the savory Herbal Remedy and Avo Verdita. On the waterfront, **Parkers' Lighthouse** (435 Shoreline Village Dr) runs the most-cited program in the city on Ritual Zero Proof — the Spicy Señorita with jalapeño, grapefruit and a Tajín rim, and the Lavender Paradise with elderflower tonic. In the **4th Street Corridor / Retro Row**, **Baby Gee** (1227 E 4th St) keeps a short, deliberate list (White Lightning, Suffusion of Yellow). Out on **East Anaheim**, **The Bamboo Club** (3522 E Anaheim St) makes alcohol-free versions of its signature tiki drinks — mug, garnish and all — and **The Bungalow** at 2ND & PCH near **Belmont Shore** publishes a standing Zero Proof menu of non-alcoholic spirits and beers. Watch for the Downtown Long Beach Alliance's **Great Mocktail Mixer** Dry January crawl if you want to survey the whole scene in one night. Full guide: [Sober-Curious Long Beach: The Best Mocktails & Healthy Nightlife](/blog/2026-08-15-sober-curious-mocktails-healthy-nightlife-long-beach).
 
 ## More Coming Soon
 
