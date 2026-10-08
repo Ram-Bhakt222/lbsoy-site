@@ -1,8 +1,8 @@
 ---
 title: "Healthy Things to Do in Long Beach: The Living Guide"
-description: "A regularly updated guide to healthy things to do in Long Beach — marathon weekend, tai chi and gentle yoga, fall activities, alcohol-free hangouts, markets, parks, gyms, studios and trails."
-date: "2026-10-08"
-lastUpdated: "2026-10-08"
+description: "A regularly updated guide to healthy things to do in Long Beach — marathon weekend, the best fall activities, alcohol-free hangouts, markets, parks, gyms, studios and trails."
+date: "2026-10-05"
+lastUpdated: "2026-10-05"
 tag: "Long Beach Directory"
 author: "Long Beach School of Yoga"
 keywords:
@@ -11,8 +11,6 @@ keywords:
   - "long beach wellness guide"
   - "alcohol free things to do long beach"
   - "tea rooms long beach"
-  - "tai chi long beach"
-  - "gentle yoga long beach"
   - "climbing gym long beach"
   - "long beach wetlands walk"
   - "colorado lagoon long beach"
@@ -35,7 +33,7 @@ coverImage: "/uploads/blog-images/things-to-do-healthy-long-beach-hero.png"
 This is our living guide to healthy, active things to do in Long Beach — updated every few days. The top of the page covers what's happening this week; below it, an expanding directory of the best places and habits for a healthier life across Long Beach's neighborhoods. Bookmark it and check back.
 
 ## This Week in Long Beach
-Marathon week. The 2XU Long Beach Marathon weekend runs Oct. 9-11 (expo Friday and Saturday, 5K Saturday at 6:50 a.m., marathon Sunday at 5:30 a.m. and half marathon at 7 a.m.; the full marathon is reported sold out), the El Dorado pumpkin patch is open weekends, and a free sober social on Oct. 17 is next on the calendar. Full guide: [Long Beach Marathon Weekend 2026: Where to Move, Watch & Recover](/blog/2026-10-02-long-beach-marathon-weekend-wellness-guide). Prefer to move slowly? See [Mindful Movement in Long Beach](/blog/2026-10-08-long-beach-tai-chi-qigong-gentle-yoga-mindful-movement). Looking for a night out without a bar? See [Alcohol-Free Hangouts in Long Beach](/blog/2026-10-05-long-beach-alcohol-free-hangouts-tea-rooms-coffee-matcha).
+Marathon week. The 2XU Long Beach Marathon weekend runs Oct. 9-11 (expo Friday and Saturday, 5K Saturday at 6:50 a.m., marathon Sunday at 5:30 a.m. and half marathon at 7 a.m.; the full marathon is reported sold out), the El Dorado pumpkin patch is open weekends, and a free sober social on Oct. 17 is next on the calendar. Full guide: [Long Beach Marathon Weekend 2026: Where to Move, Watch & Recover](/blog/2026-10-02-long-beach-marathon-weekend-wellness-guide). Looking for a night out without a bar? See [Alcohol-Free Hangouts in Long Beach](/blog/2026-10-05-long-beach-alcohol-free-hangouts-tea-rooms-coffee-matcha).
 
 ### El Dorado Frontier Pumpkin Patch — Weekends
 
@@ -60,22 +58,6 @@ The full marathon is reported sold out, so check runlongbeach.com for half marat
 **Cost:** Not stated in the listing
 
 An alcohol-free social evening listed under Meetup's Long Beach sober events. Check the [RSVP page](https://www.meetup.com/dryspellsocialclub/events/316822393/) for the venue and price before you go. Full guide: [Alcohol-Free Hangouts in Long Beach](/blog/2026-10-05-long-beach-alcohol-free-hangouts-tea-rooms-coffee-matcha).
-### Mindful Movement Classes: Tai Chi, Qigong & Gentle Yoga - Weekly Through October
-
-**When:** Tai Chi & Qigong, Saturdays Oct 3-24 (next block Nov 7-28); Mindfulness Tai Chi & Qigong, Wednesdays Oct 7-28; Gentle Yoga, Mondays Oct 5-26. Times are not stated in the listings.
-**Where:** Bixby Park Social Hall #1, 130 Cherry Ave (**Alamitos Beach**); El Dorado Park West, 2800 N. Studebaker Rd (**East Long Beach**); Recreation Park Social Hall, 4900 E. 7th St
-**Cost:** Not stated in the listings; the October blocks show registration closed, so check the next block
-
-City Parks, Recreation and Marine classes for slow, low-impact movement. Full guide: [Mindful Movement in Long Beach](/blog/2026-10-08-long-beach-tai-chi-qigong-gentle-yoga-mindful-movement).
-
-### InsightLA Long Beach Sunday Practice Group - Sundays, Starting Oct 11
-
-**When:** Sundays, 10-11:30 a.m. (Oct 11, 18, 25 and onward)
-**Where:** Sacred Roots Healing Center, 2841 E Broadway (**Belmont Heights**); hybrid, so also online
-**Cost:** Not stated in the listing; registration required
-
-A weekly meditation sit with a hybrid option. Check the [InsightLA page](https://insightla.org/location/long-beach-sacred-roots-healing-center/) for current details.
-
 ### Restoration Fridays at Willow Springs Park — Weekly
 
 **When:** Fridays (check the city's Restoration Friday page for the current schedule)
@@ -116,7 +98,7 @@ Fall is the season Long Beach is actually best in: October averages a high near 
 
 ## Best Mental Health & Mindfulness Resources in Long Beach
 
-Long Beach has a deeper mental-health and mindfulness ecosystem than most locals realize, from donation-based meditation halls to a full outpatient care network. On the meditation side, **Long Beach Meditation** (5100 E. The Toledo, Alamitos Beach) is the city's longest-running Buddhist-inspired sangha, offering donation-based sits and Mindfulness Based Stress Reduction (MBSR) classes several evenings a week at Bay Shore Community Church, an ADA-accessible, LGBTQ+-welcoming space. **InsightLA Long Beach** holds classes at the Sacred Roots Healing Center on E. Broadway. **Atlantic Meditation** (4320 Atlantic Ave.) runs guided sessions in-person or by Zoom with a low-cost intro rate, open six days a week. If you'd rather move than sit still, **Yogalution Movement & Wellness** on the bluff pairs its free daily Yoga on the Bluff with donation-based meditation offerings. For anyone in crisis or supporting someone who is, the **988 Suicide and Crisis Lifeline** (call or text 988) and the **Crisis Text Line** (text "LA" to 741741) are free and available 24/7, and the **NAMI HelpLine** (1-800-950-6264) connects callers to peer support and local referrals, including the NAMI Long Beach/Whittier chapter. This is general information, not a diagnosis or a treatment recommendation — for an ongoing condition, the right next step is a licensed provider. Full guide: [Mental Health & Mindfulness Resources in Long Beach](/blog/2026-08-20-mental-health-mindfulness-resources-long-beach). For movement-based options, City Parks classes in tai chi, qigong and gentle yoga run at Bixby Park, El Dorado Park West and Recreation Park, and InsightLA hosts a hybrid Sunday sit in Belmont Heights. Full guide: [Mindful Movement in Long Beach](/blog/2026-10-08-long-beach-tai-chi-qigong-gentle-yoga-mindful-movement).
+Long Beach has a deeper mental-health and mindfulness ecosystem than most locals realize, from donation-based meditation halls to a full outpatient care network. On the meditation side, **Long Beach Meditation** (5100 E. The Toledo, Alamitos Beach) is the city's longest-running Buddhist-inspired sangha, offering donation-based sits and Mindfulness Based Stress Reduction (MBSR) classes several evenings a week at Bay Shore Community Church, an ADA-accessible, LGBTQ+-welcoming space. **InsightLA Long Beach** holds classes at the Sacred Roots Healing Center on E. Broadway. **Atlantic Meditation** (4320 Atlantic Ave.) runs guided sessions in-person or by Zoom with a low-cost intro rate, open six days a week. If you'd rather move than sit still, **Yogalution Movement & Wellness** on the bluff pairs its free daily Yoga on the Bluff with donation-based meditation offerings. For anyone in crisis or supporting someone who is, the **988 Suicide and Crisis Lifeline** (call or text 988) and the **Crisis Text Line** (text "LA" to 741741) are free and available 24/7, and the **NAMI HelpLine** (1-800-950-6264) connects callers to peer support and local referrals, including the NAMI Long Beach/Whittier chapter. This is general information, not a diagnosis or a treatment recommendation — for an ongoing condition, the right next step is a licensed provider. Full guide: [Mental Health & Mindfulness Resources in Long Beach](/blog/2026-08-20-mental-health-mindfulness-resources-long-beach).
 
 ## Best Yoga, Pilates & Movement Studios in Long Beach
 

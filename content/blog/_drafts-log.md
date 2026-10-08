@@ -1356,3 +1356,13 @@ Considered/excluded: Japanese Classic Car Show (Oct 3, Marina Green) — not a h
 **Links:** `/yoga-therapy` (1), `https://myyoganetwork.com/corporate-wellness-programs` (1), back-links to 08-15 and 09-01 posts, `/free-consultation` CTA.
 **Vocabulary check:** PASS - no "yoga teacher/instructor/class" in the new post; only "yoga therapist" used.
 **Sources:** visitlongbeach.com (tea rooms, mocktails) - longbeachize.com (coffee shops, Chez Bacchus, Wrigley) - lbpost.com (Twelfth House) - theinfatuation.com (Dedo) - meetup.com (Dry Spell).
+## Run: 2026-10-08
+**Hub updated:** yes - date/lastUpdated 2026-10-08; added tai chi/gentle yoga keywords; "This Week" gained mindful-movement classes + InsightLA Sunday sit entries; Mental Health H2 extended with link. Archive snapshot: `content/blog/_archive/2026-10-08-things-to-do-healthy-long-beach.md`. (Marathon weekend/pumpkin patch/Dry Spell carried forward, still upcoming.)
+**Deep-dive:** `2026-10-08-long-beach-tai-chi-qigong-gentle-yoga-mindful-movement` (`content/blog/2026-10-08-long-beach-tai-chi-qigong-gentle-yoga-mindful-movement.md`), ~890 body words.
+**Rotated category:** #13 Mental health & mindfulness, Part 2 (movement-based angle). Why: #13 last covered 08-20, most overdue; avoided repeating 08-20 therapist/crisis list.
+**Events verified (2 new):** City Parks tai chi/qigong (Bixby Sat Oct 3-24, Nov 7-28; El Dorado West Wed Oct 7-28), Gentle Yoga Recreation Park Mon Oct 5-26 (active.com listings; no times/prices shown, registration closed on Oct blocks - stated plainly, age field typo flagged); InsightLA Sunday Practice Group Sundays 10-11:30 from Oct 11 (insightla.org). Search tooling returned thin results for other events (sigtrib article was 2022, LB Post meditation article 2014 - both rejected).
+**Directory entries (5, all public programs):** above plus InsightLA. No private businesses, so no Yelp open/closed risk.
+**Keywords:** tai chi long beach, qigong long beach, gentle yoga long beach, meditation long beach, bixby park classes, recreation park long beach, mindfulness long beach, things to do in long beach.
+**Links:** `/yoga-therapy` (1), `https://myyoganetwork.com/corporate-wellness-programs` (1), back-links to 08-20 and 08-24 posts, `/free-consultation` CTA.
+**Vocabulary check:** PASS - only "yoga therapy/therapists" in clinical context; no yoga teacher mixing.
+**Sources:** active.com (4 listings), insightla.org.
