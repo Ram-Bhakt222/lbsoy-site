@@ -1,0 +1,213 @@
+---
+title: "Healthy Things to Do in Long Beach: The Living Guide"
+description: "A regularly updated guide to healthy things to do in Long Beach — marathon weekend, tai chi and gentle yoga, fall activities, alcohol-free hangouts, markets, parks, gyms, studios and trails."
+date: "2026-10-08"
+lastUpdated: "2026-10-08"
+tag: "Long Beach Directory"
+author: "Long Beach School of Yoga"
+keywords:
+  - "things to do in long beach"
+  - "healthy long beach"
+  - "long beach wellness guide"
+  - "alcohol free things to do long beach"
+  - "tea rooms long beach"
+  - "tai chi long beach"
+  - "gentle yoga long beach"
+  - "climbing gym long beach"
+  - "long beach wetlands walk"
+  - "colorado lagoon long beach"
+  - "los cerritos wetlands tour"
+  - "pilates long beach"
+  - "long beach marathon 2026"
+  - "yoga studios long beach"
+  - "farmers markets long beach"
+  - "where to buy organic long beach"
+  - "parks long beach"
+  - "hidden parks long beach"
+  - "run clubs long beach"
+  - "best gyms long beach"
+  - "healthy restaurants long beach"
+  - "family friendly things to do long beach"
+city: "Long Beach"
+coverImage: "/uploads/blog-images/things-to-do-healthy-long-beach-hero.png"
+---
+
+This is our living guide to healthy, active things to do in Long Beach — updated every few days. The top of the page covers what's happening this week; below it, an expanding directory of the best places and habits for a healthier life across Long Beach's neighborhoods. Bookmark it and check back.
+
+## This Week in Long Beach
+Marathon week. The 2XU Long Beach Marathon weekend runs Oct. 9-11 (expo Friday and Saturday, 5K Saturday at 6:50 a.m., marathon Sunday at 5:30 a.m. and half marathon at 7 a.m.; the full marathon is reported sold out), the El Dorado pumpkin patch is open weekends, and a free sober social on Oct. 17 is next on the calendar. Full guide: [Long Beach Marathon Weekend 2026: Where to Move, Watch & Recover](/blog/2026-10-02-long-beach-marathon-weekend-wellness-guide). Prefer to move slowly? See [Mindful Movement in Long Beach](/blog/2026-10-08-long-beach-tai-chi-qigong-gentle-yoga-mindful-movement). Looking for a night out without a bar? See [Alcohol-Free Hangouts in Long Beach](/blog/2026-10-05-long-beach-alcohol-free-hangouts-tea-rooms-coffee-matcha).
+
+### El Dorado Frontier Pumpkin Patch — Weekends
+
+**When:** Weekends, 11 a.m.–5 p.m.; Saturday and Sunday hours extend to 7 p.m. starting October 11
+**Where:** El Dorado Frontier inside El Dorado East Regional Park, 7550 E Spring St (**East Long Beach**; enter off Spring Street)
+**Cost:** $5 general admission; kids 13 and under free with a pumpkin fun pass; regional park parking $8 on weekends
+
+The 7th annual patch has a train ride, carousel, gold panning, and a scavenger hunt. Pair it with a lap of the park's lakes and a morning at the El Dorado Nature Center trails in the same regional park complex, and the family gets a full, active fall day.
+
+### Marathon Weekend: Expo Oct 9–10, Races Oct 10–11
+
+**When:** Free race expo Friday, Oct 9, 1–7 p.m. and Saturday, Oct 10, 10 a.m.–4 p.m.; Aquarium of the Pacific 5K Saturday, Oct 10 at 6:50 a.m.; marathon (5:30 a.m.) and half marathon (7 a.m.) Sunday, Oct 11
+**Where:** Expo at Long Beach Convention Center Hall C, 400 E Seaside Way; races start Downtown; Finish Line Festival at Marina Green
+**Cost:** Expo and Finish Line Festival free; races paid
+
+The full marathon is reported sold out, so check runlongbeach.com for half marathon and 5K spots. Watching from Ocean Blvd. or the beach path is free and easy to walk to. Full guide: [Long Beach's Neighborhood Run Clubs](/blog/2026-09-01-long-beach-run-walk-clubs-bixby-knolls-signal-hill).
+
+### Dry Spell Social Club: Pumpkins and Karaoke - Saturday, Oct 17
+
+**When:** Saturday, October 17, 2026, 7 p.m.
+**Where:** Venue not stated in the listing (RSVP page: Meetup, Dry Spell Social Club)
+**Cost:** Not stated in the listing
+
+An alcohol-free social evening listed under Meetup's Long Beach sober events. Check the [RSVP page](https://www.meetup.com/dryspellsocialclub/events/316822393/) for the venue and price before you go. Full guide: [Alcohol-Free Hangouts in Long Beach](/blog/2026-10-05-long-beach-alcohol-free-hangouts-tea-rooms-coffee-matcha).
+### Mindful Movement Classes: Tai Chi, Qigong & Gentle Yoga - Weekly Through October
+
+**When:** Tai Chi & Qigong, Saturdays Oct 3-24 (next block Nov 7-28); Mindfulness Tai Chi & Qigong, Wednesdays Oct 7-28; Gentle Yoga, Mondays Oct 5-26. Times are not stated in the listings.
+**Where:** Bixby Park Social Hall #1, 130 Cherry Ave (**Alamitos Beach**); El Dorado Park West, 2800 N. Studebaker Rd (**East Long Beach**); Recreation Park Social Hall, 4900 E. 7th St
+**Cost:** Not stated in the listings; the October blocks show registration closed, so check the next block
+
+City Parks, Recreation and Marine classes for slow, low-impact movement. Full guide: [Mindful Movement in Long Beach](/blog/2026-10-08-long-beach-tai-chi-qigong-gentle-yoga-mindful-movement).
+
+### InsightLA Long Beach Sunday Practice Group - Sundays, Starting Oct 11
+
+**When:** Sundays, 10-11:30 a.m. (Oct 11, 18, 25 and onward)
+**Where:** Sacred Roots Healing Center, 2841 E Broadway (**Belmont Heights**); hybrid, so also online
+**Cost:** Not stated in the listing; registration required
+
+A weekly meditation sit with a hybrid option. Check the [InsightLA page](https://insightla.org/location/long-beach-sacred-roots-healing-center/) for current details.
+
+### Restoration Fridays at Willow Springs Park — Weekly
+
+**When:** Fridays (check the city's Restoration Friday page for the current schedule)
+**Where:** Willow Springs Park, 2755 Orange Ave.
+**Cost:** Free
+
+The city's standing volunteer morning at its 48-acre restored wetland: native planting, weeding, and habitat work on the bio-swale loop. It's the inland counterpart to this weekend's Los Cerritos restoration day.
+
+### Tour the Shore & WOW — Standing Saturday and Wednesday Walking Groups
+
+**When:** Tour the Shore, Saturdays 7:30 a.m.; WOW (Walk On Wednesdays), Wednesdays, gather 7:15 a.m.
+**Where:** 2nd Street & La Verne Avenue (Tour the Shore) and in front of Chase Bank on 2nd Street (WOW), both **Belmont Shore**
+**Cost:** Free
+
+Long Beach's two longest-running free walking groups. Tour the Shore is a 2–3 mile loop to a different point of interest each week. WOW is a brisk three-mile loop that rotates through twelve routes near the water. All levels welcome, dogs too.
+
+### Yoga on the Bluff — Daily, Plus Sunset Sessions Through October
+
+**When:** Daily, 11 a.m.; seasonal 6 p.m. weekday sunset sessions run April through October
+**Where:** The grass at Ocean Blvd. and Junipero Ave., above Junipero Beach (**Alamitos Beach**)
+**Cost:** Free; donations welcome, never required
+
+An open-air, all-levels yoga class on the bluff, run by Yogalution Movement & Wellness every day of the year. The 6 p.m. sunset sessions end with October, so this is the last month to catch one. Sessions are cancelled only for rain or wet ground.
+
+### Farmers Markets — Almost Daily
+
+**When:** Bixby Park Tue 3–8 p.m. & Sat 9 a.m.–2 p.m., Marine Stadium Wed 3–8 p.m., Fourth Street (Retro Row) Thu 8 a.m.–noon, Bixby Knolls Thu 3–7 p.m., Downtown Fri 10 a.m.–2 p.m., Wrigley Sat 9 a.m.–2 p.m., Alamitos Bay Sun 9 a.m.–2 p.m.
+**Where:** Neighborhoods citywide
+**Cost:** Free to browse; several accept EBT, WIC, and CalFresh with Market Match
+
+Squash, apples, pomegranates, and persimmons are in season now. The Wednesday Marine Stadium market is next to the Colorado Lagoon construction zone, so follow the detour signs.
+
+> Events shift week to week — always confirm with the organizer before you go.
+
+## Best Fall Healthy Things to Do in Long Beach
+
+Fall is the season Long Beach is actually best in: October averages a high near 75°F with nights around 62°F, and the ocean holds around 64.8°F after a September peak near 69°F — the warmest water of the year arrives right as the air cools off. The anchor event is **2XU Long Beach Marathon weekend, October 10–11**, with the marathon Sunday, October 11 at a 5:30 a.m. start on a flat, Boston-qualifying course past the Queen Mary and through **Belmont Shore**; the expo runs Oct 9 (1–7 p.m.) and Oct 10 (10 a.m.–4 p.m.) at the Long Beach Convention Center Hall C, and the 2026 race sold out with a waitlist. Cooler air also reopens the trails — the **El Dorado Nature Center** in **East Long Beach** (Tue–Sun, 8 a.m.–5 p.m., no entry after 4:30; free to walk or bike in) is far better in October than in August, and Hilltop Park in **Signal Hill** gets its clearest Catalina views of the year. Stewardship season stacks on top: Coastal Cleanup Day is done for 2026, but Surfrider's first-Saturday cleanup at Belmont Pier and the city's weekly **Restoration Fridays** at Willow Springs Park run right through fall. The rest of the fall calendar is easy to do on foot: the El Dorado Frontier pumpkin patch on weekends in **East Long Beach**, guided Los Cerritos Wetlands walks on first Saturdays, and Trick-or-Treat on 2nd Street on Halloween. And Yoga on the Bluff's seasonal 6 p.m. sunset sessions run through October. Full guide: [Fall in Long Beach: The Best Healthy Things to Do This Season](/blog/2026-08-27-fall-healthy-things-to-do-long-beach).
+
+## Best Mental Health & Mindfulness Resources in Long Beach
+
+Long Beach has a deeper mental-health and mindfulness ecosystem than most locals realize, from donation-based meditation halls to a full outpatient care network. On the meditation side, **Long Beach Meditation** (5100 E. The Toledo, Alamitos Beach) is the city's longest-running Buddhist-inspired sangha, offering donation-based sits and Mindfulness Based Stress Reduction (MBSR) classes several evenings a week at Bay Shore Community Church, an ADA-accessible, LGBTQ+-welcoming space. **InsightLA Long Beach** holds classes at the Sacred Roots Healing Center on E. Broadway. **Atlantic Meditation** (4320 Atlantic Ave.) runs guided sessions in-person or by Zoom with a low-cost intro rate, open six days a week. If you'd rather move than sit still, **Yogalution Movement & Wellness** on the bluff pairs its free daily Yoga on the Bluff with donation-based meditation offerings. For anyone in crisis or supporting someone who is, the **988 Suicide and Crisis Lifeline** (call or text 988) and the **Crisis Text Line** (text "LA" to 741741) are free and available 24/7, and the **NAMI HelpLine** (1-800-950-6264) connects callers to peer support and local referrals, including the NAMI Long Beach/Whittier chapter. This is general information, not a diagnosis or a treatment recommendation — for an ongoing condition, the right next step is a licensed provider. Full guide: [Mental Health & Mindfulness Resources in Long Beach](/blog/2026-08-20-mental-health-mindfulness-resources-long-beach). For movement-based options, City Parks classes in tai chi, qigong and gentle yoga run at Bixby Park, El Dorado Park West and Recreation Park, and InsightLA hosts a hybrid Sunday sit in Belmont Heights. Full guide: [Mindful Movement in Long Beach](/blog/2026-10-08-long-beach-tai-chi-qigong-gentle-yoga-mindful-movement).
+
+## Best Yoga, Pilates & Movement Studios in Long Beach
+
+Long Beach has a genuinely deep yoga scene, from donation-based community classes to full hot-yoga and recovery studios. In **Downtown / East Village**, **Yoga108** (242 E 3rd St) runs daily vinyasa for every level plus HIIT and circuit classes, sound baths, low-cost community sessions, and teacher training, with the first two hours of parking free next to Harvey Milk Park. On the bluff above **Alamitos Beach**, **Yogalution Movement & Wellness** (244 Redondo Ave) is Long Beach's only donation-based studio and the home of the free daily **Yoga on the Bluff**. Out toward **Belmont Shore** and the Marina, **Ra Yoga** (3860 Worsham Ave) offers a 3,400-sq-ft space with eco-friendly radiant heat, two practice rooms, a dedicated meditation room, and childcare for most morning classes; **West Coast Sweat** (6324 E PCH), the area's original hot-yoga studio since 2002, runs about 30 Bikram, hot-fusion, and Inferno Hot Pilates classes a week; and **Purple Yoga** (6535 E PCH) centers community, longevity, and a welcoming beginner-friendly vibe. In the **North Long Beach / Bixby Knolls** corridor, **FreedOhm Wellness** (4647 Long Beach Blvd) blends yoga and meditation with Reiki and empowerment coaching.
+
+A September update filled in the equipment-based side of the category. Near the **Traffic Circle / Los Altos**, **CorePower Yoga — The Circle** (4640 Pacific Coast Hwy) brings heated national-chain vinyasa and yoga sculpt to the inland side of the city, with a free intro week for new students. Reformer Pilates now spans the city west to east: **LiveMetta Pilates + Fitness** (6539 E PCH, **Belmont Shore**), 20-plus years in the neighborhood, layers reformer classes across four levels with mat Pilates and rebounding cardio; **Club Pilates Long Beach Marina** (6236 Pacific Coast Hwy) sits in the same cluster as Ra Yoga and West Coast Sweat; and **Club Pilates East Long Beach** (5939 E Spring St, near **CSULB**) covers the east-side campus corridor. For barre, **The Bar Method Long Beach** (3891 Lakewood Blvd, Ste 500, near CSULB) marks its brand's 25th year in 2026 with a renovated studio, free parking, and prenatal-friendly modifications. Full guides: [Best Yoga & Movement Studios in Long Beach](/blog/2026-08-03-best-yoga-movement-studios-long-beach) and [More Long Beach Movement Studios: CorePower, Pilates & Barre (Part 2)](/blog/2026-09-23-long-beach-yoga-pilates-barre-studios-part-2).
+
+## Best Farmers Markets & Where to Buy Local in Long Beach
+
+Long Beach has a certified farmers market almost every day of the week, and fall brings squash, apples, pomegranates, and persimmons onto the tables as the summer stone fruit finishes. **Tuesdays & Saturdays**, the **Bixby Park** market (130 Cherry Ave., **Alamitos Beach**) sets up across from the ocean — Tue 3–8 p.m., Sat 9 a.m.–2 p.m. — with produce, prepared food, and local makers. **Wednesdays**, the **Marine Stadium** market (5255 Paoli Way, near **Belmont Shore**) runs 3–8 p.m. on the water with fruit, flowers, and artisan goods. **Thursdays** give you two: the chef-driven **Fourth Street Farmers Market** on **Retro Row** (4th & Cherry, 8 a.m.–noon) and the neighborly **Bixby Knolls** market (Atlantic Ave. at E. 46th, 3–7 p.m.). **Fridays**, the bike-valet-friendly **Downtown Long Beach** market runs 10 a.m.–2 p.m. near 4th & the Promenade. **Saturdays** add the **Wrigley** market behind Long Beach Beer Lab (518 W. Willow St., **Westside**, 9 a.m.–2 p.m.). **Sundays**, choose the harbor-side **Alamitos Bay** market (205 N. Marina Dr., near **Naples**, 9 a.m.–2 p.m., heavy on seafood and cheese) or the relaxed **Farmers Marketplace** at Clark & Spring in **East Long Beach** (8 a.m.–1 p.m.). Several markets accept EBT, WIC, and CalFresh with **Market Match** doubling produce dollars up to $15.
+
+A September update mapped the rest of the local-food supply chain, for the weeks when market hours don't fit. **Urban farms:** **Farm Lot 59** (2714 California Ave., **Wrigley**) is a nonprofit certified-organic farm with a farmstand, tours, workshops, and standing volunteer days — call (562) 542-8213 to confirm stand hours. **The Growing Experience** (750 Via Carmelitos, **North Long Beach**) is the seven-acre farm inside the Carmelitos housing development, with a published CSA at $20 a box ($10 for residents) and a Friday farm stand — but its own page still carries a pandemic-era suspension notice and a major listing shows it closed, so call (562) 984-2917 first. **Produce boxes: Süprmarkt** delivers organic boxes (about $30 weekly, EBT accepted) to parts of Long Beach, and a **Weiser Family Farms** box can be pre-ordered for Thursday pickup at **Alder & Sage** (366 Cherry Ave.). **Garden plots: Long Beach Organic** runs nine organic community gardens on six-month rental terms — the September-to-February cycle is opening now — led by **Zaferia Junction** (3709 E. 10th St., 90 plots) and the newest **Captain Charles Moore Urban Community Garden** (3121 Long Beach Blvd., **North Wrigley**, 30 plots plus four accessible raised beds). The **Long Beach Community Garden Association** inside **El Dorado East Regional Park** is the big one: 303 plots at roughly 600 sq ft for **$160 a year**, with monthly first-Saturday work parties. **Natural grocers:** **Lazy Acres** (2080 N. Bellflower Blvd., 6 a.m.–10 p.m. daily), **Whole Foods** (3881 Lakewood Blvd., 7 a.m.–9 p.m.), **Sprouts** (4600 E. PCH), and the independent **Olives Gourmet Grocer** (3510 E. Broadway, **Belmont Heights**).
+
+Full guides: [Best Farmers Markets in Long Beach](/blog/2026-07-24-best-farmers-markets-long-beach) and [Where to Buy Local & Organic in Long Beach Beyond the Farmers Market](/blog/2026-09-20-long-beach-local-organic-urban-farms-csa-garden-plots).
+
+## Best Parks & Green Spaces in Long Beach
+
+Long Beach has one of the deepest park systems in Southern California — more than 170 parks across roughly 3,200 acres — and using them is the cheapest, most reliable way to stay active here. The crown jewel is **El Dorado East Regional Park** in **East Long Beach**, an 800-plus-acre complex split by the San Gabriel River with fishing lakes, bike trails, an archery range, and the **El Dorado Nature Center** (2+ miles of dirt-and-paved loop trails around lakes and woodland; trails open Tue–Sun 8 a.m.–5 p.m. with no entry after 4:30 p.m., free to walk or bike in, vehicles $6–9 cashless). Across the street, **El Dorado Park West** packs a 15-court tennis center, a skate park, disc golf, and a duck pond into 275 acres. **Recreation Park** near the Traffic Circle offers golf, two pools, a running track, disc golf, and the band shell at Live at the Shell. **Heartwell Park** (122 acres) has a fishing pond, a bike/skate path, and a fitness course; **Wardlow Park** on the Westside rounds it out with fields and playgrounds. For views and a walk, the **Bluff Park** loop above Alamitos Beach runs a little over a mile along the ocean, **Bixby Park** offers bluff-top seating and the daily Yoga on the Bluff, and **Hilltop Park** in **Signal Hill** delivers a short, steep climb to 360-degree views of the harbor and Catalina. A September update filled in the smaller parks most locals drive past: **Rainbow Lagoon Park** (400 E Shoreline Dr, **Downtown**) for a quiet Japanese-style lagoon loop with swan boats; **Colorado Lagoon** (5119 E Colorado St, **Alamitos Heights**) for calm, wave-free open-water swimming; **Marina Vista Park** (5355 Eliot St, **Belmont Heights**) for waterfront soccer and tennis; **Los Cerritos Park** (3750 Del Mar Ave, **Los Cerritos**) for jogging paths and a nature-inspired playground; the newly rehabilitated **MacArthur Park** (1321 E Anaheim St, **Wrigley / Cambodia Town**) for a calisthenics loop; **Houghton Park** (6301 Myrtle Ave, **North Long Beach**) for its half-mile fitness loop; and **Drake Park** (951 Maine Ave, **Westside**), the historic anchor of the Drake Park/Willmore City Historic District. Full guides: [Best Parks & Green Spaces in Long Beach](/blog/2026-07-01-best-parks-green-spaces-long-beach) and [Long Beach's Hidden Parks: Rainbow Lagoon, MacArthur, Houghton & More](/blog/2026-09-11-long-beach-hidden-parks-rainbow-lagoon-macarthur-houghton).
+
+## Best Family-Friendly Healthy Things to Do in Long Beach
+
+Long Beach is an easy place to raise active kids. **Aquarium of the Pacific** (100 Aquarium Way) anchors the Downtown waterfront with 11,000+ animals across 50 exhibits, open daily 9 a.m.–6 p.m. In **Naples**, **Mother's Beach / Marine Park** (5839 Appian Way) has calm, lifeguarded bay water plus a climb-crawl-swing playground steps from the sand — the easiest supervised beach day in the city. In **East Long Beach**, **Colorado Lagoon** (5119 E Colorado St) pairs a shallow, wave-free swimming lagoon with a renovated inclusive playground built for ages 2–12. **Rancho Los Alamitos** (6400 E Bixby Hill Rd) is a free, walkable historic ranch where kids meet horses, goats, chickens, and rabbits in the barnyard, Wed–Sun 1–5 p.m. Down at **Shoreline Village**, **Wheel Fun Rentals** rents four-person surreys and kid trailers for a flat, car-free ride along the Shoreline Pedestrian Bikepath. A September update added the city's best playgrounds and one weekends-only mini theme park: **El Dorado Frontier** (7550 E Spring St, **East Long Beach**, Sat/Sun 11 a.m.–5 p.m.) has a mine-shaft train ride, carousel, gold-panning, and a 110-foot slide; **Admiral Kidd Park** (2125 Santa Fe Ave) is a nautical-themed, ADA-accessible playground with a rocking boat and zipline; **Recreation Park**'s renovated playground (4900 E 7th St) has a full dinosaur-dig theme for ages 5–12; **Cherry/Junipero Beach** playground sits steps from the sand below Bluff Park; and **Lincoln Park** (101 Pacific Ave, Downtown) and **Whaley Park** (5620 E Atherton St, near CSULB) round out the list. Full guides: [Best Family-Friendly Healthy Things to Do in Long Beach](/blog/2026-07-13-family-friendly-healthy-things-to-do-long-beach) and [Long Beach's Best Playgrounds & Family Active Spots, Part 2](/blog/2026-09-14-long-beach-playgrounds-family-active-spots).
+
+## Best Bike Paths & Active Transportation in Long Beach
+
+Long Beach markets itself as one of America's most bike-friendly cities, and the paths back it up. The flagship is the **Shoreline Pedestrian Bikepath** — about 4.5 flat, car-free miles along the Pacific from **Shoreline Village** in Downtown to **Belmont Shore**, with a 17-foot-wide paved core from Shoreline Village to Alamitos Bay that's ideal for beginners and kids. For distance, two river routes start here: the **LA River Bike Path** (a ~4-mile Long Beach stretch of the nearly 30-mile bikeway) and the **San Gabriel River Bike Trail** (~28 miles through **El Dorado Regional Park** in **East Long Beach** down to Alamitos Bay Marina). Inside the parks, the **El Dorado Bike Path** (~4 miles) and **Heartwell Bike Path** (~2.5 miles) offer shaded, low-traffic loops. A September update added the calm-street network locals actually commute on: the **Daisy/Myrtle Bike Boulevard**, a 9.5-mile traffic-calmed route connecting **Bixby Knolls** and **North Long Beach** to Downtown; the shorter **Vista Street Bike Boulevard** (~1.3 miles) through **Belmont Heights / Los Altos**; the restored **Wrigley Greenbelt** along the LA River's west bank; and the one real hill workout in the city, the climb up **Skyline Drive** to **Hilltop Park** in **Signal Hill**. No bike? The **GoActiveLB Hub** (223 E. 1st St., Downtown; weekdays 9 a.m.–5 p.m.) rents bikes and anchors **Long Beach Bike Share**, which is expanding toward roughly 650 bikes across 110-plus hubs with new stations in **West** and **North Long Beach**; **Wheel Fun Rentals** at Shoreline Village stocks cruisers and surreys; and **Bike Long Beach** (bikelb.com) runs a standing calendar of casual group rides for anyone who'd rather learn the network with company. Full guides: [Best Bike Paths & Active Transportation in Long Beach](/blog/2026-07-15-best-bike-paths-active-transportation-long-beach) and [Long Beach's Quiet Bike Boulevards: Daisy/Myrtle, Vista Street & the Signal Hill Climb](/blog/2026-09-17-long-beach-bike-boulevards-vista-signal-hill-guide).
+
+## Best Healthy Restaurants & Cafés in Long Beach
+
+A healthy day here carries into where you eat — and Long Beach has one of the deepest clean-food scenes in Southern California. In **Belmont Shore / Belmont Heights**: **The Wild Chive** (2650 E Broadway) for vegan brunch and bowls, **Poke Pola** (5040 E 2nd St) for build-your-own poke, and **Open Sesame** (5215 2nd St) for Lebanese with deep vegan/raw options. **Downtown / East Village**: **Higher Taste, Plant-Based** (340 E 4th St) for açaí bowls and plant-based plates, and **Everytable** (421 W Broadway) for affordable dietitian-designed meals. **Bixby Knolls**: **The Green Olive** (3580 Long Beach Blvd) for fresh Mediterranean salads and kebab plates. **Westside / East LB**: **PlanTita's Kitchen** (1950 W Willow St) for vegan Mexican, **Blue Bowl Superfoods** (4150 McGowen St) for superfood bowls, and **Veggie Grill** (6451 E PCH) for fast-casual plant-based. A September update filled in the rest of the map: **The Small Café** in **Naples Island** (5656 E 2nd St, mornings only), **Simply Salad** near the **Los Altos** Traffic Circle (1775 Ximeno Ave), **Panini Kabob Grill** near **CSULB** (4101 McGowen St), **moonbowls** in the **Willmore District** (1388 Daisy Ave), and **The Grain Cafe** + **Rose Park Roasters** along **Retro Row / Rose Park** (4403 and 3044 E 4th St). Full guides: [Best Healthy Restaurants & Cafés in Long Beach](/blog/2026-06-25-best-healthy-restaurants-cafes-long-beach) and [Long Beach Healthy Eats, Part 2: Naples Island, Los Altos & Retro Row](/blog/2026-09-05-long-beach-healthy-restaurants-naples-los-altos-retro-row).
+
+## Best Surf, Swim, Paddle & Water Fitness in Long Beach
+
+Long Beach has five miles of beach, a protected bay, calm canals, and some of the most accessible water sports infrastructure in Southern California — and underneath the rental-shop layer is a genuinely competitive water culture. Full guides: [Surf, Swim, Paddle & Water Fitness in Long Beach](/blog/2026-06-21-surf-swim-paddle-water-fitness-long-beach) and [Masters Swim, Outrigger Canoe & Scuba in Long Beach](/blog/2026-09-02-long-beach-masters-swim-outrigger-canoe-scuba-guide).
+
+**Kayaks on the Water** (5411 E Ocean Blvd, Bayshore Beach / Alamitos Bay) — kayaks from $12/hr, SUPs from $25/hr with instruction. Easy put-in on the calm bay; circumnavigate Naples or find the moon-jelly cove. Recommended by the LA Times.
+
+**Paddle Board Rentals Long Beach** (6272 E PCH) — brand-new boards, free waterproof phone case and Bluetooth speaker, Starbucks on-site. Naples canals circuit is the go-to route.
+
+**Long Beach Windsurf Center** (3850 E Ocean Blvd) — group and private windsurfing lessons, large board/sail inventory, Alamitos Bay launch.
+
+**SoCal Kitesurfing** (79 Claremont Place) — lessons from 90-min intro to 5-day master course, instructors in water with radio helmets. Granada Beach ("Kite Beach") is one of the nation's top kitesurfing spots.
+
+**Long Beach Waterbikes** (164 N Marina Dr, Alamitos Bay Landing) — pedal-powered pontoon vessels for bay exploration; nighttime glow rides available.
+
+**Belmont Plaza Olympic Pool** (4320 Olympic Plaza) — $4 drop-in lap swim, outdoor, year-round; also home to the **Long Beach Grunions** and **SWIM Long Beach** masters swim clubs (coached practices, first 3 sessions free at SWIM Long Beach).
+
+**Kahakai Outrigger Canoe Club** and **Hui Lokahi O Ke Kai** (Mother's Beach, Naples) — six-person outrigger canoe paddling, beginner-friendly, swim ability required.
+
+**Sports Basement** (2100 N Bellflower Blvd) — surfboard, bodyboard, SUP, and wetsuit rentals plus buy/sell of used gear. Best way to try before you buy.
+
+One honest update: **Deep Blue Scuba & Swim Center**, the longtime Belmont Shore dive shop, has closed; its swim-lesson side now operates as Deep Blue Swim School in Bixby Knolls. For scuba certification, **Blue Holic Scuba** currently departs from Long Beach's Golden Shore for PADI courses.
+
+## Best Free & Outdoor Wellness in Long Beach
+
+You don't need a membership to live well here. The daily free Yoga on the Bluff, the bluff-top paths above Alamitos Beach, and the open lawns of Bluff Park are a no-cost gym — and the city's nine free outdoor **Fitness Zones** add actual weight-bearing equipment to that, from the pull-up and dip stations on the 4.8-mile Downtown Fitness Loop to the ADA-accessible sets at Lincoln Park and Orizaba Park. Free group running belongs on this list too: the **Bixby Knolls Dawn Joggers** (weekday mornings, Atlantic & Carson), **Shoreline Frontrunners** (three times a week off the Alamitos Beach bluff), and Signal Hill's Home Depot-lot meetups cost nothing and welcome walkers as readily as runners. Add the free 988 crisis line and donation-based meditation sits, and Long Beach's baseline for a healthy week costs close to nothing. The city's calm-street bike boulevards belong on this list too — Daisy/Myrtle, Vista Street, and the free Signal Hill climb cost nothing beyond owning or renting a bike, and Bike Long Beach's group rides are open to anyone who shows up. With Labor Day and Shoreline Village's summer concert series behind us, the free calendar now runs on standing weekly programming — the Saturday Tour the Shore and Wednesday WOW walking groups in Belmont Shore, Surfrider's first-Saturday cleanup at Belmont Pier, and Yoga on the Bluff twice daily through October — plus the free monthly Los Cerritos Wetlands restoration mornings with the Aquarium of the Pacific (check its calendar for the November date). None of them cost anything.
+
+## Best Hikes, Bluff & Beach Walking Paths in Long Beach
+
+Long Beach looks flat, but the city hides more dirt, elevation, and wetland than most locals ever walk. For real trail, the **El Dorado Nature Center** in **East Long Beach** is a 105-acre wildlife sanctuary with 2+ miles of trails — a ¼-mile paved loop plus two one-mile dirt routes — open Tue–Sun 8 a.m.–5 p.m. (no entry after 4:30); admission is free and only cars pay ($6–9, cashless). For elevation, the **Signal Hill Trail** at **Hilltop Park** climbs about 1.6 miles and 206 feet to 360-degree views of the port, the THUMS islands, downtown LA, and Catalina on a clear day (free, 5 a.m.–10 p.m.), with the quieter **Panorama Promenade** adding a third of a mile of north-facing views and the Unity Monument. For flat mileage, the **Shoreline Pedestrian Bikepath** runs 4.3–4.5 car-free miles from Shoreline Village to **Belmont Shore**, and the **Naples Canals Loop** in **Naples Island** is a gentle ~2.5-mile waterfront circuit (the full island loop runs ~4.5 miles). The **Bluff Park** loop above **Alamitos Beach** is the city's sunset standard — a mile-plus along the bluff with stairways down to the beach path. And two restored wetlands hide in plain sight: **Willow Springs Park** (48.2 acres, bio-swale loop, panoramic Longview Point) and **DeForest Park** in **North Long Beach** (riparian nature trail along the LA River levee). Full guide: [Best Hikes, Bluff & Beach Walking Paths in Long Beach](/blog/2026-08-04-best-hikes-bluff-beach-walking-paths-long-beach).
+
+For quieter water, Long Beach's restored wetlands make the calmest walking in the city, and fall migration is the best time to go. **Colorado Lagoon** (5119 E Colorado St) is an 18-acre tidal lagoon with a roughly 1.1-mile loop, a boardwalk, and a north-shore granite trail. The city's Open Channel construction is still going on around it, so expect detours and a stretch on neighborhood sidewalks. At the end of Boathouse Lane by **Marine Stadium**, the free **Jack Dunster Marine Biological Reserve** has a 0.4-mile path and floating observation platforms over a restored tidal marsh. **Sims' Pond** in **Alamitos Heights** can only be viewed from the sidewalk at Loynes & PCH, but it's a reliable stop for ducks and egrets. In **North Long Beach**, the **Dominguez Gap Wetlands** (286 W Del Amo Blvd; park at David Molina Park) circle a 37-acre restored basin beside the LA River on a roughly 2-mile loop. The gated **Los Cerritos Wetlands** are best seen with a guide: the Land Trust's first-Saturday 8 a.m. nature walks, its $40-donation kayak tours into Steamshovel Slough from Mother's Beach in **Naples**, or the Aquarium of the Pacific's free monthly restoration mornings. Full guide: [Long Beach Wetland Walks: Colorado Lagoon, Los Cerritos & the Hidden Reserves](/blog/2026-09-28-long-beach-wetland-lagoon-walks-guide).
+
+## Best Juice Bars, Smoothies & Açaí Bowls in Long Beach
+
+Belmont Shore and Bluff Heights are well covered — **Salud Juice** (4918 E 2nd St), **Pressed Juicery** (4923 E 2nd St), and **Tru Nature Juice Bar** (2225 E Broadway) are all still going strong. This update fills in the rest of the map. **Downtown**, **Movita Juice Bar** now runs two Long Beach locations — 421 W Broadway and 2288 E Carson St in **California Heights** — both organic açaí and fresh-pressed juice. Near **CSULB**, **Juice It Up!** (6508 E Spring St, across from Millikan High) opened as a local-owned franchise. On the **PCH/Los Altos corridor**, **Robeks** (4547 E PCH) rounds out the east side. One honest update: **Revive Juice Bar**, the East Village Arts District's longtime spot on Linden Ave, has closed — Movita's Downtown Broadway location is the closest replacement. Full guide: [Long Beach Juice Bars & Smoothies: Downtown, Eastside & the East Village Update](/blog/2026-08-31-long-beach-juice-bars-downtown-eastside-guide).
+
+## Best Run & Walk Clubs & Group Fitness in Long Beach
+
+Belmont Shore's **Long Beach Run Club** (Coronado Ave & Ocean Blvd, Saturday mornings, ~5 miles), **Run Club Girls** (9 a.m. weekly, two pace options), and free **Lululemon run clubs** near the beach path are still the highest-visibility groups. But some of the city's most durable running communities formed neighborhood by neighborhood: the **Bixby Knolls Dawn Joggers** meet every weekday at 5:15 a.m. in front of Jamba Juice at Atlantic & Carson (runs Mon/Wed/Fri, walks Tue/Thu) — a group that started in 2016 after a string of prowler incidents and has grown into the neighborhood's largest fitness community. In **Signal Hill**, a Monday 6:30 p.m. group meets at the Home Depot lot on Cherry Ave., plus a Wednesday 6 a.m. session at Chittick Field. And **Shoreline Frontrunners of Long Beach**, part of the international LGBTQ+-inclusive Frontrunners network, runs three times a week from the bluff at Redondo & Ocean, all paces welcome. Upcoming: 2XU Long Beach Marathon weekend (Aquarium 5K Oct 10; marathon and half Oct 11; full marathon reported sold out). Full guide: [Long Beach's Neighborhood Run Clubs: Bixby Knolls, Signal Hill & the Inclusive Crews You Haven't Tried](/blog/2026-09-01-long-beach-run-walk-clubs-bixby-knolls-signal-hill) (original overview: [Best Run & Walk Clubs & Group Fitness in Long Beach](/blog/2026-06-18-best-run-walk-clubs-long-beach)).
+
+## Best Cold Plunge, Sauna, Recovery & Bodywork in Long Beach
+
+Recovery is Long Beach's fastest-growing wellness habit, and a recovery row of contrast-therapy studios has opened up along Pacific Coast Highway. In **Belmont Shore / Belmont Heights**: **SWTHZ (SweatHouz)** (6480 E PCH, Ste 152) for private infrared-sauna + cold-plunge + vitamin-C-shower suites; **Pause Studio** (6242 PCH) for structured contrast therapy, float therapy, and IV hydration; and **Human Aeon — The Hidden Sanctuary** (121 Belmont Ave) for a calm, natural take on cold plunge and sauna. Near the **Traffic Circle**: **ReEnergized** (4434 E PCH) stacks contrast therapy with cryotherapy, hyperbaric oxygen, and red-light. In **East Long Beach**: **Cellevate** (6445 E PCH) is the social option — a 10-person communal cold plunge and 20+-person infrared sauna with breathwork — and **Perspire Sauna Studio** at the Long Beach Exchange (4201 McGowen St) offers 40-minute full-spectrum infrared sessions with red-light and a cold "SNO" shower finish. A quick honest note: treat recovery benefits as what studios report, not medical promises, and check with your doctor before cold immersion if you have a heart condition.
+
+Recovery isn't only heat and cold — hands-on bodywork is the other half of the category. In **Bixby Knolls**, **Bixby Knolls Wellness Center** (4301 Atlantic Ave, Ste 5) pairs chiropractic adjustments with therapeutic massage under one roof. Near the **Marina** and **Belmont Shore**, **StretchLab** (6423 E PCH, Ste B) offers one-on-one assisted stretch sessions, with a second East Long Beach location on Worsham Ave. One honest update: **FloatSpace**, Downtown's float-tank studio on Pine Ave, has closed — Pause Studio's float therapy suite in Belmont Heights is the closest remaining option in the city. Full guides: [Best Cold Plunge, Sauna & Recovery Studios in Long Beach](/blog/2026-06-29-cold-plunge-sauna-recovery-long-beach) and [Massage, Bodywork & Recovery in Long Beach](/blog/2026-09-08-long-beach-massage-bodywork-recovery-guide).
+
+## Best Gyms & Strength Training in Long Beach
+
+Long Beach reads as a cardio town, but the strength scene is deeper than the beach path suggests — and it spans about $0 to $200 a month. For **coached boutique training** on the east side: **ICONIX Fitness** (4101 E Olympic Plaza) runs 130-plus classes a week across strength, cardio, and group formats on top of a full equipment floor, and **ONIX Fitness** (5010 2nd St, **Belmont Shore**) is the smaller, circuit-and-personal-training option with certified coaches — the right first stop if you've never touched a barbell. For **big-box value**: **Club Studio** (6310A E PCH, Marina Pacifica) pairs a full cardio-and-strength floor with boutique studios under one membership, and **EōS Fitness** has two locations — 75 Aquarium Way on the **Downtown** waterfront and 5810 Downey Ave in **North Long Beach**. For **serious lifting**, **Iron Addicts Gym** (2224A Cerritos Ave, **Signal Hill**, 5 a.m.–10 p.m. daily) is the heavy free-weight destination in greater Long Beach — go coached somewhere else first. For **functional and competitive strength**: **CrossFit Modern** (1180 N Studebaker Rd, Ste C, **East Long Beach**), **CrossFit Reality** (Signal Hill, with HYROX-specific training), and **Molivate Gym** (5401 E Village Rd, near El Dorado Park) for CrossFit and powerlifting. And free, every day: the city's nine outdoor **Fitness Zones**, including the 4.8-mile Downtown Fitness Loop, the six-station Bixby Fitness Loop at Junipero & Ocean, the half-mile Houghton Park loop with bilingual signs and QR demo videos, and ADA-accessible equipment at Lincoln Park, 14th Street Park, Orizaba Park, and Cesar E. Chavez Park.
+
+Beyond the barbell, climbing and boxing are Long Beach's other strength scene. **Long Beach Rising** (205 E Anaheim St, **Downtown**) is a 17,000-square-foot bouldering gym in a 1926 landmark building, with daily intro classes, weights, yoga, and saunas. **Hangar 18** (2599 E Willow St, **Signal Hill**) adds top-rope and auto-belay walls, and **Sender One** (4949 Lakewood Blvd, just over the line in Lakewood near the airport) is the biggest at 29,000 square feet, with a kids' climbing zone and 6 a.m. weekday openings. For striking, **Hard Worx Fitness** (1936 E 4th St, **Retro Row**) runs boxing, kickboxing, Muay Thai, and BJJ classes plus an open gym floor, and **Hill Street Boxing Gym** (1201 E Hill St, **Signal Hill**) holds evening Open Boxing sessions. Rent climbing gear, or play on the five free indoor pickleball courts, at **Sports Basement** (2100 N Bellflower Blvd, **Los Altos**). Full guides: [Best Gyms & Strength Training in Long Beach](/blog/2026-08-13-best-gyms-strength-training-long-beach) and [Climbing & Boxing Gyms in Long Beach](/blog/2026-09-29-long-beach-climbing-boxing-gyms-guide).
+
+## Best Mocktails & Sober-Curious Nightlife in Long Beach
+
+Long Beach no longer has a dedicated zero-proof bar — Shirley's Temple, the area's only one, closed permanently — but a handful of regular bars now run non-alcoholic programs good enough that you don't miss it. **Downtown** is the densest cluster: **BO-beau kitchen + roof tap** (144 Pine Ave) has the city's deepest list, built on distilled zero-proof spirits rather than juice (the Pink Madame with Lyre's White Cane and lavender honey; the Grapefruit & Berries Smash with Ritual's whiskey alternative); **Anna's Joint** (443 Pine Ave, Ste A) pours a non-alcoholic Negroni with zero-proof gin and vermouth and stays open from 7 a.m.; and **Olive & Rose** (255 Atlantic Ave) brings neo-bistro polish with the savory Herbal Remedy and Avo Verdita. On the waterfront, **Parkers' Lighthouse** (435 Shoreline Village Dr) runs the most-cited program in the city on Ritual Zero Proof — the Spicy Señorita with jalapeño, grapefruit and a Tajín rim, and the Lavender Paradise with elderflower tonic. In the **4th Street Corridor / Retro Row**, **Baby Gee** (1227 E 4th St) keeps a short, deliberate list (White Lightning, Suffusion of Yellow). Out on **East Anaheim**, **The Bamboo Club** (3522 E Anaheim St) makes alcohol-free versions of its signature tiki drinks — mug, garnish and all — and **The Bungalow** at 2ND & PCH near **Belmont Shore** publishes a standing Zero Proof menu of non-alcoholic spirits and beers. Watch for the Downtown Long Beach Alliance's **Great Mocktail Mixer** Dry January crawl if you want to survey the whole scene in one night. Full guide: [Sober-Curious Long Beach: The Best Mocktails & Healthy Nightlife](/blog/2026-08-15-sober-curious-mocktails-healthy-nightlife-long-beach). Not every good night out needs a bar: **Twelfth House Tea Sanctuary** (1950 W Willow St), **Dedo Coffee** (2156 Pacific Ave) with its vinyl listening room, **Wrigley Coffee** (437 W Willow St), **Stereoscope** (4925 E 2nd St, **Belmont Shore**) for matcha, and weekend afternoon tea at **Chez Bacchus** (743 E 4th St) are covered in our alcohol-free hangouts guide, and the Dry Spell Social Club hosts a sober social Oct 17. Full guide: [Alcohol-Free Hangouts in Long Beach](/blog/2026-10-05-long-beach-alcohol-free-hangouts-tea-rooms-coffee-matcha).
+
+## More Coming Soon
+
+This directory grows every few days — next up are neighborhood-by-neighborhood food guides and the rest of the seasonal set (allergy season, holiday stress, winter training). [Reach out](/free-consultation) if you run a healthy Long Beach spot that belongs here.
+
+## About Long Beach School of Yoga
+
+LBSOY is Long Beach's hub for yoga therapy and corporate wellness, powered by the My Yoga Network marketplace of IAYT-credentialed yoga therapists. Looking for a corporate wellness program for your Long Beach office? [Start with a free consultation](/free-consultation).

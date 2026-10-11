@@ -1,8 +1,8 @@
 ---
 title: "Healthy Things to Do in Long Beach: The Living Guide"
-description: "A regularly updated guide to healthy things to do in Long Beach — marathon weekend, tai chi and gentle yoga, fall activities, alcohol-free hangouts, markets, parks, gyms, studios and trails."
-date: "2026-10-08"
-lastUpdated: "2026-10-08"
+description: "A regularly updated guide to healthy things to do in Long Beach — free pickleball and ranchos, tai chi and gentle yoga, fall activities, alcohol-free hangouts, markets, parks, gyms, studios and trails."
+date: "2026-10-11"
+lastUpdated: "2026-10-11"
 tag: "Long Beach Directory"
 author: "Long Beach School of Yoga"
 keywords:
@@ -18,7 +18,9 @@ keywords:
   - "colorado lagoon long beach"
   - "los cerritos wetlands tour"
   - "pilates long beach"
-  - "long beach marathon 2026"
+  - "free pickleball long beach"
+  - "rancho los cerritos free"
+  - "library state parks pass long beach"
   - "yoga studios long beach"
   - "farmers markets long beach"
   - "where to buy organic long beach"
@@ -35,7 +37,7 @@ coverImage: "/uploads/blog-images/things-to-do-healthy-long-beach-hero.png"
 This is our living guide to healthy, active things to do in Long Beach — updated every few days. The top of the page covers what's happening this week; below it, an expanding directory of the best places and habits for a healthier life across Long Beach's neighborhoods. Bookmark it and check back.
 
 ## This Week in Long Beach
-Marathon week. The 2XU Long Beach Marathon weekend runs Oct. 9-11 (expo Friday and Saturday, 5K Saturday at 6:50 a.m., marathon Sunday at 5:30 a.m. and half marathon at 7 a.m.; the full marathon is reported sold out), the El Dorado pumpkin patch is open weekends, and a free sober social on Oct. 17 is next on the calendar. Full guide: [Long Beach Marathon Weekend 2026: Where to Move, Watch & Recover](/blog/2026-10-02-long-beach-marathon-weekend-wellness-guide). Prefer to move slowly? See [Mindful Movement in Long Beach](/blog/2026-10-08-long-beach-tai-chi-qigong-gentle-yoga-mindful-movement). Looking for a night out without a bar? See [Alcohol-Free Hangouts in Long Beach](/blog/2026-10-05-long-beach-alcohol-free-hangouts-tea-rooms-coffee-matcha).
+This week: the 2XU Long Beach Marathon wraps up this morning (Oct. 11), the El Dorado pumpkin patch is open weekends, Rancho Los Cerritos opens its free Community Ofrenda on Oct. 14, and a free sober social is Oct. 17. Looking for budget ideas? See [Free Wellness in Long Beach, Part 2](/blog/2026-10-11-long-beach-free-pickleball-ranchos-library-parks-pass-guide). Prefer to move slowly? See [Mindful Movement in Long Beach](/blog/2026-10-08-long-beach-tai-chi-qigong-gentle-yoga-mindful-movement). Looking for a night out without a bar? See [Alcohol-Free Hangouts in Long Beach](/blog/2026-10-05-long-beach-alcohol-free-hangouts-tea-rooms-coffee-matcha).
 
 ### El Dorado Frontier Pumpkin Patch — Weekends
 
@@ -45,13 +47,12 @@ Marathon week. The 2XU Long Beach Marathon weekend runs Oct. 9-11 (expo Friday a
 
 The 7th annual patch has a train ride, carousel, gold panning, and a scavenger hunt. Pair it with a lap of the park's lakes and a morning at the El Dorado Nature Center trails in the same regional park complex, and the family gets a full, active fall day.
 
-### Marathon Weekend: Expo Oct 9–10, Races Oct 10–11
+### Community Ofrenda at Rancho Los Cerritos - Oct 14 to Nov 8
 
-**When:** Free race expo Friday, Oct 9, 1–7 p.m. and Saturday, Oct 10, 10 a.m.–4 p.m.; Aquarium of the Pacific 5K Saturday, Oct 10 at 6:50 a.m.; marathon (5:30 a.m.) and half marathon (7 a.m.) Sunday, Oct 11
-**Where:** Expo at Long Beach Convention Center Hall C, 400 E Seaside Way; races start Downtown; Finish Line Festival at Marina Green
-**Cost:** Expo and Finish Line Festival free; races paid
-
-The full marathon is reported sold out, so check runlongbeach.com for half marathon and 5K spots. Watching from Ocean Blvd. or the beach path is free and easy to walk to. Full guide: [Long Beach's Neighborhood Run Clubs](/blog/2026-09-01-long-beach-run-walk-clubs-bixby-knolls-signal-hill).
+**When:** Oct. 14 through Nov. 8 (the site calendar lists daytime hours; public hours are Wed-Fri and Sun 1-5 p.m., Sat 10 a.m.-5 p.m.)
+**Where:** Rancho Los Cerritos, 4600 Virginia Rd. (**Bixby Knolls**)
+**Cost:** Free
+\nA community altar in front of the Visitor Center. Admission and parking at the rancho are free during public hours. Full guide: [Free Wellness in Long Beach, Part 2](/blog/2026-10-11-long-beach-free-pickleball-ranchos-library-parks-pass-guide).
 
 ### Dry Spell Social Club: Pumpkins and Karaoke - Saturday, Oct 17
 
@@ -112,7 +113,7 @@ Squash, apples, pomegranates, and persimmons are in season now. The Wednesday Ma
 
 ## Best Fall Healthy Things to Do in Long Beach
 
-Fall is the season Long Beach is actually best in: October averages a high near 75°F with nights around 62°F, and the ocean holds around 64.8°F after a September peak near 69°F — the warmest water of the year arrives right as the air cools off. The anchor event is **2XU Long Beach Marathon weekend, October 10–11**, with the marathon Sunday, October 11 at a 5:30 a.m. start on a flat, Boston-qualifying course past the Queen Mary and through **Belmont Shore**; the expo runs Oct 9 (1–7 p.m.) and Oct 10 (10 a.m.–4 p.m.) at the Long Beach Convention Center Hall C, and the 2026 race sold out with a waitlist. Cooler air also reopens the trails — the **El Dorado Nature Center** in **East Long Beach** (Tue–Sun, 8 a.m.–5 p.m., no entry after 4:30; free to walk or bike in) is far better in October than in August, and Hilltop Park in **Signal Hill** gets its clearest Catalina views of the year. Stewardship season stacks on top: Coastal Cleanup Day is done for 2026, but Surfrider's first-Saturday cleanup at Belmont Pier and the city's weekly **Restoration Fridays** at Willow Springs Park run right through fall. The rest of the fall calendar is easy to do on foot: the El Dorado Frontier pumpkin patch on weekends in **East Long Beach**, guided Los Cerritos Wetlands walks on first Saturdays, and Trick-or-Treat on 2nd Street on Halloween. And Yoga on the Bluff's seasonal 6 p.m. sunset sessions run through October. Full guide: [Fall in Long Beach: The Best Healthy Things to Do This Season](/blog/2026-08-27-fall-healthy-things-to-do-long-beach).
+Fall is the season Long Beach is actually best in: October averages a high near 75°F with nights around 62°F, and the ocean holds around 64.8°F after a September peak near 69°F — the warmest water of the year arrives right as the air cools off. The anchor event (wrapping up Oct. 11) is **2XU Long Beach Marathon weekend, October 10–11**, with the marathon Sunday, October 11 at a 5:30 a.m. start on a flat, Boston-qualifying course past the Queen Mary and through **Belmont Shore**; the expo runs Oct 9 (1–7 p.m.) and Oct 10 (10 a.m.–4 p.m.) at the Long Beach Convention Center Hall C, and the 2026 race sold out with a waitlist. Cooler air also reopens the trails — the **El Dorado Nature Center** in **East Long Beach** (Tue–Sun, 8 a.m.–5 p.m., no entry after 4:30; free to walk or bike in) is far better in October than in August, and Hilltop Park in **Signal Hill** gets its clearest Catalina views of the year. Stewardship season stacks on top: Coastal Cleanup Day is done for 2026, but Surfrider's first-Saturday cleanup at Belmont Pier and the city's weekly **Restoration Fridays** at Willow Springs Park run right through fall. The rest of the fall calendar is easy to do on foot: the El Dorado Frontier pumpkin patch on weekends in **East Long Beach**, guided Los Cerritos Wetlands walks on first Saturdays, and Trick-or-Treat on 2nd Street on Halloween. And Yoga on the Bluff's seasonal 6 p.m. sunset sessions run through October. Full guide: [Fall in Long Beach: The Best Healthy Things to Do This Season](/blog/2026-08-27-fall-healthy-things-to-do-long-beach).
 
 ## Best Mental Health & Mindfulness Resources in Long Beach
 
@@ -173,6 +174,8 @@ One honest update: **Deep Blue Scuba & Swim Center**, the longtime Belmont Shore
 ## Best Free & Outdoor Wellness in Long Beach
 
 You don't need a membership to live well here. The daily free Yoga on the Bluff, the bluff-top paths above Alamitos Beach, and the open lawns of Bluff Park are a no-cost gym — and the city's nine free outdoor **Fitness Zones** add actual weight-bearing equipment to that, from the pull-up and dip stations on the 4.8-mile Downtown Fitness Loop to the ADA-accessible sets at Lincoln Park and Orizaba Park. Free group running belongs on this list too: the **Bixby Knolls Dawn Joggers** (weekday mornings, Atlantic & Carson), **Shoreline Frontrunners** (three times a week off the Alamitos Beach bluff), and Signal Hill's Home Depot-lot meetups cost nothing and welcome walkers as readily as runners. Add the free 988 crisis line and donation-based meditation sits, and Long Beach's baseline for a healthy week costs close to nothing. The city's calm-street bike boulevards belong on this list too — Daisy/Myrtle, Vista Street, and the free Signal Hill climb cost nothing beyond owning or renting a bike, and Bike Long Beach's group rides are open to anyone who shows up. With Labor Day and Shoreline Village's summer concert series behind us, the free calendar now runs on standing weekly programming — the Saturday Tour the Shore and Wednesday WOW walking groups in Belmont Shore, Surfrider's first-Saturday cleanup at Belmont Pier, and Yoga on the Bluff twice daily through October — plus the free monthly Los Cerritos Wetlands restoration mornings with the Aquarium of the Pacific (check its calendar for the November date). None of them cost anything.
+
+A second free-wellness update added the overlooked options: the city's free first-come public pickleball courts (Marina Vista Park, Junipero Beach, Bayshore Park, DeForest Park and others), free admission and parking at Rancho Los Cerritos in **Bixby Knolls**, a library-card California State Parks Pass with a three-week loan, and a monthly outdoor sound bath at Carroll Park South (next Nov. 14). Full guide: [Free Wellness in Long Beach, Part 2](/blog/2026-10-11-long-beach-free-pickleball-ranchos-library-parks-pass-guide) (original: [Free & Low-Cost Wellness](/blog/2026-08-24-free-low-cost-wellness-long-beach)).
 
 ## Best Hikes, Bluff & Beach Walking Paths in Long Beach
 

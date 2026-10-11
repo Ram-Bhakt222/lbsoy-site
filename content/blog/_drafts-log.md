@@ -1366,3 +1366,14 @@ Considered/excluded: Japanese Classic Car Show (Oct 3, Marina Green) — not a h
 **Links:** `/yoga-therapy` (1), `https://myyoganetwork.com/corporate-wellness-programs` (1), back-links to 08-20 and 08-24 posts, `/free-consultation` CTA.
 **Vocabulary check:** PASS - only "yoga therapy/therapists" in clinical context; no yoga teacher mixing.
 **Sources:** active.com (4 listings), insightla.org.
+## Run: 2026-10-11
+**Hub updated:** yes - date/lastUpdated 2026-10-11; "This Week" refreshed (removed passed marathon expo/race block, added Rancho Los Cerritos Community Ofrenda Oct 14-Nov 8; carried pumpkin patch, Dry Spell Oct 17, mindful-movement classes, InsightLA, standing groups, markets); Free & Outdoor Wellness H2 extended with Part 2 paragraph + link; Fall H2 marathon wording freshened. Archive snapshot: content/blog/_archive/2026-10-11-things-to-do-healthy-long-beach.md.
+**Deep-dive:** 2026-10-11-long-beach-free-pickleball-ranchos-library-parks-pass-guide (content/blog/2026-10-11-long-beach-free-pickleball-ranchos-library-parks-pass-guide.md), ~1,050 body words.
+**Rotated category:** #11 Free & low-cost wellness, Part 2. Why: last covered 08-24, most overdue; avoided repeating Part 1 (Fitness Zones, bluff yoga, Urban Salt, MOLAA, YMCA, Market Match).
+**Cadence note:** run fired 10-11 (scheduled 05:45 UTC), 3 days after 10-08.
+**Events verified (1 new):** Rancho Los Cerritos Community Ofrenda Oct 14-Nov 8, free (rancholoscerritos.org events). Search tooling thin for other Oct 12-21 events; sweatpals had nothing relevant; active.com first page had no confirmed-free items; El Dorado Park outdoor yoga listing is cancelled (not listed).
+**Directory entries (6, public sites/programs - no Yelp risk):** City free pickleball courts (city page), Rancho Los Cerritos (official site), Rancho Los Alamitos (secondary source only - robots blocked official site; flagged in post), LBPL State Parks Pass (library page), Carroll Park South sound healing (Meetup; next Nov 14, price not stated), Sports Basement indoor pickleball (flagged unconfirmed). Omitted: SOHMA Heartwell tai chi (source is 2022), El Dorado Park yoga (cancelled), Marina Vista free lessons (unverified).
+**Keywords:** free things to do in long beach, free pickleball long beach, rancho los cerritos free, rancho los alamitos free, library state parks pass long beach, free wellness long beach, belmont shore free activities.
+**Links:** /yoga-therapy (1), https://myyoganetwork.com/corporate-wellness-programs (1), back-links to 08-04, 08-24, 08-27 posts, /free-consultation CTA.
+**Vocabulary check:** PASS - only "yoga therapy" in clinical context.
+**Sources:** longbeach.gov (pickleball, library parks pass) - rancholoscerritos.org - lbcvibe.com - meetup.com.
